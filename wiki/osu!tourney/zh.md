@@ -51,8 +51,8 @@ osu!tourney 客户端只支持已经提交的谱面。
   您可以在 ** ** 找到更多的细节。
 - `BufferTimeoutTime` 定义超时等待时间，如果超出该时间仍无法缓冲其中某个客户端，客户端将试图继续缓冲，并同步其它客户端继续播放。
 - `BufferTotalTime` 定义客户端缓冲的时间以减少等待缓冲的频率，不建议改变这个。
-- `BufferDangerTime` The remaining time in the replay buffer before the client pauses to wait for more replay frames.
-  It is not recommended to change this.
+- `BufferDangerTime` 定义客户端暂停之前的缓冲等待时间，为了等待更多的回放帧。
+   不建议改变这个。
 - `RankingChatDelay` 当xx结束后隐藏分数并在排名屏幕上再次显示聊天的延迟。
 - `Height` 客户端高度
   osu!tourney 将自动计算客户端宽度(16:9比例)
@@ -193,13 +193,13 @@ osu!tourney 支持使用皮肤进行自定义修改，您可以设计并应用�
 要正确应用您的皮肤，请相应的命名这些文件：
 
 - `background` - 这是 osu!tourney 使用的背景。默认背景可以在 [这里](https://s.ppy.sh/images/tournament/default.png) 找到。
-- `background-win1` (可选) - the background sprite will be fade over to this sprite in Results Screen when the left team won.
-   It will fade back to `background` when leaving Results Screen.
-   If this element is not placed, it will stay on `background`.
-- `background-win2` (可选) - the background sprite will be fade over to this sprite in Results Screen when the right team won.
-   It will fade back to `background` when leaving Results Screen.
-   If this element is not placed, it will stay on `background`.
-- `tourney-title` (可选) - this image will be placed placed on top of your background sprites and will be located at the bottom of your osu!tourney screen.
+- `background-win1` (可选) - 当左边的队伍获胜时，结果页面上的 background 元素会渐变为这个元素。
+   当离开结果页面时会渐变回 `background` 元素。
+   如果没有设置这个元素，则会使用 `backgound` 元素。
+- `background-win2` (可选) - 当右边的队伍获胜时，结果页面上的背景元素会渐变为这个元素。
+   当离开结果页面时会渐变回 `background` 元素。
+   如果没有设置这个元素，则会使用 `backgound` 元素。
+- `tourney-title` (可选) - 这个图片会放在你的背景元素的顶部，并会放在你的 osu!tourney 屏幕的底部。
    这可以用于放置静态图像，例如您的比赛标志。
 
 ![osu!tourney with team icons. The left icon is named Team 1.png and the right icon is named Team 2.png](Osutourneyicons.png "osu!tourney with team icons. The left icon is named Team 1.png and the right icon is named Team 2.png")
