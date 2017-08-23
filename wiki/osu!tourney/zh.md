@@ -88,13 +88,13 @@ _基于玩家所在的格子，他们被分配到对应的窗口位置_
 
 ---
 
-![When the multiplayer rooms are created correctly, they will be listed instead of the instructions](Osutourneyroomlist.png "When the multiplayer rooms were created correctly, they will be listed instead of the instructions")
+![当多人游戏房间被正确创建后，列表中会显示多人游戏房间的队伍/歌曲/人数信息](Osutourneyroomlist.png "当多人游戏房间被正确创建后，列表中会显示多人游戏房间的队伍/歌曲/人数信息")
 
 ![osu!tourney 自动显示队名和用户名](Osutourneyidle.png "osu!tourney 自动显示队名和用户名")
 
 ![osu!tourney 不是简单的旁观，它还显示当前的玩家得分和正在播放的歌曲](Osutourneyspectate.png "osu!tourney 不是简单的旁观，它还显示当前的玩家得分和正在播放的歌曲")
 
-![osu!tourney osu!tourney declares a winner automatically, adds a score and plays another sprite when showing the results screen. Failed players are blacked out](Osutourneyresults.png "osu!tourney declares a winner automatically, adds a score and plays another sprite when showing the results screen. Failed players are blacked out")
+![osu!tourney 会自动裁定赢家，在显示这轮成绩结果界面的同时给获胜方一颗星，游戏过程中失败的玩家将无成绩计分或显示](Osutourneyresults.png "osu!tourney 会自动裁定赢家，在显示这轮成绩结果界面的同时给获胜方一颗星，游戏过程中失败的玩家将无成绩计分或显示")
 
 它将显示您需要遵循的多人房间命名模板。
 它由您在 `tournament.cfg` 里定义的比赛缩写和 2 个团队名称组成。
@@ -148,7 +148,7 @@ osu!tourney 客户端将成功识别房间。
 确保使用 !mp move 和 !mp team 命令为玩家分配合适的队伍和格子。
 
 正如 **使用 osu!tourney** 所述，客户端的每个窗口都分配给相应位置的格子。
-根据您在 `TeamSize` 中定义的值，the left team will occupy the first slots and the right team will occupy the slots right below that。
+根据您在 `TeamSize` 中定义的值，左侧的队伍会被被分配前面的格子，右侧的队伍会紧跟其后被分配到后面的格子。
 
 ![osu!tourney 玩家分配](Osutourneyassignment.png "osu!tourney 玩家分配")
 
