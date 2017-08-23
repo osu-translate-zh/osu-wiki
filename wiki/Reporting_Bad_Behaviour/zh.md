@@ -1,80 +1,80 @@
-# �ٱ�������Ϊ
-## ʲô�Ǿٱ�ϵͳ��
-[TODO]: moderator�ķ���
-�ٱ�ϵͳ��һ������֪ͨmoderator�ǲ�������Ϊ�û�������/���ǲ�ȡ�ж�����Ҫ���ܡ�
+# 举报不当行为
+## 什么是举报系统？
+[TODO]: moderator的翻译
+举报系统是一个用来通知moderator们不正当行为用户并供他/她们采取行动的重要功能。
 
-��ϵͳ������ֻ����Ϸ���������ã������ط���������̳������ٿ�һ����������
-
-
+此系统不仅仅只在游戏内聊天有用，其他地方，例如论坛和这个百科一样存在它。
 
 
 
-# ��ξٱ�ĳ��
-
-### ����Ϸ��ʹ��!report����
-�÷���`!report �û���[ԭ��]`
-�� **[** �� **]** ֮��Ĳ����ǿ�ѡ�ġ�
 
 
-����osu!��Ϸ���������[�������м�����](/wiki/Internet_Relay_Chat "Internet Relay Chat (IRC)"), ����û����м��пո���ô�ո�Ӧ���滻Ϊ�»���``_``��
+# 如何举报某人
 
-``!report This User Name ��#osuƵ��������``�ͻ���``!report This_User_Name ��#osuƵ��������``
-�ٱ��Դ�Сд�����У���˿�����``this_user_name``һ��ʹ��Сд��ĸ��
+### 在游戏中使用!report命令
+用法：`!report 用户名[原因]`
+在 **[** 和 **]** 之间的参数是可选的。
 
-![ʹ��!report���������](./img/Report-command.png "Example of using the !report command")
 
-### ʹ����Ϸ�ھٱ���ť
-��!report���ͬ�������ַ����ٱ��û�ֻ��Ҫһ��ԭ���һЩ������ԭ��ģ��Զ����ı���
-![����ٱ���ť](./img/Report-user-1.png "Click the report button")
+由于osu!游戏内聊天基于[因特网中继聊天](/wiki/Internet_Relay_Chat "Internet Relay Chat (IRC)"), 如果用户名中间有空格，那么空格应该替换为下划线``_``。
 
-![�ǵ�����������ԭ��](img/Report-user-2.png "Remember to add a reason here!")
+``!report This User Name 在#osu频道发辣鸡``就会变成``!report This_User_Name 在#osu频道发辣鸡``
+举报对大小写不敏感，因此可以像``this_user_name``一样使用小写字母。
 
-### ʹ���û�����ҳ�ϵľٱ���ť
-���ַ�ʽ����Ϸ�ھٱ���ť�Ĺ���ԭ����ͬ��
+![使用!report命令的栗子](./img/Report-command.png "Example of using the !report command")
 
-�ǵ��ھٱ�ע��������ϸ�ڡ�
-![����һ���ٱ��û��ĶԻ���](img/Report-user-profile.png "This will open a dialog for reporting the user.")
+### 使用游戏内举报按钮
+和!report命令不同，用这种方法举报用户只需要一种原因和一些（解释原因的）自定义文本。
+![点击举报按钮](./img/Report-user-1.png "Click the report button")
 
-### ʹ�����������а�����Ҽ�¼�ϵľٱ�����
-ֻӦʹ�����ַ�ʽ�ٱ�������ҡ�
-![����ð�ť��ٱ��˳ɼ�](img/Report-user-beatmap.png "Pressing this link will report that score.")
-## Ӧ�þٱ�����Ϊ������
-### �������﷢������Ϣ��ˢ��
-��С���������̲������ɣ�
+![记得在这来添加原因！](img/Report-user-2.png "Remember to add a reason here!")
 
-### ��ʹ��Ӣ��ʱ������ʹ�ô�д��ĸ
-�ⱻ�����Ƿ�ŭ�ش󳳴��֡�
+### 使用用户资料页上的举报按钮
+这种方式和游戏内举报按钮的工作原理相同。
 
-### ���������ʵ����ݣ�����Hͼ�����ɵĺͰ�ʾ�Ե�Ҳ�������ڣ�
-Moderator�ǻ�����Ϊ�˽����û����ԣ��ڲ��Ӿ����������Ƴ����ݡ�
+记得在举报注释中添加细节。
+![这会打开一个举报用户的对话框](img/Report-user-profile.png "This will open a dialog for reporting the user.")
 
-[TODO]: screamer�ķ���
+### 使用在谱面排行榜上玩家记录上的举报链接
+只应使用这种方式举报开挂玩家。
+![点击该按钮会举报此成绩](img/Report-user-beatmap.png "Pressing this link will report that score.")
+## 应该举报的行为的栗子
+### 在聊天里发辣鸡信息或刷屏
+不小心脸滚键盘不是理由！
 
-### �����������ݣ������棬���⵳���ƹ�����
-��ע��˹涨������ֱ������ˢ����
+### （使用英文时）过度使用大写字母
+这被看做是愤怒地大吵大闹。
 
-### ������Ϊ��ҵĹ�������Ϊ
-�ñ���ȥ��ɱ�ɲ���ʲô�û���
+### 发布不合适的内容，例如H图（可疑的和暗示性的也考虑在内）
+Moderator们会立即为此将此用户禁言，在不加警告的情况下移除内容。
 
-### �����������࡭��
+[TODO]: screamer的翻译
 
-## ��������
-### ������ҿ����������￴���ҵľٱ���
-��Ȼ����������������ǰ׺�ˡ�
-��ȷ�������һ��Ӣ�İ�Ǹ�̾�ţ�
+### 发布无用内容，例如广告，标题党和推广链接
+请注意此规定适用于直播链接刷屏。
 
-### �Ҳ�С�ľٱ���һ����ң��һᱻ�Ʋ���
-����
-���ģ��������ã�����ٱ��ᱻ���Ե���
+### 对其他为玩家的攻击性行为
+让别人去自杀可不是什么好话。
 
-### �ҿ��Ծٱ������
-�ٱ�һ�ξ͹��ˣ�������һ��֮�ڿ��Ծٱ���Ρ���������Ӧ��û���⡣
-�������һЩ����ڸ�����ٱ�Ƶ����Ҳ���Ծٱ�һ����ҡ�
+### 还有许多许多……
 
-### �����˽����
-������һ���Ĵ󲿷�˽���е����ⲻ�ᱻ������
-�û�����ʹ������ϵͳ��������յ����Ա�������һ�Ƶ�����κ���Ϣ��
-**ע�⣺**�����б�������ر���Ϸ�ͻ��˺����á�
+## 常见问题
+### 其他玩家可以在聊天里看见我的举报吗？
+当然不，除非你打错命令前缀了。
+先确认你打了一个英文半角感叹号！
 
-## �ҿ��Ծٱ�moderator��
-���ԣ����Ƕ��ڶԹ�����Ա��Ͷ�߽��飬��������ϵosu!֧��(support@ppy.sh)��
+### 我不小心举报了一个玩家！我会被制裁吗？
+不。
+别担心，除非滥用，错误举报会被忽略掉。
+
+### 我可以举报多次吗？
+举报一次就够了，但是你一天之内可以举报多次。两到三次应该没问题。
+你可以以一些玩家在搞事情举报频道，也可以举报一批玩家。
+
+### 这包括私聊吗？
+像骂人一样的大部分私聊中的问题不会被处理。
+用户可以使用屏蔽系统来避免接收到来自被屏蔽玩家或频道的任何消息。
+**注意：**屏蔽列表会在你关闭游戏客户端后重置。
+
+## 我可以举报moderator吗？
+可以，但是对于对工作人员的投诉建议，建议你联系osu!支持(support@ppy.sh)。
