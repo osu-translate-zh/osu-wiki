@@ -115,12 +115,12 @@ _基于玩家所在的格子，他们被分配到对应的窗口位置_
 - `Sync music`: 如果音乐处于不同步的状态，您可以试图单击此按钮，osu!tourney 将尝试将音乐重新和击打音效同步。
 - `Toggle annotation`: 激活/取消激活自定义信息的显示，这将影响队伍得分计算。
 - `Panic`: 出现问题时请试图单击此按钮，例如：一个窗口没有观察到用户或窗口崩溃，这将重新初始化所有窗口。
-- `Exit`: 关闭 osu!tourney
+- `Exit`: 关闭 osu!tourney。
 
 底部控制面板文本框描述：
 
-- `Annotation text`: 自定义信息的文本
-- `Best Of`: 每个队伍需要赢得的谱面数量
+- `Annotation text`: 自定义信息的文本。
+- `Best Of`: 每个队伍需要赢得的谱面数量。
 
 ## 多人房间创建和处理
 
@@ -148,7 +148,7 @@ osu!tourney 客户端将成功识别房间。
 确保使用 !mp move 和 !mp team 命令为玩家分配合适的队伍和格子。
 
 正如 **使用 osu!tourney** 所述，客户端的每个窗口都分配给相应位置的格子。
-根据您在 `TeamSize` 中定义的值，左侧的队伍将占据(?)
+根据您在 `TeamSize` 中定义的值，the left team will occupy the first slots and the right team will occupy the slots right below that。
 
 ![osu!tourney 玩家分配](Osutourneyassignment.png "osu!tourney 玩家分配")
 
@@ -211,22 +211,22 @@ osu!tourney 支持使用皮肤进行自定义修改，您可以设计并应用�
 如果您的房间叫 `Test Tourney: (Team 1) vs (Team 2)`，则您的图标必须命名为 `Team 1 和 Team 2`。
 图标可以使用 `.jpg` 或 `.png` 格式和 `50x50px` 的最佳分辨率。
 
-[下载皮肤模板](https://s.ppy.sh/images/tournament/template.zip)以快速创建您的皮肤
+[下载皮肤模板](https://s.ppy.sh/images/tournament/template.zip)以快速创建您的皮肤。
 
 ### 奖品
 
 我们可以奖励profile badges给比赛符合以下标准的第一名获胜者：
-- 这是比赛的第二
-- 比赛 Staff 不参与比赛本身
-- 比赛每年举办四次或更少(季节性)
+- This is the second or further iteration of the tournament。
+- 比赛 Staff 不参与比赛本身。
+- 比赛每年举办四次或更少(季节性)。
 
-如果您的比赛符合这个标准，请通过邮件联系 tournaments@ppy.sh。
+如果您的比赛符合这个标准，请发送邮件至 [tournaments@ppy.sh](mailto:tournaments@ppy.sh)。
 
 ## 故障排除
 
 ### 如何不卸载当前的游戏创建一个全新的 osu!？
 
-复制 `osu!.exe` 到一个空文件夹然后运行它
+复制 `osu!.exe` 到一个空文件夹然后运行它。
 
 ### 我的 osu! 窗口不正确对齐！
 
@@ -257,7 +257,7 @@ osu!tourney 只能在主显示器内运行。尝试关闭任何可用的副显�
 
 ### 我的 osu! 没法旁观！
 
-确保您已经 **加入房间**
+确保您已经 **加入房间**。
 
 点击底部控制面板的多人房间名称，直到其变为粗体。
 如果客户端仍然无法旁观，点击 `Panic` 按钮。
