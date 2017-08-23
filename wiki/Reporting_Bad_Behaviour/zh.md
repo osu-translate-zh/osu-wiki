@@ -16,7 +16,7 @@
 在 **[** 和 **]** 之间的参数是可选的。
 
 
-由于osu!游戏内聊天基于[因特网中继聊天](/wiki/Internet_Relay_Chat "Internet Relay Chat (IRC)"), 如果用户名中间有空格，那么空格应该替换为下划线``_``。
+由于osu!游戏内聊天基于[因特网中继聊天](/wiki/Internet_Relay_Chat "Internet Relay Chat (IRC)"), 因此如果用户名中间有空格，那么空格应该替换为下划线``_``。
 
 ``!report This User Name 在#osu频道发辣鸡``就会变成``!report This_User_Name 在#osu频道发辣鸡``    
 举报对大小写不敏感，因此可以像``this_user_name``一样使用小写字母。
@@ -38,8 +38,8 @@
 ### 使用在谱面排行榜上玩家记录上的举报链接
 只应使用这种方式举报开挂玩家。
 ![点击该按钮会举报此成绩](img/Report-user-beatmap.png "Pressing this link will report that score.")
-## 应该举报的行为的栗子
-### 在聊天里发辣鸡信息或刷屏
+## 应该举报的行为的例子
+### 在聊天里发垃圾信息或刷屏
 不小心脸滚键盘不是理由！
 
 ### （使用英文时）过度使用大写字母
