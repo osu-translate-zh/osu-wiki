@@ -216,9 +216,9 @@ osu!tourney 支持使用皮肤进行自定义修改，您可以设计并应用�
 ### 奖品
 
 我们可以奖励profile badges给比赛符合以下标准的第一名获胜者：
-- This is the second or further iteration of the tournament。
-- 比赛 Staff 不参与比赛本身。
-- 比赛每年举办四次或更少(季节性)。
+- 此次比赛至少是该比赛的第二届。
+- 比赛 Staff 不参与自己管理的比赛。
+- 比赛每年举办次数不超过四次。
 
 如果您的比赛符合这个标准，请发送邮件至 [tournaments@ppy.sh](mailto:tournaments@ppy.sh)。
 
