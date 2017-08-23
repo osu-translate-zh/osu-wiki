@@ -4,7 +4,7 @@
 
 如果您遇到问题，可以阅读下面的故障排除部分，也可以发送邮件至 [tournaments@ppy.sh](mailto:tournaments@ppy.sh)。
 
-## 什么是 osu!tourney ？
+## 什么是 osu!tourney？
 
 osu!tourney 客户端是用于旁观在多人房间里所有玩家的官方直播客户端，支持 2 个团队，最多 8 人的直播。
 
