@@ -2,7 +2,7 @@
 
 **osu!tourney** 是 osu! 的官方多人旁观客户端，它可以被用于观看或直播全部可用的多人游戏房间。
 
-如果您遇到问题，可以阅读下面的故障排除部分，也可以发送邮件至 [tournaments@ppy.sh](mailto:tournaments@ppy.sh)。
+如果您遇到问题，可以阅读下面的 **故障排除** 部分，也可以发送邮件至 [tournaments@ppy.sh](mailto:tournaments@ppy.sh)。
 
 ## 什么是 osu!tourney？
 
