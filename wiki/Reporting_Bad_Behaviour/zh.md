@@ -18,7 +18,7 @@
 
 由于osu!游戏内聊天基于[因特网中继聊天](/wiki/Internet_Relay_Chat "Internet Relay Chat (IRC)"), 如果用户名中间有空格，那么空格应该替换为下划线``_``。
 
-``!report This User Name 在#osu频道发辣鸡``就会变成``!report This_User_Name 在#osu频道发辣鸡``
+``!report This User Name 在#osu频道发辣鸡``就会变成``!report This_User_Name 在#osu频道发辣鸡``    
 举报对大小写不敏感，因此可以像``this_user_name``一样使用小写字母。
 
 ![使用!report命令的栗子](./img/Report-command.png "Example of using the !report command")
@@ -73,8 +73,8 @@ Moderator们会立即为此将此用户禁言，在不加警告的情况下移�
 
 ### 这包括私聊吗？
 像骂人一样的大部分私聊中的问题不会被处理。
-用户可以使用屏蔽系统来避免接收到来自被屏蔽玩家或频道的任何消息。
-**注意：**屏蔽列表会在你关闭游戏客户端后重置。
+用户可以使用屏蔽系统来避免接收到来自被屏蔽玩家或频道的任何消息。    
+**注意：** 屏蔽列表会在你关闭游戏客户端后重置。
 
 ## 我可以举报moderator吗？
 可以，但是对于对工作人员的投诉建议，建议你联系osu!支持(support@ppy.sh)。
