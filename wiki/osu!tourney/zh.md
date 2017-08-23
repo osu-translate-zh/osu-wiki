@@ -63,7 +63,7 @@ osu!tourney 客户端只支持已经提交的谱面。
 
 ### 使用 osu!tourney
 
-![osu!tourney Interface](Osutourneymain.png "osu!tourney Interface")
+![osu!tourney 界面](Osutourneymain.png "osu!tourney 界面")
 
 _osu!tourney 客户端的基本界面_
 
@@ -73,7 +73,7 @@ _osu!tourney 客户端的基本界面_
 
 ---
 
-![osu!tourney Player Windows](Osutourneywindows.png "osu!tourney Player Windows")
+![osu!tourney 玩家窗口](Osutourneywindows.png "osu!tourney 玩家窗口")
 
 _基于玩家所在的格子，他们被分配到对应的窗口位置_
 
@@ -84,17 +84,17 @@ _基于玩家所在的格子，他们被分配到对应的窗口位置_
 
 ---
 
-![osu!tourney control panel](Osutourneypanel.png "osu!tourney control panel")
+![osu!tourney 控制面板](Osutourneypanel.png "osu!tourney 控制面板")
 
 ---
 
 ![When the multiplayer rooms are created correctly, they will be listed instead of the instructions](Osutourneyroomlist.png "When the multiplayer rooms were created correctly, they will be listed instead of the instructions")
 
-![osu!tourney assigns team names and usernames automatically](Osutourneyidle.png "osu!tourney assigns team names and usernames automatically")
+![osu!tourney 自动显示队名和用户名](Osutourneyidle.png "osu!tourney 自动显示队名和用户名")
 
-![osu!tourney does not simply spectate. It also shows the current team score and the currently played song](Osutourneyspectate.png "osu!tourney does not simply spectate. It also shows the current team score and the currently played song")
+![osu!tourney 不是简单的旁观，它还显示当前的玩家得分和正在播放的歌曲](Osutourneyspectate.png "osu!tourney 不是简单的旁观，它还显示当前的玩家得分和正在播放的歌曲")
 
-![osu!tourney declares a winner automatically, adds a score and plays another sprite when showing the results screen. Failed players are blacked out.](Osutourneyresults.png "osu!tourney declares a winner automatically, adds a score and plays another sprite when showing the results screen. Failed players are blacked out.")
+![osu!tourney osu!tourney declares a winner automatically, adds a score and plays another sprite when showing the results screen. Failed players are blacked out](Osutourneyresults.png "osu!tourney declares a winner automatically, adds a score and plays another sprite when showing the results screen. Failed players are blacked out")
 
 它将显示您需要遵循的多人房间命名模板。
 它由您在 `tournament.cfg` 里定义的比赛缩写和 2 个团队名称组成。
@@ -105,7 +105,7 @@ _基于玩家所在的格子，他们被分配到对应的窗口位置_
 当谱面结束后，osu!tourney 将给获胜队伍加一颗星以增加队伍得分。
 **您还可以通过左键单击以增加或右键单击以减少来手动改变队伍得分**
 
-![osu!tourney with activated annotation](Osutourneywarmup.png "osu!tourney with activated annotation")
+![使用自定义信息的 osu!tourney](Osutourneywarmup.png "使用自定义信息的 osu!tourney")
 
 如果要显示自定义信息，可以单击 annotation 按钮来切换。
 当处于激活状态时，相应信息将显示在屏幕顶部，谱面结束后的得分将保持不变。
@@ -142,15 +142,15 @@ _基于玩家所在的格子，他们被分配到对应的窗口位置_
 
 ### 房间管理
 
-您可以在此查看更多信息 [Tournament Management Commands](/wiki/Tournament_Management_Commands "Tournament Management Commands")。
+阅读[比赛管理指令](/wiki/Tournament_Management_Commands "Tournament Management Commands")。
 
 osu!tourney 客户端将成功识别房间。
 确保使用 !mp move 和 !mp team 命令为玩家分配合适的队伍和格子。
 
-正如 **using osu!tourney section above** 所述，客户端的每个窗口都分配给相应位置的格子。
-根据您在 `TeamSize` 中定义的值，左侧的队伍将占据 the left team will occupy the first slots and the right team will occupy the slots right below that.
+正如 **使用 osu!tourney** 所述，客户端的每个窗口都分配给相应位置的格子。
+根据您在 `TeamSize` 中定义的值，左侧的队伍将占据(?)
 
-![osu!tourney Player Assignment](Osutourneyassignment.png "osu!tourney Player Assignment")
+![osu!tourney 玩家分配](Osutourneyassignment.png "osu!tourney 玩家分配")
 
 _相应的格子在 osu!tourney 对应到的窗口_
 
@@ -183,7 +183,7 @@ _相应的格子在 osu!tourney 对应到的窗口_
 
 ### 皮肤
 
-![osu!tourney can be customized in various ways](Osutourneycustom.png "osu!tourney can be customized in various ways")
+![osu!tourney 可以以各种方式定制](Osutourneycustom.png "osu!tourney 可以以各种方式定制")
 
 osu!tourney 支持使用皮肤进行自定义修改，您可以设计并应用适合您的比赛的客户端。
 为此，您需要在您的 osu!tourney 目录下创建 `Skin` 文件夹。
@@ -202,7 +202,7 @@ osu!tourney 支持使用皮肤进行自定义修改，您可以设计并应用�
 - `tourney-title` (可选) - 这个图片会放在您的背景元素的顶部，并会放在您的 osu!tourney 屏幕的底部。
    这可以用于放置静态图像，例如您的比赛标志。
 
-![osu!tourney with team icons. The left icon is named Team 1.png and the right icon is named Team 2.png](Osutourneyicons.png "osu!tourney with team icons. The left icon is named Team 1.png and the right icon is named Team 2.png")
+![osu!tourney 使用队伍图标。左边的图标文件名为 Team 1.png，右边的图标文件名为 Team 2.png](Osutourneyicons.png "osu!tourney 使用队伍图标。左边的图标文件名为 Team 1.png，右边的图标文件名为 Team 2.png")
 
 您可以在皮肤文件夹创建您的团队图标(国家图标或玩家头像)。
 这些图标必须放置在该路径：`/osu!/Skins/User/tournament/icons`.
@@ -264,8 +264,8 @@ osu!tourney 只能在主显示器内运行。尝试关闭任何可用的副显�
 
 ### 房间没有出现！
 
-这可能是因为您的多人房间名称不正确或者你在 `tournament.cfg` 填入了错误的缩写。
-确保你使用正确的多人房间名称 (阅读 **创建房间**)，重命名现有的房间将不起作用。
+这可能是因为您的多人房间名称不正确或者您在 `tournament.cfg` 填入了错误的缩写。
+确保您使用正确的多人房间名称 (阅读 **创建房间**)，重命名现有的房间将不起作用。
 如果这仍然不起作用，请遵循 **创建房间** 重新建立您的房间。
 
 如果您需要进一步的帮助，请发送邮件至 [tournaments@ppy.sh](mailto:tournaments@ppy.sh)。
