@@ -228,7 +228,7 @@ osu!tourney 支持使用皮肤进行自定义修改，您可以设计并应用�
 
 复制 `osu!.exe` 到一个空文件夹然后运行它
 
-### 我的 osu! 窗口不正确对齐
+### 我的 osu! 窗口不正确对齐！
 
 关闭任何 **副显示器** ！
 osu!tourney 只能在主显示器内运行。尝试关闭任何可用的副显示器，确保主显示器的分辨率大于客户端的分辨率 (默认：1280x720)。
@@ -236,49 +236,49 @@ osu!tourney 只能在主显示器内运行。尝试关闭任何可用的副显�
 确保您没有 **使用管理员权限** 运行 osu! (除非 osu! 请求以管理员身份运行).
 确保您的 osu! 更新到最新的测试版！
 
-### osu!tourney does not open, it throws me an error prompt and/or closes!
+### osu!tourney 无法打开，出现错误提示后就关闭了！
 
-- Ensure that osu! is using the Cutting Edge release stream.
-- Make sure that you are logged into osu! If not, run osu! normally, login while making sure the "Remember Username" and "Remember Password" checkboxes are checked, then restart osu! as the tournament client.
-- Ensure that the `privateserver` key in `tournament.cfg` has no value set.
+- 确保您的 osu! 使用最新的测试版直播。
+- 确保您已经登录osu!，如果没有，请以普通模式运行 osu!，选择 **记住用户名** 和 **记住密码** 并登录，然后重新进入 osu!tourney。
+- 确保没有设置 `tournament.cfg` 里 `privateserver` 选项的值。
 
-### My osu! song database corrupts when starting up!
+### 我的 osu! 歌曲数据库在启动时崩溃了！
 
-Use a fresh osu! installation.
+安装并使用全新的osu!。
 
-### The background of the osu!tourney is not shown!
+### osu!tourney 的背景没有显示！
 
-Make sure your background file is properly located at `/osu!/Skins/User/tournament/background.png`.
-See the **Skinning** section for more details.
+确保您的背景正确放置在路径 `/osu!/Skins/User/tournament/background.png` 下。
+阅读 **皮肤** 以了解更多信息。
 
-### How do I make osu! run as a normal client again?
+### 如何使 osu! 再次以普通模式运行？
 
-Rename or delete the `tournament.cfg` file.
+删除或重命名 `tournament.cfg` 文件。
 
-### My client is not spectating!
+### 我的 osu! 没法旁观！
 
-Make sure you have **joined the room!**
+确保您已经 **加入房间**
 
-Click the room name on the bottom black panel until it is **bold**.
-If the client is still not spectating, click the `Panic` button.
+点击底部控制面板的多人房间名称，直到其变为粗体。
+如果客户端仍然无法旁观，点击 `Panic` 按钮。
 
-### The rooms are not showing up!
+### 房间没有出现！
 
-It is possible that your multiplayer room is named incorrectly or you used the wrong acronym in `tournament.cfg`.
-Make sure you are using the correct room name (see the **Match Creation** section), renaming an existing multiplayer room will not work.
-If the above doesn't work, recreate the room while following the **Match Creation** section of this guide closely.
+这可能是因为您的多人房间名称不正确或者你在 `tournament.cfg` 填入了错误的缩写。
+确保你使用正确的多人房间名称 (阅读 **创建房间**)，重命名现有的房间将不起作用。
+如果这仍然不起作用，请遵循 **创建房间** 重新建立您的房间。
 
-Email [tournaments@ppy.sh](mailto:tournaments@ppy.sh) if you require further assistance.
+如果您需要进一步的帮助，请发送邮件至 [tournaments@ppy.sh](mailto:tournaments@ppy.sh)。
 
-### The team names are not showing!
-See previous answer.
+### 队伍名称不显示！
+看看以前的回答。
 
-### How do I stream my tournament to streaming services like Twitch?
+### 如何直播我的比赛？
 
-To set up a stream, we recommend using the [Open Broadcaster Software](https://obsproject.com/), but know that you are also free to use any other streaming client you have access to.
-The resolution of the top part of osu!tourney can be customised but by default it is `1280x720`. Make sure that the resolution of your monitor is bigger than this value. See the Setup section for information on how to change the resolution.
-Do not forget to adjust the cropping to remove the black control panel from the stream!
+要开始直播, 我们推荐使用 [Open Broadcaster Software](https://obsproject.com/)，但您也可以使用任意您可以使用的直播软件。
+osu!tourney 顶部的分辨率可以修改，默认是 `1280x720`，请确保您的显示器分辨率大于此值。有关如何更改分辨率的信息，请阅读 **设置** 部分。
+不要忘记裁剪移除黑色控制面板！
 
-### My issue/question is not listed here! What to do?
+### 我的问题没有列在这里！我该怎么办？
 
-Email tournaments@ppy.sh if you have a problem that is not listed here. Make sure to be descriptive and provide screenshots if possible.
+如果您有一个没有列在此处的问题，请发送邮件至 [tournaments@ppy.sh](mailto:tournaments@ppy.sh) 并确保描述清晰，最好提供问题截图。
