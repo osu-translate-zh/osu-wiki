@@ -142,7 +142,7 @@ _基于玩家所在的格子，他们被分配到对应的窗口位置_
 
 ### 房间管理
 
-阅读[比赛管理指令](/wiki/Tournament_Management_Commands "Tournament Management Commands")。
+阅读[比赛管理指令](/wiki/Tournament_Management_Commands "比赛管理指令")。
 
 osu!tourney 客户端将成功识别房间。
 确保使用 !mp move 和 !mp team 命令为玩家分配合适的队伍和格子。
