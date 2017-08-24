@@ -21,23 +21,23 @@
 ``!report This User Name 在#osu频道发辣鸡``就会变成``!report This_User_Name 在#osu频道发辣鸡``    
 举报对大小写不敏感，因此可以像``this_user_name``一样使用小写字母。
 
-![使用!report命令的栗子](./img/Report-command.png "Example of using the !report command")
+![使用!report命令的栗子](./img/Report-command.png)
 
 ### 使用游戏内举报按钮
 和!report命令不同，用这种方法举报用户只需要一种原因和一些（解释原因的）自定义文本。
-![点击举报按钮](./img/Report-user-1.png "Click the report button")
+![点击举报按钮](./img/Report-user-1.png)
 
-![记得在这来添加原因！](img/Report-user-2.png "Remember to add a reason here!")
+![记得在这来添加原因！](img/Report-user-2.png)
 
 ### 使用用户资料页上的举报按钮
 这种方式和游戏内举报按钮的工作原理相同。
 
 记得在举报注释中添加细节。
-![这会打开一个举报用户的对话框](img/Report-user-profile.png "This will open a dialog for reporting the user.")
+![这会打开一个举报用户的对话框](img/Report-user-profile.png)
 
 ### 使用在谱面排行榜上玩家记录上的举报链接
 只应使用这种方式举报开挂玩家。
-![点击该按钮会举报此成绩](img/Report-user-beatmap.png "Pressing this link will report that score.")
+![点击该按钮会举报此成绩](img/Report-user-beatmap.png )
 ## 应该举报的行为的例子
 ### 在聊天里发垃圾信息或刷屏
 不小心脸滚键盘不是理由！
