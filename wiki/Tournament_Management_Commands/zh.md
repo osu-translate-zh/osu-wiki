@@ -17,7 +17,7 @@
 - `!mp host <username>` - 转移房主至指定玩家。
 - `!mp clearhost` - 清空房主。
 - `!mp settings` - 显示房间的详细信息。
-- `!mp start [<time>]` - 在指定的时间(秒)内开始比赛，如果没有提供时间，则立即开始游戏。
+- `!mp start [<time>]` - 在指定的时间(秒)内开始比赛，如果没有提供时间，则立即开始比赛。
 - `!mp abort` - 中止这场比赛。
 - `!mp team <username> <colour>` - 移动玩家至指定队伍。
   - `colour` - red, blue
@@ -39,3 +39,26 @@
 - `!mp removeref <username> [<username>] …` - 删除房间内的裁判，只有房间的创建者才可以删除裁判。
 - `!mp listrefs` - 显示房间内的全部裁判。
 - `!mp close` - 关闭这个房间。
+
+发送 `!mp help` 给 BanchoBot 可以显示指令。
+
+尖括号 (`<>`) 内的参数是必选的，而方括号 (`[]`) 内的是可选的。
+
+用户名包含空格的必须被替换为下划线，用户 ID 可能可以替换用户名。
+
+# 使用
+
+这些指令可以在 osu! 或 IRC 客户端内使用，像是 mIRC，HexChat 或 HydraIRC。
+
+多人游戏房间的创建者也可以使用这些指令。如果创建者离开了，新房主将不能使用这些指令。而如果创建者重新加入房间，他将可以再次使用指令。
+
+# 例子
+
+这是一些指令的使用例子：
+
+- `!mp invite Zallius` - 邀请 Zallius 到房间。
+- `!mp move Loctav 4` - 移动 Loctav 到房间的格子 4。
+- `!mp team Zallius blue` - 移动 Zallius 到蓝队。
+- `!mp team Loctav red` - 移动 Loctav 到红队。
+- `!mp set 0 2` - 设置比赛模式为 Head To Head，计分模式为 Combo。
+- `!mp start` - 立即开始比赛。
