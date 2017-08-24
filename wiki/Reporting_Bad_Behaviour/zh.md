@@ -16,28 +16,28 @@
 在 **[** 和 **]** 之间的参数是可选的。
 
 
-由于osu!游戏内聊天基于[因特网中继聊天](/wiki/Internet_Relay_Chat), 因此如果用户名中间有空格，那么空格应该替换为下划线``_``。
+由于osu!游戏内聊天基于[因特网中继聊天](/wiki/Internet_Relay_Chat "因特网中继聊天"), 因此如果用户名中间有空格，那么空格应该替换为下划线``_``。
 
 ``!report This User Name 在#osu频道发辣鸡``就会变成``!report This_User_Name 在#osu频道发辣鸡``    
 举报对大小写不敏感，因此可以像``this_user_name``一样使用小写字母。
 
-![使用!report命令的栗子](./img/Report-command.png)
+![使用!report命令的栗子](./img/Report-command.png "使用!report命令的栗子")
 
 ### 使用游戏内举报按钮
 和!report命令不同，用这种方法举报用户只需要一种原因和一些（解释原因的）自定义文本。
-![点击举报按钮](./img/Report-user-1.png)
+![点击举报按钮](./img/Report-user-1.png "点击举报按钮")
 
-![记得在这来添加原因！](img/Report-user-2.png)
+![记得在这来添加原因！](img/Report-user-2.png "记得在这来添加原因！")
 
 ### 使用用户资料页上的举报按钮
 这种方式和游戏内举报按钮的工作原理相同。
 
 记得在举报注释中添加细节。
-![这会打开一个举报用户的对话框](img/Report-user-profile.png)
+![这会打开一个举报用户的对话框](img/Report-user-profile.png "这会打开一个举报用户的对话框")
 
 ### 使用在谱面排行榜上玩家记录上的举报链接
 只应使用这种方式举报开挂玩家。
-![点击该按钮会举报此成绩](img/Report-user-beatmap.png )
+![点击该按钮会举报此成绩](img/Report-user-beatmap.png "点击该按钮会举报此成绩")
 ## 应该举报的行为的例子
 ### 在聊天里发垃圾信息或刷屏
 不小心脸滚键盘不是理由！
