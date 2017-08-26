@@ -8,7 +8,7 @@
 - `!mp invite <username>` - 邀请玩家到多人游戏房间。
   - 请注意，这并 _不能_ 邀请在 osu! 内开启了`只接收好友发来的私聊消息`的玩家，所以比赛工作人员需要通知玩家关闭该选项。
 - `!mp lock` - 锁定房间，禁止玩家改变队伍或格子。
-- `!mp unlock` - 撤销 `!mp lock` 所产生的影响。
+- `!mp unlock` - 撤销 `!mp lock` 的效果。
 - `!mp size <size>` - 设置房间内的可用格子 (1-16)。
 - `!mp set <teammode> [<scoremode>] [<size>]` - 设置房间属性。
   - `teammode` - 0: Head To Head, 1: Tag Coop, 2: Team Vs, 3: Tag Team Vs
