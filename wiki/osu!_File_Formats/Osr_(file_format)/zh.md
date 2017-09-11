@@ -35,10 +35,10 @@
 | Short | Miss的数量 |
 | Integer | 结算界面显示的总分 |
 | Short | 结算界面显示的最大连击数 |
-| Byte | Perfect/full combo (1 = 没有Miss和断滑条) |
-| Integer | 使用的Mods。参阅下方的Mods值列表。 |
+| Byte | Perfect/Full Combo (1 = 没有Miss和断滑条) |
+| Integer | 使用的Mods，参阅下方的Mods值列表。 |
 | String | 生命值图像：用逗号分隔的u/v组，u代表此时的时间（毫秒），v是一个Float浮点值从（从0到1）表示此时的生命值（0=空生命值条，1=满生命值条）。 |
-| Long | 时间戳 ([Windows ticks](http://msdn.microsoft.com/en-us/library/system.datetime.ticks%28v=vs.110%29.aspx)) |
+| Long | 时间戳 ([DateTime.Ticks](https://msdn.microsoft.com/en-us/library/system.datetime.ticks%28v=vs.110%29.aspx)) |
 | Integer | 压缩后的回放数据的长度（用byte表示）（原文：Length in bytes of compressed replay data）|
 | Byte 数组 | 压缩后的回放数据 |
 
@@ -51,26 +51,26 @@
 | w    | Long     | 距离上个动作的时间（毫秒）                             |
 | x    | Float    | 鼠标的X坐标（从0到512）                                |
 | y    | Float    | 鼠标的Y坐标（从0到384）                                |
-| z    | Integer  | 鼠标、键盘按键的组合 (M1 = 1, M2 = 2, K1 = 5, K2 = 10) |
+| z    | Integer  | 鼠标、键盘按键的组合 (M1 = 1, M2 = 2, K1 = 4, K2 = 8) (K1总是与M1一起，K2总是与M2一起。1+4=5 2+8=10。) |
 
 Mods
 ----
 
-可见于 [osu! API](https://github.com/peppy/osu-api/wiki#mods).
+部分可见于 [osu! API](https://github.com/ppy/osu-api/wiki#mods).
 
 | Mod            | 值 (BitOffset) | 注释                               |
 |----------------|----------------|------------------------------------|
 | None           | 0              |                                    |
 | NoFail         | 1 (0)          |                                    |
 | Easy           | 2 (1)          |                                    |
-| NoVideo        | 4 (2)          | 这不再是一个Mod。                  |
+| NoVideo        | 4 (2)          | 这不再是一个Mod                    |
 | Hidden         | 8 (3)          |                                    |
 | HardRock       | 16 (4)         |                                    |
 | SuddenDeath    | 32 (5)         |                                    |
 | DoubleTime     | 64 (6)         |                                    |
 | Relax          | 128 (7)        |                                    |
 | HalfTime       | 256 (8)        |                                    |
-| Nightcore      | 512 (9)        | 通常和DT 一起使用 : 512 + 64 = 576 |
+| Nightcore      | 512 (9)        | 通常和 DoubleTime 一起使用         |
 | Flashlight     | 1024 (10)      |                                    |
 | Autoplay       | 2048 (11)      |                                    |
 | SpunOut        | 4096 (12)      |                                    |
