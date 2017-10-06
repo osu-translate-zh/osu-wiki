@@ -43,34 +43,34 @@ Installation (中文)
 ##### 如何安装
 
 1. 基本安装。
-  - 首先，检查你的显卡.
-    - 使用 NVIDIA 显卡以获得最佳游戏体验。
-    - 如果你使用 Intel 显卡，你需要启用 V-Sync。
-    - 对于 AMD HD**** 系列显卡 ，你需要关闭 shaders。
+ - 首先，检查你的显卡。
+  - 使用 NVIDIA 显卡以获得最佳游戏体验。
+  - 如果你使用 Intel 显卡，你需要启用 V-Sync。
+  - 对于 AMD HD**** 系列显卡 ，你需要关闭 shaders。
   - 安装"Wine"（如果你还没有安装的话）.
 
 2. 使 Wine 工作
-  - 对于 Ubuntu/GNU/LINUX Debian, 在终端输入以下指令：
-    - sudo apt-get -y install wine
-  - 对于 Gentoo / Sabayon：
-    - sudo emerge wine
-  - 对于 Fedora：
-    - sudo yum install wine
-  - 对于其它发行版，请阅读相应文档。
-  - 创建 Wine 启动参数
-    - mkdir ~/.wine-osu
-    - cd ~/.wine-osu
-    - export WINEPREFIX=~/.wine-osu WINEARCH=win32
-    - winecfg
+ - 对于 Ubuntu/GNU/LINUX Debian, 在终端输入以下指令：
+  - sudo apt-get -y install wine
+ - 对于 Gentoo / Sabayon：
+  - sudo emerge wine
+ - 对于 Fedora：
+  - sudo yum install wine
+ - 对于其它发行版，请阅读相应文档。
+ - 创建 Wine 启动参数
+  - mkdir ~/.wine-osu
+  - cd ~/.wine-osu
+  - export WINEPREFIX=~/.wine-osu WINEARCH=win32
+  - winecfg
 
 请记住，如果你想启动/安装 osu! 或设置 Wine Prefix，请按照以上流程进行修改。
 
 3. 让osu! 运行起来。
-  - 你需要使用 winetricks（wine的一个辅助工具），你可以在终端输入以下指令来安装它
-    - winetricks install dotnet20 ie7
-  - 下载 osu! Windows 的最新版本。
-  - 安装 osu!。
-- 启动 osu!。
+ - 你需要使用 winetricks（wine的一个辅助工具），你可以在终端输入以下指令来安装它：
+  - winetricks install dotnet20 ie7
+ - 下载 osu! Windows 的最新版本。
+ - 安装 osu!。
+ - 启动 osu!。
 
 ##### 添加谱面
 - 从文件管理器拖放 osz 文件到 osu! 游戏窗口上，osu! 将会自动导入。
