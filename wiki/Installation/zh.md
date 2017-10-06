@@ -62,6 +62,7 @@ Installation (中文)
     - cd ~/.wine-osu
     - export WINEPREFIX=~/.wine-osu WINEARCH=win32
     - winecfg
+
 请记住，如果你想启动/安装 osu! 或设置 Wine Prefix，请按照以上流程进行修改。
 
 3. 让osu! 运行起来。
