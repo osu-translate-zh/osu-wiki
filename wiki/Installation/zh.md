@@ -13,7 +13,7 @@ Installation (中文)
 ##### 最低系统要求
 - 1 GHz 以上的中央处理器
 - 512 MB 以上的内存
-- [Microsoft .NET Framework 3.5以上](https://www.microsoft.com/zh-cn/download/details.aspx?id=22)
+- [Microsoft .NET Framework 3.5 以上](https://www.microsoft.com/zh-cn/download/details.aspx?id=22)
 
 ##### 如何安装
 - 下载 [osu! 安装程序](https://osu.ppy.sh/p/download)。
@@ -52,7 +52,7 @@ Installation (中文)
 2. 使 Wine 工作
  - 对于 Ubuntu/GNU/LINUX Debian, 在终端输入以下指令：
   - sudo apt-get -y install wine
- - 对于 Gentoo / Sabayon：
+ - 对于 Gentoo/Sabayon：
   - sudo emerge wine
  - 对于 Fedora：
   - sudo yum install wine
