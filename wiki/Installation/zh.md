@@ -13,7 +13,7 @@ Installation (中文)
 ##### 最低系统要求
 - 1 GHz 以上的中央处理器
 - 512 MB 以上的内存
-- [Microsoft .NET Framework 3.5 以上](https://www.microsoft.com/zh-cn/download/details.aspx?id=22)
+- [Microsoft .NET Framework 4.0 以上](https://www.microsoft.com/zh-cn/download/details.aspx?id=17718)
 
 ##### 如何安装
 - 下载 [osu! 安装程序](https://osu.ppy.sh/p/download)。
@@ -130,7 +130,7 @@ Installation (中文)
 ##### 通过 USB 安装
 > 你的计算机必须已经安装 [iTunes](https://www.apple.com/itunes/)。
 
-- 打开[这个链接](http://itunes.apple.com/us/app/osu!stream/id436952197?ls=1&mt=8)并下载它
+- 打开[这个链接](https://itunes.apple.com/us/app/osu!stream/id436952197?ls=1&mt=8)并下载它
   - 可能需要你输入 Apple ID 和密码。
 - 将设备与计算机连接。
 - 使用 iTunes 传输 osu!stream 文件。
@@ -158,7 +158,7 @@ Installation (中文)
   - 这是因为你的谱面文件不完整或已损坏，这可能是因为网络原因/你取消了下载/谱面的制作者上传了损坏的谱面。你可以试着重新下载谱面或搜索相同歌曲名的其它谱面。
     - osu! 将会把损坏的谱面放置在 "Songs/Failed" 目录下。
 - 发生了其它错误？
-  - 如果你遇到了一个没有在上面列出的错误，你可以前往[问题反馈板块](http://osu.ppy.sh/forum/5)并发表帖子(可能会有其它人同时或已经碰到相关的问题，所以建议你先搜索相关的帖子)。只要清楚地说出你的问题，并提供一个证据来表明这个问题是确实存在的(截图/视频/能重现该问题的操作步骤)，一定会有人来帮助你的！
+  - 如果你遇到了一个没有在上面列出的错误，你可以前往[问题反馈板块](https://osu.ppy.sh/forum/5)并发表帖子(可能会有其它人同时或已经碰到相关的问题，所以建议你先搜索相关的帖子)。只要清楚地说出你的问题，并提供一个证据来表明这个问题是确实存在的(截图/视频/能重现该问题的操作步骤)，一定会有人来帮助你的！
 
 ### osu!droid
 
@@ -167,21 +167,21 @@ Installation (中文)
 - 将会支持故事板或视频吗？
   - 不会。
 - Will you make a <feature name>?
-  - Make your request in the [feature requests thread](http://osu.ppy.sh/forum/t/62313).
+  - Make your request in the [feature requests thread](https://osu.ppy.sh/forum/t/62313).
 
 外部链接
 --------------
 
--   peppy's FAQ [1](http://osu.ppy.sh/p/faq)
--   osu! download page [2](http://osu.ppy.sh/p/download)
--   peppy's osu! (OS X) testing release [3](http://osu.ppy.sh/forum/p/909738)
--   mattyu007's How to Run osu! on Your Mac without using Boot Camp [4](http://osu.ppy.sh/forum/t/14664/)
-    -   [How to Run osu! on Your Mac without using Boot Camp](How_to_Run_osu!_on_Your_Mac_without_using_Boot_Camp "wikilink") (osu!wiki version)
--   KcLKcL's Solution: Running Osu! In Ubuntu or Xubuntu [5](http://osu.ppy.sh/forum/viewtopic.php?f=2&t=14614)
--   doomed151's General Information and Download (osu!droid) [6](http://osu.ppy.sh/forum/t/62680)
-    -   Pesets's osu!droid Changelog [7](http://osu.ppy.sh/forum/t/62315)
-    -   osu!droid Google Play page [8](https://play.google.com/store/apps/details?id=ru.nsu.ccfit.zuev.osu)
--   Guy-kun's T-Aiko! for Android (Market Release!) [9](http://osu.ppy.sh/forum/t/58640)
-    -   T-Aiko Google Play page [10](https://play.google.com/store/apps/details?id=guy.taiko&feature=search_result)
--   peppy's osu!stream official page [11](http://osustream.com/)
-    -   osu!stream App Store page [12](http://itunes.apple.com/us/app/osu!stream/id436952197?ls=1&mt=8)
+- peppy's FAQ [1](https://osu.ppy.sh/p/faq)
+- peppy's download page [2](https://osu.ppy.sh/p/download)
+- peppy's osu! (OS X) testing release [3](https://osu.ppy.sh/forum/p/909738)
+- mattyu007's How to Run osu! on Your Mac without using Boot Camp [4](https://osu.ppy.sh/forum/t/14664/)
+  - [How to Run osu! on Your Mac without using Boot Camp](How_to_Run_osu!_on_Your_Mac_without_using_Boot_Camp "wikilink") (osu!wiki version)
+- KcLKcL's Solution: Running Osu! In Ubuntu or Xubuntu [5](https://osu.ppy.sh/forum/viewtopic.php?f=2&t=14614)
+- doomed151's General Information and Download (osu!droid) [6](https://osu.ppy.sh/forum/t/62680)
+  - Pesets's osu!droid Changelog [7](https://osu.ppy.sh/forum/t/62315)
+  - osu!droid Google Play page [8](https://play.google.com/store/apps/details?id=ru.nsu.ccfit.zuev.osu)
+- Guy-kun's T-Aiko! for Android (Market Release!) [9](https://osu.ppy.sh/forum/t/58640)
+  - T-Aiko Google Play page [10](https://play.google.com/store/apps/details?id=guy.taiko&feature=search_result)
+- peppy's osu!stream official page [11](http://osustream.com/)
+  - osu!stream App Store page [12](https://itunes.apple.com/us/app/osu!stream/id436952197?ls=1&mt=8)
