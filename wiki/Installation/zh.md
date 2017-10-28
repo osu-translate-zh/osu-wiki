@@ -84,7 +84,7 @@ Installation (中文)
 
 - 你有两个选择，随便挑一个。
   - 查看原帖，扫描二维码。
-  -[osu!droid 在 Google Play 的页面](https://play.google.com/store/apps/details?id=ru.nsu.ccfit.zuev.osu) (不推荐)。
+  - [osu!droid 在 Google Play 的页面](https://play.google.com/store/apps/details?id=ru.nsu.ccfit.zuev.osu) (不推荐)。
 - 允许安装该 apk 文件。
 - osu!droid 将被安装在你的设备里。
 
@@ -110,7 +110,7 @@ Installation (中文)
 #### osu! iPhone (非官方，由 nuudles 创建)
 
 ##### 如何安装
--  你可以通过查看[原帖](https://osu.ppy.sh/forum/t/176495)来找到如何在越狱 iOS 7.0.4 设备安装 osu! iPhone的教程。
+- 你可以通过查看[原帖](https://osu.ppy.sh/forum/t/176495)来找到如何在越狱 iOS 7.0.4 设备安装 osu! iPhone的教程。
 
 #### osu!stream
 
