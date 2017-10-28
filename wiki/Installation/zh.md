@@ -145,3 +145,43 @@ Installation (中文)
   - 你也可以点击 "Play" 然后点击 "Download more songs!"。
 - 选择你想要的谱面。
   - 建议你先下载免费的谱面，免费的谱面有 "FREE" 标签。
+
+常见问题和故障排除
+-----------------------
+
+### osu!
+- 我尝试运行 osu!，但是出现了 "Initialization Error"！
+  - 确保你已经安装了 [.NET FrameWork 4.0](https://www.microsoft.com/zh-cn/download/details.aspx?id=17718)。
+- 为什么我无法下载谱面？
+  - 首先，你需要注册(如果你还没有注册)并登录。注册是快速免费的，只有登录后才能下载谱面、在游戏内查看在线排名或与其它游戏玩家聊天，因此你没有理由不注册！
+- 我不能玩下载好的谱面！
+  - 这是因为你的谱面文件不完整或已损坏，这可能是因为网络原因/你取消了下载/谱面的制作者上传了损坏的谱面。你可以试着重新下载谱面或搜索相同歌曲名的其它谱面。
+    - osu! 将会把损坏的谱面放置在 "Songs/Failed" 目录下。
+- 发生了其它错误？
+  - 如果你遇到了一个没有在上面列出的错误，你可以前往[问题反馈板块](http://osu.ppy.sh/forum/5)并发表帖子(可能会有其它人同时或已经碰到相关的问题，所以建议你先搜索相关的帖子)。只要清楚地说出你的问题，并提供一个证据来表明这个问题是确实存在的(截图/视频/能重现该问题的操作步骤)，一定会有人来帮助你的！
+
+### osu!droid
+
+- 哪些 Android 版本可以运行它？
+  - 1.6 以上的全部版本。
+- 将会支持故事板或视频吗？
+  - 不会。
+- Will you make a <feature name>?
+  - Make your request in the [feature requests thread](http://osu.ppy.sh/forum/t/62313).
+
+外部链接
+--------------
+
+-   peppy's FAQ [1](http://osu.ppy.sh/p/faq)
+-   osu! download page [2](http://osu.ppy.sh/p/download)
+-   peppy's osu! (OS X) testing release [3](http://osu.ppy.sh/forum/p/909738)
+-   mattyu007's How to Run osu! on Your Mac without using Boot Camp [4](http://osu.ppy.sh/forum/t/14664/)
+    -   [How to Run osu! on Your Mac without using Boot Camp](How_to_Run_osu!_on_Your_Mac_without_using_Boot_Camp "wikilink") (osu!wiki version)
+-   KcLKcL's Solution: Running Osu! In Ubuntu or Xubuntu [5](http://osu.ppy.sh/forum/viewtopic.php?f=2&t=14614)
+-   doomed151's General Information and Download (osu!droid) [6](http://osu.ppy.sh/forum/t/62680)
+    -   Pesets's osu!droid Changelog [7](http://osu.ppy.sh/forum/t/62315)
+    -   osu!droid Google Play page [8](https://play.google.com/store/apps/details?id=ru.nsu.ccfit.zuev.osu)
+-   Guy-kun's T-Aiko! for Android (Market Release!) [9](http://osu.ppy.sh/forum/t/58640)
+    -   T-Aiko Google Play page [10](https://play.google.com/store/apps/details?id=guy.taiko&feature=search_result)
+-   peppy's osu!stream official page [11](http://osustream.com/)
+    -   osu!stream App Store page [12](http://itunes.apple.com/us/app/osu!stream/id436952197?ls=1&mt=8)
