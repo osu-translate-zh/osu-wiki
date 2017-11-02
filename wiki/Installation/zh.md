@@ -13,7 +13,7 @@ Installation (中文)
 ##### 最低系统要求
 - 1 GHz 以上的中央处理器
 - 512 MB 以上的内存
-- [Microsoft .NET Framework 4.0 以上](https://www.microsoft.com/zh-cn/download/details.aspx?id=17718)
+- [.NET Framework 4.0 以上](https://www.microsoft.com/zh-cn/download/details.aspx?id=17718)
 
 ##### 如何安装
 - 下载 [osu! 安装程序](https://osu.ppy.sh/p/download)。
@@ -37,7 +37,7 @@ Installation (中文)
 - 你也可以下载 **[谱面集](https://osu.ppy.sh/p/packlist)** ，谱面集是把一些谱面压缩成单个文件。它们一般都是 zip 或 rar 文件。你可以下载一个你喜欢的压缩程序提取它（例如 [7-Zip](http://www.7-zip.org/)），并导入提取出的 osz 文件。
 - 如果你知道如何使用 BT（BitTorrent） 客户端，你可以使用 [由社区成员提供的 torrent 文件](https://osu.ppy.sh/forum/t/147478)，这可以让你一次下载许多谱面集。
 
-#### Linux （利用 Wine）
+#### Linux（利用 Wine）
 > 这个教程可能不是最新的，你可以通过在论坛查看[这个帖子的最后一页](https://osu.ppy.sh/forum/t/14614)找到安装最新 osu! 的方法。
 
 ##### 如何安装
@@ -47,7 +47,7 @@ Installation (中文)
   - 使用 NVIDIA 显卡以获得最佳游戏体验。
   - 如果你使用 Intel 显卡，你需要启用 V-Sync。
   - 对于 AMD HD**** 系列显卡，你需要关闭 shaders。
-  - 安装 "Wine" (如果你还没有安装的话).
+  - 安装 "Wine"（如果你还没有安装的话）.
 
 2. 使 Wine 工作
  - 对于 Ubuntu/GNU/LINUX Debian, 在终端输入以下指令：
@@ -66,7 +66,7 @@ Installation (中文)
 请记住，如果你想启动/安装 osu! 或设置 Wine Prefix，请按照以上流程进行修改。
 
 3. 让 osu! 运行起来。
- - 你需要使用 winetricks (wine的一个辅助工具)，你可以在终端输入以下指令来安装它：
+ - 你需要使用 winetricks（wine的一个辅助工具），你可以在终端输入以下指令来安装它：
   - `winetricks install dotnet20 ie7`
  - 下载 osu! Windows 的最新版本。
  - 安装 osu!。
@@ -77,21 +77,21 @@ Installation (中文)
 
 ### Android 设备
 
-#### osu!droid (非官方，由 Pesets 和 neico 创建)
+#### osu!droid（非官方，由 Pesets 和 neico 创建）
 
-##### 如何安装 (在手机上)
+##### 如何安装（在手机上）
 > [原帖](https://osu.ppy.sh/forum/t/62680)
 
 - 你有两个选择，随便挑一个。
   - 查看原帖，扫描二维码。
-  - [osu!droid 在 Google Play 的页面](https://play.google.com/store/apps/details?id=ru.nsu.ccfit.zuev.osu) (不推荐)。
+  - [osu!droid 在 Google Play 的页面](https://play.google.com/store/apps/details?id=ru.nsu.ccfit.zuev.osu)（不推荐）。
 - 允许安装该 apk 文件。
 - osu!droid 将被安装在你的设备里。
 
-##### 如何安装 (使用 USB)
-- [点此下载](https://dl.dropbox.com/u/45596631/osudroid1.5.5/osudroid.apk) osu!droid.apk (版本 1.5.5)。
-- 使用合适的数据线传输 apk 文件到你的设备 (你可能可以使用蓝牙进行传输，但是使用 USB 效率更高)。
-  - 请可能需要将你的设备设置为 USB 连接(存储设备)模式 (取决于设备)。
+##### 如何安装（使用 USB）
+- [点此下载](https://dl.dropbox.com/u/45596631/osudroid1.5.5/osudroid.apk) osu!droid.apk（版本 1.5.5）。
+- 使用合适的数据线传输 apk 文件到你的设备（你可能可以使用蓝牙进行传输，但是使用 USB 效率更高）。
+  - 请可能需要将你的设备设置为 USB 连接（存储设备）模式（取决于设备）。
 - 找到并打开该 apk 文件。
 - 允许安装该 apk 文件。
 - osu!droid 将被安装在你的设备里。
@@ -107,7 +107,7 @@ Installation (中文)
 
 ### iOS 设备
 
-#### osu! iPhone (非官方，由 nuudles 创建)
+#### osu! iPhone（非官方，由 nuudles 创建）
 
 ##### 如何安装
  - 你可以通过查看[原帖](https://osu.ppy.sh/forum/t/176495)来找到如何在越狱 iOS 7.0.4 设备安装 osu! iPhone的教程。
@@ -118,8 +118,8 @@ Installation (中文)
 > 警告：osu!stream *不是* osu!。
 这是一个和 osu! 很相似的游戏，但它有自己的特色和排名。
 
-##### 通过 App Store 安装 (推荐)
-> 确保你的设备已经连接上 Internet (使用无线局域网或蜂窝移动网络)。
+##### 通过 App Store 安装（推荐）
+> 确保你的设备已经连接上 Internet（使用无线局域网或蜂窝移动网络）。
 
 - 在你的设备上打开 App Store。
 - 搜索 osu!stream。
@@ -137,7 +137,7 @@ Installation (中文)
 - 断开设备与计算机的连接，现在应该可以运行 osu!stream 了。
 
 ##### 添加谱面
-> 确保你的设备已经连接上 Internet (使用无线局域网或蜂窝移动网络)。
+> 确保你的设备已经连接上 Internet（使用无线局域网或蜂窝移动网络）。
 
 - 打开 osu!stream。
 - 点击 osu! 图标，你应该会前往到主菜单。
@@ -153,12 +153,12 @@ Installation (中文)
 - 我尝试运行 osu!，但是出现了 "Initialization Error"！
   - 确保你已经安装了 [.NET FrameWork 4.0](https://www.microsoft.com/zh-cn/download/details.aspx?id=17718)。
 - 为什么我无法下载谱面？
-  - 首先，你需要注册(如果你还没有注册)并登录。注册是免费的，只需要几步，只有登录后才能下载谱面、在游戏内查看在线排名或与其它游戏玩家聊天，因此你没有理由不注册！
+  - 首先，你需要注册（如果你还没有注册）并登录。注册是免费的，只需要几步，只有登录后才能下载谱面、在游戏内查看在线排名或与其它游戏玩家聊天，因此你没有理由不注册！
 - 我不能玩下载好的谱面！
   - 这是因为你的谱面文件不完整或已损坏，这可能是因为网络原因/你取消了下载/谱面的制作者上传了损坏的谱面。你可以试着重新下载谱面或搜索相同歌曲名的其它谱面。
    - osu! 将会把损坏的谱面放置在 "Songs/Failed" 目录下。
 - 发生了其它错误？
-  - 如果你遇到了一个没有在上面列出的错误，你可以前往[问题反馈板块](https://osu.ppy.sh/forum/5)并发表帖子(可能会有其它人同时或已经碰到相关的问题，所以建议你先搜索相关的帖子)。只要清楚地说出你的问题，并提供一个证据来表明这个问题是确实存在的(截图/视频/能重现该问题的操作步骤)，一定会有人来帮助你的！
+  - 如果你遇到了一个没有在上面列出的错误，你可以前往[问题反馈板块](https://osu.ppy.sh/forum/5)并发表帖子(可能会有其它人同时或已经碰到相关的问题，所以建议你先搜索相关的帖子)。只要清楚地说出你的问题，并提供一个证据来表明这个问题是确实存在的（截图/视频/能重现该问题的操作步骤），一定会有人来帮助你的！
 
 ### osu!droid
 
