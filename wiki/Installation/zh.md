@@ -166,8 +166,8 @@ Installation (中文)
   - 1.6 以上的全部版本。
 - 将会支持故事板或视频吗？
   - 不会。
-- Will you make a <feature name>?
-  - Make your request in the [feature requests thread](https://osu.ppy.sh/forum/t/62313).
+- 你希望添加新的功能么？
+  - 将你想要的新功能在这个[请求帖子](https://osu.ppy.sh/forum/t/62313)中告诉我们。
 
 外部链接
 --------------
