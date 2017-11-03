@@ -20,7 +20,7 @@ Installation (中文)
 - 找到刚刚下载的文件，双击它，然后按照说明安装 osu!。
 - 双击创建在桌面上的 osu! 快捷方式，它位于桌面或开始菜单中。
 - 进入游戏后将会显示主界面。建议你登录账号（如果你没有 osu! 账号，请先[创建](https://osu.ppy.sh/p/register)一个），你也可以离线玩 osu!。（成绩将不会提交到数据库）。
- - 在线模式会上传你的分数，计算你的表现，你将可以查看在线排名。
+  - 在线模式会上传你的分数，计算你的表现，你将可以查看在线排名。
 - 享受你的 osu! :)
 
 ##### 添加谱面
@@ -30,9 +30,9 @@ Installation (中文)
 - 单击粉色的下载（Download）按钮。
 - 如果该谱面包含视频，则你可以下载不包括视频的谱面，只需单击紫色的 No Video 按钮即可。
 - 有几种方式可以导入谱面文件：
- - 如果系统或浏览器询问你："如何打开此文件？"，您应该选择打开方式为 "osu!"，osu! 会自动打开并导入文件。
- - 如果你选择保存文件，或者你的浏览器不允许你选择打开方式，你可以进入下载目录，然后双击它，osu! 将会自动导入。
- - 如果 osu! 已经打开，你也可以拖动谱面文件到游戏窗口上，然后松开。或者你也可以将谱面文件放置在 osu! 目录的 "Song" 文件夹，osu! 将会自动导入。
+  - 如果系统或浏览器询问你："如何打开此文件？"，您应该选择打开方式为 "osu!"，osu! 会自动打开并导入文件。
+  - 如果你选择保存文件，或者你的浏览器不允许你选择打开方式，你可以进入下载目录，然后双击它，osu! 将会自动导入。
+  - 如果 osu! 已经打开，你也可以拖动谱面文件到游戏窗口上，然后松开。或者你也可以将谱面文件放置在 osu! 目录的 "Song" 文件夹，osu! 将会自动导入。
 - 现在，你就可以玩这些新谱面啦！如果列表中没有出现你导入的谱面，只需在歌曲菜单按下 F5 键，列表会自动刷新。
 - 你也可以下载 **[谱面集](https://osu.ppy.sh/p/packlist)** ，谱面集是把一些谱面压缩成单个文件。它们一般都是 zip 或 rar 文件。你可以下载一个你喜欢的压缩程序提取它（例如 [7-Zip](http://www.7-zip.org/)），并导入提取出的谱面文件。
 - 如果你知道如何使用 BT（BitTorrent） 客户端，你可以使用 [由社区成员提供的 torrent 文件](https://osu.ppy.sh/forum/t/147478)，这可以让你一次下载许多谱面集。
@@ -44,30 +44,30 @@ Installation (中文)
 
 1. 基本安装。
  - 首先，检查你的显卡。
-  - 使用 NVIDIA 显卡以获得最佳游戏体验。
-  - 如果你使用 Intel 显卡，你需要启用 V-Sync。
-  - 对于 AMD HD**** 系列显卡，你需要关闭 shaders。
-  - 安装 "Wine"（如果你还没有安装的话）.
+   - 使用 NVIDIA 显卡以获得最佳游戏体验。
+   - 如果你使用 Intel 显卡，你需要启用 V-Sync。
+   - 对于 AMD HD**** 系列显卡，你需要关闭 shaders。
+   - 安装 "Wine"（如果你还没有安装的话）.
 
 2. 使 Wine 工作
  - 对于 Ubuntu/GNU/LINUX Debian, 在终端输入以下指令：
-  - `sudo apt-get -y install wine`
+   - `sudo apt-get -y install wine`
  - 对于 Gentoo/Sabayon：
-  - `sudo emerge wine`
+   - `sudo emerge wine`
  - 对于 Fedora：
-  - `sudo yum install wine`
+   - `sudo yum install wine`
  - 对于其它发行版，请阅读相应文档。
  - 创建 Wine 启动参数
-  - `mkdir ~/.wine-osu`
-  - `cd ~/.wine-osu`
-  - `export WINEPREFIX=~/.wine-osu WINEARCH=win32`
-  - `winecfg`
+   - `mkdir ~/.wine-osu`
+   - `cd ~/.wine-osu`
+   - `export WINEPREFIX=~/.wine-osu WINEARCH=win32`
+   - `winecfg`
 
 请记住，如果你想启动/安装 osu! 或设置 Wine Prefix，请按照以上流程进行修改。
 
 3. 让 osu! 运行起来。
  - 你需要使用 winetricks（wine的一个辅助工具），你可以在终端输入以下指令来安装它：
-  - `winetricks install dotnet20 ie7`
+   - `winetricks install dotnet20 ie7`
  - 下载 osu! Windows 的最新版本。
  - 安装 osu!。
  - 启动 osu!。
