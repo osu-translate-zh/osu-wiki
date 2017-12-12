@@ -60,9 +60,17 @@ osu!的政策将会（1）迅速阻止访问或移除根据诚信原则认为（
 **电子邮件地址** ：[copyright@ppy.sh](mailto:copyright@ppy.sh) (保证24小时内回复)
 
 **邮寄地址** ：
-请参照英文版以获取澳大利亚邮政可识别的英文地址。
+
 ```
-澳大利亚西澳大利亚州温布利格里高利街41号
+Dean Herbert
+41 Gregory Street
+Wembley, WA, 6014
+Australia
+```
+***非正式***中文翻译：
+```
+澳大利亚联邦
+西澳大利亚州温布利，格里高利街41号
 邮政编码6014
 Dean Herbert
 ```
