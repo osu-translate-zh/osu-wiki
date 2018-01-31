@@ -1,49 +1,49 @@
-# Options
+# 选项
 
-![Options menu](img/options_basic.jpg "Options menu \(sidebar on left\)")
+![选项菜单](img/options_basic.jpg "选项菜单 \(左侧的侧边栏\)")
 
-Click `Options`, press `O` in the main menu or press `Ctrl` + `O` in almost any screen to access the options sidebar and change the way _osu!_ behaves.
+点击`选项`，在主界面按`O`或者在几乎任何界面按`Ctrl` + `O`即可访问选项菜单并修改_osu!_的设置。
 
-From here, type anywhere to search what you want to change.
-The searchbar's text will *shake* if your search is invalid and refuse to add in that invalid letter.
+在这里，直接输入即可搜索你想修改的选项。
+如果搜索内容有误，搜索栏的文字会*抖动*且无法输入错误的字符。
 
-When you change a setting that contained a default value, the gray vertical bar on the left will glow yellow.
-Clicking on this will reset the value back to its default value.
+当你修改一个含有默认值的选项时，在左侧的灰色竖条会亮成黄色。
+点击黄色竖条即可恢复默认值。
 
-## General
+## 通用
 
-![General icon](img/general.jpg "General icon")
+![通用图标](img/general.jpg "通用图标")
 
-This section is about your account, language settings, and what updates you want your osu!client to receive.
+这部分包含你的账户、语言设置、以及你想获得哪种osu!客户端的更新。
 
-### Sign In
+### 登入
 
-If you are not signed into the osu!client, the game will automatically open the options menu, prompting you to sign in.
-You can ignore this by pressing `Esc`, clicking on the back button, or navigating to the song selection screen.
-By not signing in, the osu!client will mark you as a "Guest" and you will not be able to fetch online scores or play [Multi](wiki/Multi).
+如果你未登入osu!客户端，游戏会自动弹出选项菜单提示你登入。
+你可以按`Esc`，点击返回按钮或者前往歌曲选择界面来忽略。
+未登入的状态下，osu!客户端将把你标记为 "来宾" 且你将无法获取在线成绩或进行[多人游戏](wiki/Multi)。
 
-If you are a guest, you will see these options:
+如果你是一位来宾，你会看到以下选项：
 
-| Name                | Effect                                                                                           | Type     | Default   |
-|---------------------|--------------------------------------------------------------------------------------------------|----------|-----------|
-| `Username`          | Type in your registered _osu!_ username.                                                         | Text     | _(Empty)_ |
-| `Password`          | Type in your password associated with your _osu!_ username.                                      | Text     | _(Empty)_ |
-| `Remember Username` | If checked, this osu!client will remember the username.                                          | Checkbox | `Enabled` |
-| `Remember Password` | If checked, Have the client remember the password.                                               | Checkbox | `Enabled` |
-| `Sign In`           | Start signing yourself in. You can also press `Enter` in the username or password forms.         | Button   |           |
-| `Create an account` | Redirects you to [Create Account](https://osu.ppy.sh/p/register) using your default web browser. | Button   |           |
-
----
-
-If you are signed in, you will see:
-
-| Name                      | Effect                                      | Type   |
-|---------------------------|---------------------------------------------|--------|
-| `Logged in as {username}` | Display a dialog with 4 buttons, see below. | Button |
+|名称|用途|类别|默认值|
+|-|-|-|-|
+|`用户名`|输入你的_osu!_用户名。|文本|(空)|
+|`密码`|输入你关联_osu!_用户名的密码。|文本|(空)|
+|`记住用户名`|如果勾选，此osu!客户端会记住你的用户名。|复选框|`开启`|
+|`记住密码`|如果勾选，此osu!客户端会记住你的密码。|复选框|`开启`|
+|`登入`|开始登入。你也可以在用户名或密码栏中按`Enter`。|按钮||
+|`创建账户`|用你的默认浏览器将你重新定向至[创建账户](https://osu.ppy.sh/p/register)。|按钮||
 
 ---
 
-If you click on the `Logged in as ...` prompt, it will display a dialog:
+如果你已经登入，你会看到：
+
+|名称|用途|类别|
+|-|-|-|
+|`已经以{用户名}登入`|显示一个含有四个按钮的对话框，如下。|按钮|
+
+---
+
+如果你点击`已经以 {用户名} 登入`提示框，它会弹出一个对话框：
 
 | Name            | Effect                                                                         | Type   |
 |-----------------|--------------------------------------------------------------------------------|--------|
