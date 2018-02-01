@@ -85,24 +85,24 @@ If the beatmap follows a double or halved BPM style, Slider Velocity and all sna
 #### 指南
 - **1/1 的音符不宜超过 7 连。**太长的连续音符对新手太过困难。比较长的 1/1 连续音符也应该跟一段留白。
 - **谱面音型主体应为 2/1 或 4/1 或更慢。**偶尔夹带 1/1 节奏没有问题，但注意配色和留白。
-- **在接连安排了 16-20 节的音符后，不妨放置一段 3 节或更长的留白。**频繁短留白对新手而言可能不太适应。
-- **谨慎改变滑条速度。**滑条速度仅应当在节奏和速度完全不同的两段中有所调整， 同时不应有很大的变化，更不允许突变。
+- **在接连安排了 16-20 节的音符后，不妨放置一段 3 节或更长的留白。**频繁的较短留白对新手而言可能不太适应。
+- **谨慎改变滑条速度。**滑条速度仅应当在节奏和速度完全不同的两段中有所调整，同时不应有很大的变化，更不允许突变。
 
 #### 难度设置指南
 - OD≤4。
 - HP≥6。在音符数目较多时可以适当降低到 6 以下。
 
-### ![Futsuu](/wiki/shared/diff/normal-t.png "Futsuu") Futsuu
+### ![Futsuu](/wiki/shared/diff/normal-t.png "Futsuu") 竹
 
 #### Rules
-- **Patterns on snaps faster than 1/3 are disallowed.** These patterns are too complex for beginner players.
+- **不允许出现 1/4 或更密的音型。**这些节奏对于新手较为困难，要尽量避免。
 
-#### Guidelines
-- **1/3 patterns should not be longer than two notes.** Anything longer is very situational and usually too complex for newer players. Patterns like these should be followed by a rest moment.
-- **1/2  patterns should not be longer than seven notes.** Anything longer is likely to be too straining for beginners.
-- **Main snapping should consist of mostly 1/1, 2/1 or slower rhythms.** Occasionally using 1/2 rhythms is acceptable.
-- **Try to insert at least 1 rest moment that is 2/1 or longer after 16/1 to 20/1 of continuous mapping.** Less frequent rest moments or shorter ones may put too much strain on beginners.
-- **Simple Slider velocity changes may be used.**
+- **1/3 的音符不宜超过 2 连。**稍长的连续音符，尤其是 1/3 音符对新手太过困难。使用时请控制配色难度，并在这样的音型后适当留白。
+- **1/2 的音符不宜超过 7 连。**太长的连续音符对新手太过困难。
+- **谱面音型主体应为 1/1 或 2/1或更慢。**偶尔夹带 1/2 节奏没有问题，但注意配色和留白。
+- **在接连安排了 16-20 节的音符后，不妨放置一段 2 节或更长的留白。**频繁的较短留白对新手而言可能不太适应。
+- **谨慎改变滑条速度。**滑条速度仅应当在节奏和速度完全不同的两段中有所调整， 同时不应有很大的变化，更不允许突变。
+- **允许使用简单的滑条速度变化。**
 
 If you plan on using a Futsuu as the lowest difficulty of a mapset, it has to abide by the following rules and guidelines:
 
