@@ -2,7 +2,7 @@
 
 ![选项菜单](img/options_basic.jpg "选项菜单 \(左侧的侧边栏\)")
 
-点击`选项`，在主界面按`O`或者在几乎任何界面按`Ctrl` + `O`即可访问选项菜单并修改_osu!_的设置。
+点击`选项`，在主界面按`O`或者在几乎任何界面按`Ctrl` + `O`即可访问选项菜单并修改 _osu!_ 的设置。
 
 在这里，直接输入即可搜索你想修改的选项。
 如果搜索内容有误，搜索栏的文字会*抖动*且无法输入错误的字符。
@@ -26,8 +26,8 @@
 
 |名称|用途|类别|默认值|
 |-|-|-|-|
-|`用户名`|输入你的_osu!_用户名。|文本|(空)|
-|`密码`|输入你关联_osu!_用户名的密码。|文本|(空)|
+|`用户名`|输入你的 _osu!_ 用户名。|文本|(空)|
+|`密码`|输入你关联 _osu!_ 用户名的密码。|文本|(空)|
 |`记住用户名`|如果勾选，此osu!客户端会记住你的用户名。|复选框|`开启`|
 |`记住密码`|如果勾选，此osu!客户端会记住你的密码。|复选框|`开启`|
 |`登入`|开始登入。你也可以在用户名或密码栏中按`Enter`。|按钮||
@@ -39,36 +39,36 @@
 
 |名称|用途|类别|
 |-|-|-|
-|`已经以{用户名}登入`|显示一个含有四个按钮的对话框，如下。|按钮|
+|`已经以 {用户名} 登入`|显示一个含有四个按钮的对话框，如下。|按钮|
 
 ---
 
 如果你点击`已经以 {用户名} 登入`提示框，它会弹出一个对话框：
 
-| Name            | Effect                                                                         | Type   |
-|-----------------|--------------------------------------------------------------------------------|--------|
-| `View Profile`  | View your profile on the osu!website.                                          | Button |
-| `Sign Out`      | Sign out from this osu!client.                                                 | Button |
-| `Change Avatar` | Change your user's profile picture (you will be redirected to the osu!website. | Button |
-| `Close`         | Close this dialog. You can also press `Esc`.                                   | Button |
+|名称|用途|类别|
+|-|-|-|
+|`查看个人主页`|在osu!网站上浏览自己的个人主页。|按钮|
+|`登出`|从此osu!客户端中登出。|按钮|
+|`更换头像`|更换你的用户头像。（你将被重新定向至osu!网站）|按钮|
+|`关闭`|关闭对话框。你也可以按`Esc`。|按钮|
 
-You can also access this by clicking on your player card where available.
+你也可以在任何含有玩家名片的界面访问此对话框。
 
-### Language
+### 语言
 
-| Name                                    | Effect                                                                                                    | Type     | Default  |
-|-----------------------------------------|-----------------------------------------------------------------------------------------------------------|----------|----------|
-| `Select language`                       | Display a list of languages. You can then click on your preferred language.                               | Dropdown |          |
-| `Prefer metadata in original language`  | Beatmaps will display their "original" untranslated metadata, if applicable.                              | Checkbox | Disabled |
-| `Use alternative font for chat display` | Uses the old font (Tahoma) instead of the current font (Aller) in the [chat console](/wiki/chat console). | Checkbox | Disabled |
+|名称|用途|类别|默认值|
+|-|-|-|-|
+|`选择语言`|显示语言列表。你可以点击你想使用的语言。|下拉菜单||
+|`倾向使用原语言数据`|谱面会显示他们的"原本"的未经翻译的语言数据，如果可用。|复选框|`关闭`|
+|`使用替代字体显示聊天`|在[聊天控制台](/wiki/chat console)使用旧字体（Tahoma）来替代当前字体（Aller）。|复选框|`关闭`|
 
-### Updates
+### 更新
 
-| Name                  | Effect                                                                    | Type     | Default           |
-|-----------------------|---------------------------------------------------------------------------|----------|-------------------|
-| `Release stream`      | Display a list of builds that you want to use.                            | Dropdown | `Stable (Latest)` |
-| `osu! is up-to-date!` | Force the osu!client to check for updates again and download them if any. | Button   |                   |
-| `Open osu! folder`    | Opens the local _osu!_ folder (this contains your skins, beatmaps, etc.). | Button   |                   |
+|名称|用途|类别|默认值|
+|-|-|-|-|
+|`版本列表`|显示你可以使用的一系列版本。|下拉菜单|`稳定（最新）`|
+|`osu!已是最新！`|强制使osu!客户端重新检查更新，并下载他们。|按钮||
+|`打开osu!文件夹`|打开本地 _osu!_ 文件夹。（包含你的皮肤、铺面等）|按钮||
 
 ---
 
