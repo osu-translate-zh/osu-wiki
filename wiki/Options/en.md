@@ -60,7 +60,7 @@ You can also access this by clicking on your player card where available.
 |-----------------------------------------|-----------------------------------------------------------------------------------------------------------|----------|----------|
 | `Select language`                       | Display a list of languages. You can then click on your preferred language.                               | Dropdown |          |
 | `Prefer metadata in original language`  | Beatmaps will display their "original" untranslated metadata, if applicable.                              | Checkbox | Disabled |
-| `Use alternative font for chat display` | Uses the old font (Tahoma) instead of the current font (Aller) in the [chat console](/wiki/chat console). | Checkbox | Disabled |
+| `Use alternative font for chat display` | Uses the old font (Tahoma) instead of the current font (Aller) in the [Chat console](/wiki/Chat_Console). | Checkbox | Disabled |
 
 ### Updates
 
@@ -214,7 +214,7 @@ If you open the dropdown list for `Score meter type`, you will be presented with
 | Name                    | Effect                                                                    | Type   | Default |
 |-------------------------|---------------------------------------------------------------------------|--------|---------|
 | `Display beatmaps from` | This adjusts the **minimal** star rating a beatmap needs to be displayed. | Slider | `0`     |
-| `up to`                 | This adjusts the **maximum** star rating a beatmap needs to be displayed. | Slider | `10`    |
+| `up to`                 | This adjusts the **maximum** star rating a beatmap needs to be displayed. | Slider | `10+`    |
 
 ## Audio
 
