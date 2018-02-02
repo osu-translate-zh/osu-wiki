@@ -37,8 +37,8 @@
 
 如果你已经登录，你会看到：
 
-|          名称          |                 用途                 | 类别 |
-| ---------------------- | ------------------------------------ | ---- |
+|              名称              |                 用途                 | 类别 |
+| ------------------------------ | ------------------------------------ | ---- |
 | `哈喽，{用户名}。欢迎来到osu!` | 显示一个含有四个按钮的对话框，如下。 | 按钮 |
 
 ---
@@ -56,28 +56,28 @@
 
 ### 语言
 
-|          名称          |                                      用途                                       |   类别   | 默认值 |
-| ---------------------- | ------------------------------------------------------------------------------- | -------- | ------ |
-| `语言`             | 显示语言列表。你可以点击你想使用的语言。                                        | 下拉菜单 |        |
-| `以原语言显示歌曲信息`   | 谱面会显示他们的"原本"的未经翻译的语言数据，如果可用。                          | 复选框   | `关闭` |
+|           名称           |                                     用途                                      |   类别   | 默认值 |
+| ------------------------ | ----------------------------------------------------------------------------- | -------- | ------ |
+| `语言`                   | 显示语言列表。你可以点击你想使用的语言。                                      | 下拉菜单 |        |
+| `以原语言显示歌曲信息`   | 谱面会显示他们的"原本"的未经翻译的语言数据，如果可用。                        | 复选框   | `关闭` |
 | `聊天窗口使用Tahoma字体` | 在[聊天窗口](/wiki/chat console)使用旧字体（Tahoma）来替代当前字体（Aller）。 | 复选框   | `关闭` |
 
 ### 更新
 
-|       名称       |                       用途                       |   类别   |     默认值     |
-| ---------------- | ------------------------------------------------ | -------- | -------------- |
-| `更新版本`       | 显示你可以使用的一系列版本。                     | 下拉菜单 | `正式版（每月更新）` |
-| `osu!已经是最新版！` | 强制使osu!客户端重新检查更新，并下载他们。       | 按钮     |                |
-| `打开osu!所在文件夹` | 打开本地 _osu!_ 文件夹。（包含你的皮肤、谱面等） | 按钮     |                |
+|         名称         |                       用途                       |   类别   |        默认值        |
+| -------------------- | ------------------------------------------------ | -------- | -------------------- |
+| `更新版本`           | 显示你可以使用的一系列版本。                     | 下拉菜单 | `正式版（每月更新）` |
+| `osu!已经是最新版！` | 强制使osu!客户端重新检查更新，并下载他们。       | 按钮     |                      |
+| `打开osu!所在文件夹` | 打开本地 _osu!_ 文件夹。（包含你的皮肤、谱面等） | 按钮     |                      |
 
 ---
 
 如果你打开了`更新版本`的下拉菜单，你会有以下设定供选择：
 
-|             名称              |                     用途                      |
-| ----------------------------- | --------------------------------------------- |
-| `正式版（每月更新）`                | 公共发布版本。                                |
-| `候选版（每周更新）`                        | 开发者版本 - 早些获得新功能，但是问题比较多。 |
+|          名称          |                     用途                      |
+| ---------------------- | --------------------------------------------- |
+| `正式版（每月更新）`   | 公共发布版本。                                |
+| `候选版（每周更新）`   | 开发者版本 - 早些获得新功能，但是问题比较多。 |
 | `测试版（不定期更新）` | 开发者版本 - 更早获得新功能，但是问题会更多。 |
 
 ## 画面
@@ -88,13 +88,13 @@
 
 ### 渲染器
 
-|      名称       |                               用途                               |   类别   |  默认值  |
-| --------------- | ---------------------------------------------------------------- | -------- | -------- |
-| `帧数限制`       | 修改帧数限制。参阅下方内容。                                      | 下拉菜单 | `120FPS` |
-| `显示帧数（FPS）` | 在屏幕右下方可见FPS计数器。                                      | 复选框   | `关闭`   |
-| `兼容模式`      | 使用 _osu!_ 在旧操作系统的的旧渲染方式。这会重启你的osu!客户端。 | 复选框   | `关闭`   |
-| `减少丢帧`      | 感觉经常丢帧的玩家可尝试勾选，调节图像设置来降低丢帧，但是会轻微降低帧数。                                         | 复选框   | `关闭`   |
-| `检测性能问题`  | 当其他在你计算机上的软件影响osu!客户端的性能时警告你。           | 复选框   | `开启`   |
+|       名称        |                                    用途                                    |   类别   |  默认值  |
+| ----------------- | -------------------------------------------------------------------------- | -------- | -------- |
+| `帧数限制`        | 修改帧数限制。参阅下方内容。                                               | 下拉菜单 | `120FPS` |
+| `显示帧数（FPS）` | 在屏幕右下方可见FPS计数器。                                                | 复选框   | `关闭`   |
+| `兼容模式`        | 使用 _osu!_ 在旧操作系统的的旧渲染方式。这会重启你的osu!客户端。           | 复选框   | `关闭`   |
+| `减少丢帧`        | 感觉经常丢帧的玩家可尝试勾选，调节图像设置来降低丢帧，但是会轻微降低帧数。 | 复选框   | `关闭`   |
+| `检测性能问题`    | 当其他在你计算机上的软件影响osu!客户端的性能时警告你。                     | 复选框   | `开启`   |
 
 ---
 
@@ -131,321 +131,322 @@
 
 ### 详细设置
 
-|        名称         |                                                用途                                                |   类别   |        默认值         |
-| ------------------- | -------------------------------------------------------------------------------------------------- | -------- | --------------------- |
-| `渐出滑条`   | 滑条从起始点逐渐滑出。                                       | 复选框   | `开启`                |
-| `背景视频`  | 启用背景视频播放。        | 复选框   | `开启`                |
-| `Storyboards`       | 在游戏中的背景显示Storyboard。                            | 复选框   | `开启`                |
-| `连击提示图`      |当连击数达到一定数值时，屏幕边缘将弹出一个任务图像。  | 复选框   | `开启`                |
-| `击打闪光`      | 在击打提示后方加上一个轻柔的闪光。不会在Kiai关闭。              | 复选框   | `开启`                |
-| `着色器效果`           |在游戏中启用着色器特效。如果显卡不支持，此选项将被自动禁用。| 复选框   | `关闭`                |
-| `柔化滤镜`  |启用柔化滤镜。启用后会自动启用着色器效果。     | 复选框   | `关闭`                |
-| `截图格式` | 设置截图文件的格式为`JPEG （空间较小）`或`PNG（无损）`。                      | 下拉菜单 | `JPEG (空间较小)` |
+|     名称      |                             用途                             |   类别   |      默认值       |
+| ------------- | ------------------------------------------------------------ | -------- | ----------------- |
+| `渐出滑条`    | 滑条从起始点逐渐滑出。                                       | 复选框   | `开启`            |
+| `背景视频`    | 启用背景视频播放。                                           | 复选框   | `开启`            |
+| `Storyboards` | 在游戏中的背景显示Storyboard。                               | 复选框   | `开启`            |
+| `连击提示图`  | 当连击数达到一定数值时，屏幕边缘将弹出一个任务图像。         | 复选框   | `开启`            |
+| `击打闪光`    | 在击打提示后方加上一个轻柔的闪光。不会在Kiai关闭。           | 复选框   | `开启`            |
+| `着色器效果`  | 在游戏中启用着色器特效。如果显卡不支持，此选项将被自动禁用。 | 复选框   | `关闭`            |
+| `柔化滤镜`    | 启用柔化滤镜。启用后会自动启用着色器效果。                   | 复选框   | `关闭`            |
+| `截图格式`    | 设置截图文件的格式为`JPEG （空间较小）`或`PNG（无损）`。     | 下拉菜单 | `JPEG (空间较小)` |
 
 ### 主菜单
 
-|          名称          |                                                                         用途                                                                          |   类别   |   默认值    |
-| ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ----------- |
-| `飘雪效果`                 | 在主菜单添加飘雪效果。（冬季强制开启）  | 复选框   | `关闭`      |
-| `视差效果`             | 背景画面会随着光标位置而移动。（不在谱面中适用）| 复选框   | `开启`      |
-| `显示提示`            | 在主菜单显示osu!用法小提示。（提示将不会在测试版中显示）       | 复选框   | `开启`      |
-| `问候语`     | osu!将在打开和关闭的时候播放问候语。| 复选框   | `开启`      |
-| `osu!主题音乐`     | 启动osu!时，主题曲将会播放。一旦歌曲切换，你只能重启osu!来重新播放它。| 复选框   | `开启`      |
-| `季节性背景` | 在主菜单（和没有背景的谱面）用同人绘画比赛获胜的背景。会在歌曲改变时轮流切换。  | 下拉菜单 | `有时` |
+|      名称      |                                      用途                                      |   类别   | 默认值 |
+| -------------- | ------------------------------------------------------------------------------ | -------- | ------ |
+| `飘雪效果`     | 在主菜单添加飘雪效果。（冬季强制开启）                                         | 复选框   | `关闭` |
+| `视差效果`     | 背景画面会随着光标位置而移动。（不在谱面中适用）                               | 复选框   | `开启` |
+| `显示提示`     | 在主菜单显示osu!用法小提示。（提示将不会在测试版中显示）                       | 复选框   | `开启` |
+| `问候语`       | osu!将在打开和关闭的时候播放问候语。                                           | 复选框   | `开启` |
+| `osu!主题音乐` | 启动osu!时，主题曲将会播放。一旦歌曲切换，你只能重启osu!来重新播放它。         | 复选框   | `开启` |
+| `季节性背景`   | 在主菜单（和没有背景的谱面）用同人绘画比赛获胜的背景。会在歌曲改变时轮流切换。 | 下拉菜单 | `有时` |
 
 ---
 
 如果你打开了`帧数限制`的下拉菜单，你会有以下设定供选择：
 
-|    名称     |                                                                                            用途                                                                                             |
-| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `有时` | 你会在每个季节开始时看到季节性背景。osu!小队会决定何时取消并换回熟悉的背景。|
-| `永不`     | 你永不会看到季节性背景。这代表你将不会看到任何动漫。  |
-| `常开`    | 你将一直看到该季节的背景。    |
+|  名称  |                                     用途                                     |
+| ------ | ---------------------------------------------------------------------------- |
+| `有时` | 你会在每个季节开始时看到季节性背景。osu!小队会决定何时取消并换回熟悉的背景。 |
+| `永不` | 你永不会看到季节性背景。这代表你将不会看到任何动漫。                         |
+| `常开` | 你将一直看到该季节的背景。                                                   |
 
 ### 选歌页面
 
-|       名称        |                                                   用途                                                   |  类别  | 默认值 |
-| ----------------- | -------------------------------------------------------------------------------------------------------- | ------ | ------ |
-| `显示缩略图` | 显示谱面背景图的预览。需要2.2+版本的皮肤支持。| 复选框 | `开启` |
+|     名称     |                      用途                      |  类别  | 默认值 |
+| ------------ | ---------------------------------------------- | ------ | ------ |
+| `显示缩略图` | 显示谱面背景图的预览。需要2.2+版本的皮肤支持。 | 复选框 | `开启` |
 
 ## 游戏
 
 ![游戏图标](img/gameplay.jpg "游戏图标")
 
-This section is about the appearance during gameplay.
 这部分是关于游戏时的界面设置。
 
 ### 常规
 
-|                      名称                       |                                                         用途                                                          |   类别   |      默认值       |
-| ----------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | -------- | ----------------- |
-| `背景暗化`                                | 调节游戏时对背景的暗化程度。（适用于背景视频和Storyboards）| 滑条     | `30%`             |
-| `进度条位置`                              | 设置在哪里显示歌曲进度。详情见下。| 下拉菜单 | `右上角(饼状)` |
-| `Score meter type`                              | Configure accuracy meter appearing below the beatmap. Note that osu!catch will always use `Colour`.                   | 下拉菜单 | `Hit error`       |
-| `Score meter size`                              | Configure size of score meter.                                                                                        | 滑条     | `1x`              |
-| `Always show key overlay`                       | Show the key status overlay even while playing normally.                                                              | 复选框   | `关闭`            |
-| `Show approach circle on first "Hidden" object` | When playing with the "hidden" mod，show only the first note's approach circle.                                       | 复选框   | `开启`            |
-| `Scale osu!mania scroll speed with BPM`         | Adjust speed of osu!mania's scrolling depending on the BPM of the beatmap.                                            | 复选框   | `开启`            |
-| `Remember osu!mania scroll speed per-beatmap`   | Remember the scroll speed you personally set per-beatmap.                                                             | 复选框   | `开启`            |
+|                 名称                 |                            用途                             |   类别   |     默认值     |
+| ------------------------------------ | ----------------------------------------------------------- | -------- | -------------- |
+| `背景暗化`                           | 调节游戏时对背景的暗化程度。（适用于背景视频和Storyboards） | 滑条     | `30%`          |
+| `进度条位置`                         | 设置在哪里显示歌曲进度。详情见下。                          | 下拉菜单 | `右上角(饼状)` |
+| `分数计模式`                         | 设置在谱面下方的分数计样式。注意osu!catch只会使用`色块模式` | 下拉菜单 | `击打偏差`     |
+| `分数计大小`                         | 设置分数计的大小。                                          | 滑条     | `1x`           |
+| `显示按键显示框`                     | 在自己玩的时候也显示按键状态指示框。                        | 复选框   | `关闭`         |
+| `在Hidden Mod下显示第一个物件的缩圈` | 在Hidden Mod下，可以让你看到第一个物件的缩圈。              | 复选框   | `开启`         |
+| `按BPM调整osu!mania下落速度`         | 按照谱面的BPM自动调整下落速度。                             | 复选框   | `开启`         |
+| `记住每张谱面的osu!mania下落速度`    | 记住并使用你设置的每张谱面的下落速度。                      | 复选框   | `开启`         |
 
 ---
 
-If you open the dropdown list for `Progress Display`，you will be presented with these options:
+如果你打开了`进度条位置`的下拉菜单，你会有以下设定供选择：
 
-|       名称        |                                                                     用途                                                                      |
-| ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| `Top-Right (Pie)` | Use a pie chart to show the remaining duration before the song starts and the time left before completion. This is seen left of the accuracy. |
-| `Top-Right (Bar)` | Use a short horizontal bar to display the time left before completion. This is seen underneath the score but above the accuracy.              |
-| `Bottom-Right`    | Use a short horizontal bar to display the time left before completion. This is seen in the bottom-right corner.                               |
-| `Bottom (long)`   | Use a long horizontal bar to display the time left before completion. This is seen on the bottom.                                             |
-
----
-
-If you open the dropdown list for `Score meter type`，you will be presented with these options:
-
-|    名称     |                                            用途                                            |
-| ----------- | ------------------------------------------------------------------------------------------ |
-| `None`      | Do not use a meter to display the player's hit timing.                                     |
-| `Colour`    | Use coloured blocks to display hit timing. (osu!catch uses this if `Hit error` is used.)   |
-| `Hit error` | Use a meter to display hit timing. This shows if the player had hit too early or too late. |
-
-### Song Select
-
-|          名称           |                                   用途                                    | 类别 | 默认值 |
-| ----------------------- | ------------------------------------------------------------------------- | ---- | ------ |
-| `Display beatmaps from` | This adjusts the **minimal** star rating a beatmap needs to be displayed. | 滑条 | `0`    |
-| `up to`                 | This adjusts the **maximum** star rating a beatmap needs to be displayed. | 滑条 | `10`   |
-
-## Audio
-
-![Audio 图标](img/audio.jpg "Audio 图标")
-
-This section is about audio related things.
-
-### Devices
-
-|      名称       |                                                用途                                                |   类别   |  默认值  |
-| --------------- | -------------------------------------------------------------------------------------------------- | -------- | -------- |
-| `Output device` | Select the preferred output device for audio. (Options given based on what your computer reports.) | 下拉菜单 | `默认值` |
-
-### Volume
-
-|            名称            |                                           用途                                            |  类别  | 默认值 |
-| -------------------------- | ----------------------------------------------------------------------------------------- | ------ | ------ |
-| `Master`                   | Controls all aspects.                                                                     | 滑条   | `100%` |
-| `Music`                    | Affects only the music.                                                                   | 滑条   | `80%`  |
-| `用途`                     | Affects things such as hit sounds and in-game sounds.                                     | 滑条   | `80%`  |
-| `Ignore beatmap hitsounds` | Favor hitsounds supplied by the current skin instead of the beatmap's included hitsounds. | Button | `关闭` |
-
-### Offset Adjustment
-
-|        名称        |                                            用途                                            | 类别 | 默认值 |
-| ------------------ | ------------------------------------------------------------------------------------------ | ---- | ------ |
-| `Universal offset` | The offset (in milliseconds) that all beatmaps will use (in addition to the local offset). | 滑条 | `100%` |
-| `Offset wizard`    | Opens the offset wizard.                                                                   | 滑条 | `80%`  |
-
-- For details about the offset wizard，see [Offset Wizard](/wiki/Offset_Wizard).
-- For details on using the offset wizard，see [How to use Offset Wizard](/wiki/How_to_use_the_Offset_Wizard).
-
-## Skin
-
-![Skin 图标](img/skin.jpg "Skin 图标")
-
-This section is about skin related things.
-
-### Skin
-
-|                    名称                    |                                                                  用途                                                                   |   类别   |  默认值  |
-| ------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------- | -------- | -------- |
-| `Skin sample image`                        | Display various gameplay elements from the selected skin. Click to cycle through different element sets.                                | Button   |          |
-| `Current Skin`                             | Change the skin. Items in dropdown is based on what is in the `skin/` folder. (名称s are based on folder name.)                         | 下拉菜单 | `默认值` |
-| `Preview gameplay`                         | Preview the skin by playing a random beatmap with auto mod. Mode is determined on what was selected in song select.                     | Button   |          |
-| `Open current skin folder`                 | Open the directory the current skin is stored in.                                                                                       | Button   |          |
-| `Export as .osk`                           | Export the current skin as a `.osk` file. Once your osu!客户端 is done exporting，it will the directory containing the `.osk` file.     | Button   |          |
-| `Ignore all beatmap skins`                 | Favor the selected skin over the beatmap's included skin. This does not include hitsounds.                                              | 复选框   | `关闭`   |
-| `Use skin's sound samples`                 | Always use the selected skin's hitsounds instead of the beatmap's included hitsounds.                                                   | 复选框   | `开启`   |
-| `Use Taiko skin for Taiko mode`            | Use osu!taiko-specific skin elements，if supplied by the selected skin. See [Skinning/osu!taiko](/wiki/Skinning/osu!taiko) for details. | 复选框   | `关闭`   |
-| `Always use skin cursor`                   | Favor the current skin's cursor over any pack-in cursors supplied by beatmaps.                                                          | 复选框   | `开启`   |
-| `Cursor Size`                              | Adjust the cursor size.                                                                                                                 | 滑条     | `1x`     |
-| `Automatic Cursor Sizing`                  | Automatically adjusts the cursor size based on the circle size of the played beatmap.                                                   | 复选框   | `关闭`   |
-| `Use combo colour as tint for slider ball` | 滑条 balls will use the current combo color (usually transparent). Requires skin support.                                               | 复选框   | `开启`   |
-
-## Input
-
-![Input 图标](img/input.jpg "Input 图标")
-
-This section is about input peripherals.
-
-### Mouse
-
-|                    名称                     |                                               用途                                                |   类别   |         默认值         |
-| ------------------------------------------- | ------------------------------------------------------------------------------------------------- | -------- | ---------------------- |
-| `Sensitivity`                               | Adjust the sensitivity of the mouse cursor. If changed it may automatically enable `Raw Input`.   | 滑条     | `1x`                   |
-| `Raw Input`                                 | Read mouse/tablet positional values directly from the hardware，without any post-processing.      | Button   | 关闭                   |
-| `Map absolute raw input to the osu! window` | Confine input devices with absolute positioning (e.g. pen tablets) to the osu!客户端 window only. | Button   | 开启                   |
-| `Confine mouse cursor`                      | Prevent mouse cursor from leaving the osu!客户端 window. See below for details.                   | 下拉菜单 | `Only when fullscreen` |
-| `Disable mouse wheel in play mode`          | Disable mouse wheel during gameplay. Using the mouse wheel can change the master volume value.    | Button   | 关闭                   |
-| `Disable mouse buttons in play mode`        | Disable mouse buttons during gameplay. This is helpful for keyboard users.                        | Button   | 关闭                   |
-| `Cursor ripples`                            | Show subtle ripple effect when the mouse is clicked.                                              | Button   | 关闭                   |
-
-- When `Raw Input` is enabled，it will display the number of reports it receives per second and the latency in milliseconds.
-- The cursor ripple effect can be triggered by pressing `M1` and `M2` during game play.
+|       名称       |                        用途                        |
+| ---------------- | -------------------------------------------------- |
+| `右上角（饼状）` | 在准确度左侧用饼状图显示前奏剩余时间以及歌曲进度。 |
+| `右上角（条状）` | 在准确度上方用进度条显示歌曲剩余时间。             |
+| `右下角`         | 在右下角用进度条显示歌曲剩余时间。                 |
+| `底部（长条）`   | 在屏幕下方用长进度条显示歌曲剩余时间。             |
 
 ---
 
-If you open the dropdown list for `Confine mouse cursor`，you will be presented with these options:
+如果你打开了`分数计模式`的下拉菜单，你会有以下设定供选择：
 
-|          名称          |                                                   用途                                                   |
-| ---------------------- | -------------------------------------------------------------------------------------------------------- |
-| `Never`                | Never prevent the mouse from leaving the osu!客户端.                                                     |
-| `Only when fullscreen` | Only prevent the mouse from leaving the osu!客户端 when fullscreen. (This also includes `Letterboxing`). |
-| `Always`               | Always prevent the mouse from leaving the osu!客户端 in any resolution.                                  |
+|    名称    |                                 用途                                  |
+| ---------- | --------------------------------------------------------------------- |
+| `无`       | 不显示准确性分数计。                                                  |
+| `色块模式` | 用色块来表示击打准确性。（osu!catch会在选择`击打偏差`时使用此模式。） |
+| `击打偏差` | 用分数计显示击打准确性。可以显示出玩家是否过早或过晚地击打。          |
 
-### Keyboard
+### 选歌界面
 
-|            名称            |                                                      用途                                                      |  类别  |
-| -------------------------- | -------------------------------------------------------------------------------------------------------------- | ------ |
-| `Change keyboard bindings` | Displays a dialog of the keyboard bindings. See [Keyboard Bindings](/wiki/Keyboard_Bindings) for more details. | Button |
-| `osu!mania layout`         | Displays a dialog of osu!mania key bindings. See [osu!mania layout](/wiki/osu!mania_Layout) for more details.  | Button |
+|      名称      |               用途               | 类别 | 默认值 |
+| -------------- | -------------------------------- | ---- | ------ |
+| `最低显示星数` | 调整显示谱面的**最低**星数要求。 | 滑条 | `0`    |
+| `最高显示星数` | 调整显示谱面的**最高**星数要求。 | 滑条 | `10`   |
 
-### Other
+## 音频
 
-|              名称              |                                                       用途                                                       |  类别  | 默认值 |
-| ------------------------------ | ---------------------------------------------------------------------------------------------------------------- | ------ | ------ |
-| `OS TabletPC support`          | Improves compatibility with graphic tablets and tablet PCs.                                                      | 复选框 | `关闭` |
-| `Wiimote/TaTaCon Drum support` | Enable support for Nintendo's Wii Taiko Drum controller and Wiimotes. Pair device via Bluetooth before enabling. | 复选框 | `关闭` |
+![音频图标](img/audio.jpg "音频图标")
 
-## Editor
+这部分是关于音频的设置。
 
-![Editor 图标](img/editor.jpg "Editor 图标")
+### 设备
 
-This section is about the [beatmap editor](/wiki/Beatmap_Editor/).
+|    名称    |                       用途                       |   类别   | 默认值 |
+| ---------- | ------------------------------------------------ | -------- | ------ |
+| `音频设备` | 选择你想输出音频的设备。（根据电脑配置提供选择） | 下拉菜单 | `默认` |
 
-These options only affect while working inside the beatmap editor or in test mode (test playing a beatmap).
+### 音量
 
-### General
+|        名称        |                  用途                  | 类别 | 默认值 |
+| ------------------ | -------------------------------------- | ---- | ------ |
+| `整体`             | 调整整体音量。                         | 滑条 | `100%` |
+| `音乐`             | 仅调整音乐音量。                       | 滑条 | `80%`  |
+| `音效`             | 仅调整击打、游戏中的音效音量。         | 滑条 | `80%`  |
+| `禁用谱面自带音效` | 相比谱面提供的音效，优先使用皮肤音效。 | 按钮 | `关闭` |
 
-|           名称            |                                    用途                                     |  类别  | 默认值 |
-| ------------------------- | --------------------------------------------------------------------------- | ------ | ------ |
-| `Background Video`        | Play the beatmap's background video while editing.                          | 复选框 | `关闭` |
-| `Always use default skin` | Use osu!'s default skin while editing，despite the current skin's settings. | 复选框 | `关闭` |
-| `Snaking sliders`         | Enable snaking sliders while editing.                                       | 复选框 | `开启` |
-| `Hit animations`          | Enable hit animations while editing.                                        | 复选框 | `关闭` |
-| `Follow points`           | Enable follow points while editing.                                         | 复选框 | `开启` |
-| `Stacking`                | Stack the hit circles as if in gameplay.                                    | 复选框 | `开启` |
+### 偏移量调节
 
-These options can be manually overwritten by using the `View` menu in the beatmap editor.
+|       名称       |                   用途                   | 类别 | 默认值 |
+| ---------------- | ---------------------------------------- | ---- | ------ |
+| `全局偏移量`     | 全部谱面会在本地偏移量之上使用此偏移量。 | 滑条 | `0ms`  |
+| `偏移量设置向导` | 打开偏移量设置向导。                     | 按钮 |        |
 
-## Online
+- 关于偏移量设置向导的更多内容，请参阅[偏移量设置向导](/wiki/Offset_Wizard)。
+- 关于如何使用偏移量设置向导的更多内容，请参阅[如何使用偏移量设置向导](/wiki/How_to_use_the_Offset_Wizard).
 
-![Online 图标](img/online.jpg "Online 图标")
+## 外观
 
-This section is about chat，spectators，multi，and osu!direct.
+![外观图标](img/skin.jpg "外观图标")
 
-### Alerts and Privacy
+这部分是关于外观的设置。
 
-|                           名称                           |                                                                   用途                                                                   |  类别  | 默认值 |
-| -------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------ |
-| `Chat ticker`                                            | Display the most recent chat message at the bottom of the screen. The message that displays is from the current channel you are viewing. | 复选框 | `关闭` |
-| `Automatically hide chat during gameplay`                | If chat is open during breaks or in-game menus，the osu!客户端 will automatically hide it when gameplay starts again.                    | 复选框 | `开启` |
-| `Show a notification pop-up when someone says your name` | When someone mentions your username in chat，a flashing notification will appear.                                                        | 复选框 | `开启` |
-| `Play a sound when someone says your name`               | When someone mentions your username in chat，a sound will play.                                                                          | 复选框 | `开启` |
-| `Share your city location with others`                   | Share your city location in your user card (your country is already shared).                                                             | 复选框 | `关闭` |
-| `Show spectators`                                        | Show a list of current spectators on the left of the screen during gameplay.                                                             | 复选框 | `开启` |
-| `Automatically link beatmaps to spectators`              | Send currently-playing beatmap to `#spectator` channel when you have spectators.                                                         | 复选框 | `开启` |
-| `Show notification popups instantly during gameplay`     | Allow a push notification to display during gameplay. If disabled，osu!客户端 will wait until you are done playing.                      | 复选框 | `开启` |
-| `Allow multiplayer game invites from all users`          | Allow multi game invites from anyone. Disabling this will limit multiplayer invites to friends only.                                     | 复选框 | `开启` |
+### 皮肤
 
-### Integration
+|           名称           |                                                 用途                                                  |   类别   | 默认值 |
+| ------------------------ | ----------------------------------------------------------------------------------------------------- | -------- | ------ |
+| `皮肤示例图`             | 显示当前皮肤的不同的游戏元素贴图。点击在不同组合中循环。                                              | 按钮     |        |
+| `当前皮肤`               | 改变皮肤。下拉菜单的选项会根据`skin/`文件夹的内容改变。(名称会根据他们的文件夹命名)                   | 下拉菜单 | `默认` |
+| `预览皮肤`               | 用auto mod随机挑选一张谱面用当前皮肤播放。模式由谱面选择界面的模式决定。                              | 按钮     |        |
+| `打开皮肤文件夹`         | 打开当前使用皮肤的文件夹。                                                                            | 按钮     |        |
+| `导出.osk`               | 将当前皮肤导出为`.osk`文件。当你的osu!客户端完成导出，它会自动打开含有`.osk`文件的文件夹。            | 按钮     |        |
+| `忽略所有谱面自带的皮肤` | 默认使用你自己设置的皮肤，而不是谱面自带的皮肤。这不包括击打音效。                                    | 复选框   | `关闭` |
+| `使用皮肤中的音效`       | 使用皮肤带有的击打音效来替代谱面包含的击打音效。                                                      | 复选框   | `开启` |
+| `太鼓模式中使用太鼓皮肤` | 当前皮肤若支持，使用osu!taiko特定的皮肤元素。另请参阅[Skinning/osu!taiko](/wiki/Skinning/osu!taiko)。 | 复选框   | `关闭` |
+| `总是使用皮肤中的光标`   | 将使用皮肤的而不是谱面中的光标。                                                                      | 复选框   | `开启` |
+| `光标大小`               | 调节光标大小。                                                                                        | 滑条     | `1x`   |
+| `自动缩放光标`           | 自动根据当前谱面的CS来调节光标大小。                                                                  | 复选框   | `关闭` |
+| `拖球的颜色随滑条改变`   | 拖球会使用当前连击的颜色（通常为透明）。需要皮肤支持。                                                | 复选框   | `开启` |
 
-|                    名称                    |                                                               用途                                                               |  类别  | 默认值 |
-| ------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- | ------ | ------ |
-| `Integrate with Yahoo! status display`     | Your Yahoo! messenger will show the song you are currently playing or listening to. Needs to be set from the osu!website.        | 复选框 | `关闭` |
-| `Integrate with MSN Live status display`   | Your Windows Live Messenger will show the song you are currently playing or listening to.  Needs to be set from the osu!website. | 复选框 | `关闭` |
-| `Automatically start osu!direct downloads` | (For [osu!supporters](/wiki/osu!supporter/) only) When spectating or multiplaying，the beatmap will be downloaded automatically. | 复选框 | `开启` |
-| `Prefer no-video downloads`                | (For [osu!supporters](/wiki/osu!supporter/) only) osu!direct downloads will be confined to no-video versions of beatmaps.        | 复选框 | `关闭` |
+## 输入
 
-### In-Game Chat
+![输入图标](img/input.jpg "输入图标")
 
-|                     名称                      |                         用途                          |  类别  |  默认值   |
-| --------------------------------------------- | ----------------------------------------------------- | ------ | --------- |
-| `Filter offensive words`                      | Replace offensive words with `*beep*`.                | Button | `关闭`    |
-| `Filter foreign characters`                   | Removes any non-standard ASCII characters.            | Button | `关闭`    |
-| `Log private messages`                        | Private messages will be saved to the `osu!/` folder. | Button | `关闭`    |
-| `Block private messages from non-friends`     | Enabling this will confine PMs to friends only.       | Button | `关闭`    |
-| `Chat ignore list (space-separated list)`     | Words you put here will be ignored.                   | Text   | _(Empty)_ |
-| `Chat highlight words (space-separated list)` | Words you put here will be highlighted in chat.       | Text   | _(Empty)_ |
+这部分是关于输入设备的设置。
 
-## Maintenance
+### 鼠标
 
-![Manitenance 图标](img/manitenance.jpg "Manitenance 图标")
+|             名称             |                                用途                                |   类别   |      默认值      |
+| ---------------------------- | ------------------------------------------------------------------ | -------- | ---------------- |
+| `鼠标灵敏度`                 | 调节鼠标的灵敏度。可能会同时打开`Raw Input（鼠标原始输入）`。      | 滑条     | `1x`             |
+| `Raw Input（鼠标原始输入）`  | 无视Windows鼠标加速及后期处理，直接从硬件（鼠标/手写板）读取坐标。 | 按钮     | 关闭             |
+| `绝对坐标只映射在osu!窗口中` | 将输入设备（如手写板）的坐标仅映射到osu!客户端。                   | 按钮     | 开启             |
+| `开启光标边界`               | 防止光标离开osu!客户端窗口。详情见下。                             | 下拉菜单 | `只在全屏模式时` |
+| `在游戏中禁用鼠标滚轮`       | 在游戏中禁止使用鼠标滚轮调节音量。                                 | 按钮     | 关闭             |
+| `在游戏中禁用鼠标按键`       | 在游戏中禁止使用鼠标按键击打。对于键盘玩家有帮助。                 | 按钮     | 关闭             |
+| `点击波纹`                   | 点击时，光标周围出现滴水形波纹。                                   | 按钮     | 关闭             |
 
-This section is about beatmaps，updates，and debugging (cuttingedge only).
+- 当`Raw Input（鼠标原始输入）`开启时，客户端会显示每秒坐标刷新次数和毫秒输入延迟。
+- 波纹效果可以在游戏中按 `M1` 和 `M2` 来显示。
 
-### General
+---
 
-|            名称             |                                                          用途                                                          |  类别  |
-| --------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ------ |
-| `Delete all unranked maps`  | Delete all unranked maps in your songs folder.                                                                         | Button |
-| `Repair folder permissions` | Give read/write permission to the osu!客户端 for access to its folders. (Will need administrator password to proceed.) | Button |
-| `Mark all maps as played`   | Mark all maps as "played".                                                                                             | Button |
-| `Run osu! updater`          | Close the osu!客户端 and open the updater to search for updates and download if any.                                   | Button |
+如果你打开了`开启光标边界`的下拉菜单，你会有以下设定供选择：
+
+|       名称       |                            用途                            |
+| ---------------- | ---------------------------------------------------------- |
+| `从不`           | 从不限制光标离开osu!客户端.                                |
+| `只在全屏模式时` | 仅在全屏模式时限制光标离开osu!客户端。（包括`不缩放画面`） |
+| `总是`           | 在任何情况下均限制光标离开osu!客户端。                     |
+
+### 键盘
+
+|        名称         |                                            用途                                            | 类别 |
+| ------------------- | ------------------------------------------------------------------------------------------ | ---- |
+| `按键设置`          | 显示设置按键的对话框。更多内容请参阅[按键设置](/wiki/Keyboard_Bindings)。                  | 按钮 |
+| `osu!mania键位排列` | 显示设置osu!mania键位的对话框。更多内容请参阅[osu!mania键位排列](/wiki/osu!mania_Layout)。 | 按钮 |
+
+### 其它
+
+|           名称            |                                   用途                                    |  类别  | 默认值 |
+| ------------------------- | ------------------------------------------------------------------------- | ------ | ------ |
+| `强制启用触屏/数位板支持` | 提高对数位板和平板PC的兼容性。                                            | 复选框 | `关闭` |
+| `启动Wiimote/TaTaCon支持` | 启用Wii太鼓控制器和Wiimote支持。启用前请先确认你的Wiimote已通过蓝牙配对。 | 复选框 | `关闭` |
+
+## 编辑器
+
+![编辑器图标](img/editor.jpg "编辑器图标")
+
+这部分是关于[谱面编辑器](/wiki/Beatmap_Editor/)的设置。
+
+以下设置仅在谱面编辑器或测试模式（测试谱面）中生效。
+
+### 常规
+
+|             名称              |                      用途                      |  类别  | 默认值 |
+| ----------------------------- | ---------------------------------------------- | ------ | ------ |
+| `背景视频`                    | 编辑时播放谱面背景视频。                       | 复选框 | `关闭` |
+| `使用默认皮肤`                | 编辑时仅使用osu!的默认皮肤。无视当前皮肤设置。 | 复选框 | `关闭` |
+| `渐出滑条`                    | 编辑时启用渐出滑条。                           | 复选框 | `开启` |
+| `击打动画`                    | 编辑时启用击打动画。                           | 复选框 | `关闭` |
+| `Follow points（物件间轨迹）` | 编辑时出现跟游戏模式一样的轨迹。               | 复选框 | `开启` |
+| `堆叠效果`                    | 编辑时出现跟游戏模式一样的堆叠效果。           | 复选框 | `开启` |
+
+以上设置可以在谱面编辑器中的`View`菜单中手动覆盖。
+
+## 在线
+
+![在线图标](img/online.jpg "在线图标")
+
+这部分是关于聊天、旁观者、多人游戏和osu!direct的设置。
+
+### 提示与隐私
+
+|                名称                |                                                                    用途                                                                    |  类别  | 默认值 |
+| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ------ | ------ |
+| `聊天消息提示`                     | 在聊天窗口不可见时，在屏幕底部显示单行新消息。                                                                                             | 复选框 | `关闭` |
+| `游戏中自动隐藏聊天窗口`           | 如果聊天窗口在间歇或游戏中菜单被打开时，osu!客户端会在游戏继续时自动关闭它。                                                               | 复选框 | `开启` |
+| `当其他玩家提到你的名字时弹出通知` | 当其他玩家提到你的名字时，一条消息将在屏幕底部闪现（包括游戏时）。                                                                         | 复选框 | `开启` |
+| `显示新消息提醒`                   | 当聊天有新消息时，显示通知。                                                                                                               | 复选框 | `开启` |
+| `当其他人提到你的名字时播放音效`   | 当其他人在聊天中提到你的名字时将播放一个音效。                                                                                             | 复选框 | `开启` |
+| `显示你所在的城市或地区`           | 默认情况下，其他人仅能看到你所在的国家，启用此选项会让他们看到你所在的城市或地区。                                                         | 复选框 | `关闭` |
+| `显示旁观者`                       | 在游戏左侧显示旁观者列表。                                                                                                                 | 复选框 | `开启` |
+| `自动向观众发送谱面的下载地址`     | 当你被旁观时，系统会自动在`#spectator`频道中发送你正在玩的谱面信息。                                                                       | 复选框 | `开启` |
+| `游戏中实时显示通知`               | 允许游戏中以彩色窗口的形式将通知显示在屏幕底部。如果未选中，通知会在结束游戏后显示。如果未选中此选项，osu!客户端会在你结束游戏后显示通知。 | 复选框 | `开启` |
+| `显示好友上线/离线通知`            | 当你的好友上线/离线时将显示通知。                                                                                                          | 复选框 | `开启` |
+| `允许来自所有玩家的多人游戏邀请`   | 取消此选项会限定多人游戏邀请者只能为好友。                                                                                                 | 复选框 | `开启` |
+
+### 关联
+
+|           名称           |                                               用途                                               |  类别  | 默认值 |
+| ------------------------ | ------------------------------------------------------------------------------------------------ | ------ | ------ |
+| `关联到雅虎通状态`       | 你的雅虎通将显示你游戏中播放的歌曲。                                                             | 复选框 | `关闭` |
+| `关联到MSN Live状态`     | 你的Windows Live Messenger将显示游戏中播放的歌曲。                                               | 复选框 | `关闭` |
+| `自动开始osu!direct下载` | （仅供[osu!supporters](/wiki/osu!supporter/)） 旁观和多人游戏时自动下载缺少的谱面。              | 复选框 | `开启` |
+| `游戏内下载不带视频`     | （仅供[osu!supporters](/wiki/osu!supporter/)）启用后，从osu!direct下载的谱面将不会附带背景视频。 | 复选框 | `关闭` |
+
+### 游戏内聊天
+
+|               名称               |                    用途                    | 类别 | 默认值 |
+| -------------------------------- | ------------------------------------------ | ---- | ------ |
+| `过滤冒犯性词汇`                 | 尝试过滤可能冒犯特定文化或低龄人群的词汇。 | 按钮 | `关闭` |
+| `过滤非英文字符`                 | 删除任何非ASCII字符。                      | 按钮 | `关闭` |
+| `保存私聊记录`                   | 所有私聊将会已txt格式保存至`osu!/`文件夹。 | 按钮 | `关闭` |
+| `只接收好友发来的私聊消息`       | 启用后，非好友将无法向你发送私聊。         | 按钮 | `关闭` |
+| `屏蔽以下词汇（以半角空格分隔）` | 无视以下词汇。                             | 文本 | （无） |
+| `高亮以下词汇（以半角空格分隔）` | 高亮以下词汇。                             | 文本 | （无） |
+
+## 管理
+
+![管理图标](img/maintenance.jpg "管理图标")
+
+这部分是关于谱面、更新和debug（仅限测试版）的设置。
+
+### 常规
+
+|           名称           |                            用途                            | 类别 |
+| ------------------------ | ---------------------------------------------------------- | ---- |
+| `删除所有非Ranked谱面`   | 删除所有你的谱面库中非Ranked的谱面。                       | 按钮 |
+| `修复文件夹权限`         | 向osu!客户端提供其文件的读写权限。（会需要管理员密码继续） | 按钮 |
+| `将所有谱面标记为已玩过` | 将所有谱面标记为已玩过。                                   | 按钮 |
+| `启动osu!更新程序`       | 关闭osu!客户端并打开更新程序来更新客户端。                 | 按钮 |
 
 ### Debug
 
-These settings are only in cuttingedge.
+以下设置仅存在于测试版当中。
 
-*Caution：Restarting the osu!客户端 does not revert these settings and that enabling `Debug_DisableSpriteDraw` will make the screen black (you may have trouble trying to turn this back off)!*
+警告：重启osu!客户端将不会将以下设定恢复默认，启用`Debug_DisableSpriteDraw`会导致屏幕变黑（你可能会在关闭时遇到麻烦！）
 
-|               名称                |                    用途                     |  类别  | 默认值 |
-| --------------------------------- | ------------------------------------------- | ------ | ------ |
-| `Debug_NoAsyncReads`              |                                             | 复选框 | `关闭` |
-| `Debug_DisableGCLowLatency`       |                                             | 复选框 | `关闭` |
-| `Debug_DisableBackgroundSaves`    |                                             | 复选框 | `关闭` |
-| `Debug_DisableTextRendering`      | Stops updating and rendering text.          | 复选框 | `关闭` |
-| `Debug_DisableSpriteDraw`         | Stops drawing everything.                   | 复选框 | `关闭` |
-| `Debug_DisableBlendingModes`      | Set every sprites' blend mode to Normal.    | 复选框 | `关闭` |
-| `Debug_DisablePerformanceLogging` | Stops saving performance issues in the log. | 复选框 | `关闭` |
-| `Debug_DisableTextureUploads`     | Stops updating certain sprites and text.    | 复选框 | `关闭` |
-| `Debug_ForceIPv4FallbackPath`     | Force use of IPv4 instead of IPv6.          | 复选框 | `关闭` |
-| `Debug_DisableBancho`             | Completely disables osu!bancho.             | 复选框 | `关闭` |
-| `Debug_DisableFBO`                |                                             | 复选框 | `关闭` |
-| `Debug_DisableVBO`                |                                             | 复选框 | `关闭` |
-| `Debug_DisableMultipleVBOs`       |                                             | 复选框 | `关闭` |
-| `Debug_DisableSliderRendering`    | Stops _all_ sliders from being rendered.    | 复选框 | `关闭` |
+|               名称                |                用途                |  类别  | 默认值 |
+| --------------------------------- | ---------------------------------- | ------ | ------ |
+| `Debug_NoAsyncReads`              |                                    | 复选框 | `关闭` |
+| `Debug_DisableGCLowLatency`       |                                    | 复选框 | `关闭` |
+| `Debug_DisableBackgroundSaves`    |                                    | 复选框 | `关闭` |
+| `Debug_DisableTextRendering`      | 停止更新和渲染文字。               | 复选框 | `关闭` |
+| `Debug_DisableSpriteDraw`         | 停止全部图像更新。                 | 复选框 | `关闭` |
+| `Debug_DisableBlendingModes`      | 将全部sprite的blend mode恢复标准。 | 复选框 | `关闭` |
+| `Debug_DisablePerformanceLogging` | 停止在log中保存性能问题。          | 复选框 | `关闭` |
+| `Debug_DisableTextureUploads`     | 停止更新特定sprite和文字。         | 复选框 | `关闭` |
+| `Debug_ForceIPv4FallbackPath`     | 强制使用IPv4而不是IPv6。           | 复选框 | `关闭` |
+| `Debug_DisableBancho`             | 完全禁用osu!bancho。               | 复选框 | `关闭` |
+| `Debug_DisableFBO`                |                                    | 复选框 | `关闭` |
+| `Debug_DisableVBO`                |                                    | 复选框 | `关闭` |
+| `Debug_DisableMultipleVBOs`       |                                    | 复选框 | `关闭` |
+| `Debug_DisableSliderRendering`    | 停止全部滑条渲染。                 | 复选框 | `关闭` |
 
-### Build Version
+### 版本号
 
-Last but not least，the osu!客户端 build version.
+最后，osu!客户端的版本号。
 
-Here，you can see which build version you currently have and which type of build updates you are receiving.
-Clicking on this will direct you to the Release Notes using your preferred browser.
+在这里，你可以看到你现在使用的版本号以及你在接收何种版本更新。
+点击版本号会用你的默认浏览器打开该版本的发布附文。
 
-The builds are versioned using this scheme:
+版本号以如下方式标记：
 
 ```
 b{YYYY}{MM}{DD}.{revision}{type}
 ```
 
-- `{YYYY}` is the build year
-- `{MM}` is the build month
-- `{DD}` is the build day
-- `{revision}` is the build revision
-  - If there is no build revision number，the decimal point will be removed.
-- `{type}` is the build type
-  - If there is no build type value，assume it is `Stable`.
+- `{YYYY}` 是版本年份
+- `{MM}` 是版本月份
+- `{DD}` 是版本日期
+- `{revision}` 是版本修订号
+  - 如果没有版本修订，小数点将被移除。
+- `{type}` 是版本种类
+  - 如果没有版本种类，即为`稳定版`。
 
-## Trivia
+## 琐事
 
-- If you type in a name but leave the password form empty，_osu!_ will use that name when saving the score locally.
-- Opening the options sidebar will automatically trigger `osu! is up-to-date!`'s function (check for updates).
-- The `Seasonal backgrounds` option was added after positive feedback was given to the osu!team.
-  - More details：[main menu background changes](https://osu.ppy.sh/community/forums/topics/606931)
+- 如果你仅在用户名输入了名称，却未输入密码，_osu!_ 会使用该名称保存本地分数。
+- 打开选项侧边栏会自动触发`osu!已经是最新版！`的功能（检查更新）。
+- `季节性背景`功能是在向osu!小队积极反映过后被添加的。
+  - 更多信息：[主界面背景更换](https://osu.ppy.sh/community/forums/topics/606931)
 
-### History
+### 历史
 
-- The old options screen was an actual screen that had tabs，buttons，and a dark pale blue background.
-- The old options screen also featured a skin selection screen that also allows you to preview live play of a beatmap in osu!standard.
-  - After the options screen was moved over to a sidebar，this screen was still accessible by opening a skin file.
-    - Access to this was later removed after Skin Previews and the Live Preview functions came to be.
+- 曾经的选项界面实际上是一个有分类、按钮和一个深蓝色背景的界面。
+- 曾经的选项界面也提供过能够让你预览在osu!standard模式游戏某个谱面的皮肤选择界面。
+  - 曾经的选项界面被移至侧边栏后，这个界面仍然可以通过打开特定皮肤文件访问。
+    - 这个访问功能后来在实时皮肤预览功能实现后被移除了。

@@ -349,11 +349,13 @@ This section is about chat, spectators, multi, and osu!direct.
 | `Chat ticker`                                            | Display the most recent chat message at the bottom of the screen. The message that displays is from the current channel you are viewing. | Checkbox | `Disabled` |
 | `Automatically hide chat during gameplay`                | If chat is open during breaks or in-game menus, the osu!client will automatically hide it when gameplay starts again.                    | Checkbox | `Enabled`  |
 | `Show a notification pop-up when someone says your name` | When someone mentions your username in chat, a flashing notification will appear.                                                        | Checkbox | `Enabled`  |
+| `Show chat message notifications`                        | A notification will be shown when new chat messages arrive.                                                                              | Checkbox | `Enabled`  |
 | `Play a sound when someone says your name`               | When someone mentions your username in chat, a sound will play.                                                                          | Checkbox | `Enabled`  |
 | `Share your city location with others`                   | Share your city location in your user card (your country is already shared).                                                             | Checkbox | `Disabled` |
 | `Show spectators`                                        | Show a list of current spectators on the left of the screen during gameplay.                                                             | Checkbox | `Enabled`  |
 | `Automatically link beatmaps to spectators`              | Send currently-playing beatmap to `#spectator` channel when you have spectators.                                                         | Checkbox | `Enabled`  |
 | `Show notification popups instantly during gameplay`     | Allow a push notification to display during gameplay. If disabled, osu!client will wait until you are done playing.                      | Checkbox | `Enabled`  |
+| `Show notification popups when friends change status`    | Notifications will be shown when friends go online/offline.                                                                              | Checkbox | `Enabled`  |
 | `Allow multiplayer game invites from all users`          | Allow multi game invites from anyone. Disabling this will limit multiplayer invites to friends only.                                     | Checkbox | `Enabled`  |
 
 ### Integration
@@ -378,7 +380,7 @@ This section is about chat, spectators, multi, and osu!direct.
 
 ## Maintenance
 
-![Manitenance icon](img/manitenance.jpg "Manitenance icon")
+![Maintenance icon](img/maintenance.jpg "Maintenance icon")
 
 This section is about beatmaps, updates, and debugging (cuttingedge only).
 
