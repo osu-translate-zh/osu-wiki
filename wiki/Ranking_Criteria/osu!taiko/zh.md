@@ -44,10 +44,10 @@ _父页面：[Ranking Criteria](/wiki/Ranking_Criteria)_
 规则就是规则，有约束性和强制性。它们不是指南。在任何情况下都不允许违背规则。
 
 - **每个音符一定要和前一个音符清晰地分开，玩家必须能分辨每一个音符的颜色。**
-- **音符要能够表达音乐的一部分（或多部分），为演奏歌曲起到画龙点睛的效果，亦或是展现作者自己对于音乐的思考和拍点的创新。**跟音必须准确无误，不能反拍。谱面中音符密度安排应该切合原曲。自创节奏一定要能给玩家较强的演奏感。只有切合原曲的写作，辅以适当发挥，才符合音乐游戏谱面写作的标准。
-- **`忽略第一拍小节线`功能能且只能在当小节线出现会影响游戏体验时使用。在变速谱面和SV变化频繁时请善用这个功能。 **
+- **音符要能够表达音乐的一部分（或多部分），为演奏歌曲起到画龙点睛的效果，亦或是展现作者自己对于音乐的思考和拍点的创新。** 跟音必须准确无误，不能反拍。谱面中音符密度安排应该切合原曲。自创节奏一定要能给玩家较强的演奏感。只有切合原曲的写作，辅以适当发挥，才符合音乐游戏谱面写作的标准。
+- **`忽略第一拍小节线`的功能只能在当小节线出现会影响游戏体验时使用。在变速谱面和SV变化频繁时请善用这个功能。** 
 - **来自太鼓原版的背景不允许使用。** 因为不同分辨率的屏幕会有不同的图片裁剪方式，这些图片也许会与作者想象的显示方式不同。
-- **不允许通过错误放置的滑条终止点来修正滑条击打点。**这是一个错误，会在将来被修正。
+- **不允许通过错误放置的滑条终止点来修正滑条击打点。** 这是一个错误，将来会被修正。
 
 ### 指南
 
@@ -61,74 +61,72 @@ _父页面：[Ranking Criteria](/wiki/Ranking_Criteria)_
 - **两个音符不要重合太紧。一定要让每个音符的颜色仍然清晰可辨。**重合音符在乐曲速度一定且音符节奏合适时使用为宜。
 - **请不要放置完全无法预料或没有意义的音符。**节奏可以通过更好的方法控制，例如适当留白、长短鱼蛋结合。
 - **Kiai 时间只能被用来突出乐曲的高潮部分。**不鼓励使用只为了特效而使用的 Kiai 时间安排，主要因为 Kiai 的部分特效对于配置较低的计算机会带来很大的 CPU 压力，从而影响玩家游戏体验。同时对于癫痫患者不友好。
-- **基准滑条速度应该一直保持为 1.40。**这是为了在游戏区域安排最恰当数量的音符，并在音符之间留下较为恰当的空白。
-- **滑条打点数应该跟随乐曲设置。**通常情况下应该设置为 1。如果该曲的主要节奏是 3/4 拍，或者黄条周围处用了 1/3 节奏安排音符，请设置滑条打点数为 3。
-- **跟音跟踏实。想好大致思路后，谱面跟哪一层就一直跟到底。**不要一会跟人声，一会又跟鼓点。这会对谱面质量产生极大的影响，同时玩家会觉得摸不着头脑。
-- **设置恰当的转盘音量。**当背景音量很低时，把转盘音量设置较低是可取的。其余情况下，务必给转盘设置合理（较高）的音量，以给玩家更好的打击感。
-- **对于变速曲，请在改变 BPM 的同时改变滑条速度，以让音符移动速度保持基本不变。**这样可以提高谱面可读性，增强了游戏体验，同时避免了因为 BPM 变化带来的音符重合。
+- **基准滑条速度应该一直保持为 1.40。** 这是为了在游戏区域安排最恰当数量的音符，并在音符之间留下较为恰当的空白。
+- **滑条打点数应该跟随乐曲设置。** 通常情况下应该设置为 1。如果该曲的主要节奏是 3/4 拍，或者黄条周围处用了 1/3 节奏安排音符，请设置滑条打点数为 3。
+- **跟音跟踏实。想好大致思路后，谱面跟哪一层就一直跟到底。** 不要一会跟人声，一会又跟鼓点。这会对谱面质量产生极大的影响，同时玩家会觉得摸不着头脑。
+- **设置恰当的转盘音量。** 当背景音量很低时，把转盘音量设置较低是可取的。其余情况下，务必给转盘设置合理（较高）的音量，以给玩家更好的打击感。
+- **对于变速曲，请在改变 BPM 的同时改变滑条速度，以让音符移动速度保持基本不变。** 这样可以提高谱面可读性，增强了游戏体验，同时避免了因为 BPM 变化带来的音符重合。
 - **不要在转盘后很快安排音符。** 转盘需要淡出时间，并且会占用屏幕的绝大部分。玩家在完成转盘后需要一段时间读取后面的音符。在转盘结束后插入 1/2 拍的留白是个不错的主意。
-- **There should be at least 1/2 distance between a spinner and its preceding note.** This is to ensure they do not overlap substantially and assure readability.（这一段内容已经整合到了上一条。）
-- **自定义击打音效一定要是鼓的音色，或者和鼓相关。**其中音色较为低沉的应该安排为“咚”，较高的安排为“咔”。
+- **自定义击打音效一定要是鼓的音色，或者和鼓相关。** 其中音色较为低沉的应该安排为“咚”，较高的安排为“咔”。
 
 ## 难度相关
 
-**与节奏相关的规则对 BPM 在 180 左右的乐曲适用。**如果选择的乐曲速度远低于这个数值或者高于它（通常 BPM＜120 或者 BPM＞220 的），或者谱面本身出于某些原因使用了正常 BPM 的一半或两倍，规则就应该适当相应更改。这一点请作者充分理解并注意。
-
-If the beatmap follows a double or halved BPM style, Slider Velocity and all snapping variables in this ruleset need to be adjusted respectively.（内容已经整合到上一段）
+**与节奏相关的规则对 BPM 在 180 左右的乐曲适用。** 如果选择的乐曲速度远低于这个数值或者高于它（通常 BPM＜120 或者 BPM＞220 的），或者谱面本身出于某些原因使用了正常 BPM 的一半或两倍，规则就应该适当相应更改。这一点请作者充分理解并注意。
 
 ### ![花](/wiki/shared/diff/easy-t.png "Kantan") 花
 
 #### 规则
-- **如果使用了 1/2 音型，配色一定要足够容易，并且在该段后适当留白。**对于 3/4 拍的曲子，最多只能在 1/3 拍上安排音符。
-- **不允许 1/4 或更密的音型。**这些节奏对于新手较为困难，要尽量避免。
+- **如果使用了 1/2 音型，配色一定要足够容易，并且在该段后适当留白。** 对于 3/4 拍的曲子，最多只能在 1/3 拍上安排音符。
+- **不允许 1/4 或更密的音型。** 这些节奏对于新手较为困难，要尽量避免。
 
 #### 指南
-- **1/1 的音符不宜超过 7 连。**太长的连续音符对新手太过困难。比较长的 1/1 连续音符也应该跟一段留白。
-- **谱面音型主体应为 2/1 或 4/1 或更慢。**偶尔夹带 1/1 节奏没有问题，但注意配色和留白。
-- **在接连安排了 16-20 节的音符后，不妨放置一段 3 节或更长的留白。**频繁的较短留白对新手而言可能不太适应。
-- **谨慎改变滑条速度。**滑条速度仅应当在节奏和速度完全不同的两段中有所调整，同时不应有很大的变化，更不允许突变。
+- **1/1 的音符不宜超过 7 连。** 太长的连续音符对新手太过困难。比较长的 1/1 连续音符也应该跟一段留白。
+- **谱面音型主体应为 2/1 或 4/1 或更慢。** 偶尔夹带 1/1 节奏没有问题，但注意配色和留白。
+- **在接连安排了 16-20 节的音符后，不妨放置一段 3 节或更长的留白。** 频繁的较短留白对新手而言可能不太适应。
+- **谨慎改变滑条速度。** 滑条速度仅应当在节奏和速度完全不同的两段中有所调整，同时不应有很大的变化，更不允许突变。
 
-#### 难度设置指南
+#### 难度设定指南
 - OD≤4。
-- HP≥6。在音符数目较多时可以适当降低到 6 以下。
+- HP≥6。在音符数目较多时，HP 可以适当降低到 6 以下。
 
-### ![Futsuu](/wiki/shared/diff/normal-t.png "Futsuu") 竹
+### ![竹](/wiki/shared/diff/normal-t.png "Futsuu") 竹
 
-#### Rules
-- **不允许出现 1/4 或更密的音型。**这些节奏对于新手较为困难，要尽量避免。
+#### 规则
+- **不允许出现 1/4 或更密的音型。** 这些节奏对于新手较为困难，要尽量避免。
+ 
+#### 指南
+- **1/3 的音符不宜超过 2 连。** 稍长的连续音符，尤其是 1/3 音符对新手太过困难。使用时请控制配色难度，并在这样的音型后适当留白。
+- **1/2 的音符不宜超过 7 连。** 太长的连续音符对新手太过困难。
+- **谱面音型主体应为 1/1 或 2/1或更慢。** 偶尔夹带 1/2 节奏没有问题，但注意配色和留白。
+- **在接连安排了 16-20 节的音符后，不妨放置一段 2 节或更长的留白。** 频繁的较短留白对新手而言可能不太适应。
+- **谨慎改变滑条速度。** 原则上允许使用简单的滑条速度变化。但注意：滑条速度仅应当在节奏和速度完全不同的两段中有所调整，同时不应有很大的变化，更不允许突变。
+ 
+如果您想使用“竹”难度作为谱面的最低难度，它还需要满足以下附例：
 
-- **1/3 的音符不宜超过 2 连。**稍长的连续音符，尤其是 1/3 音符对新手太过困难。使用时请控制配色难度，并在这样的音型后适当留白。
-- **1/2 的音符不宜超过 7 连。**太长的连续音符对新手太过困难。
-- **谱面音型主体应为 1/1 或 2/1或更慢。**偶尔夹带 1/2 节奏没有问题，但注意配色和留白。
-- **在接连安排了 16-20 节的音符后，不妨放置一段 2 节或更长的留白。**频繁的较短留白对新手而言可能不太适应。
-- **谨慎改变滑条速度。**滑条速度仅应当在节奏和速度完全不同的两段中有所调整， 同时不应有很大的变化，更不允许突变。
-- **允许使用简单的滑条速度变化。**
+#### 规则
+- **不允许出现 1/2 或更密的音型。** 这些节奏对于新手较为困难，要尽量避免。
 
-If you plan on using a Futsuu as the lowest difficulty of a mapset, it has to abide by the following rules and guidelines:
+#### 指南
+- **1/2 的音符不宜超过 4 连。**
+- **谨慎改变滑条速度。** 滑条速度仅应当在节奏和速度完全不同的两段中有所调整，同时不应有很大的变化，更不允许突变。
 
-#### Rules
-- **Patterns on snaps faster than 1/2 are disallowed.** These patterns are too complex for beginner players.
+#### 难度设定指南
+- OD≤5。
+- HP≥5。在音符数目较多时，HP 可以适当降低到 5 以下。
 
-#### Guidelines
-- **1/2 patterns should not be longer than four notes.**
-- **Slider velocity changes should be used cautiously.** Changes should only happen for sections of different pacings and slider velocity should not be drastically variable.
+### ![松](/wiki/shared/diff/hard-t.png "Muzukashii") 松
+ 
+#### 规则
+- **不允许出现 1/8 或更密的音型。** 这些节奏对于这一难度的目标玩家而言较为困难，要尽量避免。
+- **不允许在 1/4 拍上使用大音。** 这样的鼓点安排对于“松”难度而言不合理。
 
-#### Difficulty Setting Guidelines
-- OD should be 5 or less.
-- HP should be 5 or more. In cases of higher note count, HP could be slightly adjusted to lower than 5.
-
-### ![Muzukashii](/wiki/shared/diff/hard-t.png "Muzukashii") Muzukashii
-
-#### Rules
-- **Patterns on snaps faster than 1/6 are disallowed.** These patterns are too complex for the target audience of this difficulty level.
-- **Finisher notes must not be used in any 1/4 patterns in this difficulty.** These patterns are not suitable for this difficulty level.
-
-#### Guidelines
-- **1/6 patterns should not be longer than four notes on moderate to low BPM (~140).** Anything longer is very situational and normally too complex. Patterns like this should be followed by a rest moment and avoided at faster BPMs.
-- **1/4 patterns should not be longer than five notes.** Anything longer is likely to be too straining for intermediate players.
-- **Main snapping should consist of mostly 1/2, 1/1 or slower rhythms.** Occasionally using 1/4 rhythms is acceptable.
-- **Try to insert at least 1 rest moment that is 3/2 or longer after 16/1 to 20/1 of continuous mapping.** Less frequent rest moments or shorter ones may put too much strain on intermediate players.
-- **Manipulating slider velocity is allowed**, but slider velocity should only be changed for sections of music with different pacings and should not be drastically variable.
+#### 指南
+- **1/6 的音符不宜超过 4 连。（针对 BPM<140 的乐曲）** 稍长的连续音符通常会显得难以上手。使用时应当在这样的音型后适当留白。对于 BPM 较高的曲子，应该避免这样的写法。
+- **1/4 的音符不宜超过 5 连。** 太长的连续音符对进阶玩家略显困难。
+- **谱面音型主体应为 1/2 或 1/1或更慢。** 偶尔夹带 1/4 节奏没有问题，但注意配色和留白。
+- **在接连安排了 16-20 节的音符后，不妨放置一段 1.5 节或更长的留白。** 频繁的较短留白对进阶玩家不是很友好。
+- **允许改变滑条速度。** 但滑条速度仅应当在不同的两段中有所调整，同时不允许突变。
+- **慎用配色复杂的 1/4 鱼蛋。** 
 - **1/4 patterns with one or more color changes should be used sparingly.** They should be avoided in conjunction with other patterns of this nature because the target audience of this difficulty level is not used to patterns of this complexity.
 - **1/4 patterns which are longer than three notes should consist of one color change at most which should take place at the start or the end of the pattern.** Patterns more complex than that would be too demanding for intermediate players. These patterns should be followed by a rest moment.
 
