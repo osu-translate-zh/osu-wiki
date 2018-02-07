@@ -1,39 +1,39 @@
-# osu!supporter
+# osu!支持者
 
-![osu!supporter tag](/wiki/shared/osu!supporter.png "osu!supporter tag")
+![osu!支持者 标志](/wiki/shared/osu!supporter.png "osu!supporter tag")
 
-![osu!supporter link on main page](Osu-support.png " osu!supporter link on main page.")
+![主页上的osu!支持者 链接。](Osu-support.png " osu!supporter link on main page.")
 
-Refer to link: <https://osu.ppy.sh/p/support>
+请参见该链接: <https://osu.ppy.sh/p/support>
 
-Laconic: Donation is used to sustain osu! overall
+简言之：赞助osu!可以从各方面帮助我们。
 
-## Advantages of osu!supporter
+## osu!赞助者的优势
 
--   osu!direct (Direct download in-game)
--   Access to multiplayer when using osu!cuttingedge.
--   [Chat Console](/wiki/Chat_Console): Bright yellow name others can see. However, you still see your username as white.
--   [Beatmap listing](https://osu.ppy.sh/p/beatmaplist): Filter beatmap searches by played and unplayed maps.
--   [Skinning](/wiki/Skinning): Some additional skin elements can be used, such as the [main menu](https://osu.ppy.sh/forum/t/96949)'s background.
-    -   Specifically, `menu-background.jpg` (Main Menu); `triangle.jpg` (Triangles); `welcome.wav` (Welcome Sound); `seeya.wav` (Exiting Sound)
--   [Feature Requests](https://osu.ppy.sh/forum/4): Extra votes for feature requests (2 per month over usual 1 per month).
--   [Song Selection](/wiki/Interface): The ability to view beatmap's in your country / friends / mod-specific rankings in-game.
--   Your Profile: <https://osu.ppy.sh/u/>
-    -   You can add a user page to your profile.
-        -   Your user page will not be deleted when your osu!supporter expires.
-    -   The ability to [change your username](https://osu.ppy.sh/p/profile-username/).
-        -   You can still change your username when your osu!supporter expires.
-    -   Increased beatmap submission limits (up to 10 pending beatmaps total).
--   [Performance Ranking](https://osu.ppy.sh/p/pp): Allow "filter to friends" command.
--   *More to come!*
+-   osu!direct (直接在游戏中下载谱面)
+-   在使用osu!cuttingedge时可以进行多人游戏。
+-   [聊天窗口](/wiki/Chat_Console): 其他玩家视角中，您的名字为亮黄色。 但在您自己的视角中则显示白色。
+-   [谱面列表](https://osu.ppy.sh/p/beatmaplist): 按照已游玩和未游玩的铺面过滤搜索结果。
+-   [皮肤](/wiki/Skinning): 可以使用一些额外的皮肤元素，例如 [主菜单](https://osu.ppy.sh/forum/t/96949)中的背景。
+    -   具体包括： `menu-background.jpg` (主菜单)； `triangle.jpg` (三角形)； `welcome.wav` (欢迎音乐)； `seeya.wav` (退出声音)
+-   [新功能需求](https://osu.ppy.sh/forum/4): 新功能需求的的额外投票 （每月2票，未赞助时每月1票）
+-   [歌曲选择](/wiki/Interface): 能在游戏中查看您所在国家/朋友/mod特定排名。
+-   个人主页: <https://osu.ppy.sh/u/>
+    -   你可以在你的个人主页上添加个人介绍。
+        -   即使你的osu！支持者到期了，你的个人介绍也不会被删除。
+    -   你可以[更改用户名](https://osu.ppy.sh/p/profile-username/).
+        -   你可以免费更改一次用户名，无论你的osu！支持者是否到期。
+    -   增加了谱面提交限制（最多10个审查中的铺面）。
+-   [Performance Ranking](https://osu.ppy.sh/p/pp): 允许“在朋友中筛选”。
+-   *还有更多的功能即将到来！*
 
 ## Business part
 
-### Cost
+### 花费
 
-[Use this currency convertor](https://www.oanda.com/currency/converter/) or [ask Google](https://www.google.com.my/#q=usd+exchange+rate) to check the price on your country rate. The costs are in "USD ($, United States Dollars)" currency.
+[使用此货币转换器](https://www.oanda.com/currency/converter/) 或自行 [百度](https://www.baidu.com) 来查询您国家的汇率。 花费以“美元（$）”为货币单位。
 
-| Months | Cost {USD$} (against actual overall) |
+| 月 | 花费 {$} (总体实际值) |
 |--------|--------------------------------------|
 | 1      | 4                                    |
 | 2      | 8                                    |
@@ -42,26 +42,26 @@ Laconic: Donation is used to sustain osu! overall
 | 8      | 20 (-38%)                            |
 | 9      | 22 (-39%)                            |
 | 10     | 24 (-40%)                            |
-| 12     | 26 (-46% max)                        |
-| 24     | 52 (-46% max)                        |
+| 12     | 26 (最多-46%)                        |
+| 24     | 52 (最多-46%)                        |
 
--   Costs are by individual account. There are no promotions for group gifting.
+-   费用将支付给个人帐户。没有团体馈赠的促销活动。
 
-### Decide
+### 确认
 
-By default, your account will be shown. If you do not want osu!supporter, click on "Gift another player" and write the name of the account. If you want to gift to more than one account, click "Add another tag" button beside the "Checkout" button. After confirming the account(s), drag the white button below an account to determine how long for the account and how much you will have to pay in total. You can set different durations for different accounts along with different cost. After confirming the duration and the accounts, click "Checkout".
+默认情况下，将显示您的帐户。如果你不想要osu！支持者，点击“赠与另一个玩家”并输入该玩家的账户名称。如果您想赠送给多个帐户，请点击“结帐”按钮旁边的“添加另一个标志”按钮。确认帐户后，拖动帐户下方的白色按钮，可以确定帐户需要多长时间，以及总共需要支付的钱数。您可以为不同的账户支付不同的时间以及不同的费用。确认好期限和账户后，点击“结帐”。
 
-![An example of buying supporter](O!s_Decide.jpg "An example of buying supporter")
+![购买支持者的例子](O!s_Decide.jpg "An example of buying supporter")
 
-Payment
+付款
 -------
 
-After confirming the duration and the accounts, click "Checkout". Here, you will be given various options. It is recommended to use [PayPal](https://www.paypal.com) or Credit Card services. There are other ways to pay (such as SMS or local service providers such as [Cherry Credits](https://www.cherrycredits.com/)), but additional fees will be charged for their effort. If you pay less than your "Total Cost" in "dorrah" (including additional cost if using non-Paypal), you will not receive your tag(s).
+确认期限和账户后，点击“结帐”。在这里，你可以选择不同的支付方式。建议使用 [PayPal](https://www.paypal.com) 或信用卡。或其他支付方式（例如[Cherry Credits](https://www.cherrycredits.com/)的短信支付），但他们可能收取您手续费。如果您支付的费用低于“总费用”（包括使用非PayPal时的额外费用），则不会收到您的标志。
 
-### Duration
+### 持续时间
 
-![Comparison between active and inactive osu!supporter.](O!s_Duration.jpg "Comparison between active and inactive osu!supporter.")
- After your transaction is completed, your profile's Recent Activity will say "{account username} has become an osu! supporter - thanks for your generosity!" if it is the first time that account gets osu!supporter or "{account username} has once again chosen to donate to the osu! cause - thanks for your generosity!" if the account has been an osu!supporter before. If you bought one for yourself, you can see the osu!supporter badge below your profile image. To check for *when* the osu!supporter will expire, return to the same place you bought it. [osu!supporter page](https://osu.ppy.sh/p/support).
+![支持者和未支持者之间的对比](O!s_Duration.jpg "Comparison between active and inactive osu!supporter.")
+ 交易完成后，您的个人资料的近期活动将会显示“{某玩家}已成为osu！支持者 - 感谢您的慷慨解囊！” （第一次成为支持者时） 或 “{某玩家} 再次选择捐赠osu! - 感谢您的慷慨解囊！” （您以前曾是支持者时） 。如果您为自己购买了osu!支持者，则可以在您的个人资料图片下方看到osu！支持者徽章。 想知道osu!支持者 *何时* 到期，请转到 [osu!支持者 页面](https://osu.ppy.sh/p/support)。
 
-![A letter one receives when acquiring osu!supporter](Osu!support_mail-gifted.png "A letter one receives when acquiring osu!supporter")
- Oh, and you will receive a "Thank You" letter from osu!, too! See the example above.
+![成为osu!支持者后收到的邮件](Osu!support_mail-gifted.png "A letter one receives when acquiring osu!supporter")
+ 哦，你还会收到osu！的“感谢”信！就像上面那样。
