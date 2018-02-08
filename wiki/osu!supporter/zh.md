@@ -15,7 +15,7 @@
 -   [聊天窗口](/wiki/Chat_Console)：在其他玩家视角中你的名字为亮黄色，但在你自己的视角中则显示白色。
 -   [谱面列表](https://osu.ppy.sh/p/beatmaplist)：按照玩过或未玩过来过滤谱面搜索结果。
 -   [皮肤](/wiki/Skinning)：可以使用一些额外的皮肤元素，例如 [主菜单](https://osu.ppy.sh/forum/t/96949)中的背景。
-    -   具体包括：`menu-background.jpg` (主菜单)；`triangle.jpg` (三角形)；`welcome.wav` (欢迎音乐)；`seeya.wav` (退出声音)
+    -   具体包括：`menu-background.jpg` (主菜单)；`triangle.jpg` (三角形)；`welcome.wav` (欢迎音乐)；`seeya.wav` (退出音效)
 -   [新功能需求](https://osu.ppy.sh/forum/4)：新功能需求的额外投票（每月2票，未赞助时每月1票）
 -   [歌曲选择](/wiki/Interface)：能在游戏中查看你所在国家/朋友/mod特定排名。
 -   个人主页：<https://osu.ppy.sh/u/>
@@ -49,7 +49,7 @@
 
 ### 确认
 
-默认情况下，将显示你的帐户。如果你不想要 osu!supporter，点击“赠与另一个玩家”并输入该玩家的账户名称。如果你想赠送给多个帐户，请点击“结帐”按钮旁边的“添加另一个标志”按钮。确认帐户后，拖动帐户下方的白色按钮，可以确定帐户需要多长时间，以及总共需要支付的费用。你可以为不同的账户支付不同的时间的 supporter 以及不同的费用的 supporter。确认好期限和账户后，点击“结帐”。
+默认情况下，将显示你的帐户。如果你不想要 osu!supporter，点击“赠与另一个玩家”并输入该玩家的账户名称。如果你想赠送给多个帐户，请点击“结帐”按钮旁边的“添加另一个标志”按钮。确认帐户后，拖动帐户下方的白色按钮，可以确定帐户需要多长时间，以及总共需要支付的费用。你可以为不同的账户支付不同的时间的 supporter 以及不同的费用的 supporter。
 
 ![购买 osu!supporter 的例子](O!s_Decide.jpg "An example of buying supporter")
 
