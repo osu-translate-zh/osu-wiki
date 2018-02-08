@@ -12,15 +12,15 @@
 
 -   osu!direct (直接在游戏中下载谱面)
 -   在使用 osu! 测试版时可以进行多人游戏。
--   [聊天窗口](/wiki/Chat_Console):在其他玩家视角中你的名字为亮黄色，但在你自己的视角中则显示白色。
--   [谱面列表](https://osu.ppy.sh/p/beatmaplist):按照玩过或未玩过来过滤谱面搜索结果。
--   [皮肤](/wiki/Skinning):可以使用一些额外的皮肤元素，例如 [主菜单](https://osu.ppy.sh/forum/t/96949)中的背景。
+-   [聊天窗口](/wiki/Chat_Console)：在其他玩家视角中你的名字为亮黄色，但在你自己的视角中则显示白色。
+-   [谱面列表](https://osu.ppy.sh/p/beatmaplist)：按照玩过或未玩过来过滤谱面搜索结果。
+-   [皮肤](/wiki/Skinning)：可以使用一些额外的皮肤元素，例如 [主菜单](https://osu.ppy.sh/forum/t/96949)中的背景。
     -   具体包括：`menu-background.jpg` (主菜单)；`triangle.jpg` (三角形)；`welcome.wav` (欢迎音乐)；`seeya.wav` (退出声音)
--   [新功能需求](https://osu.ppy.sh/forum/4):新功能需求的额外投票（每月2票，未赞助时每月1票）
--   [歌曲选择](/wiki/Interface):能在游戏中查看你所在国家/朋友/mod特定排名。
--   个人主页:<https://osu.ppy.sh/u/>
+-   [新功能需求](https://osu.ppy.sh/forum/4)：新功能需求的额外投票（每月2票，未赞助时每月1票）
+-   [歌曲选择](/wiki/Interface)：能在游戏中查看你所在国家/朋友/mod特定排名。
+-   个人主页：<https://osu.ppy.sh/u/>
     -   你可以在你的个人主页上添加个人介绍。
-        -   即使你的osu!支持者到期了，你的个人介绍也不会被删除。
+        -   即使你的 osu!supporter 到期了，你的个人介绍也不会被删除。
     -   你可以[更改用户名](https://osu.ppy.sh/p/profile-username/).
         -   你可以免费更改一次用户名，无论你的 osu!supporter 是否到期。
     -   增加了谱面提交限制，最多可以提交10个审查中（Penging）的铺面。
