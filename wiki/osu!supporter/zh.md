@@ -8,7 +8,7 @@
 
 简言之：赞助osu!可以从各方面帮助我们。
 
-## osu! 赞助者的优势
+## osu!supporter 的优势
 
 -   osu!direct (直接在游戏中下载谱面)
 -   在使用 osu! 测试版时可以进行多人游戏。
@@ -20,7 +20,7 @@
 -   [歌曲选择](/wiki/Interface):能在游戏中查看你所在国家/朋友/mod特定排名。
 -   个人主页:<https://osu.ppy.sh/u/>
     -   你可以在你的个人主页上添加个人介绍。
-        -   即使你的osu！支持者到期了，你的个人介绍也不会被删除。
+        -   即使你的osu!支持者到期了，你的个人介绍也不会被删除。
     -   你可以[更改用户名](https://osu.ppy.sh/p/profile-username/).
         -   你可以免费更改一次用户名，无论你的 osu!supporter 是否到期。
     -   增加了谱面提交限制，最多可以提交10个审查中（Penging）的铺面。
@@ -31,7 +31,7 @@
 
 ### 花费
 
-[使用此货币转换器](https://www.oanda.com/currency/converter/) 或自行 [百度](https://www.baidu.com) 来查询您国家的汇率。 花费以“美元（$）”为货币单位。
+[使用此货币转换器](https://www.oanda.com/currency/converter/) 或自行 [百度](https://www.baidu.com) 来查询你所在国家的汇率。 花费以“美元（$）”为货币单位。
 
 | 月     | 花费 {$} (总体实际值)                  |
 |--------|--------------------------------------|
@@ -60,8 +60,8 @@
 
 ### 持续时间
 
-![supporter 用户与非 supporter 用户](O!s_Duration.jpg "Comparison between active and inactive osu!supporter.")
- 交易完成后，您的个人资料的近期活动将会显示“{某玩家}已成为osu！支持者 - 感谢您的慷慨解囊！” （第一次成为支持者时） 或 “{某玩家} 再次选择捐赠osu! - 感谢您的慷慨解囊！” （您以前曾是支持者时） 。如果您为自己购买了osu!支持者，则可以在您的个人资料图片下方看到osu！支持者徽章。 想知道osu!支持者 *何时* 到期，请转到 [osu!支持者 页面](https://osu.ppy.sh/p/support)。
+![supporter 用户与非 supporter 用户的对比](O!s_Duration.jpg "Comparison between active and inactive osu!supporter.")
+ 交易完成后，你的个人资料的近期活动将会显示“{某玩家}已成为 osu!supporter - 感谢你的慷慨解囊！” （第一次成为支持者时） 或 “{某玩家} 再次选择捐赠osu! - 感谢你的慷慨解囊！” （你以前曾是支持者时） 。如果你为自己购买了 osu!supporter ，则可以在你的个人资料图片下方看到 osu!supporter 徽章。 想知道osu!supporter *何时* 到期，请转到 [osu!supporter 页面](https://osu.ppy.sh/p/support)。
 
-![成为osu!支持者后收到的邮件](Osu!support_mail-gifted.png "A letter one receives when acquiring osu!supporter")
- 哦，你还会收到osu！的“感谢”信！就像上面那样。
+![成为 osu!supporter 后收到的邮件](Osu!support_mail-gifted.png "A letter one receives when acquiring osu!supporter")
+ 哦，你还会收 到osu! 的“感谢”信！就像上面那样。
