@@ -4,18 +4,18 @@
 
 ![主页上的 osu!supporter 链接](Osu-support.png " osu!supporter link on main page.")
 
-请参见该链接：<https://osu.ppy.sh/p/support>
+请参见：<https://osu.ppy.sh/p/support>
 
-简言之：赞助 osu! 可以从各方面帮助我们。
+简而言之：赞助 osu! 可以从各方面帮助我们。
 
-## osu!supporter 的优势
+## osu!supporter 的好处
 
--   osu!direct (直接在游戏中下载谱面)
+-   可以使用osu!direct (直接在游戏中下载谱面)。
 -   在使用 osu! 测试版时可以进行多人游戏。
--   [聊天窗口](/wiki/Chat_Console)：在其他玩家视角中你的名字为亮黄色，但在你自己的视角中则显示白色。
+-   [聊天窗口](/wiki/Chat_Console)：在其他玩家视角中你的名字为亮黄色，但在你自己的视角中显示白色。
 -   [谱面列表](https://osu.ppy.sh/p/beatmaplist)：按照玩过或未玩过来过滤谱面搜索结果。
--   [皮肤](/wiki/Skinning)：可以使用一些额外的皮肤元素，例如 [主菜单](https://osu.ppy.sh/forum/t/96949)中的背景。
-    -   具体包括：`menu-background.jpg` (主菜单)；`triangle.jpg` (三角形)；`welcome.wav` (欢迎音乐)；`seeya.wav` (退出音效)
+-   [皮肤](/wiki/Skinning)：可以使用一些额外的皮肤元素，例如[主菜单](https://osu.ppy.sh/forum/t/96949)中的背景。
+    -   具体包括：`menu-background.jpg`（主菜单）；`triangle.jpg`（三角形）；`welcome.wav`（欢迎音乐）；`seeya.wav`（退出音效）
 -   [新功能需求](https://osu.ppy.sh/forum/4)：新功能需求的额外投票（每月2票，未赞助时每月1票）
 -   [歌曲选择](/wiki/Interface)：能在游戏中查看你所在国家/朋友/mod特定排名。
 -   个人主页：<https://osu.ppy.sh/u/>
@@ -45,7 +45,7 @@
 | 12     | 26 (最多-46%)                        |
 | 24     | 52 (最多-46%)                        |
 
--   费用将支付给个人帐户。没有团体馈赠的促销活动。
+-   费用由个人账户支付。没有团体馈赠的促销活动。
 
 ### 确认
 
@@ -58,10 +58,10 @@
 
 确认期限和账户后，点击“结帐”。在这里，你可以选择不同的支付方式。建议使用 [PayPal](https://www.paypal.com) 或信用卡。以及其他支付方式（例如 [Cherry Credits](https://www.cherrycredits.com/) 的短信支付），但他们可能收取你手续费。如果你支付的费用低于“总费用”（包括使用非 PayPal 时的额外费用），则会支付失败。
 
-### 持续时间
+### 有效时间
 
 ![supporter 用户与非 supporter 用户的对比](O!s_Duration.jpg "Comparison between active and inactive osu!supporter.")
- 交易完成后，你的个人资料的近期活动将会显示“{某玩家}已成为 osu!supporter - 感谢你的慷慨解囊！” （第一次成为 osu!supporter 时） 或 “{某玩家} 再次选择捐赠 osu! - 感谢你的慷慨解囊！” （你以前曾是 osu!supporter 时） 。如果你为自己购买了 osu!supporter ，则可以在你的个人资料图片下方看到 osu!supporter 徽章。 想知道 osu!supporter *何时*到期，请转到 [osu!supporter 页面](https://osu.ppy.sh/p/support)。
+ 交易完成后，你的个人资料的近期活动将会显示“{某玩家}已成为 osu!supporter - 感谢你的慷慨解囊！”（第一次成为 osu!supporter 时）或 “{某玩家} 再次选择捐赠 osu! - 感谢你的慷慨解囊！”（你以前曾是 osu!supporter 时）。如果你为自己购买了 osu!supporter ，则可以在你的个人资料图片下方看到 osu!supporter 徽章。 想知道 osu!supporter *何时*到期，请转到 [osu!supporter 页面](https://osu.ppy.sh/p/support)。
 
 ![成为 osu!supporter 后收到的邮件](Osu!support_mail-gifted.png "A letter one receives when acquiring osu!supporter")
  哦，你还会收到 osu! 的“感谢”信！就像上面那样。
