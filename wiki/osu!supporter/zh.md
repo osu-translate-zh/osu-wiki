@@ -23,8 +23,8 @@
         -   即使你的 osu!supporter 到期了，你的个人介绍也不会被删除。
     -   你可以[更改用户名](https://osu.ppy.sh/p/profile-username/).
         -   你可以免费更改一次用户名，无论你的 osu!supporter 是否到期。
-    -   增加了谱面提交限制，最多可以提交10个审查中（Penging）的铺面。
--   [Performance Ranking](https://osu.ppy.sh/p/pp)：允许“在朋友中筛选”。
+    -   提高了谱面提交上限，最多可以提交10个审查中（Pending）的铺面。
+-   [pp排名](https://osu.ppy.sh/p/pp)：允许只查看好友排名。
 -   *还有更多的功能即将到来！*
 
 ## 费用概况
