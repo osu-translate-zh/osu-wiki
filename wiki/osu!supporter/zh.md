@@ -56,12 +56,12 @@
 付款
 -------
 
-确认期限和账户后，点击“结帐”。在这里，你可以选择不同的支付方式。建议使用 [PayPal](https://www.paypal.com) 或信用卡。以及其他支付方式（例如银联支付和微信支付），但他们可能收取你手续费。如果你支付的费用低于“总费用”（包括使用非 PayPal 时的额外费用），则会支付失败。
+确认期限和账户后，点击“添加到购物车”，确认无误后点击“Checkout”。在此之后，你可以选择不同的支付方式。建议使用 [PayPal](https://www.paypal.com) 或信用卡。以及其他支付方式（例如银联支付和微信支付），但他们可能收取你手续费。如果你支付的费用低于“总费用”（包括使用非 PayPal 时的额外费用），则会支付失败。
 
 ### 有效时间
 
 ![supporter 用户与非 supporter 用户的对比](O!s_Duration.jpg "supporter 用户与非 supporter 用户的对比")
- 交易完成后，你的个人资料的近期活动将会显示“{某玩家}已成为 osu!supporter - 感谢你的慷慨解囊！”（第一次成为 osu!supporter 时）或 “{某玩家} 再次选择捐赠 osu! - 感谢你的慷慨解囊！”（你以前曾是 osu!supporter 时）。如果你为自己购买了 osu!supporter ，则可以在你的个人资料图片下方看到 osu!supporter 徽章。 想知道 osu!supporter *何时*到期，请转到 [osu!supporter 页面](https://osu.ppy.sh/p/support)。
+ 交易完成后，你的个人资料的近期活动将会显示“{某玩家}已成为 osu!supporter - 感谢你的慷慨解囊！”（第一次成为 osu!supporter 时）或 “{某玩家} 再次选择捐赠 osu! - 感谢你的慷慨解囊！”（你以前曾是 osu!supporter 时）。如果你为自己购买了 osu!supporter，则可以在你的个人资料图片下方看到 osu!supporter 徽章。想知道 osu!supporter *何时*到期，请转到 [osu!supporter 页面](https://osu.ppy.sh/p/support)。
 
 ![成为 osu!supporter 后收到的邮件](Osu!support_mail-gifted.png "成为 osu!supporter 后收到的邮件")
  哦，你还会收到 osu! 的“感谢”信！就像上面那样。
