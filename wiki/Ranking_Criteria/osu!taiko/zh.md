@@ -73,7 +73,7 @@ _父页面：[Ranking Criteria](/wiki/Ranking_Criteria)_
 
 **与节奏相关的规则对 BPM 在 180 左右的乐曲适用。** 如果选择的乐曲速度远低于这个数值或者高于它（通常 BPM＜120 或者 BPM＞220 的），或者谱面本身出于某些原因使用了正常 BPM 的一半或两倍，规则就应该适当相应更改。这一点请作者充分理解并注意。
 
-### ![花](/wiki/shared/diff/easy-t.png "Kantan") 花
+### ![花](/wiki/shared/diff/easy-t.png "花") 花
 
 #### 规则
 - **如果使用了 1/2 音型，配色一定要足够容易，并且在该段后适当留白。** 对于 3/4 拍的曲子，最多只能在 1/3 拍上安排音符。
@@ -89,7 +89,7 @@ _父页面：[Ranking Criteria](/wiki/Ranking_Criteria)_
 - OD≤4。
 - HP≥6。在音符数目较多时，HP 可以适当降低到 6 以下。
 
-### ![竹](/wiki/shared/diff/normal-t.png "Futsuu") 竹
+### ![竹](/wiki/shared/diff/normal-t.png "竹") 竹
 
 #### 规则
 - **不允许出现 1/4 或更密的音型。** 这些节奏对于新手较为困难，要尽量避免。
@@ -114,7 +114,7 @@ _父页面：[Ranking Criteria](/wiki/Ranking_Criteria)_
 - OD≤5。
 - HP≥5。在音符数目较多时，HP 可以适当降低到 5 以下。
 
-### ![松](/wiki/shared/diff/hard-t.png "Muzukashii") 松
+### ![松](/wiki/shared/diff/hard-t.png "松") 松
  
 #### 规则
 - **不允许出现 1/8 或更密的音型。** 这些节奏对于这一难度的目标玩家而言较为困难，要尽量避免。
@@ -133,8 +133,8 @@ _父页面：[Ranking Criteria](/wiki/Ranking_Criteria)_
 - OD≤5。
 - HP≥5。在音符数目较多时，HP 可以适当降低到 5 以下。
 
-### ![鬼](/wiki/shared/diff/insane-t.png "Oni") Oni
-
+### ![鬼](/wiki/shared/diff/insane-t.png "鬼")鬼
+ 
 #### Rules
 - **Patterns on snaps faster than 1/8 are disallowed.** These patterns are too complex for the target audience of this difficulty level.
 
