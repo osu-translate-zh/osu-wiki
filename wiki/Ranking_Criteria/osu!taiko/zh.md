@@ -97,7 +97,7 @@ _父页面：[Ranking Criteria](/wiki/Ranking_Criteria)_
 #### 指南
 - **1/3 的音符不宜超过 2 连。** 稍长的连续音符，尤其是 1/3 音符对新手太过困难。使用时请控制配色难度，并在这样的音型后适当留白。
 - **1/2 的音符不宜超过 7 连。** 太长的连续音符对新手太过困难。
-- **谱面音型主体应为 1/1 或 2/1或更慢。** 偶尔夹带 1/2 节奏没有问题，但注意配色和留白。
+- **谱面音型主体应为 1/1 或 2/1 或更慢。** 偶尔夹带 1/2 节奏没有问题，但注意配色和留白。
 - **在接连安排了 16-20 节的音符后，不妨放置一段 2 节或更长的放松段落。** 频繁的较短留白对新手而言可能不太适应。
 - **谨慎改变滑条速度。** 原则上允许使用简单的滑条速度变化。但注意：滑条速度仅应当在节奏和速度完全不同的两段中有所调整，同时不应有很大的变化，更不允许突变。
  
@@ -123,7 +123,7 @@ _父页面：[Ranking Criteria](/wiki/Ranking_Criteria)_
 #### 指南
 - **1/6 的音符不宜超过 4 连。（针对 BPM<140 的乐曲）** 稍长的连续音符通常会显得难以上手。使用时应当在这样的音型后适当留白。对于 BPM 较高的曲子，应该避免这样的写法。
 - **1/4 的音符不宜超过 5 连。** 太长的连续音符对进阶玩家略显困难。
-- **谱面音型主体应为 1/2 或 1/1或更慢。** 偶尔夹带 1/4 节奏没有问题，但注意配色和留白。
+- **谱面音型主体应为 1/2 或 1/1 或更慢。** 偶尔夹带 1/4 节奏没有问题，但注意配色和留白。
 - **在接连安排了 16-20 节的音符后，不妨放置一段 1.5 节或更长的放松段落。** 频繁的较短留白对进阶玩家不是很友好。
 - **允许改变滑条速度。** 但滑条速度仅应当在不同的两段中有所调整，同时不允许突变。
 - **慎用配色复杂的 1/4 鱼蛋。** 尤其是连续的 1/4 鱼蛋，配色一定要简单易读，以照顾这一难度目标玩家的游戏体验。
@@ -135,15 +135,15 @@ _父页面：[Ranking Criteria](/wiki/Ranking_Criteria)_
 
 ### ![鬼](/wiki/shared/diff/insane-t.png "鬼")鬼
  
-#### Rules
-- **Patterns on snaps faster than 1/8 are disallowed.** These patterns are too complex for the target audience of this difficulty level.
+#### 规则
+- **不允许出现 1/8 或更密的音型。** 这些节奏对于这一难度的目标玩家而言较为困难，要尽量避免。
 
-#### Guidelines
-- **1/8 patterns should not be longer than two notes.** Anything longer is very situational and normally too complex. Patterns like this should be followed by a rest moment.
-- **1/4 patterns should not be longer than nine notes.** Anything longer is likely to be too straining for the target audience of this difficulty level.
-- **Main snapping should consist of mostly 1/2 and occasional 1/1 rhythms.** 1/4 rhythms may be used more frequently at this level of difficulty.
-- **Try to insert at least 1 rest moment which is 1/1 or longer after 16/1 to 20/1 of continuous mapping.** Longer periods of continuous mapping may put too much strain on players of this difficulty level and shorter rest moments would count as continuous mapping.
-- **1/4 patterns which are longer than five notes should avoid complicated color changes.** Longer patterns with such complexity would be too demanding for the target audience of this difficulty level.
+#### 指南
+- **1/8 的音符不宜超过 2 连。** 稍长的连续音符通常会显得较为困难。使用时应当在这样的音型后适当留白。
+- **1/4 的音符不宜超过 9 连。** 太长的连续音符对鬼难度的目标玩家略显困难。
+- **谱面音型主体应为 1/2，偶尔夹带一些 1/1。** 鼓励在这一难度中大量使用 1/4 音符配置。
+- **在接连安排了 16-20 节的音符后，不妨放置一段 1 节或更长的放松段落或留白。** 较长的段落可能会对目标玩家要求太高。比 1 小节更短的不被认为是留白。
+- **超过 5 连的 1/4 鱼蛋应该避免复杂变色。** 长而配色复杂的鱼蛋对鬼的目标玩家而言略显困难。
 
 #### Difficulty Setting Guidelines
 - OD should be 5 or more
