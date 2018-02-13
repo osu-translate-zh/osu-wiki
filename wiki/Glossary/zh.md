@@ -1,133 +1,133 @@
-# Glossary
+# 专有名词表
 
-Throughout the years, the osu!community has adopted its own set of slang that may be confusing for newcomers. This page is a compilation of such terms for reference. Additions and edits are always welcome.
+多年来，osu!社区 采用了自己的一套术语，这些术语可能会使一些新人感到困惑。本页面是对一些术语的汇编，仅供参考。欢迎所有人添加或者编辑本页面。
 
 ## A
 
-### Abandoned Wasteland
+### 废弃的荒地（ Abandoned Wasteland ）
 
-If the name is not obvious enough, the abandoned wasteland is a hidden sub-forum where the instructions to the moderators concerning it will: "Put stuff we do not really need in here." When a thread is or is said to be "wastelanded", it is moved there.
+如果你不能理解这个名词，下面则解释了它的意思：`Abandoned Wasteland` 是一个隐藏的子论坛，关于这个子论坛的说明是：“把我们真正不需要的东西放在这里。” 当一篇帖子是或被称为无用的时候，那么这篇帖子则会被移动到这个子论坛。
 
-### Accuracy
+### 准确率（ Accuracy ）
 
-A [game metric](/wiki/Accuracy) to measure the player's rhythmical accuracy. Sometimes shortened to _Acc_.
+一个用于衡量玩家节奏的准确性的 [度量标准](/wiki/Accuracy) 。有时也被缩写成 _Acc_ 。
 
-### AFK
+### 玩家长时间离开（ AFK ）
 
-AFK is an internet acronym that means _Away From Keyboard_. An example of this is when an active user walks off to do something else while they are still logged on. _osu!_ will mark users as "Idle" if they have been inactive for some time.
+AFK 是一个网络缩写词，它的意思是 _Away From Keyboard（离开键盘或玩家长时间离开）_。举个例子，当一个活动的玩家在他还在登录的时候离开去做别的事情时，_osu!_ 将会把他的状态标记为 AFK 。
 
-### Approach Circle
+### 缩圈（ Approach Circle ）
 
-In [osu!standard](/wiki/osu!standard), the approach circle is the outermost circle that will enclose the hit circle, the start of a slider, or the centre of the spinner (for older skins). When the approach circle touches the outer border of the hit circle or slider you should click. For spinners (older skins), the approach circle will indicate the duration of that spinner.
+在 [osu!standard](/wiki/osu!standard) 中，缩圈是物件最外部的圆，它将逐渐缩小直到包围要被点击的物件。缩圈也是滑条头或是转盘的中心（对于旧皮肤而言），你应该在当缩圈接近打击圈或滑条时点击。对于旧皮肤的转盘来说，缩圈则是表示转盘的旋转持续时间。
 
 ### Authentic
 
-Authentic denotes a beatmap that emulates in every aspect of a specific stage from the [DS games](/wiki/DS_games) (song, settings, object placement, etc.).
+authentic 意思是一张谱面在特定的阶段从方方面面（歌曲、设置、物件摆放布局 等）都模仿 [DS 游戏](/wiki/DS_games) 。
 
 ### Aspire
 
-Aspire is a beatmapping [contest](/wiki/contest) where the creators are encouraged to fully ignore the [Ranking Criteria](/wiki/Ranking_Criteria). The resulting beatmaps tend to be cosmetically appealing displays of absolute madness, but are often nearly impossible for average players to play.
+Aspire 是一个制作谱面的 [竞赛](/wiki/contest) ，它鼓励创作者完全忽略 [Rank 标准](/wiki/Ranking_Criteria)。从本比赛中产生的谱面往往是在外观上吸引着玩家，但对普通玩家来说，这些谱面是根本无法正常游玩的。
 
 ## B
 
 ### Bancho
 
-_Related: [BanchoBot](/wiki/BanchoBot)_
+_相关： [BanchoBot](/wiki/BanchoBot)_
 
-Bancho is the easily expandable server coded by peppy. Bancho replaces the need for a third-party [IRC](/wiki/IRC) (Internet Relay Chat) server in the management of all online content in _osu!_ Logging with an osu!account in-game will automatically attempt to connect to Bancho until done successfully.
+Bancho 是由 peppy 编写的一个易于扩展的服务器。在 osu! 所有需要在线管理的内容中，Bancho 代替了第三方 [IRC](/wiki/IRC)（互联网在线聊天）服务器的需求。 用 osu!账号 在游戏内登录，游戏将会自动重连直到成功连接至 Bancho 。
 
-### Beat
+### 节拍（ Beat ）
 
-Beat is a term that applies to the timeline in editor mode. It is a period of time that songs can be divided into based off of their BPM. A correctly timed beatmap will have each beat correspond to the song's rhythm and a whole beat should fall between two white lines on the [timeline](/wiki/Timeline).
+节拍（ Beat ）是一个在编辑模式中应用在时间轴上的术语。歌铺可以根据它们的 BPM 为每个节拍划分出一段时间。一个正确对准节拍的谱面将使每个节拍对应于该歌曲的节奏，并且整个歌曲的节拍应该落在 [时间轴](/wiki/Timeline) 上的两条白线之间。
 
-For more information about the timeline, see [Beat Snap Divisor](/wiki/Beat_Snap_Divisor).
+若想知道有关时间线的更多信息，请参阅 [音符时值](/wiki/Beat_Snap_Divisor) 。
 
-### Beat Spacing
+### 节拍间距（ Beat Spacing ）
 
-Beat spacing is a principle that applies to [osu!standard](/wiki/osu!standard). This states that the spacing of every [hit object](/wiki/hit_object) (except for spinners) should be either closer, if closely placed on the timeline, or farther, if placed farther apart on the timeline.
+节拍间距是一个适用于 [osu!standard](/wiki/osu!standard) 模式的原则。这说明每个 [打击物件](/wiki/hit_object)（转盘除外）的间距应参照如下原则：如果物件被紧密的摆放在时间轴上，它们在谱面上的距离应该靠近一些；如果物件在时间轴上的空距较大，它们在谱面上的距离则应远一些。
 
-![Beat spacing basics and examples](img/Beatspacing.jpg "The fundamentals of beat spacing.")
+![节拍间距的基础和例子](img/Beatspacing-zh.jpg "拍距的基本原理。")
 
-This basically means:
+这条原则基本上意味着：
 
-- closer in time = closer in space
-- farther in time = farther in space
+- 物件的间隔的时间越近，物件在谱面上的距离就越近
+- 物件的间隔的时间越远，物件在谱面上的距离就越远
 
-Your beat spacing plays a crucial role when the player is playing your beatmap! Consistent beat spacing is a basic requirement to rank a beatmap because it provides the player with a more intuitive experience as the player will learn where to move their cursor along the screen, at a constant speed.
+当某个玩家在打你的谱面的时侯，你的节拍间距就扮演着一个十分重要的角色。一致的节拍间距是 rank 一张谱面的基本要求，因为这为玩家提供了更直观的体验，玩家将以歌曲的速度学习移动光标的位置。
 
-Placing an object closer than the beat spacing may trick the player into clicking on them too soon. On the otherhand, placing them too far may force the player to move their cursor across the screen to click on them in time. A common exception to beat spacing is stacked hit circles.
+如果将一个物件放在比节拍间距更近的地方，可能会让玩家过早地点击它们。另一方面，将物件放的远一些可能会让玩家在屏幕上及时移动光标以点击它们。一个常见的节拍间距的例外是堆叠打击物件。
 
-To ensure consistent beat spacing, turn on the `Distance Snap` button on the right-hand side of the editor. You can choose a beat spacing value by holding `Alt` and sliding the selector at the top right until you reach the desired value. Note that the higher the value would allow a more difficult beatmap.
+为了保证一致的节拍间距，可以打开编辑器右边的 `Distance Snap` 按钮。你可以按住 `Alt` 键并在右上方的滑动选择器不断调整物件间的节拍间距。注意，该值越高可以使谱面更难。
 
-### BeatmapID
+### 谱面 ID （ BeatmapID ）
 
-A BeatmapID is a unique-incrementing-integer given to all uploaded beatmap's difficulty versions.
+谱面 ID 是一个唯一的、递增的整数，它被用来标记每张上传的谱面集合的所有难度。
 
-You can use the beatmapID to find a beatmap difficutly version using this url: `osu.ppy.sh/b/{BeatmapID}`
+你可以用这个 URL 来找到某张谱面中的某个难度： `osu.ppy.sh/b/{BeatmapID}`
 
-This value can be found in the url of a beatmap by changing the difficulty tab, using the in-game option `1. Beatmap Listing/Scores`, or in the `.osu` difficulty version file.
+这个值可以在 URL 中通过改变谱面的难度选项卡找到。你可以使用游戏内的选项 `1. Beatmap Listing/Scores` 访问谱面的 URL 来找到谱面 ID ，也可以在某个谱面难度的文件 `.osu` 中找到谱面 ID 。
 
-All unsubmitted beatmaps will have a beatmapID of `0`.
+所有未发布的谱面的谱面 ID 则将为 `0`。
 
-### Beatmapset
+### 谱面集合（ BeatmapSet ）
 
-A beatmapset is the collection of beatmaps that are packaged inside the `.osz` file. These beatmapsets are beatmaps that were created under the same mapper.
+谱面集合是打包在同一个 `.osz` 文件中谱面的一个集合。这些谱面集合中的谱面是由同一个作者创建的。
 
-Beatmapsets will always have the same music, sounds (if mapped), and video (if any) or storyboard (if any). However, do note that some beatmaps from a beatmapset may specifically contain a certain sounds, background images, or storyboards that are separate from the others.
+谱面集合中的每张谱面总是会包含相同的音乐、音效（如果制作了的话）以及视频或 Storyboard （如果有的话）。但是，请注意，某些谱面集合中的谱面可能会包含一些其它的音效、背景或 Storyboard ，这些谱面与其他的不同。
 
-### BeatmapSetID
+### 谱面集合 ID （ BeatmapSetID ）
 
-A BeatmapSetID is a unique-incrementing-integer given to all uploaded beatmapsets.
+谱面集合 ID 是一个唯一的、递增的整数，它被用来标记每张上传的谱面集合。
 
-You can use the BeatmapSetID to find a beatmapset using this url: `osu.ppy.sh/s/{BeatmapSetID}`
+你可以用这个 URL 来找到某个谱面集合： `osu.ppy.sh/s/{BeatmapSetID}`
 
-This value can be found in the url of a beatmapset from osu!website beatmap list search, the first set of numbers from the `Songs` folder, or in the `.osu` difficulty file.
+这个值可以在 osu!网站 中的谱面搜索列表结果中的 URL 上找到，也可以在 `Songs` 文件夹中某张谱面的文件夹名称上找到（文件夹名的第一穿数字），还可以打开谱面集合中某个难度的 `.osu` 文件查找到。
 
-All unsubmitted beatmaps will have a BeatmapSetID of `-1`.
+所有未发布的谱面集合的谱面集合 ID 则将为 `-1`。
 
-### Bit Rate
+### 比特率（ Bit Rate ）
 
-Almost every music file contains something called a "bit rate". A bit rate is the number of bits per second that can be transmitted along a digital network.
+几乎每个音乐文件都包含一个叫做“比特率”的东西。比特率是指一个音乐文件每秒可以通过数字网络传输的比特数。
 
-This means that a *higher bit rate* will generally mean *higher quality* (but bigger file size). Whereas, a *lower bit rate* will generally mean *lower quailty* (but smaller file size).
+那将意味着 *更高的比特率* 通常有着 *更高的音乐质量* （但文件大小会更大）。反之亦然，*较低的比特率* 通常有着 *较低的音乐质量* （但文件大小会更小）。
 
-Bit rates typically range from 96 KBps (kilobytes per second) to 320 KBps. This is quite a wide range that music can use. However, the [ranking criteria](/wiki/Ranking_Criteria) explicitly states that all music files must range from **128 KBps - 192 KBps**.
+比特率通常在 96 KBps （千比特每秒）到 320 KBps 之间。这是音乐可以使用的比特率的一个相当广泛的范围。但是，[Rank 标准](/wiki/Ranking_Criteria) 明确指出了所有的音乐文件的比特率范围应该在 **128 KBps - 192 KBps** 之间。
 
-You can usually check to see the audio file's bit rate by checking the file properties of that file. Another way to check is whether or not [AiMod](/wiki/AiMod) says that the audio file's bit rate is too big. If either appears to be true, this means that you will have to lower the bitrate. A few methods on re-encoding audio can be found at [Audio Editing](/wiki/Audio_Editing).
+你通常可以通过检查该文件的文件属性来检查音乐文件的比特率。另一种检查方法检查 [AiMod](/wiki/AiMod) 是否说音频文件的比特率太大。如果两种方法似乎都是对的的，这意味着你将不得不降低比特率。在 [音频编辑](/wiki/Audio_Editing) 中可以找到几种重新编码音频的方法。
 
-### BG
+### 背景（ BG ）
 
-BG is short for _background_. BG refers to the background image and/or video of a beatmap. Inside a beatmap folder, BG (sometimes stylized as _bg_) is usually the name for the background image.
+BG 是 _background （背景）_ 的简称。BG 是指谱面的背景图像及背景视频。在谱面文件夹中，BG （有时也叫 _bg_ ）通常是背景图像的名称。
 
-### Blanket
+### 覆盖（ Blanket ）
 
-A mapping term to describe when a slider covers the shape of another object. A guide to making them can be found [here](/wiki/Mapping_Techniques/Making_Good_Sliders#Beat-Blankets)
+一个制谱术语，用来描述一个滑条覆盖住另一个对象的状态。 在 [这里](/wiki/Mapping_Techniques/Making_Good_Sliders#Beat-Blankets) 可以找到制作它们的指南。 
 
-### BN
+### 谱面管理成员（ BN ）
 
-Short for _Beatmap Nominator_, a member of the [Beatmap Nomination Group](/wiki/people/Beatmap_Nomination_Group).
+ BN 是 _Beatmap Nominator （谱面管理成员）_ 的简称，他们是 [谱面管理组](/wiki/people/Beatmap_Nomination_Group) 的成员。
 
-### BPM
+### 每分钟节拍数（ BPM ）
 
-BPM is short for _Beats Per Minute_ and represents the number of whole beats in a minute.
+BPM 是 _Beats Per Minute （每分钟节拍数）_ 的简称，表示一分钟内所有节拍的数量。
 
-Higher BPM music may be associated with a higher [approach rate](/wiki/approach_rate) value and vice versa.
+较高 BPM 的音乐可能与较高的 [缩圈速度](/wiki/approach_rate) 相关联，反之亦然。
 
-### Break
+### 休息时间（ Break ）
 
-A break is when a section of a beatmap has no objects. During this time, the drain in the life bar is temporarily halted. Breaks usually allow the player to rest their arm for a short while and reposition their input device.
+休息时间是指谱面的某段时间内没有任何的打击物件。在这段时间内，玩家将暂时不会掉血。休息时间通常允许玩家在短时间内进行休息他们的手臂并重新调整他们的输入设备。
 
-Depending on the settings, when a break is initiated, letterboxes (the black horizontal bars on the top and bottom off the screen) may appear. In addition to this, a passing or failing graphic and sound will appear and play to indicate if the player is doing well or not, if there is enough time.
+根据设置的不同，当在休息时间时，黑边（顶部和底部的黑色横条）可能会出现在屏幕上。除此之外，如果有着足够的休息时间，则会出现通过或失败的图像以及播放声音来指示玩家上一段的成绩是否良好。
 
-The use of break times in [osu!mania](/wiki/osu!mania) maps is heavily discouraged.
+在 [osu!mania](/wiki/osu!mania) 的谱面中增加休息时间是非常不推荐的。
 
-### BSS
+### 谱面提交系统（ BSS ）
 
-BSS is short for _Beatmap Submission System_.
+BSS 是 _Beatmap Submission System （谱面提交系统）_ 的简称。
 
-When a [creator](/wiki/creator) has finished mapping their [beatmapset](/wiki/beatmapset) and is ready to share their creation around the world, they must submit it using the BSS. When doing this, the BSS will automatically assign a forum thread and will generate a post with information about your beatmapset. The forum thread it generates will help you get feedback from modders and other players who play your map. Lastly, your beatmaps will be given a [beatmapID](/wiki/beatmapid) and can be commented on during replays; as well as a [beatmapSetID](/wiki/beatmapsetid).
+当一位 [作者](/wiki/creator) 把他们的 [谱面集合](/wiki/beatmapset) 制作完后，并准备在世界各地分享他们的成果时，他们必须使用 BSS 提交谱面。当他们这样做的时侯，BSS 将会自动分配以及生成一个帖子，其中包含关于你的谱面集合的信息。BSS 生成的论坛主题可以帮助你从修改者与其他玩你谱面的玩家那里得到一些反馈。最后，你的谱面将会被分别赋予 [谱面 ID](/wiki/beatmapid) 以及一个 [谱面集合 ID](/wiki/beatmapsetid) 。
 
-For a complete rundown, check out the [Submission](/wiki/Submission) page.
+有关完整的介绍，请查看 [提交](/wiki/Submission) 页面。
 
 ## C
 
