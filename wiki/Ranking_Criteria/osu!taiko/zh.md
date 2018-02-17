@@ -145,15 +145,14 @@ _父页面：[Ranking Criteria](/wiki/Ranking_Criteria)_
 - **在接连安排了 16-20 节的音符后，不妨放置一段 1 节或更长的放松段落或留白。** 较长的段落可能会对目标玩家要求太高。比 1 小节更短的不被认为是留白。
 - **超过 5 连的 1/4 鱼蛋应该避免复杂变色。** 长而配色复杂的鱼蛋对鬼的目标玩家而言略显困难。
 
-#### Difficulty Setting Guidelines
-- OD should be 5 or more
-- HP should be 5 or more. In cases of higher note count, HP could be slightly adjusted to lower than 5.
+#### 难度设置指南
+- OD≥5。
+- HP≥5。在音符数目较多时可以适当降低到 5 以下。
 
-### ![里鬼](/wiki/shared/diff/expert-t.png "Inner/Ura Oni") 里鬼
+### ![里鬼](/wiki/shared/diff/expert-t.png "里鬼") 里鬼
 
 #### 指南
-- **谱面音型主体应为 1/2 或 1/4 或更慢。** 允许大量使用 1/4 音型。
-
+- **谱面音型主体应为 1/2 或 1/4 或更慢。** 鼓励在这一难度中大量使用 1/4 音符配置。
 
 #### 难度设置指南
 - OD≥5。
