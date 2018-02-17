@@ -149,11 +149,12 @@ _父页面：[Ranking Criteria](/wiki/Ranking_Criteria)_
 - OD should be 5 or more
 - HP should be 5 or more. In cases of higher note count, HP could be slightly adjusted to lower than 5.
 
-### ![Inner/Ura Oni](/wiki/shared/diff/expert-t.png "Inner/Ura Oni") Inner/Ura Oni
+### ![里鬼](/wiki/shared/diff/expert-t.png "Inner/Ura Oni") 里鬼
 
-#### Guidelines
-- **Main snapping should consist of mostly 1/2 and 1/4 rhythms.** 1/4 rhythms may be used very frequently at this level of difficulty.
+#### 指南
+- **谱面音型主体应为 1/2 或 1/4 或更慢。** 允许大量使用 1/4 音型。
 
-#### Difficulty Setting Guidelines
-- OD should be more than 5.
-- HP should be 5 or more. In cases of higher note count, HP could be slightly adjusted to lower than 5.
+
+#### 难度设置指南
+- OD≥5。
+- HP≥5。在音符数目较多时可以适当降低到 5 以下。
