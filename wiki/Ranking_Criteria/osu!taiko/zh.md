@@ -8,11 +8,11 @@ _父页面：[Ranking Criteria](/wiki/Ranking_Criteria)_
 ---------
 
 ### 难度名
-- ![Kantan](/wiki/shared/diff/easy-t.png "Kantan") **Kantan**：简单 （花，easy）
-- ![Futsuu](/wiki/shared/diff/normal-t.png "Futsuu") **Futsuu**：普通 （竹，normal）
-- ![Muzukashii](/wiki/shared/diff/hard-t.png "Muzukashii") **Muzukashii**：困难 （松，hard）
-- ![Oni](/wiki/shared/diff/insane-t.png "Oni") **Oni**：恶魔 （鬼，Insane）
-- ![Inner/Ura Oni](/wiki/shared/diff/expert-t.png "Inner/Ura Oni") **Ura/Inner Oni**：里恶魔 （里，Expert）
+- ![Kantan](/wiki/shared/diff/easy-t.png "Kantan") **Kantan（花）**：简单
+- ![Futsuu](/wiki/shared/diff/normal-t.png "Futsuu") **Futsuu（竹）**：普通
+- ![Muzukashii](/wiki/shared/diff/hard-t.png "Muzukashii") **Muzukashii（松）i**：困难
+- ![Oni](/wiki/shared/diff/insane-t.png "Oni") **Oni（鬼）**：恶魔
+- ![Inner/Ura Oni](/wiki/shared/diff/expert-t.png "Inner/Ura Oni") **Ura/Inner Oni（里）**：里恶魔
 
 更多的难度名请参考[这篇帖子](https://osu.ppy.sh/community/forums/topics/178700)。
 
@@ -33,8 +33,8 @@ _父页面：[Ranking Criteria](/wiki/Ranking_Criteria)_
 - **Snapping**：放置物件的时间线记号。
 - **Variable Snapping**：根据歌曲本身的特点，在一小段时间内使用多种不同的组合（如四分音符和六分音符混合）方式来排列音符。
 - **Slider Velocity**：滑条速度，决定了谱面（包括音符、黄条、小节线等等）的水平移动速度。基础滑条速度可以从 timing panel （时间窗口）设置，每一段落的滑条速度则通过 inherited （绿色）时间节点控制。
-- **Smooth Slider Velocity Changes**：一种从高到低或者从低到高逐渐改变滑条速度（SV）的技巧。为了达到这一效果，这些渐变的音符会有变化的滑条速度（SV）。
-- **Improvisation**：拥有比歌曲实际拥有更多的音符。
+- **Smooth Slider Velocity Changes**：一种从高到低或者从低到高逐渐改变滑条速度（SV）的技巧。为了达到这一效果，这些渐变的音符会有变化的滑条速度。
+- **Improvisation**：拥有比歌曲实际更多的音符。
 - **Taiko Template Background**：模仿原版太鼓达人（Taiko no Tatsujin）的背景图片。通常包含在休息时间显示的艺术家和歌曲名称。常用故事版和专门的图片实现。
 
 ## 通用
@@ -44,7 +44,7 @@ _父页面：[Ranking Criteria](/wiki/Ranking_Criteria)_
 规则就是规则，有约束性和强制性。它们不是指南。在任何情况下都不允许违背规则。
 
 - **每个音符一定要和前一个音符清晰地分开，玩家必须能分辨每一个音符的颜色。**
-- **音符要能够表达音乐的一部分（或多部分），为演奏歌曲起到画龙点睛的效果，亦或是展现作者自己对于音乐的思考和拍点的创新。** 跟音必须准确无误，不能反拍。谱面中音符密度安排应该切合原曲。自创节奏一定要能给玩家较强的演奏感。只有切合原曲的写作，辅以适当发挥，才符合音乐游戏谱面写作的标准。
+- **音符要能够表达音乐的一部分（或多部分），为演奏歌曲起到画龙点睛的效果，亦或是展现作者自己对于音乐的思考和拍点的创新。** 跟音必须准确无误，不能反拍。谱面中音符密度安排应该切合原曲。自创节奏一定要能给玩家较强的演奏感。只有切合原曲的创作，辅以适当发挥，才符合音乐游戏谱面创作的标准。
 - **`忽略第一拍小节线`的功能只能在当小节线出现会影响游戏体验时使用。在变速谱面和SV变化频繁时请善用这个功能。** 
 - **来自太鼓原版的背景不允许使用。** 因为不同分辨率的屏幕会有不同的图片裁剪方式，这些图片也许会与作者想象的显示方式不同。
 - **不允许通过错误放置的滑条终止点来修正滑条击打点。** 这是一个错误，将来会被修正。
