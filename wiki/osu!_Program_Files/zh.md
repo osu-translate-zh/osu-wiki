@@ -1,127 +1,125 @@
-osu! Program Files
-===============================
+# osu! Program Files
 
 ![osu! Program Files in nutshell](Osu!sys.jpg "osu! Program Files in nutshell")
 
-位置
------
+## Location
 
 ### Windows
 
-| 现版本默认路径 | 旧的安装程序路径 |
-| ------------------------ | ---------------------- |
-| C:\Users\<Username>\AppData\Local\osu! | 	C:\Program Files\osu! / C:\Program Files(x86)\osu! (for 7 64-bit or 8) |
-> "C:" 你安装osu! 的硬盘.
+| Current default filepath | Old installer filepath | | \---\---\---\---\---\---\---\--- | \---\---\---\---\---\---\---- | | `C:\Users\<Username>\AppData\Local\osu!` | `C:\Program Files\osu!` / `C:\Program Files(x86)\osu!` (for 7 64-bit or 8) |
 
-文件夹
-------
+> `C:` is your harddisk with osu! installed.
 
-### \_MACOSX
+## Folders
 
-**osu! for Macintosh OS.** 对于windows用户，你可以删除这个文件夹。
+### \_MacOS
+
+**osu! for Macintosh OS.** For Windows OS users, just ignore it or delete it if you wish.
 
 ### Chat
 
-只有当你曾经在对话框中使用 */savelog* 指令或你启用了 *自动记录私人消息* 功能时才会出现.记录了你在osu! 内对话标签的内容.
+Only appears when you used "/savelog" at Chat Console once or if you enabled "Automatically log private messages" in Options. The folder shows your **Chat Console tab's log of comments.**
 
-文件以 `{Tab_name}-{YYYYMMDD}-{HHMMSS}.txt`的形式保存, 可以以任何文本编辑器打开(Notepad).
-**实例:** #multiplayer-20121115-040845 (/savelog at #multiplayer tab in 15th November 2012 at 0408hrs and 45secs).
+The styling is `{Tab_name}-{YYYYMMDD}-{HHMMSS}` in .txt format, which basically can be opened in any word application of choice(Notepad).
+
+**Example:** #multiplayer-20121115-040845 (/savelog at #multiplayer tab in 15th November 2012 at 04hrs, 08mins, and 45secs)).
 
 ### Downloads
 
-当你使用 *osu!direct* 功能后会出现.**保存你通过 osu!direct 正在下载的.osz文件**,完成下载后会作为合法的beatmap被转移到osu! 下的Songs文件夹.
+This folder appears when you use the "osu!direct" download service (requires [osu!supporter](/wiki/osu!supporter)). **This holds the .osz files which you are currently downloading from osu!direct**. It will then be transferred into osu!'s Songs folder as legitimate beatmaps upon completion.
 
 ### Exports
 
-当你使用 [Skin Selector's "导出.osk"](/wiki/Options) or [Beatmap Editor's "导出包"后出现](/wiki/Beatmap_Editor/Menu).**保存你从osu! 导出的.osz(beatmap)/.osk(皮肤)文件.**[For how-to, click me](/wiki/osu!_File_Formats).
+This folder appears if you used the [Skin Selector's "Export as .osk"](/wiki/Options) or [Beatmap Editor's "Export Package"](/wiki/Beatmap_Editor/Menu). **It will hold the .osz (beatmap)/.osk (skin) files you had exported from osu!.**
+
+If you want to know how to do this, see [osu! File Formats](/wiki/osu!_File_Formats).
 
 ### Localisation
 
-当你在选项页切换语言时出现.**保存可以替换英文文本内容的你所选择的语言的文本**.
+This folder appears when you had switched your Language under Graphics in the Options. **It will hold the translated text files which can be used each to replace the usual English text based on the user's selected localisation.**
 
 ### Replays
 
-保存**可执行的osu! replay文件(.osr)**.如果与rep对应的beatmap不存在,osr文件将无法工作.osr文件保存了游戏结果数据和光标移动轨迹.你可以在结果页面按下**F2**或在在线排名页面(只有在solo下出现,在结果页面下面)点击 **Save as .osr**来创建.osr文件.不保存多人游戏结果..osr的文件大小在100kb-1kb不等.[想要上传rep到youtube的玩家可以参考本页面](https://osu.ppy.sh/forum/t/108092)
+This file holds the **external executable osu! replay file (.osr)**. It does not work when the beatmap linked to the replay file is missing. This also contains the results data and reanimates your cursor movement during the replay. To create the .osr, press "**[F2]**" at Results screen or click on the "Save as .osr" at the Online Ranking screen (below Results screen in Solo only). This, however, does not save multi-play elements. The file sizes in here are usually ranging from 100KB ~ 1KB. [For players who are interested to upload their replay to Youtube, see this tread](https://osu.ppy.sh/forum/t/108092).
 
-格式为 `{Local player name} - {Artist} - {Title} {[Difficulty]}{(YYYY-MM-DD)} {Game Mode}`
-**Example:** dummytest1 - Loituma - Ievan Polkka [SPINNER-MADNESS]  (2013-08-12) OsuMania
+The format is `{Local player name} - {Artist} - {Title} {[Difficulty]}{(YYYY-MM-DD)} {Game Mode}`
+
+**Example:** dummytest1 - Loituma - Ievan Polkka \[SPINNER-MADNESS\] (2013-08-12) OsuMania
 
 ### Screenshots
 
-*保存osu! 的截图(默认为F12)*. 截图格式(.jpg/.png)取决于你在选项中设置的结果.
+**Screenshots (F12 by default) of osu!**. The saved screenshot's file extension (.jpg/.png) is based on what you set on the Options menu.
 
-格式为 `screenshot###` *###* 表示你的截图数量.
+The format is `screenshot###` where "###" is the screenshot number count.
 
 ### Skins
 
-保存了用户自定义的皮肤,这些皮肤可以改变osu!的视觉表现.你可以在皮肤标签下使用osume!.exe(osu! 升级器)来获取更多皮肤,你也可以登录[论坛](https://osu.ppy.sh/forum/15)获取皮肤.从osume!.exe 获取的皮肤将被立即读取并可以使用.如果你是从论坛获取的皮肤,有两种情况.如果皮肤是.osk形式的,你可以直接打开该文件,osu!将被启动并导向皮肤选择页面,你的新皮肤将被添加进列表里.如果皮肤是文件夹形式的,你必须将新皮肤的文件夹手动拖入该目录.如果皮肤是.zip/.rar格式的,你必须先解压,再按照文件夹的形式操作.你可以在[Options menu under Skins tab (Skin Selector)中更改你的皮肤](/wiki/Options).请记住皮肤*只在你自己的osu! 程序中生效*.
+Holds **user-created skins which can be used to customise your User Interface around osu! in-game.** You can download more skins from osume!.exe(osu! updater) under Skins tab or you can take a tour to the [forum's skinning palace](https://osu.ppy.sh/forum/15). Skins downloaded from osume!.exe are extracted immediately and ready to use. For forum's downloads, there are two possibility. If you get a executable osu!skin (.osk) file, directly open it and you will be forced to open osu! and directed to the "Skins Selector" screen with your new skin located at the list. If the downloaded skin is in folder form, you will have to place the folder here yourself. If it is in .zip/.rar format, you must extract it first. You can change your skins at [Options menu under Skins tab (Skin Selector)](/wiki/Options). Please bear in mind the skin used is *only effective to your own osu! only.*
 
-关于皮肤的更多信息,请参考[Skining页面](/wiki/Skinning).*osu! by peppy* 是惟一一个不在该目录下且不能被直接删除的皮肤.
+For further reference, please refer to the [Skinning](/wiki/Skinning) page. Also, "osu! by peppy" is the only skin without its folder and cannot be deleted directly.
 
 ### Songs
 
-**保存osu! beatmaps实际文件的位置**. 通常包含 .osu (不同难度), .mp3/.ogg (音乐文件), .jpg/.png/.gif (背景文件), .osb (StoryBoard文件) 和 .mp4/.flv (视频文件). 可能包含 .wav/.ogg (打击音效文件) 和 目录 (SB spites 和/或 皮肤).
+**Your compendium of osu! beatmaps**. Usually contains .osu (difficulties), .mp3/.ogg (music file), .jpg/.png/.gif (BG image), .osb (SB file) and .mp4/.flv (video file). May also contains .wav/.ogg (hitsound file) and folders (SB spites and/or skin).
 
-命名形式为 `{Beatmap 编号} {艺术家} - {标题}`.
-**Example:** [57950 SOUND HOLIC - Drive My Life](https://osu.ppy.sh/s/57950)
+The format is `{Beatmap number} {Artist} - {Song Title}`. **Example:** [57950 SOUND HOLIC - Drive My Life](https://osu.ppy.sh/s/57950)
 
-请注意'在osu! 初期的'陈旧的*beatmap*不包含序号且不遵循以上命名规律.可以参考范例"[discoprince](http://osu.ppy.sh/s/1)" 或 "[avgn](http://osu.ppy.sh/s/66)".特别需要注意的是"[tutorial](http://osu.ppy.sh/s/3756)",因为每个通过osu! installer安装的玩家都会拥有该beatmap.并且,人工创建/废弃 的 .osz/.zip 歌曲目录同样会进行计数(?需要修改).
+Please note that *ancient* beatmaps folders during the beginnings of osu! do not have numberings and does not follow the format. Some examples would be "[discoprince](http://osu.ppy.sh/s/1)" or "[avgn](http://osu.ppy.sh/s/66)". Special mention goes to "[tutorial](http://osu.ppy.sh/s/3756)" because every osu! player will have it when osu! is installed using the osu!installer. Also, manually created/graveyard .osz/.zip songs folders can be counted as well.
 
-### 隐藏文件夹
+### Hidden Folders
 
 #### Data
 
-**osu!data files.** 不要修改这个文件.
+**osu!data files.** Should not be tampered.
 
-Program files
----------------
+## Program files
 
-### .db (数据库文件)
+### .db (Database file)
 
-.db文件保存了beatmap信息,这些文件只能由osu!.exe/osu!test.exe使用.Notepad可以打开这类文件但通常你只会得到大量加密的字符串.
+The .db files are beatmaps' data which only osu!.exe/osu!test.exe can utilise. Notepad can open the .db files but it will be mostly made up of encrypted characters.
 
-**osu! 数据库**
+**osu! database**
 
--   collection.db (你在游戏中的收藏夹.你可以把这个文件上传到论坛以便他人查看你的收藏.实际的beatmap不包含在内.)
--   osu!.db (osu! beatmap缓存.)
--   presence.db (在对话页面的玩家信息缓存.)
--   scores.db (保存本地历史成绩)
+- collection.db (Your "Collections" in-game. You can post it to forum for others to check out your "Collections". Actual beatmaps not provided.)
+- osu!.db (osu! beatmaps' cache. You know, that long start-up loading screen before you see Song Selection?)
+- presence.db (Cache of osu!players @ Chat Console)
+- scores.db (Stores historical Local scores)
 
-### .cfg (配置文件)
+### .cfg (Configuration files)
 
-配置文件确认了osu! 的初始设定,这些文件可以通过Notepad打开.
+Configuration files or config files configure the initial settings for osu! to work. The files can be opened by Notepad.
 
--   osu!.cfg (osu! 逻辑配置.)
--   osu!.{YOUR PC NAME}.cfg ("[Options](/wiki/Options) screen". Also contains [deprecated/interesting variables and sensitive information](/wiki/osu!_Program_Files/User_configuration_file))
-    -   {YOUR PC NAME}: 你的计算机用户名. 如果你将admin/user的用户名设置为 "HelloWorld", .cfg 文件将被命名为, osu!.HelloWorld.cfg .
+- osu!.cfg (osu! logic configuration.)
+- osu!.{YOUR PC NAME}.cfg ("[Options](/wiki/Options) screen". Also contains [deprecated/interesting variables and sensitive information](/wiki/osu!_Program_Files/User_configuration_file)) 
+    - {YOUR PC NAME}: Your PC account name. Say, if you set your admin/user account's name as "HelloWorld", the .cfg file will be named, osu!.HelloWorld.cfg .
 
-### .exe (应用程序)
+### .exe (Application)
 
-主要部件.点击后可以启动.如果你使用osu!installer安装osu!,那么这些.exe文件是安全的.
+The main component. Click on it to start-up. The .exe files are safe to open assuming you used the osu!installer to install osu!.
 
--  osu!.exe (启动osu!)
+osu!.exe (Start-up osu!)
 
-### 隐藏文件
+### Hidden files
 
-#### .dll (应用程序拓展)
+#### .dll (application extension)
 
-.dll文件是osu!.exe程序的组成部件,请忽略该类文件.
+The .dll files are components of osu!.exe so ignore it.
 
-**基础部件** (For Microsoft .NET)
+**Base components** (For Microsoft .NET)
 
--   avcodec-51.dll
--   avformat-52.dll
--   avutil-49.dll
--   bass.dll
--   bass_fx.dll
--   d3dx9_31.dll
--   Microsoft.Ink.dll
--   Microsoft.Xna.Framework.dll
--   pthreadGC2.dll
--   x3daudio1_1.dll
+- avcodec-51.dll
+- avformat-52.dll
+- avutil-49.dll
+- bass.dll
+- bass_fx.dll
+- d3dx9_31.dll
+- Microsoft.Ink.dll
+- Microsoft.Xna.Framework.dll
+- pthreadGC2.dll
+- x3daudio1_1.dll
 
-**osu! 程序部件**
+**osu! components**
 
--   osu!gameplay.dll
--   osu!ui.dll
--   osu.dll
+- osu!gameplay.dll
+- osu!ui.dll
+- osu.dll
