@@ -2,8 +2,8 @@ files:
   - source: /wiki/*/en.md
     ignore:
       - /wiki/*/img/
-    translation: /%original_path%/%two_letters_code%.md
+    translation: /%original_path%/%locale%.md
     languages_mapping:
-      two_letters_code:
+      locale:
         zh-TW: zh-tw
         zh-CN: zh
