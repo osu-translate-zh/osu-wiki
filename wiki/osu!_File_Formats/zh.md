@@ -1,90 +1,86 @@
-osu! 文件格式
-===============
+# osu! File Formats
 
-osu! 特有的文件格式
---------------------
+## osu!-specific file format
 
-### 存档
+### Archive
 
-| 文件格式                                 | 用途                                                                                             |
-|---------------------------------------------|--------------------------------------------------------------------------------------------------|
-| [.osz][Osz Link]    | 可执行的谱面文件                                                                                             |
-| [.osk][Osk Link]   | 可执行的皮肤文件                                                                                             |
-| [.db][Db Link]      | 存储信息                                                                                                     |
+| File format                                       | Usage                    |
+| ------------------------------------------------- | ------------------------ |
+| [.osz](/wiki/osu!_File_Formats/Osz_(file_format)) | Executable beatmap file. |
+| [.osk](/wiki/osu!_File_Formats/Osk_(file_format)) | Executable skin file.    |
+| [.db](/wiki/osu!_File_Formats/Db_(file_format))   | Cached information.      |
 
-### [谱面编辑器](/wiki/Beatmap_Editor)
+### [Beatmap Editor](/wiki/Beatmap_Editor)
 
-| 文件格式                                | 用途                                                                                             |
-|---------------------------------------------|--------------------------------------------------------------------------------------------------|
-| [.osu][Osu Link]    | 参见[Compose](/wiki/Beatmap_Editor/Compose), [Timing](/wiki/Beatmap_Editor/Timing), [Song Setup](/wiki/Beatmap_Editor/Song_Setup) |
-| [.osb][Osb Link]    | 参见[Design](/wiki/Beatmap_Editor/Design)                                                                           |
+| File format                                       | Usage                                                                                                                          |
+| ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| [.osu](/wiki/osu!_File_Formats/Osu_(file_format)) | [Compose](/wiki/Beatmap_Editor/Compose), [Timing](/wiki/Beatmap_Editor/Timing), [Song Setup](/wiki/Beatmap_Editor/Song_Setup). |
+| [.osb](/wiki/osu!_File_Formats/Osb_(file_format)) | [Design](/wiki/Beatmap_Editor/Design).                                                                                         |
 
-### 回放
+### Replay
 
-| 文件格式                                 | 用途                                                                                             |
-|---------------------------------------------|--------------------------------------------------------------------------------------------------|
-| [.osr][Osr Link]    | 可执行的回放文件（不能被解压）                                                                               |
+| File format                                       | Usage                                            |
+| ------------------------------------------------- | ------------------------------------------------ |
+| [.osr](/wiki/osu!_File_Formats/Osr_(file_format)) | Executable replay file (cannot be decompressed). |
 
-创建 .osz/.osk 文件
--------------------
+## Creating .osz/.osk file
 
-.osz/.osk 文件是 osu!.exe 所独有的文件扩展名。打开时 .osz 会被 osu!.exe 读取并解压到 "Songs" 文件夹，而 .osk 文件会被读取并解压到 "Skins" 文件夹。默认地，从官网上直接下载的谱面文件格式是 .osz。而如何创建一个 .osz/.osk 文件则是作图/故事版以及皮肤相关社区中的基础知识。
+.osz/.osk file is a file extension tailored specifically for osu!.exe. When opened, .osz file will be extracted by osu!.exe and transferred to "Songs" folder while .osk will be extracted and transferred to "Skins" folder. By default, beatmap files downloaded directly from the official website generally be in .osz file format. Creating a .osz/.osk file is a fundamental knowledge for beatmapping/storyboarding and skinning community respectively.
 
-### 用压缩软件创建
+### From an archiver
 
-**所需软件：**
+**Software needed:-**
 
--   文件压缩软件 (WinRAR, 7-zip)
--   osu! (为了测试和显示 osu! 图标的目的)
+- File archiver (WinRAR, 7zip)
+- osu! (For testing purpose and osu! icon)
 
-**流程：**
+**Procedure**
 
-1.  把相关文件 (.mp3, .flv, .osu, 故事版, 等等) 移动到一个文件夹中并命名
-    - 在这里我们将文件夹命名为 "Amigo Fiesta" 以便解释
+1. Compile your files into a folder (.mp3, .flv, .osu, SB, etc. into the folder). Name the folder.
+    
+    For explanation purpose, folder will be named "Amigo Fiesta".
 
-2.  鼠标右键单击文件夹并且选择 "添加到压缩文件"
-    - 你也可以选择打开压缩软件然后将文件夹拖拽进去
+2. Right-click the folder and choose to archive the folder (Add to archive...).
+    
+    You can also choose to open the File archiver software first and drag-and-drop the folder in.
 
-3.  检查设置，把压缩格式设为 ".zip" (而不是 .7z, .rar) 然后手动把文件扩展名改成 .osz
-    - Amigo Fiesta.zip -&gt; Amigo Fiesta.osz, 压缩方式: ".zip"
+3. Inspect the settings. Set archive method as ".zip" (not .7z, .rar) and rename the folder file extension to .osz manually in the text box.
+    
+    Amigo Fiesta.zip -> Amigo Fiesta.osz, Archive method: ".zip"
 
-4.  点击确认，产生了一个带有 osu! 图标的 .osz 文件
-5.  你可以重复这个操作来产生新文件
-    - 如果你想为谱面创建压缩文件，那么使用 .osz 扩展名
-    - 如果你想为皮肤创建压缩文件，那么使用 .osk 扩展名
+4. Allow the archive process. An .osz file will be produced as end product along with the distinctive osu! icon for the file.
 
-**图例：** (感谢 [MLGnom's](https://osu.ppy.sh/u/46620) [Skinning tutorial](https://osu.ppy.sh/forum/t/51694))
+5. Rinse and repeat for new copy. For skinning, use .osk extension.
 
--   [WinRAR](http://puu.sh/1MBV)
--   [7-zip](http://puu.sh/1MBW)
+**Picture examples** (credit to [MLGnom's](https://osu.ppy.sh/u/46620) [Skinning tutorial](https://osu.ppy.sh/forum/t/51694))
 
-### 在游戏中创建
+- [WinRAR](http://puu.sh/1MBV)
+- [7-zip](http://puu.sh/1MBW) 
+    - For beatmap, use .osz extension.
 
-**所需软件：**
+### From the game
 
--   osu! (并不需要其它软件，因为游戏本身就可以产生 .osz/.osk 文件)
+**Software needed:-**
 
-**流程：**
+- osu! (and nothing else, since the game can make .osz/.osk files)
 
-1.  如上所述，把相关文件移动到一个文件夹中并命名
-    - 通常，如果你之前编辑过谱面的话，所需的文件都已经准备好可以直接转换成 .osz 文件
-    - 创建 .osk 文件则需要你提前手动把所有所需的文件都放在一个文件夹里
+**Procedure**
 
-2.  打开 osu!
-3.  如果你想创建 .osz 格式文件：
-    - 点开 "Edit" 并选择你想要转换成 .osz 文件的谱面
-    - 打开 "File" 选项卡并选择 "导出图包..."
-    - 生成的 .osz 文件会被放置在 osu! 文件夹下的 "Exports" 文件夹里
+1. Like above, compile your files into a folder and name it.
+    
+    Usually, if you edited the beatmap before, everything will be ready to be converted to .osz. For skins, you must compile the files before.
 
-4.  如果你想创建 .osk 格式文件：
-    - 首先，确保你的皮肤文件夹里有所有你想要打包生成的文件，如果你正使用这个皮肤，你可以通过点击 "打开皮肤文件夹" 来确认
-    - 然后点击 "Options" 菜单下的 "选择皮肤".
-    - 在皮肤选择栏中，选择你想要导出的皮肤并单击 "导出 .osk".
-    - 生成的 .osk 文件会被放置在 osu! 文件夹下的 "Exports" 文件夹里
+2. Open osu!.
 
-[Osz Link]: /wiki/osu!_File_Formats/Osz_(file_format)
-[Osk Link]: /wiki/osu!_File_Formats/Osk_(file_format)
-[Db Link]: /wiki/osu!_File_Formats/Db_(file_format)
-[Osu Link]: /wiki/osu!_File_Formats/Osu_(file_format)
-[Osb Link]: /wiki/osu!_File_Formats/Osb_(file_format)
-[Osr Link]: /wiki/osu!_File_Formats/Osr_(file_format)
+3. If you want to make a .osz, then:
+    
+    - Go to "Edit" and choose the beatmap you want to convert to .osz.
+    - Open "File", then "Export Package..."
+    - The .osz will be produced and placed in the "Exports" folder of the osu! folder.
+
+4. If you want to make a .osk, then:
+    
+    - First, make sure your skin has everything you want to compile. You can check by clicking "Open Skin Folder" if you're using the skin to convert.
+    - Then, in the "Options" menu, click on "Select Skin".
+    - On the skin selection screen, choose the skin you want and click on "Export as .osk".
+    - The .osk will be produced and placed in the "Exports" folder of the osu! folder.
