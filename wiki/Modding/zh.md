@@ -1,99 +1,187 @@
-**Modding** 顾名思义就是检查他人的[谱面](谱面 "wikilink") 然后提出建议。建议可以是修正一些错误或者仅仅是简单的提高谱面质量的小建议。检查你图的人被称为"modder（修图者）", 而制作这个谱面的人就被称为"mapper（作图者）". 修图主要有三个作用:
+# Modding
 
-1. 如果你的建议对制图者来说有用，制图者会给你[Kudosu](ZH:Kudosu "wikilink"). Kudosu可以用来提高你自己的map的星星数（当然也可以用来给自己喜欢的图用）
+Modding is the process of examining another mapper's [beatmap](/wiki/beatmap) and giving constructive feedback to help improve it. The person modding a map is called a *modder* while the person who creates the map is called a *mapper*. Modding can be useful in three main ways:
 
-2. "Mod4mods（互相修图）", 或者当别人看了你的图后你去看别人的图，都是让你的图被他人mod的好办法
+- If a modder's post is useful to the mapper, then the mapper may give the modder a [kudosu](/wiki/kudosu). Kudosu can be used to boost a map's [star priority](/wiki/star_priority).
+- Mod for Mod (M4M): the process where two mappers make a deal to mod each other's mapsets and exchange mods.
+- A good mod post can help the approval teams from spending their time from pointing out basic mistakes. This in turn will help the approval teams reduce their stress and may become more likely to mod the map.
 
-3. 一个好的修图贴可以减少谱面审核组检查并指出谱面的基本错误的时间。这也让审核组轻松不少，此外如果你有很好的修图能力，我想审核组都会乐意去看你的谱面。[MAT们看到没什么大问题的谱面都会有好心情的](ZH:Modding_Assistance_Team "wikilink")，而不是一边修图一边心里暗自伤神地念着这图其实还该多被其他人再修修的。
+Whether you are learning or already know how to map, modding is a great way to help improve your mapping skills and the mapping/modding community.
 
-如果你正在学作图或者知道怎么做图，修图都是个提高做图能力的好办法。
+## Getting Started
 
-基本修图方法
-------------
+To get started, go to the [Pending](https://osu.ppy.sh/forum/6) or [Work In Progress/Help](https://osu.ppy.sh/forum/10) subforums. From here, you can either randomly choose beatmaps from these subforums to mod or open a modding queue in the [Modding Queue](https://osu.ppy.sh/forum/60) subforum and accept requests. If you are opening a queue for the first time, it is a good idea to see how modding queues work by looking at some of the existing threads in the Modding Queue subforum.
 
-首先，从论坛上下载一个谱面，[Pending Beatmaps里的或者](ZH:Pending "wikilink")[Work In Progress/Help的都可以](ZH:Works_In_Progress/Help "wikilink")(唯独不要下载[Ranked/Approved Beatmaps](ZH:Ranked_Beatmap "wikilink") 里的！因为那些是已经审核通过上架了的谱面)。你可以从之前两个页面中随机选一个谱面来看，或者在[Work In Progress/Help里的](ZH:Works_In_Progress/Help "wikilink")**Modding Queue**页面开一个自己的Modding queue（修图队列）然后接受他人的修图请求。如果你想开一个修图队列，读一读那个页面里的其他队列你就知道该怎么做了。
+Open the beatmap's forum thread by clicking on `Web` then `This Beatmap's Thread`. From here, click the `Reply` button on the bottom-left to start your mod post. In this post, you should add a heading to denote the difficulties you are modding.
 
-然后，进入[编辑器并选择你想要修的图](编辑器 "wikilink")。然后，在[Beatmap's页面打开一个新回复](ZH:Beatmap "wikilink")（为了避免浏览器突然崩溃等意外情况，用记事本写回复再粘贴过去更好；或者你可以选择使用火狐浏览器）
+Next, open the song in the osu!client. You can choose any of the difficulties to start a mod.
 
-选择任意一个难度开始修图。建议从最简单的或者最难的难度开始修起，然后难度逐渐增加或降低。
+Before going to edit mode, play the difficulties you want to mod in solo mode. It is an important part of modding to play-test the difficulty as this allows you to understand whether or not certain [mapping techniques](/wiki/mapping_techniques) or patterns play well. You should also take note of anything doesn't feel right.
 
-用游玩模式或者[test mode开始玩一下这个谱面](ZH:Glossary#Test_Mode "wikilink")。试玩是修图中很重要的一步，因为通过试玩你可以理解并知道[Patterns玩起来顺不顺](ZH:Pattern "wikilink")。试玩过程中几下你觉得奇怪的地方。
+After play-testing, watch the beatmap from the beatmap editor. It is also recommended to use a `100%` playback rate watching in the beatmap editor. In this stage of modding, modders frequently find more intricate (or complicated) problems such as combo errors, hit sound inconsistencies, and areas where hit circles or sliders are missing or misplaced.
 
-试玩之后，在编辑器里播放歌曲并在你觉得奇怪的地方停下。在这样一种修图方法下，修图者可以发现一些更细微的问题，比如排列错误或者声音的不一致，或者哪里缺少一个节拍或者滑条等等。当你发现一个击打圆圈或者滑条有问题的时候，鼠标选中他，然后选择Edit菜单下的“Copy”选项（或者直接Ctrl+C），然后在你的回复中直接粘贴（Ctrl+V）。然后就可以写你觉得不对的地方了（比如“我会改变这里的间距因为我感觉这里音乐并没有[jump](ZH:Jumps "wikilink")”）,或者单纯就说你觉得这个不对,玩起来不顺.
+When a hit circle or slider needs attention, click on it to select. Now, copy the hit object (`Ctrl` + `C`) and go back to the post you started up. Then paste (`Ctrl` + `V`) the hit object you had just copied. This will paste the timestamp and combo number of the copied hit object. osu!web will automatically convert this to a link after you post the mod post so other modders (and the mapper) can easily access the hit objects you are talking about.
 
-**打开另外一个难度，重复以上步骤**注意，如果你发现一些在你试玩的时候没发现的问题，也请指出来（建议在编辑器里放歌的时候使用常规速度，只在需要特别确认的地方再使用例如25%等其他的速率）。当你做完这些，就可以把你的帖子发出去了。
+After pasting, add your observations or descriptions as to why you think that hit object should be changed. *For example, "I would change this spacing because the music does not suggest a jump here".* For every hit object you list in your mod post, you should always state the thing you think should be changed, why you think it should happen, and how implementing your suggestion would be an improvement to the beatmap.
 
-在谱面中找什么
---------------
+Rinse and repeat with the other difficulties you want to mod.
 
-AIMod是很用的修图工具，你可以在"Files"菜单下看到它，或者使用快捷键Ctrl+Shift+A。这个工具可以检查特定难度的一些常规问题。不过，这只是一个工具，并不是它指出的所有问题都是真正的问题（比如间距问题，当然也可能真的就是jump）
+Once you are done, submit the your mod post. After submitting your mod post, remember that the mapper may ask that you to clarify parts of your mod post or may reply about adding your suggestions. When this happens, you should double-check the mapper's reply and the difficulties to ensure the mapper understood you suggestions.
 
-以下按照重要性排列。
+## Common Mistakes to Look For
 
-### [BPM和](ZH:BPM "wikilink")[Offset](ZH:Offset "wikilink")
+The below is a list, organized by importance.
 
-做图最重要的部分就是节拍和时间准确。如果[BPM不正确](ZH:BPM "wikilink")，整个歌曲都会计时错误，节奏也会十分怪异。如果BPM正确但是扔感觉节拍"有偏差"，那么很可能是offset的问题或者BPM改变。offset的作用是使拍子对准每个节拍点也就是找准重音。节拍偏差很可能就是因为没找到准确的offset。在**所有**难度里，BPM和offset都必须一致。 有BPM改变时也是这样，所有的BPM改变和它们相应的offset都必须在**所有**难度中一致。
+### Timing
 
-### [间距](间距 "wikilink")
+Timing is crucial part of a beatmap. Failure to decently time a beatmap will make the rhythm of the hit objects feel awkward.
 
-另一个谱面中很重要的方面就是[间距](间距 "wikilink")。间距帮助玩家更好地理解节拍。在对读图不造成误解的情况下，间距是可以改变的，但是这个要求有比较高的作图技巧和理解。如果你是初学修图或者作图不能很好判断是否好坏，那看见间距问题就都提出来吧，不过有时候奇怪的间距是因为故意放置的[jump](ZH:Jumps "wikilink")，[anti-jump](ZH:Anti-jumps "wikilink")，或者本来就是个跳跃的谱面。
+If the notes consistently feel a bit "off", it is most likely due to an offset issue. The offset adjusts the main beat of each measure so that it will match the main beat the music. This is likely the problem if it is hard to get good [accuracy](/wiki/Accuracy) on the mapset.
 
-### [击打物的节奏](击打物 "wikilink")
+The [BPM](/wiki/BPM) and offset should be the same for every difficulties in the mapset, including BPM changes. Any BPM changes and their correlating offset must be the same for **all** difficulties.
 
-osu!是音乐游戏，节奏是作图中很重要的部分。如果你觉得在一个地方缺少了一个可以让这个谱面更流畅或者让节奏听起来更顺的物件，那么就毫不犹豫地提出建议吧。如果一些节拍[overmapped](ZH:Overmapping "wikilink")，那么就建议删掉它们。如果一部分节奏听起来或者玩起来怪异,又或者在[编辑器里看起来奇怪](编辑器 "wikilink"),那么很可能是击打物放错地方或者计时错误,又或者是太长或者太短(对于滑条和转盘)
+### Spacing
 
-### [新组合](组合 "wikilink")
+Spacing is the next important aspects of beatmapping. Spacing can help the player understand the rhythm and timing of the hit objects better.
 
-组合用来区分谱面中的[击打物使它们更便于辨认](击打物 "wikilink")。组合一般来说在[Insane难度不会超过](ZH:Insane "wikilink")20，在[Hard难度不超过](ZH:Hard "wikilink")12在[Easy和](ZH:Easy "wikilink") [Normal难度则不超过](ZH:Normal "wikilink")8。如果这些组合有意义，那么超过限制也是没问题的，但是如果在一个长的组合有合乎逻辑的地方可以开始另一个新的组合，那么建议还是在那个地方使用新的组合。组合通常用来对应歌声/音乐的小节或者明显的重音。特殊情况下，组合用来指明间距的突变或者滑条速率的改变。
+Most spacing rules can be easily broken but still allow for an easily readable beatmap. However, this will require a higher level of mapping to work properly.
 
-### '奇怪的重叠
+If you are a beginner modder/mapper, don't hesitate to comment on spacing. However, be weary that the *weird spacing* can be characteristic of a [jump](/wiki/jump).
 
-重叠一般来说没问题。不过，有时候太长的重叠使得谱面玩起来太难。任何可能造成读图困难的，包括奇怪的形状、重叠等都应该尽量避免。在修图的时候，遇到此类情况都应该建议修改。
+### Rhythm of Hit Objects
 
-### 奇怪的[滑条速率改变](滑条速率 "wikilink")
+Being that *osu!* is a rhythm game, sensible rhythm is important.
 
-有时候谱面中的滑条变速并没有太多意义或者玩起来太难。如果滑条速率改变不是一眼就能看出来的效果，那么这种速率改变大概就应该修改。普遍情况下，滑条速率的变更应该在音乐慢下来或者歌曲高潮部分加速的时候使用。
+Do not hesitate to suggest if:
 
-### [音效](音效 "wikilink")
+- a set of hit objects appears to be missing but would make the beatmap flow or sound better.
+- a set of hit objects appears to be [overmapped](/wiki/overmapped).
+- a set of hit objects sounds or feels awkward while playing (or while watching in editor). If so, it is likely that the hit object may have been wrongly placed, timed, or given too short or too long of a length (for sliders and/or spinners).
 
-音效是在玩游戏时玩家成功击打到节拍时的声音。所有的谱面都应该有充足的音效，无论是使用自定义还是默认的音效，否则谱面将不能被审核通过。又是音效会听起来奇怪。又或者，音效声音太大或太小。这些都可能困扰玩家。需要注意的是低音量的使用，大多数情况下，使用不能被听见的音效是不允许的，这正是修图时需要注意的。
+### New Combos
 
-### [Kiai时段](Kiai时段 "wikilink")
+*See also: [Combo](/wiki/Combo).*
 
-Kiai时段应该是适当加以善用并且不该滥用。一般只在歌曲高潮部分或者特定的重音部分使用。此外，Kiai时段在所有难度中都应该一致（有他人的难度时可以不一致，但同一人做的难度应该一致）。不过,太鼓难度就请不要和osu难度放在一起讨论.当Kiai时段不一致的时候，可以检查下是故意为之还是改变BPM之后没有及时修改而遗留的。
+Combos, in the most basic sense, divide the [hit circles](/wiki/Hit_Objects) of a beatmap so that they are easier to read. Combos generally do not go over 20 in [Insane](/wiki/Insane), 12 in [Hard](/wiki/Hard), and 8 in [Easy](/wiki/Easy) or [Normal](/wiki/Normal) difficulties.
 
-### 难度设定
+There are expections to the max combo limit if they make sense. If there is a logical way to break up a long combo, it is recommended to do so. Combos are usually placed to either match the vocal/musical phrases or to indicate the downbeat of each measure. In special cases, combos are used in indicating any discrepancies (or inconsistencies) in spacing or slider velocity.
 
-难度设定可以在Song Set-up窗口中找到，可以通过点击[编辑器顶部的](编辑器 "wikilink")"Song Set-up"栏或者使用快捷键F4来打开。这些对于[谱面设定有个合理的整体难度扩展是很重要的](谱面设定 "wikilink")。比如说，一个[简单难度不应该使用Approach](简单 "wikilink") Rate (AR/击打物件出现速度/判定圆圈收缩速度)7或者HP Drain Rate (HP/血槽掉血速度)8。这只会使得这个难度完全超过它本身应该有的难度。
+### Awkward Overlapping/Stacks
 
-### 歌曲设定
+Overlapping and stacks are generally okay. However, sometimes these overlaps and stacks are repeated to an extreme extent which can make maps very hard to play. Anything hard to read because of weird shapes, overlaps, or stacks should generally be avoided at all costs.
 
-实际上歌曲设定选项并不影响游戏的进行，但是给出正确的名字还是很重要的。艺术家名，歌曲名，来源(如果有的话),所有难度的标签也都应该一致。歌曲导入时间一般也是相同的，不过在不同难度的第一个击打物在不同时间的时候可以不同。"使用倒数计时"按键也应该在所有难度中都勾选或者不勾选。
+If you spot these, it is a noteworthy thing to comment about in a mod post.
 
-### 背景，皮肤，以及组合的颜色
+### Awkward Slider Velocity Changes
 
-最重要的一点，所有谱面都需要背景图。皮肤不应该和背景图的颜色太容易混淆，也不要使用复合的[击打物的设计或者大尺寸的](击打物 "wikilink")[连击图而影响游戏进行](连击图 "wikilink")。[皮肤制作也有很多要求](皮肤制作 "wikilink")。和皮肤一样，组合的颜色也不应该和背景图太相近而使玩家难以辨认。组合的颜色应该清晰可见。制图者不应该使用两种相近的组合颜色（除非在这两个相近颜色之间有另外一个有明显区别的组合颜色）。
+*See also: [Slider](/wiki/Slider).*
 
-### 故事板
+Sometimes maps contain slider velocity changes that may not make much sense or are very hard to follow. If a slider velocity change requires more than just intuition to understand, then it is usually not a fitting slider velocity change. A common example of when to use a slider velocity change would be in a section of a song that is slowed down or more calming than the rest of the song. Here, many mappers would likely slow down the slider velocity to match the calmed music.
 
-如果故事板中有怪异的地方（杂边，低分辨率等等)，那么最好告诉故事板制作者(可能是制图者本人也可能不是)，这样他/她才能修正。故事板一般情况下不应该超过5.0x的S.B. Load。你可以点击F2或者点击[编辑器顶部的](编辑器 "wikilink")"Design"栏进入故事板界面来检查故事版。
+### Hit Sounds
 
-### 预览点
+*See also: [Hit Sounds](/wiki/Hit_Sounds).*
 
-所有谱面都必须有预览点。预览点在[编辑器下方的进度条上以黄线表示](编辑器 "wikilink")。你也可以用AIMod(Ctrl+Shift+A)在"Style"栏来检查谱面是否设置了预览点所有难度的预览点也必须是相同的(复合mp3的情况例外)
+Hit sounds are the noise the game makes when the player successfully taps a [hit object](/wiki/hit_object). All maps should have a sufficient amount of hit sounds whether using custom or default hit sounds; otherwise, they cannot be ranked.
 
-在你的修图贴中应该避免的
-------------------------
+Sometimes, hit sounds can sound awkward or weird or they are too quiet or too loud. Cases like these may confuse the player.
 
-### 含糊的语言
+Using a volume that cannot be heard, in most cases, is unrankable. Something like this is noteworthy to pay attention and point out.
 
--   **[间距](间距 "wikilink")** 在帮助新人制图者修图时，你应该解释**为什么**这是不正确的间距。这会让新人制图者更好理解。另外一方面，有经验的制图者很少会犯低级的间距错误，所以请解释“为什么”你觉得这个间距应该修改
--   **[新的组合/取消新的组合](组合 "wikilink")** 很多时候增加新的组合可以帮助改进谱面。但是，因为很多时候修图者都不解释**为什么**，制图者可能就不能理解为什么要这么做，然后不做修改。总是解释**为什么**你的建议是有用的绝对是个好习惯。
--   **往右一格**这个似乎不是很明显**为什么**要把击打物向上/下/左/右移动一格。稍微解释一下**为什么**移动(譬如为了对称、曲线更流畅等等)。这些建议虽然可能有用，但是终究只是些很小的细节。记住，修图不应该全是这种细节。
--   **这个形状弱爆了**不管是使用[击打物还是](击打物 "wikilink")[滑条做的形状](滑条 "wikilink")，或者两者都用了，明显制图者不太会理解你为什么这么说。在制图者眼里看来舒服的不一定在你眼里看着舒服。请理解osu！社区里的人们来自地球的各个角落，请尊重每个玩家的意见。与其说滑条形状摆的很难看，不如说“这个滑条在我眼里看着奇怪”，并且给出你自己青睐的形状的截图（通过回帖中的附件上传或者外链图片）。
+### Kiai Time
 
-### 冒犯的语言
+*See also: [Kiai Time](/wiki/Kiai_Time).*
 
-即使你和制图者是好基友，也请尽量不要在修图贴里互黑。谱面中的一些地方可能对你来说完全不合逻辑，这可以理解，不过这不是黑制图者的理由。尽量避免使用诸如“这尼玛是个什么鬼?”、“巨春虫虫”之类的话，让我们一起营造一个和谐美好的osu！环境。
+Kiai time should be used when it makes sense. It is generally said to only use it where the music reaches some "epic" climax or during a chorus.
 
-一般来说，你的每一个修图发帖里都应该有**"什么时间点"**，**"什么问题"**, 以及 **"为什么"**。如果没有“为什么”和“什么问题”，你的建议对于制图者来说可能有点难以理解。建议本身可能达到的效果也会大打折扣。简单地解释下你的建议将会使你的修图更加有用。
+If you can not justify where kiai time is being used, then it should not be used overall (e.g. randomly spamming the toggle). Kiai time should never be abused because:
+
+- it triggers a fountain of stars upon its start time.
+- it will make all of the hit objects flash repetitively. 
+  - overusing this can actually case eye strain to the player, generally making an unpleasant experience.
+- by definition, it signifies one part of the song that is *important*, so using it everywhere loses its meaning.
+
+In addition to all of this, kiai time should generally be the same in all difficulties. There are, however, expections to this:
+
+- game mode difficulty hybrid sets (e.g. osu!standard and osu!taiko's kiai time behaves differently).
+- guest mappers that interpret the song and its effects differently from the host.
+
+If the kiai time differently in any way per each difficulty, it is not a bad idea to ask whether if this was intentional or accidental.
+
+### Song Setup
+
+*See also: [Song Setup](/wiki/Song_Setup).*
+
+The actual song setup settings does not impact game play, but it is important to give correct names. The artist name, title of the song, source (if applicable), and tags should all be the same in each difficulty.
+
+Here are some other things to look out for in the song setup:
+
+- The `Enable Countdown` checkbox should be either enabled or disabled for all difficulties.
+- The combo colours should be the same for each background per difficulty in a mapset. Guest mappers are an exception, but generally: difficulties by the same person and with the same background should use the same combo colours.
+- Maps with widescreen storyboards should have the setting `Widescreen Support` (in `Design` tab) enabled to avoid being cut off in 16:9 resolutions.
+- Maps with storyboards that can cause epilepsy (frequent strobes over 3Hz or one-third of a second) have to enable `Display epilepsy warning (storyboard has quick strobing)` (in `Design` tab).
+- If a map has [breaks](/wiki/breaks), the setting `Letterbox during breaks` should be consistent throughout a mapset. The `Letterbox during breaks` setting must be disabled for osu!mania difficulties.
+- The `Preferred Skin` setting should be set to `User's preference (No Change)`, this may sometimes set to the mapper's own skin by mistake.
+
+#### Difficulty
+
+*See also: [osu!standard Ranking Criteria](/wiki/osu!standard_Ranking_Criteria#difficulty-specific) (difficulty-specific section).*
+
+The difficulty settings can be found in the song setup dialog. These are important to game play so that the song is at a fair level of difficulty for the varying difficulties a mapset can have.
+
+For example, an [Easy](/wiki/Easy) difficulty does not really need an [approach rate](/wiki/approach_rate) (AR) of 7 or an [HP drain rate](/wiki/HP_drain_rate) (HP) of 8. Using these values for an Easy difficulty makes this completely illogical and will make the difficulty much harder than it should be.
+
+### Background, Skin, and Combo Colours
+
+All beatmaps must have a background image. The skin you supply should not blend with the background image or greatly hinder (or chellenge) game play. For example, complicated hit circle design, huge hit bursts, etc.
+
+There are also many [skinning](/wiki/skinning) rules that should be followed. Similar to skinning, combo colours should not blend in with the background either. These combo colours should also be very distinct and clear. The mapper should not have two almost identical combo colours unless they are separated by a very contrasting colour in between.
+
+### Storyboarding
+
+*See also: [Storyboarding](/wiki/Storyboarding).*
+
+If you spot anything weird while the storyboard is playing (e.g. bad rendering of pictures, emptiness, etc.), it is a good idea to tell the [storyboarder](/wiki/storyboarder) so that they can fix it. You can check out the storyboard by pressing `F2` or clicking the `Design` tab at the top of the screen in editor.
+
+The dimensions of the elements should not exceed the default size.
+
+### Preview Point
+
+All maps must have a preview point.
+
+A preview point will be denoted by a yellow tick mark on the [timeline](/wiki/timeline). You can also check if a map has a preview point by going into [AiMod](/wiki/AiMod) and checking under the `Style` tab.
+
+The preview point must be the same in all difficulties.
+
+### Folder Organization
+
+To see the beatmapset folder, click `File` then `Open Song Folder`.
+
+The song's bit rate must be between 128KBps and 192 KBps.
+
+In some cases, an empty `.osb` file may exist. You must deleted these if more than one is present.
+
+Inspect the folder for any unused files within the [beatmapset](/wiki/beatmapset). However, if you see `thumb.db` files, you can ignore them since these are automatically created by your operating system.
+
+## Mod Post Mistakes
+
+*See also: [Modding and Mapping](/wiki/Modding_and_Mapping).*
+
+When you make a mod post, it is very important to **not** do any of the following:
+
+- Under-explaining requested changes. *When modding with an inexperienced mapper's map, it is important to explain why you want to change certain things.* 
+  - **Spacing**: This will help the new mapper grasp a better understanding of beatmapping. On the other hand, more experienced mappers rarely make accidental spacing mistakes, so please explain **why** you think the spacing should be changed.
+  - **New/Remove Combo**: Many times adding new combos will help a map. However, if the modder does not explain why they should make such a change, the mapper will not fully understand the reason behind doing so and may not change the combo.
+  - **1 grid to the *right***: It is not always obvious why a hit object should be moved a grid space up, right, down, or left. It is fine to suggest this, but try to explain why it should be moved. A common reason for this is to make a pattern symmetrical or to fix a broken [stack](/wiki/stack). 
+    - This sort of suggestion does not offer much to improve a beatmap. Keep in mind your mod post should not only consist of such suggestions.
+  - **This shape is ugly**: Whether the shape is made of hit circles, sliders, or both; the mapper obviously will not understand what you are requesting. What looks aesthetically pleasing to the mapper may not always look aesthetically pleasing to you. If you are going to suggest as such, at least explain why and supply another suggestion that the mapper could use. 
+    - You can instead use `this shape could look better, try this:` followed by your requested changes or something similar.
+- Offensive language 
+  - Even if the mapper is a close friend, please try to keep your mod post clean. It is understandable that certain patterns may seem completely illogical to you, but there is never a reason for insulting the mapper. Refraining from using offensive terms to avoid any potential open-ended arguments.
+- Misuse of formatting 
+  - ***Remember: abuse of emphasis will weaken its abilty to emphasize!***
+  - When you are writing a mod post, please do not over(ab)use emphasizing your sentences.
+  - You mod post should not necessarily be an essay, so there should not be the need to use emphasis at all. 
+    - However, if need be, only emphasize the first sentence of the paragraphs that you want to emphasize (or the important parts of the first sentence).
+
+Overall, each item in your mod post should have a ***when***, ***what***, and ***why***. If you happen to not include one of the listed, your suggestions will be confusing for the mapper. Which will make your mod a lot less useful than it should be. Simply explaining your suggestions will make your mod a lot more useful.
