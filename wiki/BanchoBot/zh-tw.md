@@ -1,33 +1,22 @@
-![BanchoBot's tab.](BanchoBot.jpg "BanchoBot's tab.")
+<!-- BanchoBot Information -->
 
-IRC主機 (Chat Server) - BanchoBot [osu! 聊天服務器](HK:IRC "wikilink").
+# BanchoBot
 
-有自己的個人檔案! :D
+![BanchoBot's player card](BanchoBot.jpg "BanchoBot's player card")
 
-外觀和任務
-----------
+BanchoBot is a bot (i.e. a set of commands with automated responses) programmed by **Echo49** that assists people in chat by displaying certain information and announcing game-related messages. It is the host of the [bancho irc](/wiki/Internet_Relay_Chat) and has a user profile with the ID *[#3](https://osu.ppy.sh/u/3)* (next to peppy who is [#2](https://osu.ppy.sh/u/2)). *It also has its own [twitter profile](https://twitter.com/banchoboat)!*
 
-&lt;!-​​-- 關於\#annouce，\#multiplayer 等... ---&gt;
+<!-- BanchoBot (server) commands start with an exclamation mark! `!`-->
 
-### !help (幫助)
+## BanchoBot Commands
 
--   打開你的聊天控制台(BanchoBot 標籤)。它會告訴你,命令的列表。
-    -   如果您使用任何命令，所有的命令都會顯示在BanchoBot頻道。 （除頻道管理員）
-    -   如果您發送的命令不帶星號（“！”）當您使用/ BanchoBot而在頻道，BanchoBot仍收到同樣命令.
--   您不能在非BanchoBot頻道使用星號命令。
+To use BanchoBot commands, you must use the `!` prefix everytime. **Normal users can only use these commands in multiplayer channels and in BanchoBot PM.** If a user send a command in public chat, normal users won't see it and they get it as a private message. Users can also use `/bb <command>` client command to automatically open a BanchoBot tab and sending the command immediately.
 
-#### 基本命令(!COMMAND or /bb COMMAND)
+*For a list of slash (client) commands, visit the [Chat Console](/wiki/Chat_Console#commands-list) article.*
 
-| 命令 | 作用 | 例子 | BanchoBot 響應 |
-| ------- | ------ | ------- | ------------------ |
-| WHERE (user) | 指出玩家的位置 | !where John | John is in USA |
-| STATS (user) | 指出玩家的統計數據(根據目前的統計數據) | !stats John | Stats for John is Idle. Score:00 (#0). Plays:2 (lvl 4). Accuracy:0.00%.
-| FAQ (L.code)(item) (list) | 各種用途 [list] 可用命令列表 | !faq wiki / !faq ru:wiki | The osu! Wiki - Make it awesome! / Примите участие в заполнении вики! |
-| REPORT (reason) | 呼喚管理員 | !report Thomas offending comments | Chat moderators has been alerted. Thanks for your help. |
-| REQUEST (list) | 顯示一個隨機MOD的要求。  [list] Shows 5 random recent mod request | !request | Seether - Fake It by [Dellirium] |
-| ROLL (number) | 隨機得到數字從1到(編號) （默認100） | !roll 9000 | John rolls 1337 point(s) |
+<!-- Commands List --> | Command | Argument(s) | Description | Example Input | Example Response | | \---\---\--- | \---\---\---\---\---\---\---- | \---\---\----- | \---\---\---\---- | \---\---\---\---\---- | | 
 
-其他ID
-------
-
--   is 1, is 2, is 3. \#4-\#52 不同的Bot，按字母順序排列。
+`HELP` | None | Shows the list of available commands | `!help` | This list | | `ROLL` | `[number]` | Randomly gets a value up to the selected number (default is 100). | `!roll 1000` | "Nathanael rolls 789 point(s)" | | `STATS` | `<user_name>` | Displays the stats of the user depending on the mode they're playing | `!stats peppy` | "Stats for [peppy](https://osu.ppy.sh/u/2):   
+Score: 412,018,739 (#94718)   
+Plays: 7073 (lv65)   
+Accuracy: 87.31%" | | `WHERE` | `<user_name>` | Shows the current location of the user. | `!where Kyubey` | "Kyubey is in Russia" | | `FAQ` | `[lang:]<entry>/list` | Displays the message of the entry. Use `list` as entry to show all available entries. | `!faq ping` | "Pong!" | | `REPORT` | `<user_name> <reason>` | Sends a report to the chat moderators. Replace username spaces to underscores `_` | `!report S_o_h spamming in #japanese` | "Chat moderators have been alerted. Thanks for your help." | | `REQUEST` | None | Receive a random beatmap that a user requests modding assistance. | `!request` | "[HoneyWorks - Tokyo Summer Session feat. CHiCO](https://osu.ppy.sh/s/426252) by MrSergio" | <!-- Note: The !search command is not included because it is no longer working. -->
