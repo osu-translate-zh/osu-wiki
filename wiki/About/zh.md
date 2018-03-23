@@ -1,6 +1,5 @@
-关于
-=======
+# About
 
-osu!wiki 是一个由社区进行撰写和维护的项目，旨在让 osu! 玩家更好地了解这个游戏。
+osu!wiki is a community driven and authored project to help osu! users understand the game in a more effective manner.
 
-osu! 的版权归 Dean Herbert (peppy) 所有。
+osu! is copyright Dean Herbert (peppy).
