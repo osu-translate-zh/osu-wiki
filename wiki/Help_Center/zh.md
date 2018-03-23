@@ -1,932 +1,960 @@
----
-outdated: true
----
+# Help Center
 
-# 帮助中心
+Having trouble with something? We're here to help! Check out some solutions to common issues in the sidebar to the left of your screen.
 
-遇到了一些麻烦的问题？我们可以提供帮助。您可以在页面左边的侧栏找到一些常见问题和它们的解决方法。
+## Account
 
-## 账号
+### I've paid for a supporter tag, but still have not received it!
 
-### 我已经购买了 supporter ，但是还没收到它！
+**Depending on what payment service you use (Paypal or Xsolla), there may be a slight delay in the processing of your payment before it reaches us.**
 
-**根据您使用的支付服务（ Paypal 或 Xsolla )，支付结果到达我们这里可能会有些许的延迟。**
+Usually, these issues resolve themselves within a few hours, and our systems will automatically apply your tag to your account.
 
-通常，这样的问题会在几个小时内自动解决，我们的系统会自动为您的账号启用 supporter 身份。
+If it has been over 24 hours and you still do not have your supporter tag, please email <support@ppy.sh> and let us know about your problem.
 
-如果超过 24 小时，您还没有收到您的 supporter 身份，请发邮件给 [support@ppy.sh](mailto:support@ppy.sh) 告知我们您的问题。
+Make sure to include any receipts that you received during the process (paypal transaction IDs, Xsolla receipts, etc) - these help us a lot in tracking down what happened to your payment!
 
-请在邮件中附上您在支付过程中产生的订单（ paypal 订单交易号，Xsolla 订单等）。这可以帮助我们追踪和调查您的订单。
+### What is "restricted" mode, exactly?
 
-### 什么是受限(restricted)状态，具体解释是？
+**A person with a restricted account is temporarily prevented from interacting with the community in any meaningful way, including chatting, participating in multiplayer, and having their scores on leaderboards.**
 
-**玩家的账号处于受限状态，是指暂时被限制与社区的互动，包括交流、加入多人游戏、在排行榜上显示自己的成绩。**
+They may continue to set scores locally and online (though the scores will not show until the status is lifted) and play the game like normal, with the exception of multiplayer.
 
-他们可以在本地或在线游戏中取得成绩（但解除这个状态前不会显示在线成绩），正常地进行单人游戏，但不能进行多人游戏。
+Restrictions are relatively rare, and are only doled out in circumstances where we believe our Community Rules or Terms of Service have been breached, or an account has been observed to be acting abnormally.
 
-账号受限的情况相对而言很少发生，只有在您违反了我们的社区规定和服务条例，或者账号账号行为不正常的时候才会出现。
+In most cases, the status will be removed automatically after 24 hours. If such time has passed and you are still restricted, you may inquire about the status of your account with the support team by emailing <accounts@ppy.sh>.
 
-在大多数情况下，这一状态会在 24 小时后自动消除。如果超过 24 小时您仍然处于受限状态，您可以发邮件给支持团队 [accounts@ppy.sh](mailto:accounts@ppy.sh) 询问您的账号情况。
+If you are restricted, make sure to sort it out with support instead of just making a new account to try and avoid it! Making multiple accounts to avoid restrictions causes problems for everyone - both us, and you.
 
-如果您处于受限状态，请用上述方式，而不要创建一个新的账号解决这个问题。拥有多个账号（开小号）来躲避管理会造成更多的麻烦。
+### The flag on my account profile is wrong!
 
-### 我账号资料上的国旗是错误的！
+**We can change this for you, but only if you are actively living in the country that you wish to change to.**
 
-**我们可以为您修改，但是您所希望显示的国家必须是您实际生活的国家。**
+We determine your country as shown on your profile page from the area in which you first registered your account from.
 
-我们从您首次注册账号时所处的地区检测出您所处的国家，并显示在您的资料上。
+If you create an account while on holiday in the United States, your account will show as belonging to the US - you'll even appear on the country rankings for the US too.
 
-比如，您在美国旅游时创建了一个账号，您的账号将会显示来自美国——您的国家排名（country rankings）也会显示为美国。
+The support team can happily change your account's country upon request, **but only if you are actively living within that country at the time.**
 
-支持团队很乐意处理您更换国家的请求，**但是国家必须是您现在实际生活的国家。**
+To confirm this, the team will ask for proof of residency - be it the appropriate passport, drivers license for your country, or some other form of ID. This must be displayed in a picture next to your monitor with the osu! client open and logged in to your account.
 
-为了确认这一点，我们会要求您提供居住证明材料——可以是护照，驾驶证或者其他证件。照片中必须包括证件和显示着登录了您的账号的 osu! 客户端的电脑。
+We will never display this information to anyone else, and we encourage you to blank out any personal information (that will not otherwise make it impossible for us to determine what country the document is for!) if you are concerned about your privacy.
 
-我们不会将这个信息泄露给他人，如果您在意个人信息，您可以将个人信息遮住（但是请确保可以通过证件确认您的国家）。
+### I've forgotten my username and password!
 
-### 我忘记了我的用户名和密码！
+**Please use [the password recovery page](https://osu.ppy.sh/p/forgot) to reclaim your account automatically, provided that you still have access to the email you registered with.**
 
-**请使用[找回密码](https://osu.ppy.sh/p/forgot)页面来找回您的账号，同时提供您注册账号时所使用的有效邮箱。**
+If this does not work for you (or you do not have access to your registration email), please send an email to our [support team](mailto:accounts@ppy.sh) with as much information as you can think of to help us acknowledge you as the owner of your account.
 
-如果无法这种方法找回密码（或者您没法登录您的注册邮箱）, 请发邮件给 [support team](mailto:accounts@ppy.sh)， 并尽可能地向我们提供可以证明您是账号拥有者的信息。
+Good information to include this email would be:
 
-邮件中最好包括以下信息：
+- The name of the email address that you registered the account on, or any other email the account has been associated with since
+- Any receipts for purchased osu!supporter tags or other items from the osu!store
+- The last date you can remember being able to access your account normally
+- Any other identifying information that you think could be helpful (excluding scores or replays, those do not help us very much!)
 
-* 您注册账号时所使用的邮箱地址，或者其他与该账号相关的邮箱地址。
-* supporter 或 osu! 商店中其他的商品的订单。
-* 您能记得的最后一次正常使用账号的日期。
-* 其他任何您认为可能有帮助的证明信息（除了成绩或者回放）。
+### My account has been banned/disabled/permanently restricted!
 
-### 我的账号被封（banned）/ 被禁用（disabled）/ 永久受限（permanently restricted）！
+**Accounts are generally only disabled when they are confirmed to be multiple accounts belonging to the same user.**
 
-**通常，账号被确认为同一用户的多个账号（小号）时，会被禁用。**
+If this is the case for you, as in, the account that you have had banned was not the first one you ever made, then you can usually safely log in to your first registered account without problem. Generally speaking, disabled accounts are not reactivated a vast majority of the time.
 
-如果您是这种情况，即这个被封的账号不是您所创建的第一个账号，那么您仍可以正常地登录您的第一个注册账号。一般来说，被禁用的账号都是大部分时间不活跃的账号。
+If your account has been restricted, you'll likely know why after a brief conversation with the support team.
 
-如果您的账号处于受限状态，您多半可以从支持团队简短的解释中得知原因。
+In situations where we are absolutely assured that foul play or wrongdoing has taken place, we will ask you to wait out a period of **three (3) months** from the date of your last offense before we consider an appeal from you to let you back into the game.
 
-一旦我们确认作弊或不正当行为的发生，我们会在要求您至少等待**三个月**的时间（从最后一次违规开始），再考虑您提出的解封申请。
+### My account has been stolen!
 
-### 我的账号被盜了！
+**Try using [the password recovery page](https://osu.ppy.sh/p/forgot) to see if your account's email is still valid.**
 
-**尝试[找回密码](https://osu.ppy.sh/p/forgot)来检测您的账号邮箱还是否可用。**
+If this succeeds, you will be able to reset your own password without the assistance of the support staff.
 
-如果可用，您可以自行重置您的账号密码。
+If this does not work for you, please send us a support ticket immediately to <accounts@ppy.sh> with as much identifying information as possible that will help us establish you as the owner of your account.
 
-如果不行，请立即发送一封求助邮件给 [accounts@ppy.sh](mailto:accounts@ppy.sh)，并尽可能地提供证明信息来帮助我们确定您是账号的拥有者。
+Emailing from your registration address is a huge bonus here, as well as any other information you can provide that only the holder of the account would know.
 
-由您的注册邮箱发送将会非常有帮助，提供一些只有账号的拥有者知道的信息也是一样。
+Please do not include replay or score data in your ticket - we cannot use this to verify your ownership of the account.
 
-请不要在您的邮件中附带成绩或者回放——我们无法通过这些信息核实您是账号的拥有者。
+### Can I make more than one account?
 
-### 我可以拥有多个账号么?
+**Unfortunately, no, you can not.**
 
-**不行。**
+If we were to allow everybody to make and play on multiple accounts, the ranked scoreboards would be nearly worthless!
 
-如果我们允许每个人创建多个账号，成绩排行榜将会变得几乎没有意义。
+Other games encounter this issue a lot with what is commonly known as "smurfs" - accounts with low playtimes and totals that inflate the rankings and prevent other users from playing competitively.
 
-其他游戏同样也有会有众所周知的“小号（smurfs）”问题——这样的账号拥有极少的游戏次数和总点击数，却大量占据排名位置，这样不利于玩家间的良性竞争。
+In osu!, we are very much against users having multiple accounts, and we enforce a strict rule of only one account per person, ever.
 
-在 osu! 中，我们非常反对用户拥有多个账号，我们将一直实行严格的“一人一号”规定。
+You get to play on the first account you ever registered with us, and that's it!
 
-您所拥有的第一个注册账号，即是您唯一的账号！
+### Is it possible to start over or have my account's statistics wiped?
 
-### 可以重置或者清除我账号上的数据记录么？
+**Not at the moment.**
 
-**目前不可以。**
+We are considering extra 'score reset' purchases from the osu!store for the truly hardcore players who wish nothing but perfection in their stats, but as it currently stands, we cannot wipe an account's statistics for you.
 
-针对一些希望看到数据记录非常完美的强迫症玩家，我们正在考虑可以在 osu! 商店中购买并“重置成绩”，但是目前来说，我们无法为您清除账号上的数据记录。
+This doesn't mean you can make a new account to do the same thing, either! Having multiple accounts is strongly frowned upon in our community and we will disable any such accounts that are brought to our attention.
 
-这并不意味您可以创建一个新的账号来达到这一目的！在社区中，多个账号（开小号）行为是不受认可的，如果这样的账号引起我们的注意，我们将会禁用(disable)掉它。
+### Can I change my account's username?
 
-### 我可以修改用户名么?
+**Yes, absolutely!**
 
-**当然可以！**
+If you have purchased (or been gifted) a [supporter tag](https://osu.ppy.sh/home/support) at any point, you will be a able to change your name **once** for free. This name change can be redeemed at the [osu!store](https://store.ppy.sh/store/product/32).
 
-如果您购买（或者被赠送）[supporter](https://osu.ppy.sh/home/support) ，您将会获得**一次**免费改名的机会。改名卡可以在 [osu! 商店](https://store.ppy.sh/store/product/32) 中兑换。
+At any point thereafter, you may purchase a username change to change your name to whatever you wish. However, each change will become progressively more expensive - the second will cost $8 USD, the third $16 USD, and so on, up to a cap of $100 USD. We do this to prevent people from abusing the system to change their names in rapid succession.
 
-在这之后，您可以购买改名卡来改名，而每次改名将会越来越贵——第二次需要 8 美元，第三次需要 16 美元，以此类推。这么做是为了防止用户滥用改名系统来频繁修改用户名。
+If you are only after minor capitalization or grammar/spelling changes, you can email <accounts@ppy.sh> to request a free name change to fix these issues. We will not charge you for these sorts of name changes, but you **MUST** do them through a support email. Keep in mind we will only perform this a limited number of times, so make sure you really want it!
 
-如果您改名时弄错了，比如大小写、语法、拼写错误，您可以发邮件给 [accounts@ppy.sh](mailto:accounts@ppy.sh) 请求更正这些问题。这样的改名是免费的，但是您**必须**通过邮件申请。
+### Can I take another player's username?
 
-### 我可以使用别的玩家的用户名么?
+**Yes, but only under certain circumstances.**
 
-**可以，但是有一些前提条件。**
+If a player has not logged in for at least 6 months and has no plays, their username may be reclaimed via the [osu!store player name change page](https://store.ppy.sh/store/product/32) for a standard fee associated with username changes.
 
-如果一个玩家 6 个月没有登录游戏，他们的用户名将被回收，其他玩家可以在 [osu! 商店](https://store.ppy.sh/store/product/32)中购买改名卡并使用这些用户名。
+For every 500 plays an account has across all game modes, an additional year (365 days) will be added to the time before that user's name becomes available. This is to prevent people from stealing the usernames of active or recently retired players.
 
-对于所有游戏模式，每 500 次打图，将会增加 1 年（ 365 天）的回收周期。这样是为了防止有人抢占活跃玩家或只是近期不活跃的玩家的用户名。
+### Is it possible to change my name back or revert to my old username?
 
+**Yes, but under certain circumstances.**
 
-### 我可以在其他玩家玩过的电脑上打图么？
+We only grant free reverts for a user's direct previous username (the one shown by hovering their name on their profile). Changes to any other previous names must be [purchased via the store](https://store.ppy.sh/store/product/32). Simply contact accounts@ppy.sh and request your namechange reverted.
 
-**当然可以。包括像网吧这样的公共电脑上打图。**
+We only grant this one time per account, so please consider carefully before requesting!
 
-只要您玩的是自己的账号，您可以在任何地方玩 *osu!* 。
+### Can I play on a computer that another osu! user has used before?
 
-如果您在公共电脑上，请注意您的账号安全。公共电脑是恶意软件的主要目标。
+**Yes, absolutely. This includes shared PCs like netcafes or PC bangs.**
 
-### 网站提示我已经尝试登录很多次！
+So long as you are playing on only your own account, you can play *osu!* anywhere.
 
-**这是您多次登录失败后的保护措施，请 10-20 分钟后再尝试登录。**
+If you are playing from a public place, make sure to keep a close eye on your account security. Shared computers are often prime targets for malicious software.
 
-如果您遇到了这种情况，只需等待一段时间再登录。
+### The website is telling me that I have tried to log in too many times!
 
-登录限制会在最多几个小时后解除，这时您可以再次登录。
+**This is a temporary protection measure after repeated failures to access your account. Try logging in again after 10-20 minutes.**
 
-----------------------------------------------------------------------------
+If this happens to you, simply wait for a while and try to log in a little later.
 
-## 客户端
+A couple of hours at the absolute maximum will clear the status for most people and allow them to log in again.
 
-### 当我点击一个链接或多人游戏的谱面时，osu! 停止运行！
+### Can I get a list of all maps I've played or downloaded?
 
-**请确认您没有在兼容模式下运行 osu! ，并且您的系统设置了默认浏览器。**
+**You can see all maps you've played on the website.**
 
-这个问题有时会在以兼容模式运行时发生，也会在游戏无法找到一个用来打开网页的默认浏览器时发生。
+If you have an active supporter tag, you can see all maps you have submitted a score on by going in the Beatmap section, then clicking the "Ranked (played)" filter. Alternatively, you can use [this link](https://osu.ppy.sh/p/beatmaplist?m=-1&r=7&g=0&la=0&ra=) to access the page directly.
 
-### 我的游戏在兼容模式下运行么？
+Unfortunately, we do not keep track of all maps a user has downloaded, so it is impossible to get a list of them. The closest you could be to it would be using the aforementioned filter to recover at least the maps you've played before.
 
-通过以下几个步骤，可以检查您的游戏是否在兼容模式下运行：
+### I didn't receive any emails from osu!/I forgot my email address!
 
-1. 打开您的 osu! 安装文件夹，找到 `osu!.exe` 。
-2. 右键单击 `osu!.exe` ，在下拉菜单中点击`属性`。
-3. 找到并打开`兼容性`标签页。
-4. 在`兼容模式`中，检查`以兼容模式运行这个程序`的复选框是否已勾选。
-5. 如果复选框已勾选，再点击一次来禁用该功能。
-6. 如果您的游戏正在运行，关闭客户端并再次打开它。
+**There might be an issue with your account's current email address.**
 
-#### 我设置了默认浏览器么？
+If you remember your account's attached email address, or think you do, try visiting the [email recovery](https://osu.ppy.sh/p/forgot-email) page to file a request to have it changed. Fill in the form as best you can and you'll receive a reply within two days.
 
-**在绝大多数情况下，Windows 系统设置了默认浏览器。**
+If you have lost your account's password and are not receiving any password recovery emails, or you really cannot remember what email address you were using, please contact us at <accounts@ppy.sh>. Any information you have about your account (your username, any screenshots that show you logged in to the client, past transactions through the store or supporter payments, etc.) will be helpful!
 
-通过以下几个步骤检查（对于 Windows 8 及以上的版本）：
+Lastly, we are aware that some providers do not accept automated emails from us. If you are using any of these providers, please contact us by mail and we'll change your email address for you:
 
-1. 打开开始菜单。（快捷键：win 键 + Q）
-2. 在开始菜单的搜索栏中输入`默认`。
-3. 如果您看到`默认程序`，点击它。如果没有，展开搜索结果并找到`默认程序`。
-4. 滚动到 `Web 浏览器`，确认所设置的浏览器已正确地安装在电脑上。
+- `att.net`
+- `bellsouth.net`
+- `free.fr`
+- `i.ua`
+- `laposte.net`
+- `sbcglobal.net`
+- `t-online.de`
 
-### 我无法登录或连接游戏！
+* * *
 
-**确认 osu! 可以正常地通过防火墙连接互联网，并且电脑上安装的杀毒软件的设置正确。**
+## Client
 
-这里有一些运行软件连接互联网和正确设置杀毒软件的方法：
+### osu! freezes when I click a link or multiplayer map!
 
-#### 允许程序通过 Windows 防火墙
+**Make sure you are not running osu! in Windows compatibility mode, and that you also have a default web browser defined in your system settings.**
 
-**在大部分 Windows 中，Windows 防火墙是默认的防火墙软件。**
+This issue is sometimes caused by an interaction with compatibility mode, and can also be caused by the game simply not finding a default browser to open the web page link with.
 
-为了确保 osu! 可以连接互联网，我们需要允许它通过 Windows 防火墙。以下是如何检查并将 osu! 加入允许的程序列表。
+#### Is your game running under Windows compatibility mode?
 
-1. 打开开始菜单。（快捷键：win 键 + Q）
-2. 在开始菜单的搜索栏中输入`允许应用`。
-3. 您应该可以看到结果中包含`允许应用通过 Windows 防火墙`，点击它。
-4. 一个带有两列复选框和程序列表的面板被打开。点击任何程序，然后输入 `o` ，列表会滚动到所有以 `o` 开头程序的位置。
-5. 找到 `osu!` 或者 `osu!.exe` 。
-6. 如果没有任何结果，在面板的底部点击`允许其他应用`，并找到您的 osu! 安装目录，选择 `osu!.exe`。
-7. 确认`专用`和`公用`的复选框都已勾选。点击`确认`来保存您的设置，然后再次尝试。
+To check or change if your game is running in compatibility mode under Windows, try the following steps:
 
-#### 允许程序通过 AVG 防火墙
+1. Open your osu! installation folder and look for `osu!.exe`.
+2. Right click on `osu!.exe` and select `Properties` from the dropdown menu.
+3. Navigate to the `Compatibility` tab.
+4. Look for a checkbox titled `Run this program in compatibility mode` within a section titled `Compatibility mode`.
+5. If this checkbox is ticked, click it once more to disable the functionality.
+6. If your game is already open, close the client and reopen the game once more.
 
-请参考 AVG [官方的详细指导](https://support.avg.com/SupportArticleView?urlName=Allow-application-in-AVG-Firewall)。
+#### Do you have a default web browser set?
 
-#### 在卡巴斯基安全中心允许程序
+**Under the vast majority of all circumstances, most Windows installations will have a default web browser set.**
 
-请参考卡巴斯基[官方的帮助文档](https://support.kaspersky.com/7834)来将程序添加到信任区中。
+To check, try the following steps (under Windows 8 and above):
 
-#### 在允许程序迈克菲中允许程序
+1. Open the Start menu.
+2. Type `default` into the search bar within the Start menu.
+3. If you see a menu entry titled `Default app settings`, click it. If you do not, expand your search to include `default app settings`.
+4. Scroll down to the `Web browser` heading and check to make sure that a browser which you have installed is properly set.
 
-请参考迈克菲[官方的详细指导](https://service.mcafee.com/webcenter/portal/cp/home/articleview?articleId=TS100813)。
+### I can't login or connect to the game at all!
 
-#### 我已经将 osu! 添加到防火墙列表中但仍然无法连接服务器！
+**Ensure that osu! can properly access the internet through any firewall or anti-virus suites you have installed on your computer.**
 
-**我们需要更多的信息来帮助您解决这个问题。**
+Here are a few ways of allowing applications to have internet access through several common anti-virus suites:
 
-如果您仍然无法连接游戏服务器，请通过发送一封电子邮件给 [accounts@ppy.sh](mailto:accounts@ppy.sh) 的方式向我们寻求帮助。以下信息可以帮我们快速解决您的问题：
+#### Allowing a program through Windows Firewall
 
-* 对服务器 `cho.ppy.sh`、`osu.ppy.sh` 和 `m1.ppy.sh` 使用 `tracert` 命令，得到的路由追踪日志。（介绍见下方）
-* osu! 安装目录下，`Logs` 文件夹中的 `network.log` 文件。
+**On most Windows installations, Windows Firewall will be the default firewall software.**
 
-##### 运行路由追踪来诊断连接问题
+To make sure osu! can access the internet, we will need to allow it to communicate through Windows Firewall. Here's how to check and add osu! to the program's list:
 
-**路由追踪可以帮助我们准确的定位您和服务器中出现问题的地方。**
+1. Open the Start menu.
+2. Type `allow an app` into the search bar within the Start menu.
+3. You should see a Control Panel match titled `Allow an app through Windows Firewall`. Click it.
+4. A panel with a large list of applications with two checkboxes beside them will open. Click on any application, and then hit the `o` key. The list will scroll down to all applications beginning with 'o'.
+5. Look for `osu!` or `osu!.exe`.
+6. If neither are present, click `Allow another app` at the bottom of the panel and search for your osu! installation directory, and choose `osu!.exe`.
+7. Make sure both `Private` and `Public` checkboxes are ticked. Click OK to save your settings and try again.
 
-您可以通过打开控制台，运行命令 `tracert` 的方式来运行路由追踪。
+#### Allowing a program through AVG Firewall
 
-按住 `Win 键`并按下 `R` ，打开命令对话框，输入 `cmd` 并点击回车。[更多内容，请参考 Windows 的相关文章](https://support.microsoft.com/zh-cn/kb/314868)。
+Please consult AVG's [official knowledgebase entry on the topic](https://support.avg.com/SupportArticleView?l=en&urlName=Allow-application-in-AVG-Firewall) for detailed instructions on how to do this.
 
-然后在控制台输入路由追踪的命令。比如，命令 `tracert cho.ppy.sh` 将会追踪互联网中您的电脑到游戏服务器的连接。路由追踪需要一些时间，有时需要一分钟，取决于您的网络状况。
+#### Allowing a program through Kaspersky Security Center
 
-我们需要这些服务器的路由追踪结果：`cho.ppy.sh`、`osu.ppy.sh` 和 `m1.ppy.sh`。
+Please consult Kaspersky's [official help article](https://support.kaspersky.com/7834) on adding applications to the Trusted Zone.
 
-按住鼠标拖动，从底部到顶部选择输出结果，被选中的部分会显示为白色，右键单击，将内容复制到您的剪贴板。
+#### Allowing a program through McAfee
 
-### 我的电脑在玩 osu! 的时候重启！
+Please consult McAffee's [official knowledgebase entry on the topic](https://service.mcafee.com/webcenter/portal/cp/home/articleview?articleId=TS100813).
 
-**大多数时候，这是由于您的电脑硬件过热造成的，通常发生在 CPU 或显卡上。**
+#### I've added osu! to my firewall but I still can't connect to the game!
 
-为了查明原因，我们建议您使用 CPU/GPU 温度监测软件，并在您玩 osu! 时后台运行它们，以便观察硬件温度。推荐使用软件 [Piriform Speccy](https://www.piriform.com/speccy) 。
+**We will need extra information from you to help sort this out.**
 
-如果您的 CPU 或 GPU 温度超过 90°C ，您的电脑将有过热重启的危险。
+If you are still having issues connecting to our game servers, please submit a support ticket by sending an e-mail to <accounts@ppy.sh>. The following information will help us resolve your issue quickly:
 
-### 如果电脑过热，我应该如何使 osu! 正常运行？
+- A trace route output log from the command `tracert` for the servers `cho.ppy.sh`, `osu.ppy.sh` and `m1.ppy.sh` (see below for instructions)
+- The `network.log` file from the `Logs` folder in your osu! installation directory
 
-**最简单的做法是修改您的帧数限制设置。**
+##### Running a trace route to troubleshoot connection issues
 
-通过以下几个步骤检查您的帧数限制设置：
+**A trace route will help us detect exactly where the problem is between you and our servers.**
 
-1. 打开 *osu!* 。
-2. 进入`选项`菜单，或者按下 `Ctrl` + `O` 。
-3. 输入在快速搜索中输入 `frame` 并找到相关设置。
+You can perform a trace route by opening Command Prompt and running the command `tracert`.
 
-如果您的帧数限制被设置为`无限制`，可以修改为以下三个选项中的一个，让情况有显著的改变。
+To open the Command Prompt, press and hold the `Windows` key and press `R`, and then type `cmd` and click `OK`. [For more information, see this Windows knowledgebase article.](https://support.microsoft.com/en-us/kb/314868).
 
-`垂直同步`将会以与您的主显示器一样的帧率运行游戏，`120fps` 和 `240fps` 将会以 2 倍或者 4 倍的平均刷新频率运行游戏。
+You can then type the trace route command into the console. For example, the command `tracert cho.ppy.sh` will track how your computer connects to the game server over the internet. Tracing routes takes a little time, sometimes upwards of a minute or more depending on your connection.
 
-推荐设置`垂直同步`来解决硬件过热问题。
+We will need the results from a trace route for command for the following servers: `cho.ppy.sh`, `osu.ppy,sh` and `m1.ppy.sh`.
 
-您也可以使用其他实用工具来控制您的 CPU 和 GPU 的风扇转速。
+To copy the results of the command, simply click and drag from the bottom of the output all the way to the top so that the information turns white, then right click to instantly copy it to your clipboard.
 
-#### 我的电脑没有过热，但是游戏仍然使我的电脑重启！
+### My PC reboots while playing osu!
 
-**造成电脑重启的原因中，除了过热以外，最普遍的是声卡问题，很可能您的外部连接设备出现了故障。**
+**Most of the time, this is due to overheating of one or more of your computer's components, usually your graphics card or CPU.**
 
-过时的声卡硬件或驱动软件会引发 osu! 的运行错误，但对大多数人而言都不是大问题。请尝试更换您的声卡或主板。
+To figure out what is causing this, we recommend you use a GPU/CPU temperature monitor and keep an eye on it as you play osu! in the background. A good choice of program to use for this would be [Piriform Speccy](https://www.piriform.com/speccy).
 
-您也可以试着拔下一些与电脑连接着的 USB 设备，特别是和声音有关的设备。如果耳机或 USB 声卡的相关接口或它们本身出现故障，这有时也会引发 osu! 运行错误。
+If you notice either your GPU or CPU temperature exceeding values of 90C or 194F, your computer is running very hot and dangerously close to most automatic shutdown thresholds.
 
-#### 问题仍然存在！
+#### How can I make osu! run cooler if my computer is overheating?
 
-如果这些都没有帮您解决问题，请发送邮件到 [accounts@ppy.sh](mailto:accounts@ppy.sh) ，告诉我们关于问题的更多信息——包括电脑的配置，型号和其他可以帮助我们找出问题所在的信息。
+**The easiest way is to change your frame limiter settings.**
 
-### 我修改了我的设置，现在我无法启动 osu!，或者 osu! 卡死。
+To check what your frame limiter is set to, follow these steps:
 
-**大多数情况下，将 osu! 恢复到默认设置会解决这个问题。**
+1. Open *osu!*.
+2. Enter the `Options` menu or hit `Control` + `O` by default.
+3. Type `frame` into the quick-search to bring up the frame limiter options.
 
-通过以下几个步骤恢复 osu! 的默认设置：
+If your frame limiter is set to Unlimited, you may notice a significant improvement by changing it to one of the other three options.
 
-1. 按住键盘上的 `Shift` 键。
-2. 在按住 `Shift` 键的同时，双击桌面上的 osu! 图标。
-3. 继续按住 `Shift` 键，直到出现 osu! 的程序恢复对话框。
-4. 当 `osu! configuration` 对话框打开时，点击 `reset settings` 按钮。
-5. 如果仍然有问题，请再次打开对话框并点击 `repair osu!`。
+`VSync` will run the game at a refresh rate equal to that of your main monitor, whilst `120fps` and `240fps` will run the game at 2x and 4x the average refresh rate.
 
+We recommend using `VSync` in situations where heat is an issue.
 
-### 我在玩 osu!mania 的时候，无法多键一起按下。
+You may also wish to look into utilities that allow you to control the speed of your CPU and GPU fans manually.
 
-**这是由一种叫做 _键盘按键冲突（ghosting）_ 的硬件问题造成的。**
+#### My computer isn't overheating, but the game still causes my computer to reboot!
 
-键盘按键冲突是一个比较复杂的问题，但根本上来说，这是由于键盘在制造时就决定了的一个特性——为避免按键冲突，键盘无法同时传输多个键的信号。
+**The most common cause of forced restarts after overheating issues is sound card problems, followed by malfunctioning peripherals attached to your computer.**
 
-大多数新键盘可以同时按键的上限是6个，键盘上任意的6个键。
+Old sound card drivers or software can cause problems with osu!, but this is not an issue for most people. Try updating your sound card or motherboard drivers.
 
-您可以通过[微软的键盘按键冲突检测工具](http://www.microsoft.com/appliedsciences/content/projects/AntiGhostingExplained.aspx)来测试您的键盘的键盘按键冲突情况。
+You may also wish to try removing some of the peripherals attached via USB to your computer, especially if they interact with sound in any way. Headphones or USB sound cards can sometimes cause problems if they or the port they are in begins malfunctioning.
 
-尽管 osu!mania 限制谱面中同时按下的键不能超过6个，通过这样的办法来缓解键盘按键冲突问题，您也应当考虑您的键盘是否太老旧了。
+#### It's still happening!
 
-购买一个支持更多同时按键的键盘是这个问题的唯一解决办法，您可能需要购买一把 *全键无冲（NKRO）* 的键盘。全键无冲的键盘大都没有键盘按键冲突问题，但是一般来说都很贵。
+If none of this helps, please send in a support ticket to <accounts@ppy.sh> with more information on the issue - including your computer's technical specifications, model (where appropriate) and any other information you think may help us discern the cause of your problem.
 
-### 我在玩 osu! 的时候鼠标光标乱跑！
+### I have changed my settings, and now I can't start osu! or it freezes.
 
-**这通常是由于您在游戏中的鼠标灵敏度设置太高操作的。**
+**Resetting osu! back to its default settings will fix this in most cases.**
 
-跳跃的、不稳定的鼠标移动是这个问题的典型表现，特别是当您正在使用数位板的时候。
+Follow these steps to restore osu! to its default settings:
 
-大多数时候，将鼠标灵敏度设置为 1.0x 会解决这个问题。但也可能会使您感觉光标移动迟缓。我们建议在游戏设置中开启 *raw input* ，并改变外设本身的灵敏度。
+1. Hold down the `Shift` key on your keyboard.
+2. While holding `Shift`, double click the osu! icon on your desktop.
+3. Continue holding `Shift` until you see the osu! recovery dialog prompt.
+4. When the `osu! configuration` dialog opens, click the `reset settings` button.
+5. If you still aren't having any luck, open the dialog again and click `repair osu!`.
 
-您也可以试着改变您的鼠标自身的 *DPI* 设置。更高的 DPI 设置会提供更精确的定位，同时也使瞬间移动更平滑。
+### I can't hold more than a few keys at once while playing osu!mania.
 
-我们也建议您清理外设上的灰尘和污垢，保持它们的清洁。毛发或灰尘会影响鼠标的光学传感器的响应，使光标移动出现异常。
+**This is due to a hardware issue common to most keyboards called *ghosting*.**
 
-#### 什么是 raw input，我应该如何开启它？
+Ghosting is a somewhat complex topic, but essentially boils down to issues with the way your keyboard is made that prevent it from sending more than a few keys down at once from certain places on the board.
 
-**Raw input 在游戏中强制使用更直接精确的方式来接收您外设的信号。这通常能提高外设输出的准确度。**
+Most newer keyboards will allow up to **6** keys to be held down at once, albeit in random combinations.
 
-通过以下几个步骤开启 raw input：
+You can test your keyboard's ghosting limits by using [Microsoft's Anti-Ghosting utility](http://www.microsoft.com/appliedsciences/content/projects/AntiGhostingExplained.aspx).
 
-1. 打开 *osu!* 。
-2. 进入 `Options` 菜单，或者按下 `Ctrl` + `O` 。
-3. 在快速搜索中输入 `raw`，定位到这个选项。
-4. 点击 `raw input` 单选框。
+While the Ranking Criteria for osu!mania tries to alleviate the issue of ghosting by not allowing more than 6 notes to be active at any one time, you may encounter this issue if your keyboard is older.
 
-### 我使用数位板玩游戏，但是感觉我的光标移动太慢！
+The only true solution is to purchase a keyboard that can support more concurrent keypresses, in that case. You may wish to look for a feature known as *n-key rollover* (or *NKRO*). NKRO keyboards do not have issues with ghosting for the most part, but are usually expensive.
 
-**您可以通过为数位板设置更小的映射区域来解决这个问题。**
+### My cursor goes crazy whenever I try to play osu!
 
-大多数 Wacom 数位板，可以在 `Wacom 数位板属性`程序中的`映射`标签页中修改映射。这里有一个[例子](https://w.ppy.sh/d/dc/Tabarea.png)。
+**The most common cause of this is having your in-game mouse sensitivity set too high.**
 
-您需要咨询您的数位板制造厂商来了解如何为您的数位板设置映射区域。
+Jumpy, erratic movement is a prime example of this, particularly if you are using a tablet.
 
-所有印有 osu! 的数位板都默认支持 raw input，可以很简单地通过滑动 raw input 设置中灵敏度的滑条来调整。
+Setting the in-game sensitivity to 1.0x (which is default) will fix this in most cases, but may leave your cursor feeling sluggish. We suggest enabling *raw input* in the game options and using the drivers for your peripheral of choice to alter sensitivity.
 
-### 我的歌曲列表一直在滚动！
+You may also wish to adjust the *DPI* setting of your mouse, if you are using one. Higher DPI settings provide more accurate positioning to the game client and may smooth out any jitters.
 
-**这通常是您的电脑连接了出现故障的输入设备。试试拔下所有游戏控制器和手柄。**
+We also suggest ensuring your peripherals are clean and free from dirt or debris. A hair or bit of dust in front of a mouse's optical sensor can do very strange things to the way a cursor moves.
 
-一些模拟键盘或改变键盘映射的软件，比如 *Xpadder* 和 *X-Mouse Button Control* 可能会造成这个问题。如果您在其他游戏中使用这些软件，试着禁用它们。
+#### What is raw input, and how do I turn it on?
 
-也可能是由于小键盘的按键问题，它们会滚动歌曲选择列表。按下 `NumLock` 键来禁用小键盘，然后在小键盘上按下 `9` 或 `3` 来修复这个问题。
+**Raw input forces the game to use a cleaner and more direct means to access the information from your peripherals. This generally increases the accuracy of the output from the device.**
 
-您可能需要检查您的设备上的按键是否卡住或故障。
+To enable raw input, follow these steps:
 
-### 我下载了一个谱面包，但是 osu! 总是试图“修复”文件！
+1. Open *osu!*.
+2. Enter the `Options` menu or hit `Control` + `O` by default.
+3. Type `raw` into the quick-search to jump straight to the option.
+4. Click the `Raw input` radio button.
 
-**您需要将文件解压到您的 Songs 目录中。**
+### I'm playing from a tablet and my cursor feels too slow!
 
-大部分谱面包是 `.rar` 格式，意味着它们是谱面文件的压缩集合。您需要使用解压工具（推荐 [7-Zip](http://www.7-zip.org/)）将它们解压到 Songs 目录中。
+**You can solve this problem by defining a smaller tablet area for your device.**
 
-所有 `.osz` 文件都在歌曲目录中后，在歌曲选择界面按下 `F5`，会刷新游戏的谱面缓存并将您的新歌加载到游戏中。
+On most Wacom tablets, this is done via the `Mapping` tab of the `Wacom Tablet Properties` application. An example may be viewed [here](https://w.ppy.sh/d/dc/Tabarea.png).
 
-### 我的游戏无法正常更新！
+You will need to consult your tablet's manufacturer to find out how to set your tablet area for your particular peripheral.
 
-**这通常是您的电脑的问题，几乎不会是最新的更新的问题。**
+All osu! branded tablets support raw input by default, and may have their sensitivity easily adjusted on the fly by using the raw input option in game and using the mouse sensitivity slider.
 
-osu! 通常可以自动更新，但有时也会出现错误。
+### My song list keeps scrolling!
 
-建议首先重启电脑，大部分与电脑有关的问题都可以用重启解决，这也同样适用于 osu! 。
+**This is usually due to a faulty input device connected to your computer. Try unplugging any controllers or joysticks.**
 
-请确认您游戏中设置的更新版本是正式版。
+Applications which emulate or change keybindings such as *Xpadder* or *X-Mouse Button Control* may also cause these issues. Try disabling them if you use them for other games.
 
-您也可以尝试强制游戏更新。
+This can also happen due to issues with the numpad keys, as they can be used to scroll the song selection list. Pressing the `NumLock` key to disable the numpad and then pressing either `9` or `3` on the numpad will fix the issue.
 
-#### 我要如何检查或设置游戏更新版本？
+You may also wish to check for any jammed or damaged buttons on your peripherals.
 
-**以下是在游戏中修改更新版本的步骤：**
+### I downloaded a Beatmap Pack but osu! is always trying to "repair" the file!
 
-1. 打开 *osu!* 。
-2. 进入 `Options` 菜单，或者按下 `Ctrl` + `O` 。
-3. 在快速搜索中输入 `release`，定位到这个选项。
-4. 确认您的下拉菜单设置为 `正式版（最新）`，这意味着更新版本是正式版。
+**You will need to extract the pack into your Songs directory.**
 
-#### 我要如何强制游戏更新？
+Most beatmap packs come in a `.rar` file format, which means they are a compressed archive of beatmap files. You will need to extract them using your utility of choice (we recommend [7-Zip](http://www.7-zip.org/)) to your Songs directory first.
 
-**您可以通过设置强制更新游戏。**
+Once all of the `.osz` files within the pack are in the Songs directory, hitting `F5` at the song selection menu will refresh the game's beatmap cache and load your new songs into the game.
 
-1. 打开 *osu!* 。
-2. 进入 `Options` 菜单，或者按下 `Ctrl` + `O` 。
-3. 在快速搜索中输入 `update`，定位到这个选项。
-4. 点击 `启动 osu! 更新程序`。
+### My game will not update properly!
 
-您可以通过在 osu! 安装目录下创建一个 `help.txt` 文件来强制游戏进行更新。这个文件可以是一个空文件——只需要有就可以，游戏会在下次运行的时候自动强制更新。
+**This is usually due to issues with your PC, but can very rarely be caused by new updates.**
 
-### 当我打开游戏时，出现了“字体样式”的错误。
+osu! generally keeps itself up-to-date without any help, but sometimes things can go wrong.
 
-**您可能删除了或缺失重要的系统自带字体。请注意问题可能不止这一个。**
+We recommend restarting your PC as the first option. This will fix more issues than you expect it to as far as computers are concerned, and osu! is no different.
 
-如果您打开 *osu!* 或更新器的时候遇到了这个错误，意味着您您删除了或者缺失重要的系统字体。这些字体在 Windows 系统中每一处都会使用，因此您会遇到其他各种各样的问题，比如错误的字体，缺少文本，其他软件崩溃。
+Ensure your release stream is set to stable in the game options.
 
-这里有一些常用字体，可以在不同版本的 Windows 中使用，以下的链接会对您有所帮助：
+You can also try forcing the game to update.
 
-- [系统重要字体](https://sourceforge.net/projects/corefonts/)
-- [Tahoma](http://www.911fonts.com/font/download_TahomaRegular_10233.htm)
-- [Segoe UI](https://www.azfonts.net/families/segoe-ui.html)
+#### How do I check or set my game's release stream?
 
-[这里](http://answers.microsoft.com/en-us/windows/forum/windows_vista-windows_programs/font-tahoma-does-not-support-style-regular/80ad7a97-230f-41d4-9101-107a0bfa986a)有一些的具体建议和找回字体的其他方法。
+**This can be changed via the in-game options menu.**
 
-### 我成为了 supporter ，但是游戏中的用户名却没有变成黄色！
+1. Open *osu!*.
+2. Enter the `Options` menu or hit `Control` + `O` by default.
+3. Type `release` into the quick-search to jump straight to the option.
+4. Ensure the dropdown says `Stable (Latest)` to receive the latest stable build of the game.
 
-**您的用户名在游戏客户端中会一直显示为白色。但其他用户会看到您的用户名已经是璀璨的黄色了！**
+#### How do I force the game to update?
 
-这可以帮助区分您和其他玩家的聊天消息，现在没有办法修改它。
+**You can force the game to update via the options menu.**
 
-### 有一些谱面消失了！
+1. Open *osu!*.
+2. Enter the `Options` menu or hit `Control` + `O` by default.
+3. Type `update` into the quick-search to jump straight to the option.
+4. Click the `Run osu! updater` button.
 
-**请确认您没有在某个具体条件下搜索谱面（比如星级，缩圈速度，等等）。**
+You can also force the game to update by creating a `help.txt` file in osu!'s installation directory. This file does not need to contain anything - it just needs to exist, and the game will automatically force an update the next time it runs
 
-如果您刚刚下载了一张地图，您或许需要在曲目选择界面中按下 `F5` 来刷新您的歌曲列表。
+### I get an error about "font styles" when I try to open the game!
 
-### 我在玩 osu! 时收到一些服务器错误信息！
+**You have deleted or lost important systme fonts that are bundled with the base Windows installation. This probably isn't the only issue you are noticing!**
 
-**这种情况通常在您使用共享的网络连接时出现，比如代理，VPN 。**
+If you see this error when you try to open *osu!* or its updater, it means you deleted or otherwise lost important system fonts that ship with Windows. These fonts are used all over the Windows OS, so you can expect other assorted problems, such as wrong fonts, missing text, and other app crashes throughout Windows.
 
-试试使用其他的代理和 VPN 提供商——如果仍然失败，请发送一封求助邮件给 [accounts@ppy.sh](mailto:accounts@ppy.sh)。
+Here is a collection of common fonts used in different versions of Windows and across the web which should help:
 
-如果您没有使用这些软件，您需要发送一封求助邮件给我们，有可能您的连接被误加入了黑名单。
+- [Microsoft core web fonts](http://web.nickshanks.com/fonts/microsoft-core-web-fonts) (especially Arial, Times New Roman, Trebuchet MS, and Verdana)
+- [Tahoma](http://www.boldfonts.com/fonts/Tahoma/)
+- [Windows Live Essentials](http://explore.live.com/windows-live-essentials?os=other) (Segoe UI)
+- [Powerpoint 2007 Viewer](http://www.microsoft.com/downloads/en/details.aspx?FamilyID=048dc840-14e1-467d-8dca-19d2a8fd7485&displaylang=en&pf=true) (Cleartype family--Calibri, Consolas, Corbel, ... Nothing in osu! or your system depends on these, but these fonts are awesome! Download now gogo!)
+- [Microsoft JhengHei](http://www.microsoft.com/download/en/details.aspx?DisplayLang=en&id=12072) (微軟正黑體) (Traditional Chinese UI font)
 
-大部分洋葱网络（Tor）或者其他与它有关的网络无法连接游戏服务器。这是为了避免恶意使用。
+See [this topic](http://answers.microsoft.com/en-us/windows/forum/windows_vista-windows_programs/font-tahoma-does-not-support-style-regular/80ad7a97-230f-41d4-9101-107a0bfa986a) in Microsoft Answers for some more detailed advice, and other options on getting them back.
 
-----------------------------------------------------------------------------
+### I became supporter but my name isn't yellow in-game!
 
-## 网站
+**You will always appear white to yourself on the in-game client. Other users will see your glorious yellowness, though!**
 
-###  离我发送求助邮件已经过去两周，我还没有收到回复！
+This helps to identify your own messages from everyone else's. There is no option to disable it at this time.
 
-**绝大部分时候，这是因为我们的系统一次性收到了大量的求助邮件。**
+### Some of my beatmaps are missing!
 
-您可以在这封求助邮件中继续发送回复，询问您的问题的处理进度，但是频率不要超过每周 1-2 次。
+**Make sure you are not searching for beatmaps within a certain criteria (such as star rating, approach rate, so on).**
 
-在少数情况下，经常冒犯的用户所发的求助邮件可能会被有意忽略，不过支持团队**总会**提前告知这些用户他们将不再回复。如果您没有收到这样的提醒，请不必担心。
+If you've just downloaded a map, you may want to try refreshing your beatmap list by pressing `F5` at the song selection screen.
 
-### 我的用户页面（user page）被锁住了，我无法编辑它！
+### I receive some sort of server-side error when trying to play online!
 
-**很有可能您的用户页面中有[规章制度](/wiki/Rules)中提到的不合适的内容。**
+**This can happen if you are using a shared internet connection, a proxy, or VPN.**
 
-在这种情况下，您可能需要发送一封邮件给技术团队 [accounts@ppy.sh](mailto:accounts@ppy.sh)，向他们说明您的情况。
+Try using another proxy or VPN provider - if all else fails, send in a support ticket via mail to <accounts@ppy.sh>.
 
-大部分时候，您会再次被允许编辑您的用户页面，但是屡教不改的用户将会永远无法编辑用户页面，因此请留意。
+If you are not using any of the above, then you will need to send in a support ticket, as your connection has likely been blacklisted in error.
 
-如果您感到疑问，不清楚某些东西是否适合放在主页上，您可以把这些内容发消息给任何一名[社区管理团队](/wiki/People/Global_Moderation_Team)的成员，他们会告诉您是否合适。
+Tor or networks associated with the Tor relay will not connect to the game servers for the most part. This is to avoid malicious use.
 
+* * *
 
-### 我可以屏蔽某人与我聊天么？
+## Website
 
-**当然可以。**
+### I have not received a reply to my support ticket and it's been over 2 weeks!
 
-如果其他用户在论坛或游戏客户端中骚扰您，以下几个步骤可以帮助您过滤掉他们的聊天消息：
+**The vast majority of the time, this is due to a high number of tickets coming into our system at once.**
 
-#### 屏蔽某个用户的消息
+You can always send a single reply to your currently-open ticket asking about the state of your case, but make sure not to do this more than once or twice a week.
 
-**在游戏中，屏蔽用户向您发送消息，只需将他们加入您的屏蔽列表。**
+In rare circumstances, support tickets from chronically offending users may be deliberately ignored, though the team will **always** tell you when they will no longer be responding to you first. If you have not received a notification like this, you do not need to worry about it!
 
-1. 在游戏中打开 `Options` 菜单。
-2. 输入 `ignore`，定位到 `Chat Ignore List`（中文界面中为`屏蔽以下玩家的聊天`)。
-3. 将不礼貌的玩家的用户名加入列表，用空格分隔每个用户，将用户名中的空格用下划线替换（比如 _The Gatekeepper_ -> _The\_Gatekeeper_）
-4. 完成！
+### My user page has been locked and I can't edit it!
 
-您将不会在公频中看到这些玩家的聊天消息，也不会收到这些玩家的私信。
+**This can happen if your user page had inappropriate content on it as defined by our [community rules](/wiki/Rules).**
 
-#### 屏蔽所有非好友玩家向您发送私信
+In such cases, you may open up a ticket with the support team by emailing <accounts@ppy.sh> and discussing your situation with them.
 
-如果您希望屏蔽不在您的好友列表中的人向您发送私信，可以采用以下步骤。（注意：管理员不会受这个设置的影响，仍然可以向您发送私信。）尽管如此，如果有管理员恶意骚扰您，请与我们的[支持团队](mailto:support@ppy.sh)联系。
+Most of time, you'll be allowed to access and alter your user page again, but users who abuse this amnesty may find themselves unable to edit their userpage at all, so be careful!
 
-1. 在游戏中打开 `Options` 菜单，或者按下 `Ctrl` + `O` 。
-2. 输入 `block`，定位到`游戏内聊天`。
-3. 点击以启用`只接受好友发来的私信消息`。
-4. 完成！任何一个不在您的好友列表（/addfriend "user"）中的玩家都无法与您聊天。
+If at any point you are in doubt as to whether something is appropriate for a userpage, you may message any of the members of the [Global Moderation Team](/wiki/People/Global_Moderation_Team) with what you plan to put up and they'll let you know if it's okay.
 
-#### 屏蔽论坛中玩家的帖子
+### Can I completely block another user from contacting me?
 
-**想要将指定用户的帖子隐藏，用 UCP 将他们加入您的 Foes 列表即可。**
+**Yes, absolutely.**
 
-1. 访问 [UCP 中的 Foes 列表](https://osu.ppy.sh/forum/ucp.php?i=zebra&mode=foes)，将他们的用户名添加到列表中。
-2. 点击提交。
-3. 完成！这些用户的大部分帖子将会被隐藏——就像它们不存在一样。请注意，其它用户提到他们的帖子时仍然可见。
+In the event that another user is harassing you via private messages either on the forums or via the game client itself, there are a few steps that you can take yourself to filter out their messages.
 
-#### 屏蔽论坛中发送给您的私信
+#### Blocking a user from contacting you in-game
 
-**屏蔽发送给您的所有私信，[在 UCP 中设置您的过滤规则](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=options)。**
+**To block a user from sending you messages in-game, simply add them to your ignore list.**
 
-1. 在 [UCP](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=options) 中设置私信过滤规则。
-2. 在页面的顶部，找到名为 `Add new Rule` 的一栏。
-3. 点击第一个下拉菜单（默认值是 `Subjcet`），将它修改为 `Sender` ，然后点击 Next 。
-4. 再次点击第一个下拉菜单，将它的值从 `is like` 改为 `is`（列表中的第三个选项），然后点击 Next 。
-5. 在出现的文本框中输出冒犯的用户的名称，然后点击 Next 。
-6. 再次点击第一个下拉菜单，将它的值改为 `Delete Message` ，然后点击 `Add Rule` 。
-7. 完成！任何用户发送给您的私信消息都会被自动删除，并且不会有任何提示。
+1. Click the Options menu button in-game
+2. Type 'ignore' to filter the options listing to the "Chat Ignore List" section.
+3. Add the offending user's username to the list, separating each new user with a space, and replacing any spaces in their name with underscores (A user called *The Gatekeeper* becomes *The\_Gatekeeper* for example).
+4. You are done! 
 
-#### 我屏蔽了这些用户后却仍然感到有麻烦该怎么办？
+You'll no longer see public chat messages from any users on that list, or receive private messages from them.
 
-**不必担心，我们的管理团队会帮助您。**
+#### Blocking all non-friends from sending private messages in-game
 
-如果有用户仍然通过其他方式骚扰您，或者借助他们的朋友或者别人来绕过您的屏蔽措施。请发邮件给 [support@ppy.sh](mailto:support@ppy.sh) 告诉我们。
+If you wish to prevent anyone not on your friendslist from sending you private messages, follow the following steps. **Please note: moderators are not affected by this functionality and can always PM you. If you feel a moderator is harassing you in spite of this, you should contact [our support team](mailto:support@ppy.sh).**
 
-请确认邮件中包含聊天记录或者其他的证据，我们的管理团队会了解情况，并为您解决问题。
+1. Click the `Options` menu button in-game or hit `Control` + O on your keyboard
+2. Type "block" to filter the options listing to the "In-game Chat" section.
+3. Toggle the setting on by clicking it.
+4. You are done! Users who are not on your friendslist (/addfriend "user") can no longer contact you.
 
-### 我在其他玩家的资料页上看到的“用户页面”是什么？
+#### Blocking public forum posts from a user
 
-**用户页面是只有 [supporter](https://osu.ppy.sh/home/support) 玩家才能编辑的特殊页面。可以放上您喜欢的内容——比如您的成就截图，您的谱面等等。**
+**To naturally hide most public forum posts of a particular user, add them to your Foes list via the UCP.**
 
-拥有 [supporter](https://osu.ppy.sh/home/support) 身份的玩家可以编辑他们自己的页面并在他们的资料页中显示。用户页面可以包含任何您喜欢的内容——只要符合[规章制度](/wiki/Rules)！
+1. Head over to the [foes list setting in the UCP](https://osu.ppy.sh/forum/ucp.php?i=zebra&mode=foes) and simply add their username to the list as pictured.
+2. Click submit.
+3. You are done! Most forum posts from that user will no longer be visible to you - it will be as if they are never there. Do note that other users quoting their posts will still be visible.
 
-即便您的 [supporter](https://osu.ppy.sh/home/support) 身份过期了，您的用户页面将**继续保留**，并且仍然可以编辑。
+#### Prevent any new forum private messages from reaching you
 
-### 我在注册时必须使用电子邮箱么？
+**To delete all incoming forum private messages before they ever arrive, make an [automatic filtering rule in the UCP settings](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=options).**
 
-**不一定需要。我们通过您在游戏客户端中登陆来验证您的账号，因此邮箱不是注册过程中必须的。**
+1. Head on over to the PM filtering section in the [UCP](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=options).
+2. At the very top of the page, look for a column titled `Add new Rule`.
+3. Click the first dropdown box (default value is Subject) and change it to `Sender`, then click Next.
+4. Click the first dropdown box again and change its value from "is like" to "is" (third option in the list), then click Next.
+5. Enter the offending user's username into the textbox that appears, then click Next.
+6. Click the first dropdown box once more and change its value to "Delete message", then click "Add Rule".
+7. You are done! Any attempts the user makes to contact you via forum PMs will now be automatically deleted without warning to you.
 
-如果您无法通过游戏客户端连接，请检查您的防火墙和杀毒软件，确保 osu! 没有被阻止。
+#### What if I'm still having problems with a user after blocking them?
 
-虽然邮箱不是必须的，我们仍然推荐您为账号设置一个邮箱。一旦您忘记了密码或无法登陆您的账号，您的注册邮箱是我们与您联系的关键。
+**Never fear, our moderation team will help you out.**
 
-### 为什么我无法搜索名字长度小于 3 个字母的作图者？
+If a user is still harassing you via other means, or using their friends or someone else to circumvent your effort to block them, please send us an email at <support@ppy.sh>.
 
-**由于技术限制，我们的本地搜索引擎无法处理这样的字符串，但您仍然可以使用网站右上角的谷歌自定义搜索来搜索。**
+Make sure to include any chatlogs or other evidence in the email, and our support staff will look into your case and see it sorted for you.
 
-只需在谷歌自定义搜索中输入您想要搜索的作图的名字，谷歌将显示搜索结果。
+### What are these "user pages" that I see on other players profiles?
 
-### 为什么我用户资料页上的统计数据是错误的？
+**User pages are special profile elements that all players with a [supporter tag](https://osu.ppy.sh/home/support) get access to. They can contain whatever you like - pictures of your achievements, your beatmaps, basically anything you wish!**
 
-**您可能看到的是其他游戏模式的统计数据。网站默认显示最近一次玩过的游戏模式的成绩。**
+Players with a [supporter tag](https://osu.ppy.sh/home/support) are given the privilege of editing their very own page for display on their profile for the world to see. User pages may contain anything you like - so long as it follows the [community rules](/wiki/Rules)!
 
-如果您很长时间没有玩过而导致统计数据错误，只需要玩几张图，数据会再次正常显示。不活跃的玩家的成绩会被隐藏，以保持排行榜的活力。
+Even if your [supporter tag](https://osu.ppy.sh/home/support) happens to run out, your user page will **remain visible** and you will still be able to edit its contents.
 
-----------------------------------------------------------------------------
+### Do I need to use my email address to register?
 
-## 游戏设置
+**No, you do not. We authenticate your account by having you log in via the game client, so an email is not necessary during the registration process.**
 
-### 我的连击计数，分数和准确度都不见了！
+If you have trouble connecting via the game client, please check your firewall and anti-virus settings to make sure osu! isn't being blocked.
 
-**按下 `Shift` + `Tab` 会切换 HUD，您将会再次看到它们。**
+While having an email isn't required, we do recommend that you associate one with your account, as if you ever lose your password or cannot access your account, your registration email is our first point of contact with you.
 
-如果您修改了切换分数榜的键盘映射，按键后无效。您可以在 `Options` -> `按键设置` -> `In-Game` -> `Toggle Scoreboard` 中重新设置。
+### Why can't I search for a beatmap artist who's name is less than 3 characters long?
 
-### 我的本地成绩丢失了！
+**Our local search engine can not handle this due to technical limitations, but you can still search using the Google Custom Search bar at the top left of most pages on the site.**
 
-很可能是如下原因：
+Simply type the name of the artist you are searching for into the Google Custom Search bar and Google will do the rest.
 
-#### 您最近重新安装了游戏客户端么？
+### Why are the statistics in my user profile page wrong?
 
-**重新安装游戏客户端会自动清除您的所有本地成绩。**
+**You might be looking at your stats for another game mode! The website defaults to showing your scores for the mode you last played.**
 
-很不幸，它们将无法找回。
+If you have been inactive for a lengthy period of time and your statistics are shown wrong, simply play a few maps to display them again. Inactive users can have their scores hidden to keep the rankings fresh.
 
-但您曾经上传的成绩仍然还在——只需要重新下载您过去玩过的谱面，您的成绩会再次显示。
+* * *
 
-小技巧——如果您是 osu!supporter，您可以在 osu!direct 面板中使用 `Ranked(Played)` 来过滤[谱面列表](https://osu.ppy.sh/p/beatmaplist?m=-1&r=7&g=0&la=0&ra=)，找您到曾经玩过并留有成绩的谱面。
+## Gameplay
 
-### 您处于正确的游戏模式中么？
+### My combo counter, score display or accuracy display is missing!
 
-**在其他游戏模式（osu!taiko, osu!catch, osu!mania）中打图会切换显示为那个游戏模式的成绩，并且隐藏其他游戏模式的成绩。**
+**Pressing `Shift` + `Tab` by default will toggle the in-game HUD and allow you to see these elements again.**
 
-这通常由于玩家在玩其他模式的图时，系统会自动切换到这个模式的谱面选择，进而显示这个模式的成绩。只要切换回原来的模式即可。
+If you have changed the keybinding that toggles the scoreboard, this will not work. You can check which key it is set to in `Options` -> `Change keyboard bindings` -> `In-Game` -> `Toggle Scoreboard`.
 
-您可以通过在歌曲选择页面底部的左边，点击 `Mode` ，切换游戏模式，选择您希望显示成绩的游戏模式。
+### My local scores are missing!
 
-#### 您处于离线游戏中么？
+There's a few reasons why this can happen. Read on below!
 
-**离线游戏中取得的成绩无法添加到在线排名中。**
+#### Have you recently reinstalled the game client?
 
-如果您在线游戏时网络连接不稳定，只要您的客户端正在运行，它会自动尝试上传您的成绩。
+**Reinstalling the game client will automatically clear all of your local scores.**
 
-#### 您最近下载了大量的谱面么？（比如一堆谱面包）
+These are unfortunately, gone.
 
-**如果您一次性加载了大量新谱面，成绩从服务器中下载下来需要一段时间。**
+The scores you have submitted online are still there, however - simply redownload any song that you have played before, and your score will reappear.
 
-打图或者做些别的事情，客户端会在后台完成这些工作。
+Handy tip - if you are an osu!supporter, you can use the `Ranked (Played)` filter in the osu!direct panel in game or via [the beatmap listing page](https://osu.ppy.sh/p/beatmaplist?m=-1&r=7&g=0&la=0&ra=) to find any maps that you have set scores on in the past.
 
-### 我的光标后的白色尾巴/烟雾轨迹是什么？
+#### Are you set to the correct game mode?
 
-**这是一种叫做 _smoke_ 的特性，用来在您的屏幕上涂鸦。其他围观您的玩家也可以看到您涂鸦的内容。**
+**Playing another game mode (osu!taiko, osu!catch or osu!mania) will swap the in-game score view to only show scores for that mode. This will hide your scores from other modes.**
 
-这个特性的默认按键是 `C`，长按可以延长涂鸦时间。您还可以在 `按键设置` 对话框中的 `osu! Standard Mode` 中绑定新的按键。
+A common cause of this problem arises from playing maps of another game mode, which then automatically set song selection to use that mode's scores until the mode is set back again.
 
-### 我如何保存我刚刚取得成绩的回放？
+You can change the game mode by clicking the `Mode` button at the bottom left of the screen in song select, then choosing the appropriate mode that you are looking for your scores in.
 
-**在您的本地成绩榜中点击这个成绩，进入成绩界面，按下 `F2` 键。**
+#### Are you playing offline?
 
-这会以 `.osr` 文件的形式将您闪亮的新成绩保存在 osu! 安装目录的 `Replays` 文件夹中。
+**Unfortunately, scores set while playing offline cannot be added to the online rankings.**
 
-*osu!* 会自动保存您的所有成绩在 osu! 安装目录的 `/Data/r` 文件夹中。
+If you are playing online and suffer a brief disconnection for whatever reason, your game will automatically try to send the scores itself for as long as you keep the client open.
 
-请注意，如果一个成绩本身没有回放的话，您将不能通过这种方式保存回放。
+#### Have you recently downloaded a large number of maps? (ie: a beatmap pack or bundle)
 
-### osu! 告诉我，游戏客户端太旧了！
+**Scores can sometimes take a little while to download from the game servers if you've loaded lots of new maps at once.**
 
-**是时候更新了！非常旧的客户端将不允许上传成绩，因此您需要在 `Options` -> `常规` -> `启动 osu! 更新程序` 中强制更新。**
+Playing the game or doing something else will let the client catch up in the background.
 
-如果无法更新，您可以关闭 osu! ，按住 `Shift` 键重新启动 osu!.exe 。这时会显示更新和修复选项，更新选项可以将游戏更新到最新版。
+### What is this white trail or smoke-like line behind my cursor?
 
-### 我的成绩无法上传！
+**This is a special feature called *smoke* and can be used to doodle on your playfield for fun. Anyone who is spectating you can see the things you draw as well.**
 
-唔，发生的原因有很多，让我们看看：
+The default keybinding for this feature is `C`, and it will work for as long as you hold the button down. You can rebind it at any time in the `osu! Standard Mode` section of the `Change keyboard bindings` options dialog.
 
-#### 您在玩的时候连接网络了么？
+### How do I save my own replay of a score I just made?
 
-**如果您在结算成绩时没有连接网络，这个成绩将不会上传。**
+**Enter the post-game results screen by clicking the score in your local scoreboard, and hit the `F2` button.**
 
-即便您在网络很差的环境中玩 osu!，只要在运行中，客户端仍然会竭尽全力上传您的成绩。
+This will save your shiny new score as a `.osr` file in the /Replays/ folder within the default osu! installation directory.
 
-#### 您的本地防火墙或杀毒软件允许 osu! 了么？
+*osu!* also automatically saves all replays after you complete a song under the `/Data/r/` folder, also contained within the osu! installation directory.
 
-**一些防火墙和杀毒软件会阻止 osu! 连接网络，进而阻止它上传成绩。**
+Please note that if no replay was saved for the score you will not be able to retrieve a replay by doing this.
 
-检查您的软件设置，确保游戏安装目录中的 `osu!.exe` 可以连接网络。
+### osu! is telling me that my game client is too old!
 
-#### 您在后台运行了大量程序么？
+**It's time to upgrade! Very old versions of the game aren't allowed to submit new scores, so you'll need to force an update by going into `Options` -> `General` -> `Run osu! updater`.**
 
-**一些程序会影响您上传成绩。**
+If this doesn't work, you can close osu! and restart the osu.exe while holding down the `Shift` key. This will provide you with a few upgrade and repair options, one of which is to update your game to the latest version.
 
-如果您发现无法上传成绩，试着在玩 osu! 之前关掉一些无关的程序，这样您的网络连接就不会受到影响。
+### My scores aren't submitting!
 
-### 成绩上传服务器正常运行么？
+Oops! There's a few reasons why this can happen. Let's go through them:
 
-**通常这个答案是肯定的，您可以查看 [stat.ppy.sh](https://stat.ppy.sh) 或者 [@osustatus twitter](https://twitter.com/osustatus) 来确认服务器正常运行。**
+#### Were you connected to the Internet while playing?
 
-如果服务器宕机了，在我们修复问题并恢复服务器之前，请不要关闭 _osu!_，客户端会尝试上传您的成绩，直到 1 小时后放弃。
+**If you were not able to access the Internet when finishing your score, it may not submit.**
 
-#### 我可以自己上传成绩么？
+This can be frustrating if you play on an unstable connection, though the game will try its best to resubmit your score for as long as you leave the client open.
 
-**我们不接受这样的上传成绩。**
+#### Is osu! allowed in your local firewall or anti-virus suite?
 
-如果由于一些原因导致您没有成功上传成绩，最好的做法是展示您的实力和水平，重新打一次这张图。抱歉！
+**Some firewalls or anti-virus suites can block osu! from accessing the internet, which will prevent it from sending scores.**
 
-### 游戏中的 notes 似乎与音乐不同步！
+Check your software of choice to make sure that `osu!.exe` in the directory you installed the game in is allowed to access the internet.
 
-**有可能是您电脑上的声音软件问题，比如 _Razer Surround Audio_。也可能是您的`全局 Offset（Universal Offset）`设置有误。**
+#### Are you running lots of programs in the background?
 
-试着关闭电脑上其他影响声音输出的软件。如果没有效果，试着调整您的`全局 Offset`。
+**Some can interfere with your ability to submit scores.**
 
-每一个独立的硬件都会有特定的`全局 Offset`，决定您听到游戏的声音是提前或者延后。
+Try closing any extra programs before playing osu! if you find that your scores aren't submitting and you are not having issues with connectivity otherwise.
 
-对于大部分人而言，默认设置就足够了。如果您发现默认设置不合适，您可以通过以下步骤修改它：
+#### Are the score submission servers up?
 
-- 进入 `Options` 菜单，在`偏移量（OFFSET）调节`中找到`全局 Offset` 滑块。默认设置是 0 ，您可以按照自己的需要修改。
-- 如果默认值（0）不合适，试着使用`偏移向导`来将它设置为一个新的值。
-- 如果没有效果，您可以尝试更新的声卡和主板音频驱动。
+**The answer is almost always yes, but check [stat.ppy.sh](https://stat.ppy.sh) or the [@osustatus twitter](https://twitter.com/osustatus) to make sure everything is running smoothly on our end.**
 
-### 我在玩游戏的时候严重卡顿！
+If the servers are offline, do not close *osu!* until we've fixed the issues and the servers come back up, and the game will try to submit your score again for up to an hour before it gives up.
 
-**有很多原因导致游戏的卡顿，电脑上的程序，过时的硬件，或者只是一些设置不合适。**
+#### Can you upload a score I set for me?
 
-#### 您在玩 osu! 的同时打开了大量的程序么？
+**Unfortunately, we cannot upload scores upon request.**
 
-**一些后台程序会与 osu! 争抢系统资源，使游戏很难流畅运行。**
+If you were denied a score due to technical reasons or whatever else, the best you can hope for is to repeat your display of skill and achieve it again. Sorry!
 
-在玩游戏时，试着关闭一些无关的程序。
+### The notes seem out of sync or out of time with the music!
 
-#### 您的电脑安全么？
+**This can be due to sound processing software running on your machine, such as *Razer Surround Audio*. It could also be due to your `Universal Offset` being set incorrectly.**
 
-**病毒，间谍软件，恶意软件或其他类似软件会造成严重的性能问题，即使是配置很高的电脑。**
+Try closing any extra programs which alter or influence the sound coming out of your computer. If this doesn't help, you could try to adjust your `Universal Offset`.
 
-保持电脑的清洁和安全，您会感到明显的提升！
+Every individual hardware configuration has a particular `Universal Offset` that determines whether you hear the game's audio a little later or earlier.
 
-#### 您的电脑使用了多久了？
+The default values work for most people, but if you find it isn't for you, you can change it by following these steps:
 
-**非常老的电脑使用过时的 Intel 核芯显卡，即使在最低配置下，也无法流畅运行 osu! 。**
+- Go to the `Options` menu, and find the `Universal offset` slider under the `Offset Adjustment` header. The default value is 0, and you should only change it if needed.
+- If the default value (0) isn't working for you, try using the `Offset wizard` button to walk you through setting a new one.
+- If this still doesn't help, you may want to try updating your sound card or motherboard audio drivers.
 
-唯一的解决办法是换新的电脑！
+### I'm experiencing lag spikes or stuttering during play!
 
-#### 您的驱动更新了么？
+**There's many reasons why the game may perform inconsistently, from programs on your computer, to out-of-date drivers, or simply having some settings too high.**
 
-**老的驱动可能会造成一些的性能问题。确认您的所有驱动程序已经更新。**
+#### Do you have lots of programs open at the same time while playing osu!?
 
-显卡驱动对 osu! 非常重要，声卡驱动也是。
+**Some background processes can fight with osu! for resources and make the game very unpleasant to play.**
 
-#### 您的电脑上通过 USB hub 连接了大量的 USB 设备么？
+Try closing some programs that you do not need open while playing the game.
 
-**分线器连接大量的设备会造成输入延迟，进而严重影响您的游戏，并且很难发现。**
+#### Is your computer secure?
 
-简单的解决办法是试着拔下您的 USB hub，看看延迟问题是否消失了。
+**Viruses, spyware, malware or other unwanted software can cause serious performance problems for even high-end computers.**
 
-#### 您在窗口模式或者无边框模式下运行 osu! 么？
+Keep your computer clean and safe and you might notice an improvement.
 
-**窗口模式和无边框模式会造成 _明显的_ 的延迟。全屏会提供最流畅的游戏体验。**
+#### How old is your computer?
 
-#### 您的游戏只是卡住一小会儿么？
+**Very old computers that use even older Intel Integrated graphics chipsets may not be powerful to handle osu! at all, even on the lowest settings.**
 
-**电脑上的一些后台程序和软件会在一瞬间请求大量的系统资源，造成电脑的卡顿。**
+The only way to deal with this one is to upgrade your computer!
 
-在玩 osu! 之前关闭所有无关的程序，通常可以解决这个问题。BT 软件是这个问题的罪魁祸首，尤其是当它与 osu! 安装在同一个分区的时候。
+#### Are your drivers up to date?
 
-#### 您的游戏最近更新过么？
+**Old drivers can cause serious performance issues. Make sure you keep all of your drivers up to date for everything wherever possible.**
 
-**有时游戏更新过后，客户端会卡住。**
+Graphics card drivers are particularly important for osu!, as well as sound card drivers.
 
-如果您有很多的谱面，请等待至少 10-15 分钟。osu! 客户端正在重新加载您的谱面并计算它们的难度。
+#### Are you using a USB hub to connect lots of USB devices to your computer through one USB cable?
 
-如果问题没有解决，可以重启一下试试。
+**Connecting too many devices to one port via a splitter can cause input lag which is hard to detect but can seriously throw off your game.**
 
-### 我的游戏出现异常，像是图像被撕裂！
+An easy solution to this is to try unplugging your USB hub briefly. If your lag disappears, you know why!
 
-**这叫做[屏幕撕裂](https://en.wikipedia.org/wiki/Screen_tearing)，可以通过在游戏中将`帧数限制`设置为`垂直同步`来解决。**
+#### Are you running osu! in windowed or borderless mode?
 
-虽然不好看，但是并无大碍，这是由于游戏的刷新频率与您的电脑显示器的刷新频率不一致造成。
+**Both windowed and borderless mode introduce a *considerable* amount of input delay. Fullscreen is optimal for the smoothest gameplay experience.**
 
-您也可以在窗口模式或无边框模式下游戏，这时会使用操作系统原生的刷新频率。
+#### Does your game freeze up for only a moment or so?
 
-开启垂直屏幕或在窗口模式、无边框模式下游戏会有 _显著的_ 的延迟。对于大多数人而言，这不会有太大的问题。
+**Sometimes background processes or other applications on your computer can send big requests for resources all at once, which will make your machine struggle.**
 
-最新的 NVidia 显卡可以在 NVidia 控制面板的全局设置中将全局刷新频率设置为 `Fast` 来解决这个问题。
+This usually clears up after closing everything non-essential before playing osu!. Torrenting software is a big culprit for this, especially if it shares space with the drive that osu! is installed on.
 
-----------------------------------------------------------------------------
+#### Has the game recently updated?
 
-## 安装和注册
+**Sometimes after a game update, the client may struggle for seemingly no reason.**
 
-### 如何下载 osu!？
+If you have a lot of beatmaps, please wait at least 10-15 minutes before blaming the lag on the update. The osu! client may be reprocessing your maps to calculate their difficulty.
 
-**只需在 [osu! 官方网站](https://osu.ppy.sh/)上顶部的导航栏中点击 `Download` 。**
+If it doesn't resolve, a reboot can sometimes help.
 
-或者，点击[这里](https://osu.ppy.sh/p/download)直接访问下载页面。
+### My game looks glitchy, like the graphics are torn!
 
-### 在哪里注册 osu! 账号？
+**This is due to an effect called [screen tearing](https://en.wikipedia.org/wiki/Screen_tearing) and can be fixed by setting the in-game `Frame　limiter` option to `VSync`.**
 
-**只需在 osu! 网站的右上角点击`注册`，或者直接访问 [register 页面](https://osu.ppy.sh/p/register)。**
+This is a completely harmless (albeit ugly!) effect that happens because the game's refresh rate is not synced up with your monitor's refresh rate.
 
-创建 osu! 账号不需要邮箱，但是我们强烈建议您为账号指定一个邮箱来保障账号的安全。
+You can also try playing in Windowed or Borderless mode, which will use your operating system's native VSync instead.
 
-如果您在创建了账号后一天之内，没有通过登陆游戏一次来验证账号，您的账号将会被我们的数据库删除。
+Turning on VSync or playing in Windowed or Borderless mode will introduce a *slight* amount of input lag, unfortunately. For most people, this will not cause significant issue.
 
-请注册账号后尽快完成验证！
+Later NVidia graphics cards have a global option in the NVidia Control Panel to set the global refresh rate to a setting called 'Fast', which will also fix this issue.
 
-### 游戏安装程序蹦出错误提示！
+* * *
 
-**如果游戏安装程序在安装中出现错误，您可以试试以下办法：**
+## Installation and Registration
 
-- 清理您的电脑——用杀毒软件扫描电脑，清理注册表。CCleaner 是一个不错的清理软件。可以扫描您的电脑文件和注册表。如果您的电脑上残留有之前安装的 osu! 的注册项，安装程序可能会出现错误。
-- 试着重新安装 .NET 3.5 框架。[您可以在这里找到](https://web.archive.org/web/20160317051200/http://www.microsoft.com/en-au/download/details.aspx?id=21)。
+### How do I download osu!?
 
-### 我的电脑是 64 位的，无法正常安装 osu!
+**Simply click **`Download`** in the top bar of any page on the [official osu! website](https://osu.ppy.sh/).**
 
-**试着安装 64 位的微软 .NET 框架。**
+Alternatively, [click here](https://osu.ppy.sh/p/download) for a direct link to the download page.
 
-osu! 安装程序自带有 .NET 框架，为了以防万一，您可以[在这里下载它](http://download.microsoft.com/download/2/0/e/20e90413-712f-438c-988e-fdaa79a8ac3d/dotnetfx35.exe)。
+### Where do I register for osu!?
 
-----------------------------------------------------------------------------
+**Simply click **`I'm new!`** in the upper right corner of any page on the osu! website, or visit the page directly through [this link](https://osu.ppy.sh/p/register).**
 
-## 谱面制作与编辑
+We do not ask for your email when creating your osu! account, but we do highly suggest you associate your email with your account to ensure it stays safe from daily purges and to keep your account as secure as possible.
 
-### 如何上传/更新我的谱面？
+If you create your account and do not authenticate it by logging into the game once, the wayward account will be purged from our databases within a day.
 
-**您可以在游戏中的谱面编辑器上传。**
+Ensure that you authenticate it soon after make it!
 
-在编辑器中点击`文件` -> `上传谱面`来上传您的谱面。
+### The game installer throws an error or does not work when I use it!
 
-这样您的谱面会被放在网站上供其他玩家下载，同时也会创建一个专门的主题帖用于讨论该谱面。更新谱面的方式和上传谱面的方式一样。
+**If game installer throws errors when attempting to install, you can try few things:**
 
-每一个用户只能提交有限张谱面。当一张谱面一个月都没有动态（作图者没有更新，没有在该主题帖里回复），它将被移动到 Graveyard 谱面组中。如果要更新一张 Graveyard 的谱面，您首先需要恢复它。
+- Clean your PC - Scan with anti-virus software, clean the registry. A good program for general clean up is CCleaner. Scan both your computer files and your registry. The installer can fail if there are registry entries from a previous copy of osu! still present on your system.
+- Try reinstalling .NET 3.5 Framework. [You can find it here](https://web.archive.org/web/20160317051200/http://www.microsoft.com/en-au/download/details.aspx?id=21).
 
-#### 编辑器告诉我，我正在尝试上传的谱面不是我的！
+### I have 64-bit Windows and cannot install osu! correctly!
 
-**这种情况一般会在谱面文件中的创建者填写有误时发生。**
+**Try to install the 64-bit version of the Microsoft .NET Framework.**
 
-在编辑器中，点击菜单中的`文件`，然后`在记事本中打开 .osu 文件`。检查 `Creator:` 这行，确认它被设置为您的用户名，并且大小写正确。
+This should come with the osu! installer, but in case it doesn't, [download it here](http://download.microsoft.com/download/2/0/e/20e90413-712f-438c-988e-fdaa79a8ac3d/dotnetfx35.exe).
 
-如果没有，将谱面中的每一个难度的创建者都修改正确，重新加载谱面，您应该可以上传它了。
+* * *
 
-### 我是 osu!supporter，但是我没有 10 张 pending 谱面名额！
+## Beatmapping and Editor
 
-**pending 的谱面数量由您的 ranked 谱面的数量决定。**
+### How do I upload/update my map?
 
-每个玩家默认拥有两个 pending 名额。每拥有一张 ranked 谱面，将会额外增加一个名额，最多拥有 8 个名额。成为 supporter 会额外增加 2 个名额，即最少拥有 4 个，最多拥有 10 个 pending 名额。
+**You can do this through the in-game editor.**
 
-### 如何删除我的谱面？
+To upload your beatmap, go into the editor and hit `File` > `Upload Beatmap`.
 
-**支持团队不接受个人删除谱面的请求。**
+This will make your beatmap available for others to download on the website and create a dedicated thread for discussion. Updating a map is the same process for a map that has already been uploaded.
 
-谱面没有活动一个月后，会进入 Graveyard 状态，这时您可以自己删除您的这张谱面。
+Each user has a limited number of maps they can simultaneously upload. Leaving a map inactive for a month (by not updating it or not posting in its thread) will send it to the Beatmap Graveyard. To update a graveyarded beatmap, you need to revive it first.
 
-一旦您的谱面进入 Graveyard 状态，您通过在网页上点击谱面链接右边的`删除`按钮来删除它。
+#### The editor is telling me that beatmap you are trying to submit isn't yours!
 
-----------------------------------------------------------------------------
+**This can happen if the creator of the beatmap is not properly set within the beatmap files.**
 
-## osu! 商店和商品
+In the editor, click `File` in the menu, then `Open .osu file in Notepad`. Check the line `Creator:` and make sure that it's set to your exact username, capitalization included.
 
-### 如何设置 osu!keyboard？
+If it isn't, manually change it for every difficulty in your set, reload the map, and you should be able to submit it.
 
-**您可以使用 osu!keyboard 设置工具，通过[这个链接](http://puu.sh/l6urN/4b6bc800f2.zip)下载。**
+### I am an osu!supporter, but I don't have 10 pending slots!
 
-只需将它解压到您的电脑中的任何地方，启动即可！
+**The number of slots available depends on the number of ranked maps you have.**
 
-剩下的操作显而易见。
+By default, every user has 2 pending slots. One slot is added for every ranked map the user owns, up to a total of 8 slots. Being a supporter grants 2 additional slots, from 4 (without ranked maps) up to a total of 10.
 
-如果您有更多的问题，随时可以发送邮件到 [support@ppy.sh](mailto:support@ppy.sh)，告诉我们您的问题。
+### How can I delete my map?
 
-### osu! nono 键盘上的 LED 灯不工作！
+**The team does not take requests to manually delete uploaded beatmaps.**
 
-**这可能有很多种原因——芯片和 LED 之间的电路被腐蚀、早期的一些成品中使用了故障的 LED 灯。**
+You can delete your beatmap yourself by waiting for it to decay to the beatmap Graveyard, which it will do so after a month without updates.
 
-为了检测 osu! nono 键盘是否故障，请按照以下步骤：
+Once your beatmap is in the Graveyard, you can delete it yourself by clicking the `Delete` button that appears next to the beatmap link.
 
-### 我的 LED 灯有故障么？
+* * *
 
-**通过以下步骤得知：**
+## osu!store and merchandise
 
-1. 确认哪一个 LED 灯没有正常运行，记住位置。
-2. 用小钳子或者其他工具轻轻地从按键开关下面拔出 LED 灯，记住每个 LED 灯原来的位置。
-3. 交换每个 LED 灯的位置。将左边的换到右边，将右边的换到左边。
+### How do I configure the osu!keyboard?
 
-如果某个 LED 灯在原来的那边工作，在另一边也工作，那么这个 LED 灯**没有故障**，一切正常。
+**You can use the osu!keyboard configuration utility, available from [this link](http://puu.sh/l6urN/4b6bc800f2.zip).**
 
-如果某个 LED 灯在两边都不工作，**它可能出现了故障**，我们可以免费发给您替换的 LED 灯。请发送邮件给 [store@ppy.sh](mailto:store@ppy.sh)。
+Simply extract it to anywhere on your computer, and run the executable!
 
-如果某个 LED 灯在一边工作，在另一边不工作，**osu!keyboard 的芯片可能出现故障**。请发送邮件给 [store@ppy.sh](mailto:store@ppy.sh) 告诉我们，我们会尽力为您换新。
+The rest should be self-explanatory.
 
-如果所有 LED 都不工作，它们可能都出现了故障，或者芯片有故障。请在检查腐蚀问题后再联系我们。
+If you have any further issues, please feel free to submit a ticket to <support@ppy.sh> detailing your problem.
 
-#### 我应该如何检查 LED 灯的腐蚀问题？
+### The LEDs on my osu! nono keyboard aren't working!
 
-**用铝箔打磨 LED 灯的触点，这样可以去除锈迹。**
+**This can be due to a few reasons - corrosion between the LEDs and the mainboard, or in certain circumstances with earlier models, faulty LEDs.**
 
-锈迹通常是接近黑色的灰色，或者看起来像是金属上的突兀的斑点。
+To determine if your osu! nono keyboard LEDs are faulty, please undertake the following steps:
 
-清除锈迹可能会让您的 LED 灯恢复正常。如果确实恢复正常了，您下次就可以用同样的方法处理这种情况。
+#### Are my LEDs faulty?
 
-### osu!tablet 停止工作，或者根本不工作！
+**Follow these steps to find out:**
 
-**因为 osu!tablet 是由两个部件组成（数位板和笔），解决这个问题有点麻烦。**
+1. Identify which LED is not functioning as it should be. Remember this side.
+2. Gently prise the LEDs from beneath the key switches with a pair of tweezers or other gripping device, remembering which LED came from which slot.
+3. Swap the LEDs around and return them to their housing. For example, place the LED taken from the left key to the right key, and so on.
 
-考虑到 osu!tablet 是由两个部件组成的（数位板和笔），所以有时难以确定是哪个部分出了问题。
+If an LED that worked in one side works in the other side, that LED **is not faulty** and is working fine.
 
-请按照以下步骤操作来查明原因：
+If an LED that didn't work in one side also doesn't work in the other side, **it is probably faulty.** We can issue you some replacement LEDs to fix this, free of charge. Send an email to <store@ppy.sh>.
 
-#### 检查数位板的问题
+If an LED that worked in one side does not work in the other side, **this could suggest that your osu!keyboard's mainboard is faulty**. Let us know by sending an email to <store@ppy.sh> and we'll do our best to hook you up with a replacement.
 
-**按照这些步骤可以检查您的数位板是否工作正常：**
+If both of your LEDs aren't working, they may both be faulty, or your mainboard could be faulty. Check for corrosion first to see before contacting us.
 
-1. 从系统中安全地移除数位板设备，拔下数据线。
-2. 轻轻地将数据线插回 USB 接口。
-3. 如果数位板正常工作，数位板的指示灯会闪烁绿色一会儿，然后熄灭。这是正常的状况。
+#### How do I tell if my LEDs have corrosion on them?
 
-如果数位板的灯没有闪烁，请试一下其他 USB 数据线——这根有可能在长期使用中被损坏了。
+**Rubbing the base of the LED connectors with a small square of aluminium foil will remove most of the residue caused from corrosion.**
 
-如果问题仍未得到解决，而您的数位板又是在最近一个月内新买的，请发邮件给 [store@ppy.sh](mailto:store@ppy.sh) 寻求帮助。
+Corrosive residue usually appears to be blackish-grey, or may appear as strange stains on the metal.
 
-对于更早以前购买的数位板，我们也可以帮您尽力修理，但是自然损耗和人为原因造成的问题将不会提供换新服务。
+Removing this residue may restore your LED to working condition. If it does, you know how to fix it next time!
 
-#### 检查笔的问题
+### My osu!tablet has stopped working or doesn't work at all!
 
-**按照以下步骤检查您的笔是否正常工作：**
+**This can be tricky to troubleshoot since the osu!tablet is a two-unit solution (the tablet and the pen).**
 
-- 拧开您的笔身，露出里面的电池。
-- 从笔中取出 7 号电池。
-- 换上新的 7 号电池。**确认新的电池在其他设备上正常工作。**
-- 确认电池的正负极安装在正确的位置。笔中有相应的记号告诉您应该装在哪一边。
-- 拧紧您的笔。
-- 按下笔的末端（橡皮擦那一端）的按钮，直到听见咔嚓一声。
+Given that the osu!tablet is a two-unit solution (e.g. tablet and pen), it can be difficult to tell which unit is experiencing issues when things go wrong.
 
-如果您的数位板是正常工作的，笔在靠近数位板时屏幕上的光标会跟着移动。
+To find out, perform the following steps:
 
-如果光标没有移动，而您也已经按照上一节的数位板检查步骤排除过数位板的问题了，那么很可能是您的笔坏了。
+#### Checking for issues with your tablet device
 
-如果您的笔是自然损耗或者意外地（比如从高处摔落或者其他不当行为）损坏，我们无法为您换新。
+**Follow these steps to check to see if your tablet device is functioning normally:**
 
-如果不是人为损坏，请与 [store@ppy.sh](mailto:store@ppy.sh) 联系以寻求帮助，我们会尽我们所能帮助您。
+1. Safely remove the tablet device from your system, and unplug the cable.
+2. Gently plug the cable back into a USB slot on your system.
+3. If the tablet is functioning, the light slot on the face of the tablet will flash green momentarily then fall dark. This is normal behaviour.
 
-### 在我插入 osu!go 后，我的电脑无法识别它！
+If the tablet's light does not flash, try using a different USB cable - the ones included with the tablet can sometimes be damaged during transit or after extensive use.
 
-**这个问题多存在于早期的几批 _osu!go_ U 盘中，原因是 U 盘没有被格式化成电脑可以识别的磁盘格式。**
+If your issue still persists and your tablet is a relatively new purchase (within a month old), please email <store@ppy.sh> for further assistance.
 
-虽然听起来很复杂，但是修复这个问题很简单。
+We can try to help you fix your issue with older tablet purchases, but the natural wear and tear of regular use is not something we cover replacements for.
 
-首先，[下载这个压缩包](https://assets.ppy.sh/store/utilities/osu!go.zip) ，将它保存在电脑上。
+#### Checking for issues with your pen device
 
-#### 在 Windows 系统中格式化 osu!go
+**Follow these steps to check to see if your pen device is functioning normally:**
 
-**在 Windows 系统中，按照以下步骤格式化您的 _osu!go_ U 盘：**
+- Unscrew the grip from the body of the pen, exposing the battery on the inside.
+- Remove the AAA battery from the pen.
+- Replace the battery with a brand new AAA battery. **Verify that the new battery functions in another device first.**
+- Ensure that the battery's positive and negative ends are appropriate in the pen. There are markers on the device that display marks telling you which end goes where.
+- Screw the grip back onto the pen.
+- Depress the button on the back end (eraser end) of the pen until it clicks.
 
-1. 打开`控制面板` -> `磁盘管理`。在 Windows 8 以上版本的系统中，您可以用快捷键 `Win 键` + `X` 打开菜单，点击`磁盘管理`。
-2. **在磁盘管理视图中，请 _非常_ 小心地执行以下步骤，并 _只_ 应用到 osu!go U 盘上。** 如果您在这个窗口中胡乱操作，可能会丢失磁盘中的数据。
-3. 看看电脑识别出 osu!go U 盘处于什么格式。
+If your tablet unit is functioning properly, placing the pen near the tablet will make the cursor on your screen move.
 
-##### 显示了 osu!go U 盘，但是处于"RAW"格式。
+If this does not occur and you have followed the tablet verification steps listed above this section, then it is possible that your pen is broken or faulty.
 
-**在磁盘管理界面中会显示为[这样](https://puu.sh/nktuJ/05791b6fc1.png)。**
+If you have damaged your pen via regular use or an accident (such as a high fall or other misuse), we cannot offer you a replacement.
 
-为了修复这个问题，请确认您的 osu!go U 盘被选中，在 RAW 分区上右键，选择`格式化`选项。在`文件系统`下拉菜单中选择 `NTFS` 或 `exFAT`。
+Otherwise, please contact <store@ppy.sh> for further assistance, and we'll do everything we can to help you.
 
-`exFAT` 可以兼容更多的设备，但是速度会慢一些。
+### My computer doesn't recognize the osu!go when I plug it in!
 
-##### osu!go 没有在磁盘管理中显示。
+**This is a known issue with one of the very first shipments of the *osu!go* USB sticks, and comes down to the device not being formatted in a manner that works with all PCs.**
 
-**您可能需要为它重新分区。**
+Despite how complex this may sound, it's actually very easy to fix.
 
-请参考[这个指南](https://tails.boum.org/doc/first_steps/reset/windows/index.en.html)，了解具体应该怎么做。
+First off, [download the package containing the osu!go default files](https://assets.ppy.sh/store/utilities/osu!go.zip) and save it somewhere on your computer.
 
+#### Formatting the osu!go under Windows
 
-##### 我重新格式化了 osu!go U 盘，现在它在磁盘管理中显示了。
+**Follow these steps to prepare your *osu!go* device under Windows:**
 
-**您已经完成了！**
+1. Open the `Start` menu.
+2. Type `disk management` into the search bar. This will bring up the `Create and manage hard disk partitions` section of the Control Panel.
+3. **While in the Disk Management view, make sure to follow these instructions *VERY* closely and ONLY apply them to the osu!go device.** You can potentially lose data if you fiddle around in this dialog.
+4. Check to see what state your computer recognizes the device as being in.
 
-将您之前下载的压缩文件（osu!go.zip）解压到 _osu!go_ U 盘中，完成！
+##### The osu!go device is present, but in a "RAW" state.
 
-##### 这些都不奏效！
+**This will appear like [this](https://puu.sh/nktuJ/05791b6fc1.png) in the Disk Management dialog.**
 
-如果您在过程中有任何问题，请发邮件给 [store@ppy.sh](mailto:store@ppy.sh)，我们很乐意帮助您。
+To fix this, ensure you have the osu!go device selected, and right click on the RAW partition and select the `Format` option. Choose either `NTFS` or `exFAT` under the `File System` dropdown.
 
+`exFAT` will work with more devices, but is slightly slower.
 
-----------------------------------------------------------------------------
+##### The osu!go device doesn't show up in Disk Management at all.
 
-## 诊断问题
+**You will need to partition the device from scratch.**
 
-### 什么是“日志文件”，我应该如何使用他们？
+Please follow [this guide](https://tails.boum.org/doc/first_steps/reset/windows/index.en.html) for details on how to do that.
 
-**日志文件是游戏客户端行为的详细记录。我们可以用它诊断出您的问题的原因。**
+##### I've reformatted the osu!go device and it now shows up in Disk Management.
 
-获得这些文件非常方便，它们可以帮助您解决十分棘手的问题。
+**You're almost done!**
 
-如果支持团队的成员希望您提供这些文件，以下是获取它们的方法：
+Unzip the archive we asked you to download earlier (osu!go.zip) into the *osu!go* drive and you're done!
 
-1. 打开 *osu!* 。
-2. 在主菜单上点击进入 `Option` 菜单，或者按下 `Ctrl + O` 。
-3. 在快速搜索栏输入 `release` 。您将会看到当前的客户端使用的更新版本。
-4. 确认将它被设置为`测试版`。
-5. 如果您修改了更新版本，请重启游戏客户端。
-6. 重新打开游戏，进入 `Options` ，点击`打开 osu! 所在文件夹`。
-7. 在打开的窗口中找到 `Logs` 文件夹。
-8. 选择需要的日志文件（支持团队会告诉您哪一个），然后将它附加到您的邮件中或者上传到文件分享网站上。
+##### None of this worked!
 
-### 我一直收到的“ Bancho 验证错误”是什么？
+If you encounter any issues with this process, please send an email to <store@ppy.sh> and we'd be happy to help you out.
 
-**当您和服务器之间的网络连接有问题时，会发生这个问题。**
+* * *
 
-这些办法可以帮助您解决这个问题。
+## Troubleshooting
 
-#### 您输入了正确的密码么？
+### What are 'log files' and how do I make them?
 
-**这是最显而易见的一个。**
+**Log files are detailed recordings of what the game client is doing at any given point in time. We can use them to help determine what is causing your issue.**
 
-如果您忘记了您的密码，您可以使用[密码找回](https://osu.ppy.sh/p/forgot)来重新找回您的密码。
+These files are extremely handy to have and can make solving even very complicated issues trivial.
 
-#### 您使用了代理服务器或者 VPN 么？
+If a support team member has asked you for these logs, here's how to get them:
 
-**关闭它们后再重试连接，可能会解决您的问题。**
+1. Open *osu*.
+2. Go to the `Options` menu by clicking the button on the main menu, or hitting `CTRL+O`.
+3. Type `release` into the quick-search bar. This will take you to the current release stream your client is using.
+4. Make sure it is set to either `Beta` or `Cutting Edge (Experimental)`. We recommend `Beta` for the best chance of stability in this situation.
+5. Restart the game client if you made any changes to the release stream to apply them.
+6. Reopen the game, enter `Options`, and click `Open osu! folder`.
+7. Find the `Logs` directory in the window that opens.
+8. Select the log file required (the support representative will tell you which), and attach it to your ticket or upload it to a public filesharing service.
 
-一些 VPN 提供商或者代理服务器可能会由于各种各样的原因连接不上 osu! 的服务器。
+### What is this 'Bancho authentication error' I keep on receiving?
 
-#### 还是有错误！
+**This typically happens when there are networking issues between you and our servers.**
 
-**如果以上方法都不奏效，我们需要您的 `network.log` 文件来判断哪里出了问题。**
+There's a few things we can try to resolve this issue.
 
-阅读上一个章节，了解如何获得日志文件并发送给我们。
+#### Have you entered your password correctly?
 
-极少数情况下，您可能需要向您的互联网服务提供商（ISP）询问这个问题。互联网服务提供商可能无法连接 osu! ，通常是因为使用了很差的路线。
+**This is the most obvious one.**
+
+If you've forgotten what your password is, you can use the [password recovery page](https://osu.ppy.sh/p/forgot) to recover access to your account.
+
+#### Are you using any proxy servers or VPNs?
+
+**Disabling these before attempting to connect again will likely fix your issue.**
+
+Some VPN providers and proxy servers simply do not work with osu! for whatever reason.
+
+#### I'm still getting the error!
+
+**We'll need a `network.log` file from you to figure out what's going on if neither of the above solutions work.**
+
+Check out the article a section above on how to get a log file to send to us.
+
+Rarely, you might need to contact your ISP to inquire about these problems. Certain ISPs have historically had issues connecting to osu!, usually due to poor routing.
