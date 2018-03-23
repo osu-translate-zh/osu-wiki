@@ -1,57 +1,35 @@
-如何找 mod
-=============
+# Getting Your Map Modded
 
-在你的谱面最终 [ranked](/wiki/Beatmaps) 之前，找 [mod](/wiki/Modding) 是必经之路。当然，如何找 mod ，也有不少方式。
+In order for your map to become [ranked](/wiki/Beatmaps), it must get [modded](/wiki/Modding). There are multiple ways to accomplish this task.
 
-\#modreqs 频道
---------------
+## \#modreqs
 
-**\#modreqs** 是一个在 osu! 中为找 mod 而设置的一个频道。只需要简单的输入 /np ，然后坐和放宽即可。说不定会有 modder 甚至是 BN 过来mod 你的图。（但 mod 与否取决于对方。）
+**\#modreqs** is a channel in osu! chat where players can request help ([modding](/wiki/Modding)) with their maps by linking them with the `/np` command. Some modders and even [Beatmap Nomination Group](/wiki/People/Beatmap_Nomination_Group) members may be on the lookout for good maps being linked in this channel.
 
-[Bancho](/wiki/Glossary) 会截取在该频道中最后发布的 20 个谱面，以便 modder 找图进行 mod：
+[Bancho](/wiki/Glossary) keeps track of the 20 most recent requests and allows potential modders to find them in a number of ways:
 
--   输入 `!request` 命令，BanchoBot 会随机发一个谱面链接给你。
--   输入 `!request list` 命令，BanchoBot 会发给你最后5个发布的图，并附上链接。
--   访问 [special map listing](https://osu.ppy.sh/p/beatmaplist&r=8) ，将会将最后发布的20个谱面显示在这里。
+- Typing the `!request` command into chat will make BanchoBot PM you a random map link.
+- Typing the `!request list` command into chat will make BanchoBot PM you a list of the 5 most recent requests plus a link to more.
+- Visiting a [special map listing](https://osu.ppy.sh/p/beatmaplist&r=8) on the main site will list the 20 most recent requests plus a few extras.
 
-如果你在短时间内连续发布三个以上的图，将会被 bancho 忽略掉。
+If you post more than two map links in a short period of time, Bancho will ignore them.
 
-虽然收效甚微，不过这也是一个找 mod 的途径（并且发多少遍都行，不要担心）。
+It's not the most effective method, but it doesn't hurt to try (just don't count on it).
 
-Modding Queues 版块
--------------------
+## Modding Queues
 
-[Modding Queues](https://osu.ppy.sh/forum/60) 会时不时有 modder 在这里开 queue。一般情况下，只要 queue 是开的 modder 都会接，然而你首先需要遵守 queue 中写明的特定的规则。
+The [Modding Queues](https://osu.ppy.sh/forum/60) section of the forum contains Modding Queues (hard to comprehend, we know). Modding Queues are places where you post maps, and the creator of the thread may eventually mod them. Each thread has specific rules, so follow the thread's rules to get your map modded.
 
-互相 mod (M4M)
---------------
+## Asking Other Users for a Mod4Mod
 
-跟“等价交换”差不多，用自己一个 mod 换一个别人的 mod。通常这个是最有效的找 mod 方式。甚至在自己在 \#modreq 发完之后等另外一个人发的时候马上就有一个潜在的 modder 在这里。互相 mod 的同时也在互相进步，这何乐而不为？
+A mod4mod, or M4M for short, is where you mod somebody else's map if they mod yours. This is a very effective method of getting mods. It's particularly useful if you combine it with \#modreqs; if somebody posts a mod request there, simply ask them if they're willing to do a mod4mod. Often they'll say "yes." It takes effort, but is well worth the mod you receive and the experience you gain from modding someone else's map.
 
-直接找目标 modder
------------------
+## Directly Asking Other Users
 
-直接找 modder 也是一个找 mod 的方法。如果你发现某个玩家没开 queue 但有不少的 [kudosu](/wiki/Glossary)（modder 的 kudosu 数量肯定不为零），你也不妨找一下这个玩家（论坛或游戏甚至是 QQ 直接私聊），只要不是很忙，基本上都会接的。当然，用这方法找泡甚至是找rank都行。以下是一些技巧：
+Directly asking other users is a great way to get mods, too, if you ask the right ones. Look for a normal user with a lot of [kudosu](/wiki/Glossary) and no modding queue; often they'll accept your request if they're not busy. Also, directly asking [BNs](/wiki/People/Beatmap_Nomination_Group) is almost a necessity to getting your map ranked. Here are some tips:
 
--   如果在签名或者 [User page](/wiki/Glossary) 已经**明确说明自己不接 mod**，那就不要劳烦他人了，不然可能会拉黑。
--   避免开门见山，不要遇到其他玩家第一句话就是求 mod。尽可能随便聊一下，然后慢慢再达到你求 mod 的目的，这样效果会好很多。
--   别人接了你的 mod 请求，就不要去催 mod 了。说不定别人压根就不喜欢这个谱面甚至是你个人，本来可以强行撑过去的被你这样一催，哪还有心情 mod 你的图？
+- If somebody's signature or [user page](/wiki/Glossary) says, "I don't take requests", then don't ask them if they aren't your friend.
+- Start up a regular conversation, and just casually slide the request in. This is much more effective than straight-out asking.
+- Don't be a jerk on the forums or in chat. If people don't like you, then they aren't going to be willing to mod your map. Who wants to help out somebody they don't like?
 
-华语圈找 mod 其它途径
----------------------
-
-### Pending吧
-
-传送门：https://tieba.baidu.com/f?kw=pending
-
-虽然这个吧水贴会多一点，不过也有不少国内的 mapper 和 modder 都在那里逛。语言障碍基本没有，不妨在里面发个贴试一下。（效果介于 \#modreq 发 /np 跟在别人的 queue 发 mod 请求之间。）
-
-### QQ群
-
-~~著名服毒日麻艹船LL~~几乎所有会讲中文的mapper都在的群：15175731
-
-osu!新人mapper群：133605766
-
-一般QQ群都会有其特定的圈子，在 mapper 群里面发 mod 请求，或者在 player 群发一个 testplay 请求，或者直接改个群名片。或多或少都会有人响应，语言障碍也基本没有。（效果同上，但没贴吧发帖的效果好。）
-
-最后，祝各位 mapper 都能找到 mod，并且成功将你的图送进 rank 图中。
+Good luck in getting your map modded and ranked!
