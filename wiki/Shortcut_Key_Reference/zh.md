@@ -1,167 +1,232 @@
-Shortcut Key Reference
-=================================
+# Shortcut Key Reference
 
-以下是各种模式下可以使用的快捷键：
+There are many shortcuts in *osu!* that can be utilized while in-game or while idle at any screen. They are listed out with their functions below.
 
-游戏通用
---------
+**Note:** some of these keys can be changed in the [options](/wiki/options)! However, the list below presents the default keys.
 
--   **Shift+F1**: 打开 osu!status （当网络错误时）
--   **F7**: 切换帧数限制模式
--   **F8**: 显示/隐藏聊天栏
--   **F9**: 显示/隐藏扩展聊天栏
--   **F10**: 禁用所有鼠标按键（鼠标滚轮仍可使用）
--   **F12**: 屏幕截图（同时按住SHIFT可将截图上传至服务器分享）
--   **Insert**: 最小化osu!至通知栏
--   **↑/↓**: 增大/减小音量
+## Game-Wide
 
-仅限菜单
---------
+These shortcuts work anywhere:
 
--   **F1**: 前一首歌
--   **F2**: 从开头播放
--   **F3**: 暂停/开始
--   **F4**: 停止
--   **F5**: 下一首歌
--   **F6**: 跳转至 (jukebox)
--   **Alt-Enter**: 切换全屏模式
--   **Esc**: 返回上级菜单
+- `Ctrl` + `Alt` + `Shift` + `S`: Reload current skin 
+  - If playing or at the results screen, this will queue the command to be executed after returning to song selection.
+- `Ctrl` + `F11`: Toggle frame times
+- `F7`: Toggle frame rate limiter 
+  - Pressing this will cycle through `120fps`, `240fps`, and `Unlimited (gameplay)` but not enable `VSync`.
+- `F8`: Toggle chat window
+- `F9`: Toggle extended chat window
+- `F10`: Toggle all mouse buttons (except for mouse wheel)
+- `F12`: Take a screenshot
+- `Shift` + `F12`: Take a screenshot and upload to the server for sharing
+- `Insert`: ([Boss Key](https://en.wikipedia.org/wiki/Boss_key)) Minimize the osu!client into the notification area
+- `Shift` + `F1`: Open [osu!status](https://twitter.com/osustatus "osu!status on twitter") (when connection error appears)
 
-主菜单
-------
+## Main Menu
 
--   **P**: 游戏模式（敲击两次为 osu! 模式歌曲选择）
--   **P-M**: 游戏模式 （[多人游戏](/wiki/Multi)）
--   **P-S-T**: 游戏模式 （[太鼓歌曲选择](/wiki/Game_Modes/osu!taiko)）
--   **P-S-C**: 游戏模式 （[接水果歌曲选择](/wiki/Game_Modes/osu!catch)）
--   **P-S-M**: 游戏模式（[osu!mania](/wiki/Game_Modes/osu!mania) 歌曲选择）
--   **E**: 编辑模式（歌曲选择）
--   **J**: 跳转至(jukebox)
--   **Z/X/C/V/B**: Jukebox控制（Winamp布局）
--   **D**: osu!direct（仅限捐赠者使用）
--   **O**: 选项
--   **Q**: 退出
--   **R**: 随机歌曲
+- `Alt` + `F4`: Close the osu!client (no prompt or dialog)
+- `Alt` + `Enter`: Toggle fullscreen mode
+- `Arrow Up`: Increase volume
+- `Arrow Down`: Decrease volume
+- `Esc`: Go back one menu 
+  - Close options, if open
+  - Go back to main menu, if in play menu
+- `P`: Play menu
+- `P`, then `P`: Solo 
+  - alias: `E`, then `P`, then `P`
+- `P`, then `M`: [Multi](/wiki/Multi) 
+  - alias: `E`, then `P`, then `M`
+- `P`, then `E`: Edit mode
+- `D`: osu!direct ([osu!supporters](/wiki/osu!supporter) only)
+- `O`: Options 
+  - alias: `Ctrl` + `O`
+- `Q`: Display exit dialog 
+  - alias: `Esc`, when the options and play menu are closed
 
-歌曲选择
---------
+### Jukebox
 
--   **F1**: [Mod选择](/wiki/Game_Modifiers)
--   **F2**: 随机谱面（快速按下两次立即选择随机谱面）
--   **F3**: 谱面选项
--   **F5**: 刷新列表（修复模式）
--   **Shift-Delete**: 删除当前谱面
--   **Ctrl-Enter**: 自动模式演示当前谱面
--   **Ctrl-A**: 切换自动模式
--   **Up/Down**: 改变选择
--   **PageUp/PageDown**: 改变选择（大幅度）
--   **Enter**: 确认选择
+- `Z`: Previous song 
+  - alias: `F1`
+- `X`: Play from start 
+  - alias: `F2`
+- `C`: Toggle pause
+- `F4`: Stop playing and reset duration to 0
+- `V`: Next song 
+  - alias: `F5`
+- `J`: Jump To 
+  - alias: `F6`
+- `R`: Random song
 
-模式选择
---------
+## Song Select
 
-注意：特殊模式如[Perfect或](/wiki/Game_Modifiers)[Nightcore需要多点击一次来选择](/wiki/Game_Modifiers)。
+Note: Not all of these work in the [multi](/wiki/multi) mode's song select screen.
 
-![osu!模式列表（依次序绑定键盘）](Soloplay8.png "osu!模式列表（依次序绑定键盘）")
+- `Alt` + `Arrow Up`: Increase volume
+- `Alt` + `Arrow Down`: Decrease volume
+- `F1`: [Mod](/wiki/Game_Modifiers) selection menu
+- `F2`: Randomly select a map
+- `Shift` + `F2`: Undo random map selection
+- `F3`: Beatmap options
+- `F5`: Reprocess beatmaps (may display a dialog)
+- `Shift` + `Delete`: Delete selected map
+- `Ctrl` + `1`: Switch to [osu!](/wiki/osu!)
+- `Ctrl` + `2`: Switch to [osu!taiko](/wiki/osu!taiko)
+- `Ctrl` + `3`: Switch to [osu!catch](/wiki/osu!catch)
+- `Ctrl` + `4`: Switch to [osu!mania](/wiki/osu!mania)
+- `Ctrl` + `Enter`: Play current map with [Auto](/wiki/Auto) mod
+- `Ctrl` + `Shift` + `Enter`: Play current map with [Cinema](/wiki/Cinema) mod
+- `Ctrl` + `A`: Toggle Auto mod
+- `Ctrl` + `F3`: Increase osu!mania speed (only in osu!mania mode) 
+  - alias: `Ctrl` + `+`
+- `Ctrl` + `F4`: Decrease osu!mania speed (only in osu!mania mode) 
+  - alias: `Ctrl` + `-`
+- `Ctrl` + `Backspace`: Delete last word (when using search)
+- `Up`: Move selector one beatmap up
+- `Down`: Move selector one beatmap down
+- `Left`: Change selected beatmapset one up
+- `Right`: Change selected beatmapset one down
+- `Page Up`: Scroll up
+- `Page Down`: Scroll down
+- `Enter`: Select selection or play selection
+- `Shift` + `Left Arrow`: Change selected group one up
+- `Shift` + `Right Arrow`: Change selected group one down
+- `Shift` + `Enter`: Toggle selected group
 
--   **Q**: [Easy](/wiki/Game_Modifiers)
--   **W**: [No Fail](/wiki/Game_Modifiers)
--   **E**: [Half-Time](/wiki/Game_Modifiers)
+### Game Modifiers
 
-------------------------------------------------------------------------
+*See also: [Game Modifiers](/wiki/Game_Modifiers).*
 
--   **A**: [Hard Rock](/wiki/Game_Modifiers)
--   **S**: [Sudden Death](/wiki/Game_Modifiers)
--   **D**: [Double Time](/wiki/Game_Modifiers)
--   **F**: [Hidden](/wiki/Game_Modifiers)
--   **G**: [Flashlight](/wiki/Game_Modifiers)
+**Notes:**
 
-------------------------------------------------------------------------
+- The key references below assumes that none of the mods are selected.
+- Some mods may require the player to press the key twice.
 
--   **X**: [Relax](/wiki/Game_Modifiers) （在osu!mania 4/5/6/7/8K模式下无效）
--   **C**: [Auto-Pilot](/wiki/Game_Modifiers)
--   **V**: [Spun-Out](/wiki/Game_Modifiers)
--   **B**: [Auto](/wiki/Game_Modifiers)
+- `Q`: [Easy](/wiki/Easy_mod)
 
-游戏模式
---------
+- `W`: [No Fail](/wiki/No_Fail)
+- `E`: [Half Time](/wiki/Half_Time)
 
--   **+/-**: 调整本地延时（按住SHIFT/CTRL更精确调节）
--   **Esc**: 暂停（在自动模式下退出）
--   **空格**: 跳过开头部份
--   **Tab**: 切换分数显示
--   **F3/F4**: 调整osu!mania的速度变化
+* * *
 
-编辑模式
---------
+- `A`: [Hard Rock](/wiki/Hard_Rock)
+- `S`: [Sudden Death](/wiki/Sudden_Death)
+- `S`, then `S`: [Perfect](/wiki/Perfect)
+- `D`: [Double Time](/wiki/Double_Time)
+- `D`, then `D`: [Nightcore](/wiki/Nightcore)
+- `F`: [Hidden](/wiki/Hidden) (osu!standard, osu!taiko, and osu!catch) 
+  - this will toggle [Fade In](/wiki/Fade_In) for osu!mania
+- `F`, then `F`: [Hidden](/wiki/Hidden) (osu!mania only)
+- `G`: [Flashlight](/wiki/Flashlight)
 
-### 键盘快捷键
+* * *
 
-#### 一般
+- `X`: [Relax](/wiki/Relax)
+- `C`: [Auto Pilot](/wiki/Auto_Pilot)
+- `V`: [Spun Out](/wiki/Spun_Out)
+- `B`: Auto
+- `B`, then `B`: Cinema
 
-![How it would look like when you press H (Help) key](Edit_Help.jpg "How it would look like when you press H <Help> key")
+* * *
 
--   **H**: 帮助（包括下列所有快捷键）
+- `3`: [3K](/wiki/3K) (osu!mania only)
+- `4`: [4K](/wiki/4K) (osu!mania only)
+- `5`: [5K](/wiki/5K) (osu!mania only)
+- `6`: [6K](/wiki/6K) (osu!mania only)
+- `7`: [7K](/wiki/7K) (osu!mania only)
+- `8`: [8K](/wiki/8K) (osu!mania only)
+- `9`: [9K](/wiki/9K) (osu!mania only)
 
-**音乐**
+## Play Mode
 
--   **Z**: 停止
--   **X**: 从开始播放
--   **C或空格**: 暂停/恢复
--   **左右箭头键**: 歌曲内快进（按住SHIFT四倍速快进）
+- `+` or `-`: Adjust local offset (hold `Alt` to change the precision)
+- `Esc`: Pause song (or quit if Auto or Cinema mod is used)
+- `Space`: Skip opening cut-scene
+- `Tab`: Toggle scoreboard
+- `Shift` + `Tab`: Toggle in-game interface
+- `F3` or `F4`: Adjust speed for osu!mania (only works near the beginning of playing)
+- `Ctrl` + `R` or `` ` `` (hold briefly): Quick retry the current map (autoskips the intro upon retry)
 
-**书签指令**
+## Beatmap Editor
 
--   **Ctrl+B**: 在当前位置添加书签
--   **Ctrl+Shift+G**: 移除当前位置书签
--   **Ctrl+←**: 跳转至前一书签
--   **Ctrl+→**: 跳转至后一书签
+*See also: [Beatmap Editor](/wiki/Beatmap_Editor).*
 
-**保存与重置**
+### General
 
--   **Ctrl+L**: 恢复原保存状态
--   **Ctrl+S**: 快速保存
--   **Ctrl+N**: 移除所有note（但保持时间/歌曲设置不变）
+These shortcuts work anywhere within the beatmap editor:
 
-**模式切换**
+- `Z`: Stop
+- `X`: Play from start
+- `C` or `Space`: Pause/Resume
+- `Left Arrow` or `Right Arrow`: Skip through the song
+- `Shift` + `Left Arrow` or `Shift` + `Right Arrow`: Skip through the song at 4x speed
+- `Ctrl` + `B`: Add bookmark at current location
+- `Ctrl` + `Shift` + `B`: Remove bookmark at current location
+- `Ctrl` + `Left Arrow`: Jump to previous bookmark
+- `Ctrl` + `Right Arrow`: Jump to next bookmark
+- `Ctrl` + `L`: Revert to saved
+- `Ctrl` + `S`: Quick save
+- `Ctrl` + `N`: Remove all notes (but keep timing/song setup)
+- `F1`: Switch to [compose](/wiki/Compose) mode
+- `F2`: Switch to [design](/wiki/Design) mode
+- `F3`: Switch to [timing](/wiki/Timing) mode
+- `F4`: Open the [song setup](/wiki/Song_Setup) (opens a dialog)
 
--   **F1**: 做图模式
--   **F2**: 设计模式（目前只有基础可用）
--   **F3**: 时间模式
--   **F4**: 歌曲设置
+### Compose
 
-#### 作图模式
+- `Ctrl` + `Left`: Move selected notes left by 1 grid snap
+- `Ctrl` + `Up`: Move selected notes up by 1 grid snap
+- `Ctrl` + `Down`: Move selected notes down by 1 grid snap
+- `Ctrl` + `Right`: Move selected notes right by 1 grid snap
+- `Shift` + `Ctrl` + `Left`: Move selected notes left by 1 coordinate
+- `Shift` + `Ctrl` + `Up`: Move selected notes up by 1 coordinate
+- `Shift` + `Ctrl` + `Down`: Move selected notes down by 1 coordinate
+- `Shift` + `Ctrl` + `Right`: Move selected notes right by 1 coordinate
+- `1`, `2`, `3`, or `4`: Switch between objects
+- `Q`, `W`, `E`, `R`, or `L`: Toggle object settings and modes
+- `Delete`: Remove selected notes
+- `Ctrl` + `Z`: Undo
+- `Ctrl` + `Y`: Redo
+- `Ctrl` + `A`: Select all notes
+- `Ctrl` + `X`: Cut slection
+- `Ctrl` + `C`: Copy selection
+- `Ctrl` + `V`: Paste selection
+- `Ctrl + D`: Clone the selection (places cloned selection 1 measure after last selected object)
+- `Alt` while placing: snap distance based on time duration since last note
+- `Shift` while placing (playfield): Ignore grid snapping
+- `Shift` while placing (timeline): Ignore grid and beat (time) snapping
+- `J`: Nudge circle backwards in time
+- `K`: Nudge circle forwards in time
+- `G`: Cycle through grid precision
+- `Ctrl` + `1`: Use tiny grid size
+- `Ctrl` + `2`: Use small grid size
+- `Ctrl` + `3`: Use medium grid size
+- `Ctrl` + `4`: Use large grid size
+- `Ctrl` + `Shift` + `R`: Rotate selected note(s) by a specified angle (opens a dialog)
+- `Ctrl` + `,`: Rotate 90 degrees anticlockwise
+- `Ctrl` + `.`: Rotate 90 degrees clockwise
+- `Ctrl` + `H`: Flip horizontally
+- `Ctrl` + `J`: Flip vertically
+- `Ctrl` + `Alt` + `Mouse Wheel Up`: Change placement/selection mode (upwards)
+- `Ctrl` + `Alt` + `Mouse Wheel Down`: Change placement/selection mode (downwards)
 
--   **数字键1-4**: 改变选择/布置模式
--   **Q,W,E,R,L**: 改变右手选项模式
--   **Delete**: 移除所选notes
--   **Ctrl+Z,Y**: 撤销/重复
--   **Ctrl+A**: 选择所有notes
--   **Ctrl+X,C,V**: 剪切，复制，粘贴
--   **Ctrl+D**: 克隆所选项目
--   **放置时按住Alt**: 根据上一个note的时间对齐距离
--   **放置时按住Shift**: 无网格对齐
--   **修改时按住Shift**: 无网格或节拍（时间）对齐
--   **J/K**: 在时间轴上向前/向后微移物件
--   **G**: 循环调整网格大小
--   **Ctrl+1-4**: 调整网格大小（极小、小、中等、大）
--   **Ctrl+逗号/句号**: 逆时针/顺时针旋转物件
--   **Ctrl+H,J**: 水平/竖直翻转物件
+#### Timing
 
-#### 测时模式
+- `T`: Tap the [BPM](/wiki/BPM)/offset 
+  - You will need to tap at a constant rate.
+- `Shift` while adjusting BPM/offset: 4x speed
+- `Ctrl` + `B`: Reset current timing point
+- `Ctrl` + `P`: Add timing point
 
--   **T**: 用键盘敲击测BPM
--   **调整 BPM/Offset 时按下 Shift 键**: 小球跳动的声音变为4倍速
--   **Ctrl+B**: 重置现在的BPM标记线
--   **Ctrl+P**: 添加新的BPM标记线
+### Mouse Controls
 
-### 鼠标控制
-
--   **左键单击**: 放置打击圈，开始滑条或者为滑条添加一个新的轨迹点。选择物件
--   **Ctrl + 左键单击**: 为已经存在的滑条添加一个新的轨迹点
--   **右键单击**: 设置新的连击，结束滑条或者为滑条移除一个轨迹点。移除物件（仅当在可选模式或在没有播放音频的情况下）
--   **鼠标滚轮**: 时间轴向前/向后移动，按住Shift可使移动的幅度变为4倍
--   **Ctrl + Alt + 鼠标滚轮**: 改变放置物件/选择物件模式
--   **Ctrl + 鼠标滚轮**: 增加/减少节奏分数
--   **Alt + 鼠标滚轮**: 增加/减少自动间距控制的倍数。当鼠标指在时间轴上时改变时间轴的紧密程度
--   **拖拽**: 移动选择物件的空间或时间位置，移动滑条的轨迹点，在时间轴上拖动滑条或转盘的尾部可以延长它们
+- `Left Click`: Place normal hit circles, start a slider or add a new point to a slider being placed. Select circles
+- `Ctrl` + `Left Click`: Add new point to existing slider
+- `Right Click`: Toggle new combo, end a slider placement or remove a point, remove a circle (only when in selection mode or while not playing audio)
+- `Mouse Wheel Up`: Seek forwards
+- `Shift` + `Mouse Wheel Up`: Seek forwards at 4x
+- `Mouse Wheel Down`: Seek backwards
+- `Shift` + `Mouse Wheel Down`: Seek backwards at 4x
+- `Ctrl` + `Mouse Wheel Up`: Increase/decrease the snap divisor
+- `Alt` + `Mouse Wheel Up`: Increase/decrease the alt-snapping distance multiplier. Change timeline zoom while in timeline
+- `Ctrl` + `Mouse Wheel Down`: Decrease the snap divisor
+- `Alt` + `Mouse Wheel Down`: Decrease the alt-snapping distance multiplier. Change timeline zoom while in timeline
+- `Dragging`: Moving selections of notes (position and time), moving points in a slider. Dragging the end of sliders or spinners on the timeline to extend them
