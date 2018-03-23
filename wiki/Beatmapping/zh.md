@@ -1,17 +1,41 @@
-**做图** 就是为osu!制作[谱面](ZH:Beatmaps "wikilink")。 谱面制作过程包括选择歌曲、[计时](ZH:Timing "wikilink")，放置击打物，以及[皮肤制作和](ZH:Skinning "wikilink")[故事板](ZH:Storyboarding "wikilink")（可选择）。
+# Beatmapping
 
-制图者通常都希望自己做的谱面[上架被其他玩家玩到](ZH:Beatmaps "wikilink"),而这个需要一个[谱面审核过程](ZH:Beatmap_Approval "wikilink"),审核通过上架后这个谱面就会有这个谱面的计分板和线上排名,并且审核通过后将不能再对谱面进行修改
+**Beatmapping** is the process of creating [beatmaps](/wiki/beatmaps) in *osu!* for players to play. This involves choosing a song, [timing](/wiki/timing), placement of [objects](/wiki/objects), and (optionally) [skinning](/wiki/skinning) and [storyboarding](/wiki/storyboarding).
 
-一般来说谱面会有以下几种难度：
+Mappers usually want to get their beatmaps [ranked](/wiki/Beatmaps/#ranked) which consists of the [beatmap ranking procedure](/wiki/Beatmap_Ranking_Procedure).
 
--   [Easy](ZH:Easy "wikilink")
--   [Normal](ZH:Norma "wikilink")
--   [Hard](ZH:Hard "wikilink")
--   [Insane](ZH:Insane "wikilink")
--   [Expert](ZH:Expert "wikilink")
+As *osu!* is a rhythm based game, the song/music you choose to map should have an obvious and constant beat. Try to avoid songs which have tempo (or speed) changes or slow songs until you are more experienced and used to beatmapping.
 
-单击以上链接都可以看到各难度相对应的一些[制图者在制作一个玩起来令人愉快的](制图者 "wikilink")[谱面时应该遵循的](ZH:Beatmaps "wikilink")[难度设置](ZH:Difficulty "wikilink")。
+## Getting Started
 
-[制图者可以使用自定义的难度名](ZH:Mappers "wikilink")，不过请确保难度名能够一眼看出究竟哪个更难或者哪个更简单。否则，请尽量避免使用自定义难度名。
+To make a new beatmap, go to the edit mode then drag-and-drop an audio file into *osu!*. (Alternatively, you can move an audio file onto the `Songs` folder.) This should open and direct you to the edit screen with your audio file. Your new song will be available at the bottom of the song list, highlighted in purple. If it is not listed in the song selection for any reason, press `F5` to reset the beatmap cache and it should appear. Click on the song, this will open the [beatmap editor](/wiki/beatmap_editor) and the `Song Setup` dialog.
 
-另外[客串难度一般以客串做图的制图者的名字来命名](ZH:Guest_Difficulty "wikilink")（比如kioukiou‘s Hard）
+### Song Setup
+
+*See also: [Song Setup](/wiki/Song_Setup)*
+
+When making a new [mapset](/wiki/mapset), you will always see this dialog before any other parts of the beatmap editor.
+
+You should fill out this information before creating another [difficulty](/wiki/difficulty). This will ensure that the metadata will be consistent across all of the difficulties in the set.
+
+You can change the options in the other tabs now if you want, but they can be changed later on. Click `OK`, and you can start beatmapping! The next step is to add timing to your beatmap.
+
+### Timing
+
+*See also: [Timing](/wiki/Timing)*
+
+**Timing is vital!** Incorrectly timed maps will not be considered for ranking. You must make sure that your timing is perfect before adding any [hit objects](/wiki/hit_objects).
+
+If you are in doubt about timing, contact a mod for help first, or submit your song into the [Beatmap Help forum](https://osu.ppy.sh/forum/10). This will save you (and the modding community) a lot of hassle later on.
+
+### Compose
+
+*See also: [Compose](/wiki/Compose)*
+
+The compose tab of the beatmap editor is where you will probably spend a majority of your time beatmapping. It is where you can visually place hit objects and toggle their [hit sounds](/wiki/hit_sounds)
+
+### Design
+
+*See also: [Design](/wiki/Design) and [Storyboarding](/wiki/Storyboarding)*
+
+The design tab of the beatmap editor is where you can set the beatmap's background image, add a video, and/or make a basic storyboard. Depending on what you do, you may use the design tab a lot or none at all, if you happen to be doing [SBS](/wiki/SBS) (storyboard scripting).
