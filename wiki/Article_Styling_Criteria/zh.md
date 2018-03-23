@@ -1,370 +1,547 @@
-# 文章风格规范
+# Article Styling Criteria
 
-_相关文章：[文章风格规范——新闻篇](/wiki/ASC/News)_
+*See also: [Article Styling Criteria/News](/wiki/Article_Styling_Criteria/News).*
 
-文章风格规范（ASC）通过硬性规定来确保 osu!wiki 的文章通俗易懂，格式统一。
+The article styling criteria (ASC) serves as a enforced styling standard to keep consistency in clarity, formatting, and layout in all articles of the osu!wiki.
 
-所有的文章都应该力图做到无语病，无笔误，并提供准确的信息。记住，审稿人（Reviewer）会对你试图提交的文章进行审核并提出修改建议。一个好的 osu!wiki 作者应该阅读他们的修改建议并据此提高文章的整体质量，以确保读者能有更好的阅读体验。
+All articles should try to aim at having proper grammar, correct spelling, and correct information. Keep in mind that reviewers will ask for changes in your pull request(s) for blunders or suggestions. A good osu!wiki writer/editor should read these reviews to help improve the overall quality of these articles to ensure an optimal experience for the reader.
 
-## 仓库（Repository）文件夹
+## Repository directory
 
-本节的规则仅适用于 `wiki/` 下的文章。
+The following standards apply only to articles saved in the `wiki/` directory.
 
-### 本地化
+### Locales
 
-下面是 osu!wiki 允许的语言列表。如果你的语言不在此列，请在 [osu-web 仓库](https://github.com/ppy/osu-web/issues) 中提出这个问题（Issue）！
+Listed below are the properly-supported locales for the osu!wiki.
 
-| 文件名 | 中文写法 | 当地写法 |
-|--------|----------|----------|
-| `en.md` | 英语 | English |
-| `es.md` | 西班牙语 | Español |
-| `fr.md` | 法语 | Français |
-| `it.md` | 印度语 | Italiano |
-| `ko.md` | 韩语 | 한국어 |
-| `nl.md` | 荷兰语 | Nederlands |
-| `pl.md` | 波兰语 | Polski |
-| `pt-br.md` | 葡萄牙语（巴西） | Português (Brasil) |
-| `ru.md` | 俄语 | Русский |
-| `zh.md` | 中文 | 中文 |
+| File Name  | Locale Name          | Native Script      |
+| ---------- | -------------------- | ------------------ |
+| `en.md`    | English              | English            |
+| `es.md`    | Spanish              | Español            |
+| `fr.md`    | French               | Français           |
+| `it.md`    | Italian              | Italiano           |
+| `ko.md`    | Korean               | 한국어                |
+| `nl.md`    | Dutch                | Nederlands         |
+| `pl.md`    | Polish               | Polski             |
+| `pt-br.md` | Brazilian Portuguese | Português (Brasil) |
+| `ru.md`    | Russian              | Русский            |
+| `sv.md`    | Swedish              | Svenska            |
+| `zh.md`    | Chinese (Simplified) | 中文                 |
 
-### 文件夹名
+Keep in mind, it is intended that the osu!wiki will try to give readers their selected language's version of an article (and fallback on using the English version if it is not available). If your language is not listed, you have two choices:
 
-所有的文件夹名称都不能使用 URL 保留字（即仅使用 ASCII 字符）。
-一般来说，文件夹名称使用以下字符：
+- Append `?locale={langcode}` to the URL, where `{langcode}` is your language's two letter code in lowercase letters (this is the temporary solution). 
+  - For example: `https://osu.ppy.sh/help/wiki/Welcome?locale=zh` will give you the Chinese version of the Welcome article
+- Help translate the [`osu-web` repository](https://github.com/ppy/osu-web/) first (this is the permanent solution). If you need help translating the osu!web, please ask for help in the [osu!dev discord](https://discord.gg/ppy) in the `#osu-web` channel.
 
-- A - Z （大写字母）
-- a - z （小写字母）
-- 0 - 9 （数字）
-- `_` （下划线）
-- `!` （感叹号）
+#### Outdated pages
 
-### 文章的文件名
+If you are updating an English article, do not delete the translations! Instead, use the `outdated` metadata flag. The markup for this is as follows:
 
-文章的文件名参考[本地化](#本地化)小节的`文件名`一列。
+    ---
+    outdated: true
+    ---
+    
 
-文章应该放在对应的英文命名的文件夹下。
+This is to be placed at the very top of the translation files to flag them as being outdated.
 
-### 索引页
+*Note for translators: When you have updated your language's version of said article, do not change the boolean to `false`, but instead omit the `outdated` metadata flag (as it appears above).*
 
-所有文件夹 **必须** 至少包含一篇文章,即使它是一个 _索引页_ 。
+### Folder names
 
-索引页 **必须且只能** 链接到它的子文件夹，并且应该简短介绍它所链接到的文章。
+Folder names must never contain URL reserved characters. Generally, all folder names should only use these characters:
+
+- A - Z (uppercase letters)
+- a - z (lowercase letters)
+- 0 - 9 (numbers)
+- `_` (underscore)
+- `!` (exclamation mark)
+
+#### Percent encoding characters
+
+Folder names should not use characters that require percent encoding. Those characters may include, but aren't limited to:
+
+- `` (spaces)
+- `'` (apostrophes)
+
+### Article file names
+
+The name of an article file can be found in the `File Name` column of [locales](#locales).
+
+The location of a locale are to be placed in the appropriate English-named folder.
+
+### Index pages
+
+All folders must contain a page of some kind, even if they are index pages that link to their subfolders.
+
+Index pages must link to their own subfolders and could contain descriptions of what each link links to.
 
 ## Markdown
 
-本节规则适用于全部文章。
-快速入门请参考[中文 Markdown 指南](http://www.appinn.com/markdown/)，下列内容仅说明如何正确使用。
+These rules are to be followed for all articles.
 
-### GFM（GitHub Markdown 方言）
+### GFM
 
-GFM 是 osu!wiki 所支持的标记语言。
+Parts of the GFM (GitHub Flavored Markdown) markup is supported in the osu!wiki.
 
-GFM 的标记很少，以至于 **任何人** 都能在几分钟之内学会它！然而不要指望 Markdown 能做什么特别的东西，因为它只是一个轻量级的标记语言。
+GFM has a small amount of markup that **anyone** can learn in about 3 minutes! However, do not expect a lot out of GFM as it is intended to be used as a bare minimum markup language.
 
 #### HTML
 
-**禁止使用 HTML 标签。** 如果你认为有必要使用 HTML ，请重新考虑你的排版方案。
+**HTML use is prohibited.** If you need to use any HTML for any reason, you must reconsider the layout you are using.
 
-### 编辑源文件
+### Raw text editing
 
-在编辑源文件时，多个句子应该并作一行，而不是一句一行。
+While editing, sentences are to be in a paragraph form, not in single lines. For example:
 
-错误做法：
-```
-osu!lazer 是开发中的 osu! 新版本。
-它将在未来取代现在的 osu!client 。
-如果你没有协助开发的意向，请 **不要** 报告你所遇到的问题，因为它仍处于开发阶段。
-```
-
-正确做法：
-```
-osu!lazer 是开发中的 osu! 新版本。它将在未来取代现在的 osu!client 。如果你没有协助开发的意向，请 **不要** 报告你所遇到的问题，因为它仍处于开发阶段。
-```
-
-#### 转义
-
-任何不用于 Markdown 标记的 Markdown 符号都应该进行转义，除非它们位于[代码](#代码)或[代码块](#代码块)中。
-
-```
-osu!taiko 的冠军是 [\_yu68](https://osu.ppy.sh/users/6170507)。 \_yu68 是目前日本 osu!taiko 玩家排行榜的 \#1 。
-```
-
-Markdown 中的转义字符是反斜杠（`\`）。若要使用反斜杠，应该使用 `\\` 。
-
-### 强调
-
-**记住：过度强调会有反作用！**
-
-#### 粗体
-
-当你需要标注重点时，使用粗体。
-
-使用粗体的标记时，由于 CJK 文字的特殊性，标记两头需要空格才能正确解析。
-
-### 标题
-
-最高只能使用五级标题。
-
-如果你使用的是井号（`#`）风格的标记，确保标题文字和 `#` 间有一个空格，以保证 GFM 能正确解析。
-
-此外，在标题后空一行，虽然不是必须的，但是这样能在编辑时方便地区分标题和内容。
-
-#### 文章标题
-
-**每篇文章都应该有一个标题，并使用一级标题。**
-
-文章标题 **不能** 使用其他任何标记以及图片。
-
-如果文件开头定义有关联式链接，标题应该紧跟在它下面，如果没有则放在文件开头。
-
-#### 小节标题
-
-每个小节只能使用二到五级的标题文字。
-
-小节标题 **不能** 再使用其他标记或是链接。同时记住不能跳跃标题级别，比如二级标题之后直接使用四级标题。
-
-与文章标题不同，小节标题允许使用小图标。
-
-每节 **必须** 包含一些内容，即使它的标题已经概括了它的子章节。例如：
-
-    ## 游戏模式
+    Do not:
+    osu!lazer is a development build that you can download.
+    It will one day be the successor of the previous osu!client.
+    Please, do **not** send the development team any issues you are facing, as things are still subject to change.
     
-    _另见：[游戏模式]/wiki/game_modes)。_
+    Do:
+    osu!lazer is a development build that you can download. It will one day be the successor of the previous osu!client. Please, do **not** send the development team any issues you are facing, as things are still subject to change.
     
-    ### ![](/wiki/shared/Osu.gif) osu!
+
+#### Escaping
+
+Any Markdown syntax that is not used to style text must be escaped, unless it is inside [code](#code) or [code blocks](#code-blocks). For example:
+
+    The osu!taiko Champion title goes to [\_yu68](https://osu.ppy.sh/users/6170507). \_yu68 is currently pp ranked as the \#1 osu!taiko player of Japan!
     
-    osu! is a frustrating but fun circle-clicking simulator.
 
-### 列表
+The escaping character in Markdown is the backslash (``). To escape the escape character for a literal backslash, use `\`.
 
-使用列表时，列表语法中的空格是不能省略的。
+### Emphasizing
 
-同时记住：最多缩进四次。
+*Note: Keep in mind that the misuse and abuse of emphasis will reduce its effectiveness!*
 
-当列表顺序不重要时，使用星号、加号或是减号。
+When trying to emphasize words, **never use all capital letters**. Instead, bold the words you are trying to emphasize. For example:
 
-当列表顺序重要时，使用数字风格。此时数字最好是递增的，尽管 Markdown 语法对此没有要求。
+    Do not:
+    You are NOT allowed to post R-18 skins on the osu!forums.
+    
+    Do:
+    You are **not** allowed to post R-18 skins on the osu!forums.
+    
+    or:
+    **You are not allowed to post R-18 skins on the osu!forums.**
+    
 
-### 代码
+#### Bold
 
-使用反括号(`` ` ``)将代码包裹。
+Use bold when you need to caution or note something's importance.
 
-以下几种情况需要使用它：（使用原文）
+#### Italics
 
-- 键盘按键
-- 按钮或菜单上的文字
-- 文件名、文件夹名、目录名、扩展名、命令
-- 聊天频道名
+Use italics only when naming a video game or the name of a work.
 
-### 代码块
+* * *
 
-在 osu!wiki 中不需要使用代码高亮的语法。
+You must use italics when writing a note. For example:
 
-### 链接
+    _Note: You will need a decent internet connection to connect to Bancho._
+    
 
-当某个链接需要多次使用的时候，例如国旗的链接，使用关联式链接（Reference links）以缩短文章实际长度。如果只使用了一两次，使用内联式链接（Inline links）即可。
+### Headers
 
-如果使用关联式链接，将关联对放在文章的开头。
+Please limit to a header level of 5 and never use headers to style or format text.
 
-#### 内部链接
+If you are using the hash style for headers, make sure to separate the hash (`#`) sign and the header text with a space to enable GFM parsing.
 
-内部链接仅能用于链接 osu-wiki 内的文件！记住：相对链接的根目录是 osu-wiki 仓库，并且链接到文章时不需要指定文件名！
+Optionally, but preferably, add an extra line before and after the headers (this applies for both underline and hash styles). Doing so will help make the headers stand out a bit more when editing.
 
-不要使用类似“点击此处”的文字作为链接文字，应该使用它的文章标题。
+#### Titles
 
-##### 重定向
+**All articles must have one level 1 heading, being the article's title.**
 
-为了简便， osu!wiki 提供了一套重定向系统。
+Article titles are to be in title case and should **never** contain styles, links, nor images. The title of an article is the name of the folder that the article is located in.
 
-所有的重定向对可以在 [`redirect.yaml`](https://github.com/ppy/osu-wiki/blob/master/wiki/redirect.yaml) 中找到，左边的是重定向缩写，右边的是它在 `/wiki/` 文件夹下所对应的文件夹。
+The level 1 heading should be placed at the start of the article unless you have reference links placed there. If this is the case, place the level 1 heading underneath the reference links.
 
-用法：
-对于这样的一对关联对：
+For English article titles, if you need to reword the title, you must rename the folder to match the article title.
 
-```
-"asc":      "Article_Styling_Criteria"
-```
+#### Sections
 
-你可以这样使用：`[文章风格规范](/wiki/ASC)`。这样写等同于`[文章风格规范](/wiki/Article_Styling_Criteria)` ，因为重定向对大小写不敏感。
+All section headings are to be using levels 2 to 5 headings.
 
-#### 外部链接
+Section headings are to use sentence case and should **never** contain styles nor links. In addition to this, section headings should never skip a heading level (e.g. don't go from a level 2 heading to a level 4 heading).
 
-优先使用 `https` 协议，并且不要使用任何的协议链接，例如 `//example.com` 。
+Unlike titles, section headings can have small icons.
 
-外部链接必须直接链接到它对应的资源，并使用它的标题作为链接文字。
+All sections **must** contain some text, even if they are containers for subsections. For example:
 
-##### 个人资料
+      ## Game Modes
+    
+      _See also: [Game Modes](/wiki/Game_Modes)._
+    
+      ### ![](/wiki/shared/mode/osu.png) osu!
+    
+      osu! is a frustrating but fun circle-clicking simulator.
+    
 
-当链接到某个 osu!用户 的个人资料时，使用他的 ID 而不应该使用用户名。用户名可以变更但是 ID 是不会改变的，这样能确保链接始终指向他的资料。
+### Lists
 
+There are two kinds of lists: bulleted and numbered.
 
-错误做法:  
-`[osuplayer111](https://osu.ppy.sh/u/osuplayer111)`  
-`[Agent Spin Here](https://osu.ppy.sh/u/Agent_Spin_Here)`
+The spacing for both types of bullets is very important! (Please take note of the spacing in the given examples.) Please limit to 4 indentations.
 
-正确做法:  
-`[osuplayer111](https://osu.ppy.sh/u/33599 "Andrea")`  
-`[Agent Spin Here](https://osu.ppy.sh/u/41481 "Mashley")`
+#### Bulleted
 
-最佳做法:  
-`[Andrea](https://osu.ppy.sh/u/33599 "Andrea")`  
-`[Mashley](https://osu.ppy.sh/u/41481 "Mashley")`
+Use bulleted lists when the order of the list does not matter. It is preferred to use the hyphen instead of the asterisk because the single asterisk is already used for italics.
 
-也就是说，无论何时，都应该使用用户当前的用户名。
+#### Numbered
 
----
+Use numbered lists when the order of the list does matter. Incrementing the numbers is optional but preferred.
 
-快速取得某个用户的 ID :
+#### Mixed
 
-1. 打开浏览器地址栏输入 `https://osu.ppy.sh/users/` ，在其后粘贴用户名。
-2. 按下 `Enter` 键
-3. 当页面载入完成的时候，地址栏中输入的用户名就会变成 ID 。
+You can also combine both bulleted and numbered lists.
 
-##### 谱面
+### Code
 
-链接到谱面时，使用以下格式：
+The markup for code is a grave mark (`` ` ``). To put a grave mark in code, surround it in double grave marks, padded with 1 space.
 
-```
-{艺术家} - {标题} ({谱面作者}) [{难度名称}]
-```
+Use code for the following scenarios:
 
-此时请确保链接指向了对应的难度，链接格式应该为： `https://osu.ppy.sh/b/{谱面 ID}` 。
+- keyboard keys 
+  - When doing this, use capital letters for single characters and [camel case](https://en.wikipedia.org/wiki/Camel_case) for modifiers.
+- button or menu text 
+  - When copying the text from a menu or button, copy the letter casing as is.
+- folder names 
+  - When copying the name of a folder, copy the letter casing as is.
+- directory names 
+  - When copying the path of a directory, copy the letter casing as is.
+- keywords or commands 
+  - When copying a keyword or command, copy the letter casing as is or as you would normally type it as (prefer lowercase if applicable).
+- file names 
+  - When copying the name of a file, copy the letter casing as is.
+- file extensions 
+  - When writing a file extension, prefix the extension with a period (`.`), followed by the file extension in lowercase letters.
+- chat channels 
+  - When copying the name of a chat channel, start it with a hash (`#`), followed by the channel name in lower case letters.
 
-##### 谱面集
+### Code blocks
 
-链接到谱面集时，使用以下格式：
+It is preferred to use the triple grave marks instead of the four prefixed spaces.
 
-```
-{艺术家} - {标题} ({谱面作者})
-```
+Code blocks do not use syntax highlighting in the osu!wiki.
 
-此时链接格式应该为： `https://osu.ppy.sh/s/{谱面集 ID}` 。
+### Links
 
-### 图片
+You can use either the reference or inline style links.
 
-_参见: [文章风格规范——图片篇](/wiki/Article_Styling_Criteria/Images)._
+Keep in mind that there are good times to prefer one or the other. For example, one should use reference style links when linking to a flag multiple times. On the other hand, one could use inline style links when linking to an article.
 
+If you are using the reference style linking, it is suggested to place the reference links at the top of the article for quicker access.
 
-建议为图片建立独立的一个文件夹（例如 `img/` 文件夹）。当某个图片需要多个文章使用的时候，将它放到 `/wiki/shared/` 文件夹下。
+#### Internal
 
-### 表格
+Internal links are the links linking within the osu!wiki.
 
-表格使用 GFM 语法来建立，如果你感觉非要使用 HTML 来实现某些 GFM表格 所不支持的特性，请重新组织文字。
+Never use the word `here` as the link text. Instead, take the title of the page the link is linking to or use a general description.
 
-这是一个可视化的表格生成工具:
+##### Redirects
+
+For your convenience, all folders should have a redirect. All internal links are to use redirects.
+
+To do this, open the [`redirect.yaml` file](https://github.com/ppy/osu-wiki/blob/master/wiki/redirect.yaml). The link part that you want is on the left while the designation to those link parts are on the right. Keep note of the redirect you want to use. Then make the link like you normally would, but instead of using the directory path, start with `/wiki/` followed by the redirect. Some examples include:
+
+    [ASC](/wiki/ASC)
+    [OWC2015](/wiki/OWC2015)
+    [skinning tutorial](/wiki/skinning_tutorial)
+    
+
+* * *
+
+Here are some differences between redirect pathing and normal pathing:
+
+- If a directory change occurs, we would only need to fix `redirect.yaml` instead of hunting down links.
+- Redirects allows you to type in a short form of a folder rather than getting the entire path. For example, `[OWC 2015](/wiki/Tournaments/OWC/2015)` would be `[OWC 2015](/wiki/OWC_2015)`.
+- Redirects are quicker and shorter in most situations. For example, `[Muzukashii](/wiki/Difficulties/osu!taiko/Muzukashii)` would be `[Muzukashii](/wiki/Muzukashii)`.
+- Redirects are case insensitive. Meaning, you can use `[Beatmap Packs 0916](/wiki/bEaTmAp_pAcKs_0916)` and it will still work.
+- Redirects can handle section linking. For example, you can use `[EZ](/wiki/EZ)` instead of `[EZ](/wiki/Game_Modifiers/#easy)`.
+
+#### External
+
+Prefer the `https` protocol. **Never use protocol relative links (e.g. `//example.com`).**
+
+External links must be a clean and direct link to a reputable source with the link text being the title text of the page it is linking to.
+
+* * *
+
+Never use raw links for linking or have the link text be the URL. For example:
+
+    Do not: https://osu.ppy.sh/
+    or: <https://osu.ppy.sh/>
+    or: [https://osu.ppy.sh/](https://osu.ppy.sh/)
+    
+    Do: [osu!web](https://osu.ppy.sh/)
+    
+
+##### User profiles
+
+When linking to an osu!user profile, use the user's id number instead of their username. Usernames can be changed, while user ids are bound to the user. This is to ensure that the link still links to the same person even after they changed their username.
+
+    Do not:
+    `[osuplayer111](https://osu.ppy.sh/users/osuplayer111)`
+    `[Agent Spin Here](https://osu.ppy.sh/users/Agent_Spin_Here)`
+    
+    Do (okay):
+    `[osuplayer111](https://osu.ppy.sh/users/33599 "Andrea")`
+    `[Agent Spin Here](https://osu.ppy.sh/users/41481 "Mashley")`
+    
+    Do (preferred):
+    `[Andrea](https://osu.ppy.sh/users/33599 "Andrea")`
+    `[Mashley](https://osu.ppy.sh/users/41481 "Mashley")`
+    
+
+Whenever possible, use the current user's name instead of the user's previous names.
+
+* * *
+
+To get a user's id number:
+
+1. Open a web browser and type in `https://osu.ppy.sh/users/` then the user's name in the address bar
+2. Press `Enter`
+3. Once the page loads, osu!web will convert the username to an id
+
+##### Beatmaps
+
+Whenever linking to a beatmap, use this format as the link text:
+
+    {artist} - {title} ({creator}) [{difficuty_name}]
+    
+
+When linking to a beatmap, make sure that the link actually links to that difficulty. All beatmap difficulty URLs looks like this: `https://osu.ppy.sh/b/{BeatmapID}`.
+
+##### Beatmapsets
+
+Whenever linking to a beatmapset, use this format as the link text:
+
+    {artist} - {title} ({creator})
+    
+
+All beatmapset difficulty URLs looks like this: `https://osu.ppy.sh/s/{BeatmapSetID}`.
+
+### Images
+
+*See also: [Article Styling Criteria/Images](/wiki/Article_Styling_Criteria/Images).*
+
+The markup for images is similar for [links](#links). The differences are that you must prefix the link with an exclamation mark, the link text is now the "alt" text, and there is a third argument for the title text.
+
+Like the [links](#links), you can use either reference or inline style when linking to images.
+
+* * *
+
+It is suggested to add a subfolder for the images (e.g. `img/` for all and any images). Images that are used in multiple different articles must go to the `/wiki/shared/` folder while those used for a single article are to be placed inside their folders for linking.
+
+### Tables
+
+Tables use the GFM syntax.
+
+If you cannot create a table because *something* would not work without HTML (e.g. lists inside tables), you are overthinking both the table and the content. If you need help making a complicated table, try to see if you can improvise a simpler fix for it.
+
+Here is a tool to help visualize tables:
 
 - [Markdown Tables Generator](http://www.tablesgenerator.com/markdown_tables)
 
-#### 美化表格
+#### Beautifying tables
 
-是否需要美化表格取决于你。
+It is up to you whether or not if you want to beautify the tables.
 
-美化的表格会有利于编辑，但是对于启用了自动折行的编辑者来说，它们会一团糟。此外，美化表格带来的后果是编辑某行会需要你重新美化整个表格。
+They will appear nicer when editing them; however, for those who use text wrapping, those tables will appear as a clumped mess. Another thing to note, a slight change in a beautified table will require you to fix the spacing of every cell, depending on how big of change you made.
 
-下面是一些美化表格工具：
+Some tools for beautifying tables are:
 
-- VS Code 的 Native Beautifier
-  - 你需要使用 [VS Code](https://code.visualstudio.com/) 。
-- [Markdown Table Formatter](http://markdowntable.com/)
-  - 对齐语法标记（`:`）不能正确解析。
+- VS Code's Native Beautifier 
+  - this will require you to use [VS Code](https://code.visualstudio.com/)
+- [Markdown Table Formatter](http://markdowntable.com/) 
+  - alignment syntax (`:`) will not parse correctly
 
-### 分割线
+### Horizontal bar
 
-尽量少用分割线。
+Use horizontal bars sparingly.
 
-下列情况可以使用：（包括但不限于）
+A few uses of the horizontal bar may include (but is not limited to):
 
-- 将图片与文字分开
-- 分割每段
+- separating images from text
+- marking the end of a "section" within the same section
 
-使用分割线的时候，其上下的一行必须为空行，否则会被解析为二级标题。
+When using the horizontal bar, make sure there is an empty line above and below the markup. Otherwise, osu!web will think the text above is a heading level 2.
 
-## 中文相关
+## Grammar
 
-本节将从各个角度指出中文文章的注意事项
+All English articles should use plain English. Your word choice should explain the topic that the article aims to explain thoroughly in layman's terms. In other words, you should ask yourself, "If someone read this, will they have to look up any of the words?"
 
-### 人称
+All English articles and locales without an ASC are to follow the following rules.
 
-当提及玩家时，使用`玩家`。
+### British English
 
-**不能** 使用`他`/`他的`或`她`/`她的`！  
-而应该使用`他们`/`他们的`。
+In the case where variants of English and the British English spellings conflict, prefer the British English spelling.
 
-当想对读者说什么时，使用`你`。
+For example use:
 
-**绝对不能** 使用第一人称`我`。
+- `colour` instead of `color`
+- `centre` instead of `center`
+- `skilful` instead of `skillful`
+- `analyse` instead of `analyze`
 
-### 标点符号
+### osu!
 
-中文和英文的标点符号完全不相同。
+The name of the game `osu!` is **never capitalised**, even if it is the first word in the sentence.
 
-#### 中文标点
+The osu! official branding are to not use any spaces. Examples may include:
 
-不同的人对标点符号的喜好可能不一样，但是在 osu!wiki 的中文文章中应该使用 **简体中文** 标点（一般情况下此时输入法显示为半月、中文句号）,下面是常用中文标点表（不同的输入法可能略有不同，以该表为准）:
+- `osu!taiko`
+- `osu!mania`
+- `osu!direct`
 
-| 标点符号 | 名称 |
-|:---:|:---:|
-| `，` | 逗号 |
-| `。` | 句号 |
-| `？` | 问号 |
-| `！` | 感叹号 |
-| `、` | 顿号 |
-| `‘’` | 单引号 |
-| `“”` | 双引号 |
-| `《》` | 书名号 |
-| `：` | 冒号 |
-| `（）` | 小括号 |
-| `【】` | 中括号 |
-| `｛｝` | 大括号 |
-| `——` | 破折号 |
-| `|` | 竖线 |
-| `……` | 省略号 |
+Other brandings that aren't covered by the osu! official branding must use spaces. Examples may include:
 
-每个句子的结尾应该有一个终结符(句号、感叹号等)。
-对于特殊情况则特殊处理，例如：
-```
-对于特殊情况则特殊处理，例如：
-```
+- `osu! tournaments`
+- `osu! alumni`
+- `osu! community`
+- `osu! chat`
+- `osu! client`
 
-关于中文标点的详细定义，参考 [GB/T 15834-2011 标准](http://www.moe.gov.cn/ewebeditor/uploadfile/2015/01/13/20150113091548267.pdf)
+* * *
 
-##### 括号
+When referring to `osu!` (the game/framework itself, not the game mode), it should be in *italics* unless it is included in the name of game modes or other services related to the game. For example:
 
-当括号是为了注释某个没有达成共识的翻译时，使用多数人认同的翻译和中文括号，被注释的词放在括号内并且不需要空格。
-例如：`仓库（Repository）`
+- `The language that _osu!_ is written in is C# using the .NET Framework.`
+- `One of the game modes in _osu!_ is osu!catch.`
 
+### Date formatting
 
-##### 顿号
+Since many regions use different date and time formats, the osu!wiki will only use the [ISO-8601](https://en.wikipedia.org/wiki/ISO_8601) format, which is `YYYY-MM-DD`. For example:
 
-在一个句子中枚举词语时，使用顿号分隔。
+- `27. November 2018` (`DD. MMMM YYYY`) must be `2018-11-27`
+- `April 1, 2017` (`MMMM dd, YYYY`) must be `2017-04-01`
+- `17 June, 2013` (`DD MMMM, YYYY`) must be `2013-06-17`
+- `2015 March, 02` (`YYYY MM, DD`) must be `2015-03-02`
+- `2009.09.09` (`YYYY.MM.DD` or `YYYY.DD.MM` and similar) must be `2009-09-09`
 
-- _osu!_ 的游戏模式有: osu!standard 、 osu!taiko 、 osu!catch 和 osu!mania 。
+If your language uses a day, month, and year suffix (i.e. Chinese, Japanese, or Korean), you must not use said format; instead use the same format as stated above, ISO-8601.
 
-#### 英文标点
+- `2016年02月29日` must be `2016-02-29`
+- `2014년08월18일` must be `2014-08-18`
+- `2010年01月02日` must be `2010-01-02`
 
-引用英文句子或者单词本身存在英文标点时才能使用英文标点。
+When listing a start and an end date, list the start date first, followed by a forward slash (`/`), followed by the end date. In other words, this format: `{start date}/{end date}`. The start and end date must be written using the `YYYY-MM-DD` format. For example:
 
-### 中英混用
+- `22. - 25. November 2018` must be `2018-11-22/2018-11-25`
+- `June 6, 2009 - August 4, 2011` must be `2009-06-06/2011-08-04`
+- `March 2, 2011 until April 30, 2012` must be `2011-03-02/2012-04-30`
+- `December 1, 2017 to January 1, 2018` must be `2017-12-01/2018-01-01`
 
-如果英文单词需要在中文句子中出现，那么在单词两头空格。
-例如：
+### Language names
 
-- 游戏的名称 `osu!` **永远不大写**，即使是在句子的开头。
+When referring to the name of a language, capitalize the first letter of that language.
 
-如果英文单词出现在句子开头，则不需要在单词前面空格。
-如果英文单词出现在句子结尾，那么同样需要两头空格并正确使用终结符。
+- The `#spanish` chat channel are for those who speak **Spanish**.
+- The `#french` chat channel are for those who speak **French**.
 
-### 首行缩进
+### Abbreviations and acronyms
 
-在书写时，大部分人习惯开头空两格，但是在 osu!wiki ，这是不允许的。
-空两格的目的是为了区分每段，由于 wiki 在段之间已经留出了足够多的空间，所以不允许首行缩进。
+When using abbreviations and/or acronyms, it is really important to note what the abbreviations and/or acronyms mean upon their first occurrence. After explaining their meaning after the first occurrence, it is no longer necessary to repeat the meanings throughout the entire article. For example:
 
-### 部分翻译规范
+    The NC (Nightcore) mod is similar to the DT (Double Time) mod because both NC and DT increase the speed of the music by 50%. However, NC will change the pitch of the music and adds a clap and finish to the beat.
+    
 
-| 英文 | 中文 |
-|------|------|
-| e.g. | 例如 |
-| For example: | 例如： |
-| Examples: | 例如： |
-| See also: | 参见：/ 另见： |
+All abbreviations and acronyms of **must** be capitalised. For example:
 
+- `CS` for `Circle Size`
+- `AR` for `Approach Rate`
+- `DT` for `Double Time`
+- `ASC` for `Article Styling Criteria`
+
+* * *
+
+Use `e.g.` when abbreviating "for example" and use `i.e.` for "that is". Side note, `e.x.` is uncommon and is not another abbreviation for "for example" (it is the abbreviation for "exercise").
+
+* * *
+
+Do not pluralize abbreviations nor acronyms. (e.g. use `BN`, `QAT`, `GMT`, instead of `BNs`, `QATs`, `GMTs`)
+
+### Serial comma
+
+*The serial comma is also known as the "Oxford comma" or the "Harvard comma".*
+
+When a list consists of 3 or more items in a sentence, use the serial comma. For example:
+
+- The game modes of *osu!*: osu!standard, osu!taiko, osu!catch`,` and osu!mania are fun to play with others.
+
+Keep in mind that there are rare exceptions to not using the serial comma.
+
+### Game modes
+
+When writing the name of the game modes, they are to be written as follows:
+
+- `osu!standard` (unofficial, but used to prevent ambiguity)
+- `osu!taiko`
+- `osu!catch`
+- `osu!mania`
+
+*Note: To maintain consistency, never use `osu!` to refer to the game mode `osu!standard`.* However, folder names must use `osu!`, not `osu!standard`, when referring to the difficulty.
+
+You may only refer to the old game mode names (i.e. `Catch the Beat`, `Taiko`, and `Mania`) only when discussing about said game mode's previous name.
+
+### Game modifiers
+
+**Game modifiers must be capitalised.** For example:
+
+- `Hard Rock`
+- `Nightcore`
+- `Double Time`
+- `Easy`
+
+### Gameplay elements
+
+**Gameplay elements are never be capitalised.** For example:
+
+- In osu!standard, **beatmaps** are composed of three different gameplay elements: **hit circles**, **sliders**, and **spinners**.
+- The **beatmap editor** is a place where **creators** can map a song of their choice.
+
+### Contractions
+
+Contractions are a shortened form of a word or group of words. In the osu!wiki, contractions are discouraged. This is to keep a formal tone in the osu!wiki. Articles that talk directly to the reader may be exempt from this rule (e.g. guides, rules, FAQ). For example, use:
+
+- `Do not` instead of `Don't`
+- `You will` instead of `You'll`
+- `It is` instead of `It's`
+
+*Note: the possessive forms of words (e.g. `the player's` or `the skinner's`) are not contractions.*
+
+### Point of view
+
+When referring to the player, use `the player` or `a player`. **Never use `he`/`his` or `she`/`her`!** Instead, use `they`/`their`/`theirs`.
+
+Articles that talk directly to the reader may use the word `you`.
+
+**Never use the first person perspective (`I`) in any articles,** even if they are ported guides that had once used first person.
+
+### Terminology
+
+These words are spelt as follows (note the space):
+
+- `hit circles`
+- `approach circles`
+- `slider ticks`
+- `slider ball`
+- `slider path`
+- `hit burst`
+- `game mode` (or just `mode`)
+- `game mod` (or just `mod`)
+- `play style`
+- `gameplay`
+
+* * *
+
+The term `Difficulty` may refer to a specific `Beatmap` (these terms are interchangable). The term `Beatmap` may refer to a `Beatmapset`; however, to prevent ambiguity, a beatmapset is the collection of beatmaps per song per creator while a beatmap is the playable difficulty.
+
+* * *
+
+- Use `beatmaps` instead of `maps`.
+- Use `creator` instead of `beatmapper` or `mapper`.
+- Use `BN` or `Beatmap Nominators` when referring to the *Beatmap Nominators*. Never use `BNG` nor `Beatmap Nomination Group`.
