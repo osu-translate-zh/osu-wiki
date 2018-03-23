@@ -1,6 +1,9 @@
 files:
   - source: /wiki/
+    ignore:
+      - /wiki/*/img/
     translation: /%original_path%/%two_letters_code%.md
     languages_mapping:
       two_letters_code:
         zh-TW: zh-tw
+        zh-CN: zh
