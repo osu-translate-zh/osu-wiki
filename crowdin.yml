@@ -1,0 +1,6 @@
+files:
+  - source: /wiki/
+    translation: /%original_path%/%two_letters_code%.md
+    languages_mapping:
+      two_letters_code:
+        zh-TW: zh-tw
