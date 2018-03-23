@@ -1,58 +1,58 @@
-2017年華人 osu!mania 4K 大賽
-=============================
+# Chinese osu!mania 4K Tournament 2017
 
 ![CMT 4K 2017](pic.png)
 
- **2017年華人 osu!mania 4K 大賽**（以下均簡寫為**CMT 4K 2017**）為華人區個人比賽，是由 CMT 團隊舉辦的第二屆華人 osu!mania 4K 大賽。比賽所用地圖均為 osu!mania 4K 專用譜。
+The **Chinese osu!mania 4K Tournament 2017** (***CMT 4K 2017***) is the second one-on-one, osu!mania 4K specified Chinese regional tournament, hosted by CMT team.
 
-## 比賽時間表
+## Tournament schedule
 
-| 階段 | 時間 |
-| ---: | :--- |
-| 報名 | 6月4日至6月18日 |
-| 資格賽 | 6月24日至6月25日 |
-| 小組抽籤 | 6月25日(20:00 UTC+8) |
-| 小組賽 | 6月30日至7月2日 |
-| 十六強賽 | 7月8日至7月9日 |
-| 八強賽 | 7月15日至7月16日 |
-| 半決賽 | 7月22日至7月23日 |
-| 決賽第一周 | 7月29日至7月30日 |
-| 決賽第二周 | 8月5日至8月6日 |
+|               Event | Timestamp                   |
+| -------------------:|:--------------------------- |
+|        Registration | 4-18. June 2017             |
+| Qualification Stage | 24-25. June 2017            |
+|            Drawings | 25. June 2017 (20:00 UTC+8) |
+|         Group Stage | 30. June - 2. July 2017     |
+|         Round of 16 | 8-9. July 2017              |
+|          Round of 8 | 15-16. July 2017            |
+|          Semifinals | 22-23. July 2017            |
+|     Finals - Week 1 | 29-30. July 2017            |
+|     Finals - Week 2 | 5-6. August 2017            |
 
-## 比賽獎品
+## Tournament prizes
 
-本次比賽獎品由音游網和漢斯共同贊助，鍵盤由 CrazyBoard 提供。  
-![](/wiki/shared/GCrown.png) 3個月 osu!支持者，主頁訂製勳章，CrazyBoard Mark One 鍵盤；   
-![](/wiki/shared/SCrown.png) 2個月 osu!支持者；  
-![](/wiki/shared/BCrown.png) 1個月 osu!支持者。
+All prizes are sponsored by **汉斯**, **音游网** and **CrazyBoard**.  
+![](/wiki/shared/GCrown.png) 3 months osu!supporter tag, profile badge, **CrazyBoard Mark One Keyboard**;  
+![](/wiki/shared/SCrown.png) 2 months osu!supporter tag;  
+![](/wiki/shared/BCrown.png) 1 month osu!supporter tag.
 
-## 比賽主辦團隊
+## Tournament staff
 
-| 團隊 | 人員 |
-| ---: | :--- |
-| 比賽經理 | ![][CN] [hans1999](https://osu.ppy.sh/u/6679329)、![][CN] [Scslag](https://osu.ppy.sh/u/6705256) |
-| 比賽監督 | ![][CN] [SSV Normandy](https://osu.ppy.sh/u/6475977) |
-| 圖池管理團隊 | ![][UK] [Imperial Wolf](https://osu.ppy.sh/u/9080296)、![][TW] [Spy](https://osu.ppy.sh/u/1217122)、![][CN] [hans1999](https://osu.ppy.sh/u/6679329) |
-| 直播裁判團隊 | ![][CN] [aiyulu](https://osu.ppy.sh/u/189617)、![][CN] [Rasis](https://osu.ppy.sh/u/1209363)、![][CN] [Ookura Asahi](https://osu.ppy.sh/u/4786951) |
-| 解說團隊 | ![][CN] [hans1999](https://osu.ppy.sh/u/6679329)、![][CN] [Scslag](https://osu.ppy.sh/u/6705256)、![][CN] [Rasis](https://osu.ppy.sh/u/1209363)、![][CN] [644520858](https://osu.ppy.sh/u/5507069)、![][CN] [wuhuanmin](https://osu.ppy.sh/u/935322) |
-| Wiki制作、維護 | ![][CN] [kj415j45](https://osu.ppy.sh/u/kj415j45)、 ![][CN] [Ookura Asahi](https://osu.ppy.sh/u/4786951) |
+|                   Team | Staff                                                                                                                                                                                                                                                                                                                                                                                                      |
+| ----------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|    Tournament managers | ![](/wiki/shared/flag/CN.gif "China") [hans1999](https://osu.ppy.sh/u/6679329), ![](/wiki/shared/flag/CN.gif "China") [Scslag](https://osu.ppy.sh/u/6705256)                                                                                                                                                                                                                                               |
+|            Coordinator | ![](/wiki/shared/flag/CN.gif "China") [SSV Normandy](https://osu.ppy.sh/u/6475977)                                                                                                                                                                                                                                                                                                                         |
+|          Map selectors | ![](/wiki/shared/flag/GB.gif "Great Britain") [Imperial Wolf](https://osu.ppy.sh/u/9080296), ![](/wiki/shared/flag/TW.gif "Taiwan") [Spy](https://osu.ppy.sh/u/1217122), ![](/wiki/shared/flag/CN.gif "China") [hans1999](https://osu.ppy.sh/u/6679329)                                                                                                                                                    |
+| Streamers and referees | ![](/wiki/shared/flag/CN.gif "China") [aiyulu](https://osu.ppy.sh/u/189617), ![](/wiki/shared/flag/CN.gif "China") [Rasis](https://osu.ppy.sh/u/1209363), ![](/wiki/shared/flag/CN.gif "China") [Ookura Asahi](https://osu.ppy.sh/u/4786951)                                                                                                                                                               |
+|           Commentators | ![](/wiki/shared/flag/CN.gif "China") [hans1999](https://osu.ppy.sh/u/6679329), ![](/wiki/shared/flag/CN.gif "China") [Scslag](https://osu.ppy.sh/u/6705256), ![](/wiki/shared/flag/CN.gif "China") [Rasis](https://osu.ppy.sh/u/1209363), ![](/wiki/shared/flag/CN.gif "China") [644520858](https://osu.ppy.sh/u/5507069), ![](/wiki/shared/flag/CN.gif "China") [wuhuanmin](https://osu.ppy.sh/u/935322) |
+|       Wiki maintenance | ![](/wiki/shared/flag/CN.gif "China") [kj415j45](https://osu.ppy.sh/u/kj415j45), ![](/wiki/shared/flag/CN.gif "China") [Ookura Asahi](https://osu.ppy.sh/u/4786951)                                                                                                                                                                                                                                        |
 
-## 比賽直播間
+## Tournament stream
 
-Bilibili 直播平台：[aiyulu](http://live.bilibili.com/10183)（主直播），[Ookura Asahi](http://live.bilibili.com/272810)（副直播），[Rasis](http://live.bilibili.com/5333)（備用）。  
-Twitch 直播平台：[aiyulu](https://www.twitch.tv/aiyulu)。
+bilibili: [aiyulu](http://live.bilibili.com/10183)(Primary), [Ookura Asahi](http://live.bilibili.com/272810)(Secondary), [Rasis](http://live.bilibili.com/5333)(Back up).  
+Twitch: [aiyulu](https://www.twitch.tv/aiyulu).
 
---------------------------------------------------
+* * *
 
 ![CMT4K2017 podium](podium.png)
 
---------------------------------------------------
+* * *
 
-## 比賽圖池
+## Mappools
 
-### 決賽、總決賽
+### Finals
 
-[**點此下載全部**](https://1drv.ms/u/s!AuGED5b9f0uloUllsnHx59aQyaoa)
+[**Download all** (OneDrive)](https://1drv.ms/u/s!AuGED5b9f0uloUllsnHx59aQyaoa)
+
 - [Various Artist - Jungdongjin's 5th LN Pack \[nanahira -Tsukitourou\]](https://osu.ppy.sh/b/1301846)
 - [LeaF - Shitsubou Choco \[4K LN 'Imperial Chocolate\]](https://osu.ppy.sh/b/1273424)
 - [Nanahoshi Kangengakudan - IMAGINARY LIKE THE JUSTICE \[ShuChan!!\]](https://osu.ppy.sh/b/1165250)
@@ -71,11 +71,13 @@ Twitch 直播平台：[aiyulu](https://www.twitch.tv/aiyulu)。
 - [plastic feat.Sakito - Hitsugi to Futago \[4KEY//PHANTASM\]](https://osu.ppy.sh/b/1097111)
 
 TB:
+
 - [Camellia - GHOST \[Immoral Night Guard\]](https://osu.ppy.sh/b/1206398)
 
-### 半決賽
+### Semifinals
 
-[**點此下載全部**](https://1drv.ms/u/s!Akj69f-fUdi3hSV0mmh3EYXWfOwz)
+[**Download all** (OneDrive)](https://1drv.ms/u/s!Akj69f-fUdi3hSV0mmh3EYXWfOwz)
+
 - [Mick Gordon - Cyberdemon \[Lazarus\]](https://osu.ppy.sh/b/1231110)
 - [Hitori Tori - perthed again (yambabom remix) \[Difficulty 3\]](https://osu.ppy.sh/b/1207006)
 - [LeaF - MEPHISTO \[4K LN Massacre\]](https://osu.ppy.sh/b/1134593)
@@ -94,14 +96,16 @@ TB:
 - [Noah - Immortal saga \[4K MXM\]](https://osu.ppy.sh/b/1349837)
 
 TB:
+
 - [Camellia - Exit This Earth's Atomosphere \[Spaceship\]](https://osu.ppy.sh/b/1043774)
 
-### 四分之一決賽
+### Quarterfinals
 
-[**點此下載全部**](https://1drv.ms/u/s!AuGED5b9f0uloUjg8WuPP1a5m3Gx)  
+[**Download all** (OneDrive)](https://1drv.ms/u/s!AuGED5b9f0uloUjg8WuPP1a5m3Gx)
+
 - [DJ Genki feat. yukacco - Candy Star \[Noodle Star\]](https://osu.ppy.sh/b/1243769)
-- [Nauts - Second Run (Core Mix)  \[4K LN\]](https://osu.ppy.sh/b/1258021)
-- [Camellia - Singularity  \[Artificial Mind\]](https://osu.ppy.sh/b/1073952)
+- [Nauts - Second Run (Core Mix) \[4K LN\]](https://osu.ppy.sh/b/1258021)
+- [Camellia - Singularity \[Artificial Mind\]](https://osu.ppy.sh/b/1073952)
 - [Helblinde - The Solace of Oblivion \[A Lie's Asgard\]](https://osu.ppy.sh/b/1274057)
 - [Musical Masterpiece - MANIERA \[ilikexd's FOOLISH\]](https://osu.ppy.sh/b/535893)
 - [Nekomata L.E.D. Master+ - Chrono Diver -PENDULUMs- \[Rage!!\]](https://osu.ppy.sh/b/835621)
@@ -115,325 +119,318 @@ TB:
 - [t+pazolite - cheatreal \[TUTORIAL\]](https://osu.ppy.sh/b/873247)
 
 TB:
+
 - [Billain - Specialist \[Maestro\]](https://osu.ppy.sh/b/1216877)
 
-### 16強
+### Round of 16
 
-[**點此下載全部**](https://1drv.ms/u/s!AuGED5b9f0uloSM2ivgLojrSLnxT)  
-- [senya - Shinrabansho ni furete \[Insane(LN)\]](https://osu.ppy.sh/b/1242917)  
-- [ETIA. - Firestorm \[LNAVITY\]](https://osu.ppy.sh/b/790563)  
-- [DJ Sharpnel feat. Lia - I miss you (DJ SHARPNEL Remix) \[4K EX\]](https://osu.ppy.sh/b/458274)  
-- [DOUBLE HELIX - Our Faith (Faithful MTL Remix) \[4K Faith\]](https://osu.ppy.sh/b/1170029)  
-- [LUZE & Emew. - Unmeiron \[Valedict's Another\]](https://osu.ppy.sh/b/1084020)  
-- [lapix - Amazing Mirage (Extended) \[Mirage!!(SV)\]](https://osu.ppy.sh/b/1265968)  
-- [Crimsona - Hyper Fiber World Spectrum \[World Specturm\]](https://osu.ppy.sh/b/1160757)  
-- [Shiraishi - Shinsekai \[Insane\]](https://osu.ppy.sh/b/477978)  
-- [IAHN - Transform (Original Mix) \[Aspire\]](https://osu.ppy.sh/b/1046276)  
-- [Seiryu - Critical Crystal \[Zan's Blue Another\]](https://osu.ppy.sh/b/829747)  
-- [SYUNN - Megalara Garuda \[EXTREME\]](https://osu.ppy.sh/b/1134548)  
-- [Tatsh - reunion <Platinum Long Version> \[victorica'4K MX\]](https://osu.ppy.sh/b/315361)  
-- [nao - Symmetric generation \[NEPGEAR\]](https://osu.ppy.sh/b/902070)  
-- [P\*Light - NINJA IS DEAD IIDX ver. \[Spy's Leggendaria\]](https://osu.ppy.sh/b/1135210)  
+[**Download all** (OneDrive)](https://1drv.ms/u/s!AuGED5b9f0uloSM2ivgLojrSLnxT)
 
-TB:  
+- [senya - Shinrabansho ni furete \[Insane(LN)\]](https://osu.ppy.sh/b/1242917) 
+- [ETIA. - Firestorm \[LNAVITY\]](https://osu.ppy.sh/b/790563) 
+- [DJ Sharpnel feat. Lia - I miss you (DJ SHARPNEL Remix) \[4K EX\]](https://osu.ppy.sh/b/458274) 
+- [DOUBLE HELIX - Our Faith (Faithful MTL Remix) \[4K Faith\]](https://osu.ppy.sh/b/1170029) 
+- [LUZE & Emew. - Unmeiron \[Valedict's Another\]](https://osu.ppy.sh/b/1084020) 
+- [lapix - Amazing Mirage (Extended) \[Mirage!!(SV)\]](https://osu.ppy.sh/b/1265968) 
+- [Crimsona - Hyper Fiber World Spectrum \[World Specturm\]](https://osu.ppy.sh/b/1160757) 
+- [Shiraishi - Shinsekai \[Insane\]](https://osu.ppy.sh/b/477978) 
+- [IAHN - Transform (Original Mix) \[Aspire\]](https://osu.ppy.sh/b/1046276) 
+- [Seiryu - Critical Crystal \[Zan's Blue Another\]](https://osu.ppy.sh/b/829747) 
+- [SYUNN - Megalara Garuda \[EXTREME\]](https://osu.ppy.sh/b/1134548) 
+- [Tatsh - reunion <platinum long version> \[victorica'4K MX\]](https://osu.ppy.sh/b/315361) 
+- [nao - Symmetric generation \[NEPGEAR\]](https://osu.ppy.sh/b/902070) 
+- [P\*Light - NINJA IS DEAD IIDX ver. \[Spy's Leggendaria\]](https://osu.ppy.sh/b/1135210) 
+
+TB:
+
 - [Shoujo - Reminiscing \[Memories\]](https://osu.ppy.sh/b/1038482)
 
-### 小組賽
+### Group Stage
 
-[**點此下載全部**](https://1drv.ms/u/s!AuGED5b9f0uloSC-zNJGthpjbLkb)  
-- [Ryu\* Vs. L.E.D.-G - PARADISE LOST \[CS'Another\]](https://osu.ppy.sh/b/1171750)  
-- [Diceros Bicornis - Innocent Tempest \[Zan's EXHAUST\]](https://osu.ppy.sh/b/818950)  
-- [kors k - Playing with Fire (Sota Fujimori Remix) \[Dancing Blaze\]](https://osu.ppy.sh/b/1032948)  
-- [P\*Light feat. mow\*2 - OVERDRIVERS \[EXTREME\[LN\]\]](https://osu.ppy.sh/b/1224997)  
-- [Raika - Long Note Practice Pack \[Level(6)4K\]](https://osu.ppy.sh/b/816623)  
-- [Envy - Paladin \[SV-Fest\]](https://osu.ppy.sh/b/1044428)  
-- [sasakure.UK - Atropos (Short Edit) \[Lachesis\]](https://osu.ppy.sh/b/693529)  
-- [PSY - DADDY (feat. CL of 2NE1) short Ver. \[4K MX(Dancing Hard SV)\]](https://osu.ppy.sh/b/947524)  
-- [Nizikawa - F.K.S. \[Ichi's INFINITE Lv'15\]](https://osu.ppy.sh/b/556755)  
-- [L.E.D. vs S-C-U - Confiserie \[Extreme\]](https://osu.ppy.sh/b/994500)  
-- [Nekomata L.E.D.Master+ - Chrono Diver -PENDULUMs- \[4k Another\]](https://osu.ppy.sh/b/1099508)  
-- [w_tre respect for AT&HU - Schur's Theorem \[Anson's Ak EXTREME\]](https://osu.ppy.sh/b/1324299)  
+[**Download all** (OneDrive)](https://1drv.ms/u/s!AuGED5b9f0uloSC-zNJGthpjbLkb)
 
-TB:  
+- [Ryu\* Vs. L.E.D.-G - PARADISE LOST \[CS'Another\]](https://osu.ppy.sh/b/1171750) 
+- [Diceros Bicornis - Innocent Tempest \[Zan's EXHAUST\]](https://osu.ppy.sh/b/818950) 
+- [kors k - Playing with Fire (Sota Fujimori Remix) \[Dancing Blaze\]](https://osu.ppy.sh/b/1032948) 
+- [P*Light feat. mow*2 - OVERDRIVERS \[EXTREME\[LN\]\]](https://osu.ppy.sh/b/1224997) 
+- [Raika - Long Note Practice Pack \[Level(6)4K\]](https://osu.ppy.sh/b/816623) 
+- [Envy - Paladin \[SV-Fest\]](https://osu.ppy.sh/b/1044428) 
+- [sasakure.UK - Atropos (Short Edit) \[Lachesis\]](https://osu.ppy.sh/b/693529) 
+- [PSY - DADDY (feat. CL of 2NE1) short Ver. \[4K MX(Dancing Hard SV)\]](https://osu.ppy.sh/b/947524) 
+- [Nizikawa - F.K.S. \[Ichi's INFINITE Lv'15\]](https://osu.ppy.sh/b/556755) 
+- [L.E.D. vs S-C-U - Confiserie \[Extreme\]](https://osu.ppy.sh/b/994500) 
+- [Nekomata L.E.D.Master+ - Chrono Diver -PENDULUMs- \[4k Another\]](https://osu.ppy.sh/b/1099508) 
+- [w_tre respect for AT&HU - Schur's Theorem \[Anson's Ak EXTREME\]](https://osu.ppy.sh/b/1324299) 
+
+TB:
+
 - [Halozy - Three Magic (DiGiTAL WiNG TRANCE Remix) \[Lunatic of Love\]](https://osu.ppy.sh/b/1192531)
 
-### 資格賽
+### Qualification Stage
 
-- [Inspector K - Disconnected -Hyper- \[deep boop\]](https://osu.ppy.sh/b/1287062)  
-- [Raika - Long Note Practice Pack \[Level(5)4k\]](https://osu.ppy.sh/b/813335)  
-- [Kuroneko Dungeon - Ryuu to Shoujo to Decoherence \[Another\]](https://osu.ppy.sh/b/1319304)  
+- [Inspector K - Disconnected -Hyper- \[deep boop\]](https://osu.ppy.sh/b/1287062) 
+- [Raika - Long Note Practice Pack \[Level(5)4k\]](https://osu.ppy.sh/b/813335) 
+- [Kuroneko Dungeon - Ryuu to Shoujo to Decoherence \[Another\]](https://osu.ppy.sh/b/1319304) 
 - [Ichigaki's 4K Collection Vol.1 \[TIEFSEE \[Marathon\]\]](https://osu.ppy.sh/b/845983)
 
-### 測試賽
+### Test match
 
-[**點此下載全部**](https://1drv.ms/u/s!AuGED5b9f0ulnyuYMI1MJhnTjx9g)  
-- [Shiki – Endless Dream \[pompom’s Another\]](https://osu.ppy.sh/b/601737)  
-- [sakuzyo – Refel \[Liberation\]](https://osu.ppy.sh/b/1178870)  
-- [-45 – EXILE \[Anotehr_SideA\]](https://osu.ppy.sh/b/815021)  
-- [seleP – Scarlet Rose \[Scarlet Rose\]](https://osu.ppy.sh/b/1228278)  
-- [Polyphony – Adrift \[Marine\]](https://osu.ppy.sh/b/658126)  
-- [LeaF – I \[UJ’s Another\]](https://osu.ppy.sh/b/928341)  
-- [DJ Sharpnel – Cyber Induction \[IcyWorld\]](https://osu.ppy.sh/b/1021178)  
-- [Helblinde – Rewrite Nightmare \[Experiment\]](https://osu.ppy.sh/b/719525)  
-- [Helblinde – Memoria (Original Mix) \[LeiN-‘s SC\]](https://osu.ppy.sh/b/1101044)  
-- [DET & Silantra – Luv Song \[<3\]](https://osu.ppy.sh/b/602841)  
-- [Kobaryo – Pumpin’ Junkies (Kobaryo’s FTN-Remix) \[Arcwin’s Maxima\]](https://osu.ppy.sh/b/644265)  
-- [A-Teens – Gimme! Gimme! Gimme! \[Wafles’s Beginner 24\]](https://osu.ppy.sh/b/1010130)  
-- [senya – Zenaku no Itadaki ni Aru Shinjitsu \[EXH (LN)\]](https://osu.ppy.sh/b/1050840)  
-- [96Neko – Paintings? Oh, yeah. \[PaiLNfull\]](https://osu.ppy.sh/b/1103346)  
-- [LeaF – 4th smile \[Prosperity\]](https://osu.ppy.sh/b/1247978)  
+[**Download all** (OneDrive)](https://1drv.ms/u/s!AuGED5b9f0ulnyuYMI1MJhnTjx9g)
+
+- [Shiki – Endless Dream \[pompom’s Another\]](https://osu.ppy.sh/b/601737) 
+- [sakuzyo – Refel \[Liberation\]](https://osu.ppy.sh/b/1178870) 
+- [-45 – EXILE \[Anotehr_SideA\]](https://osu.ppy.sh/b/815021) 
+- [seleP – Scarlet Rose \[Scarlet Rose\]](https://osu.ppy.sh/b/1228278) 
+- [Polyphony – Adrift \[Marine\]](https://osu.ppy.sh/b/658126) 
+- [LeaF – I \[UJ’s Another\]](https://osu.ppy.sh/b/928341) 
+- [DJ Sharpnel – Cyber Induction \[IcyWorld\]](https://osu.ppy.sh/b/1021178) 
+- [Helblinde – Rewrite Nightmare \[Experiment\]](https://osu.ppy.sh/b/719525) 
+- [Helblinde – Memoria (Original Mix) \[LeiN-‘s SC\]](https://osu.ppy.sh/b/1101044) 
+- [DET & Silantra – Luv Song \[<3\]](https://osu.ppy.sh/b/602841) 
+- [Kobaryo – Pumpin’ Junkies (Kobaryo’s FTN-Remix) \[Arcwin’s Maxima\]](https://osu.ppy.sh/b/644265) 
+- [A-Teens – Gimme! Gimme! Gimme! \[Wafles’s Beginner 24\]](https://osu.ppy.sh/b/1010130) 
+- [senya – Zenaku no Itadaki ni Aru Shinjitsu \[EXH (LN)\]](https://osu.ppy.sh/b/1050840) 
+- [96Neko – Paintings? Oh, yeah. \[PaiLNfull\]](https://osu.ppy.sh/b/1103346) 
+- [LeaF – 4th smile \[Prosperity\]](https://osu.ppy.sh/b/1247978) 
 - [Da Tweekaz – Wodka (short Ver.) \[4K MX(Hard SV Edit.)\]](https://osu.ppy.sh/b/800952)
 
-TB:  
+TB:
+
 - [Camellia – Lunatic Rough Party!! (Long Ver.)\[Lunatic\]](https://osu.ppy.sh/b/646319)
 
-## 比賽結果
+## Match Results
 
-### 決賽第二周
+### Finals - week 2
 
-| 日期 | 藍隊 | | 比分 | | 紅隊 | 附 |
-| :--: | ---: | ---: | :--: | :--- | :--- | :--: |
-| 8月5日 | [Crz]ScSolAr | ![][CN] | 0 : 7 | ![][TW] | - Choma - | 缺席 |
-| 8月6日 | - Choma - | ![][TW] | 7 : 0 | ![][CN] | [Crz]MemoryI | 缺席 |
+|   Date    |       Team A |                                        | Score |                                        | Team B       | Notes |
+|:---------:| ------------:| --------------------------------------:|:-----:|:-------------------------------------- |:------------ |:-----:|
+| 5. Augest | [Crz]ScSolAr |  ![](/wiki/shared/flag/CN.gif "China") | 0 : 7 | ![](/wiki/shared/flag/TW.gif "Taiwan") | - Choma -    |  WBD  |
+| 6. Augest |    - Choma - | ![](/wiki/shared/flag/TW.gif "Taiwan") | 7 : 0 | ![](/wiki/shared/flag/CN.gif "China")  | [Crz]MemoryI |  WBD  |
 
-### 決賽第一周
+### Finals - week 1
 
-| 日期 | 藍隊 | | 比分| | 紅隊 | 附 |
-| :--: | ---: | ---: | :--: | :--- | :--- | :--: |
-| 7月29日 | [Crz]Riri | ![][CN] | 0 : 6 | ![][TW] | - Choma - | [記錄](https://osu.ppy.sh/community/matches/34872032) |
-| | [Crz]MemoryI | ![][CN] | 6 : 0 | ![][CN] | [Crz]ScSolAr | 缺席 |
-| | pikechu | ![][CN] | 2 : 6 | ![][MY] | Neokje | [記錄](https://osu.ppy.sh/community/matches/34873568) |
-| 7月30日 | - Choma - | ![][TW] | 6 : 5 | ![][MY] | Neokje | [記錄](https://osu.ppy.sh/community/matches/34893510) |
+|   Date   |       Team A |                                        | Score |                                          | Team B       |                          Notes                          |
+|:--------:| ------------:| --------------------------------------:|:-----:|:---------------------------------------- |:------------ |:-------------------------------------------------------:|
+| 29. July |    [Crz]Riri |  ![](/wiki/shared/flag/CN.gif "China") | 0 : 6 | ![](/wiki/shared/flag/TW.gif "Taiwan")   | - Choma -    | [record](https://osu.ppy.sh/community/matches/34872032) |
+|          | [Crz]MemoryI |  ![](/wiki/shared/flag/CN.gif "China") | 6 : 0 | ![](/wiki/shared/flag/CN.gif "China")    | [Crz]ScSolAr |                           WBD                           |
+|          |      pikechu |  ![](/wiki/shared/flag/CN.gif "China") | 2 : 6 | ![](/wiki/shared/flag/MY.gif "Malaysia") | Neokje       | [record](https://osu.ppy.sh/community/matches/34873568) |
+| 30. July |    - Choma - | ![](/wiki/shared/flag/TW.gif "Taiwan") | 6 : 5 | ![](/wiki/shared/flag/MY.gif "Malaysia") | Neokje       | [record](https://osu.ppy.sh/community/matches/34893510) |
 
-### 半決賽
+### Semifinals
 
-| 日期 | 藍隊 | | 比分| | 紅隊 | 附 |
-| :--: | ---: | ---: | :--: | :--- | :--- | :--: |
-| 7月22日 | NED_Q | ![][CN] | 6 : 0 | ![][AU] | [Crz]Yukikaze | 缺席 |
-| | drunkenstein | ![][HK] | 0 : 6 | ![][CN] | pikechu | 缺席 |
-| | - Choma - | ![][TW] | 6 : 0 | ![][CN] | - ZedXD - | [記錄](https://osu.ppy.sh/mp/34703556) |
-| | [Crz]Liusecy | ![][CN] | 2 : 6 | ![][CN] | Stink God | [記錄](https://osu.ppy.sh/mp/34706159) |
-| | [Crz]Riri | ![][CN] | 2 : 6 | ![][CN] | [Crz]MemoryI | [記錄](https://osu.ppy.sh/community/matches/34771665) |
-| 7月23日 | - Choma - | ![][CA] | 6 : 0 | ![][CN] | Stink God | 缺席 |
-| | Neokje | ![][MY] | 2 : 6 | ![][CN] | [Crz]ScSolAr | [記錄](https://osu.ppy.sh/mp/34731835) |
-| | NED_Q | ![][CN] | 0 : 6 | ![][CN] | pikechu | 缺席 |
+|   Date   |       Team A |                                           | Score |                                           | Team B        |                          Notes                          |
+|:--------:| ------------:| -----------------------------------------:|:-----:|:----------------------------------------- |:------------- |:-------------------------------------------------------:|
+| 22. July |        NED_Q |     ![](/wiki/shared/flag/CN.gif "China") | 6 : 0 | ![](/wiki/shared/flag/AU.gif "Australia") | [Crz]Yukikaze |                           WBD                           |
+|          | drunkenstein | ![](/wiki/shared/flag/HK.gif "Hong Kong") | 0 : 6 | ![](/wiki/shared/flag/CN.gif "China")     | pikechu       |                           WBD                           |
+|          |    - Choma - |    ![](/wiki/shared/flag/TW.gif "Taiwan") | 6 : 0 | ![](/wiki/shared/flag/CN.gif "China")     | - ZedXD -     |        [record](https://osu.ppy.sh/mp/34703556)         |
+|          | [Crz]Liusecy |     ![](/wiki/shared/flag/CN.gif "China") | 2 : 6 | ![](/wiki/shared/flag/CN.gif "China")     | Stink God     |        [record](https://osu.ppy.sh/mp/34706159)         |
+|          |    [Crz]Riri |     ![](/wiki/shared/flag/CN.gif "China") | 2 : 6 | ![](/wiki/shared/flag/CN.gif "China")     | [Crz]MemoryI  | [record](https://osu.ppy.sh/community/matches/34771665) |
+| 23. July |    - Choma - |    ![](/wiki/shared/flag/CA.gif "Canada") | 6 : 0 | ![](/wiki/shared/flag/CN.gif "China")     | Stink God     |                           WBD                           |
+|          |       Neokje |  ![](/wiki/shared/flag/MY.gif "Malaysia") | 2 : 6 | ![](/wiki/shared/flag/CN.gif "China")     | [Crz]ScSolAr  |        [record](https://osu.ppy.sh/mp/34731835)         |
+|          |        NED_Q |     ![](/wiki/shared/flag/CN.gif "China") | 0 : 6 | ![](/wiki/shared/flag/CN.gif "China")     | pikechu       |                           WBD                           |
 
-### 四分之一決賽
+### Quarterfinals
 
-| 日期 | 藍隊 | | 比分 | | 紅隊 | 附 |
-| :--: | ---: | ---: | :--: | :--- | :--- | :--: |
-| 7月15日 | drunkenstein | ![][HK] | 0 : 5 | ![][CN] | [Crz]Riri | [記錄](https://osu.ppy.sh/mp/34542511) |
-| | - ZedXD - | ![][CN] | 5 : 0 | ![][CN] | spensll | [記錄](https://osu.ppy.sh/mp/34543141) |
-| | wjh123 | ![][CN] | 0 : 5 | ![][CN] | Stink God | 缺席 |
-| | NED_Q | ![][CN] | 3 : 5 | ![][CN] | [Crz]MemoryI | [記錄](https://osu.ppy.sh/mp/34547424) |
-| 7月16日 | Murasame | ![][CA] | 0 : 5 | ![][AU] | [Crz]Yukikaze- | 缺席 |
-| | pikechu | ![][CN] | 5 : 1 | ![][CN] | [Crz]Mix0130 | [記錄](https://osu.ppy.sh/mp/34566588) |
-| | [Crz]Liusecy | ![][CN] | 0 : 5 | ![][MY] | Neokje | [記錄](https://osu.ppy.sh/mp/34570396) |
-| | - Choma - | ![][TW] | 2 : 5 | ![][CN] | [Crz]ScSolAr | [記錄](https://osu.ppy.sh/mp/34571413) |
+|   Date   |       Team A |                                           | Score |                                           | Team B         |                  Notes                   |
+|:--------:| ------------:| -----------------------------------------:|:-----:|:----------------------------------------- |:-------------- |:----------------------------------------:|
+| 15. July | drunkenstein | ![](/wiki/shared/flag/HK.gif "Hong Kong") | 0 : 5 | ![](/wiki/shared/flag/CN.gif "China")     | [Crz]Riri      | [record](https://osu.ppy.sh/mp/34542511) |
+|          |    - ZedXD - |     ![](/wiki/shared/flag/CN.gif "China") | 5 : 0 | ![](/wiki/shared/flag/CN.gif "China")     | spensll        | [record](https://osu.ppy.sh/mp/34543141) |
+|          |       wjh123 |     ![](/wiki/shared/flag/CN.gif "China") | 0 : 5 | ![](/wiki/shared/flag/CN.gif "China")     | Stink God      |                   WBD                    |
+|          |        NED_Q |     ![](/wiki/shared/flag/CN.gif "China") | 3 : 5 | ![](/wiki/shared/flag/CN.gif "China")     | [Crz]MemoryI   | [record](https://osu.ppy.sh/mp/34547424) |
+| 16. July |     Murasame |    ![](/wiki/shared/flag/CA.gif "Canada") | 0 : 5 | ![](/wiki/shared/flag/AU.gif "Australia") | [Crz]Yukikaze- |                   WBD                    |
+|          |      pikechu |     ![](/wiki/shared/flag/CN.gif "China") | 5 : 1 | ![](/wiki/shared/flag/CN.gif "China")     | [Crz]Mix0130   | [record](https://osu.ppy.sh/mp/34566588) |
+|          | [Crz]Liusecy |     ![](/wiki/shared/flag/CN.gif "China") | 0 : 5 | ![](/wiki/shared/flag/MY.gif "Malaysia")  | Neokje         | [record](https://osu.ppy.sh/mp/34570396) |
+|          |    - Choma - |    ![](/wiki/shared/flag/TW.gif "Taiwan") | 2 : 5 | ![](/wiki/shared/flag/CN.gif "China")     | [Crz]ScSolAr   | [record](https://osu.ppy.sh/mp/34571413) |
 
-### 16強
+### Round of 16
 
-| 日期 | 藍隊 | | 比分 | | 藍隊 | 附 |
-| :--: | ---: | ---: | :--: | :--- | :--- | :--: |
-| 7月8日 | drunkenstein | ![][HK] | 5 : 1 | ![][CN] | - ZedXD - | [記錄](https://osu.ppy.sh/mp/34380098) |
-| | [Crz]Riri | ![][CN] | 5 : 0 | ![][CN] | spensll | [記錄](https://osu.ppy.sh/mp/34380710) |
-| | NED_Q | ![][CN] | 5 : 0 | ![][CN] | wjh123 | [記錄](https://osu.ppy.sh/mp/34384012) |
-| | Stink God | ![][CN] | 1 : 5 | ![][CN] | [Crz]MemoryI | [記錄](https://osu.ppy.sh/mp/34385381) |
-| 7月9日 | [Crz]Liusecy | ![][CN] | 5 : 0 | ![][CA] | Murasame | 缺席 |
-| | Neokje | ![][MY] | 5 : 0 | ![][AU] | [Crz]Yukikaze- | 缺席 |
-| | - Choma - | ![][TW] | 5 : 0 | ![][CN] | pikechu | [記錄](https://osu.ppy.sh/mp/34404265) |
-| | [Crz]ScSolAr | ![][CN] | 5 : 0 | ![][CN] | [Crz]Mix0130 | [記錄](https://osu.ppy.sh/mp/34407900) |
+|  Date   |       Team A |                                           | Score |                                           | Team B         |                  Notes                   |
+|:-------:| ------------:| -----------------------------------------:|:-----:|:----------------------------------------- |:-------------- |:----------------------------------------:|
+| 8. July | drunkenstein | ![](/wiki/shared/flag/HK.gif "Hong Kong") | 5 : 1 | ![](/wiki/shared/flag/CN.gif "China")     | - ZedXD -      | [record](https://osu.ppy.sh/mp/34380098) |
+|         |    [Crz]Riri |     ![](/wiki/shared/flag/CN.gif "China") | 5 : 0 | ![](/wiki/shared/flag/CN.gif "China")     | spensll        | [record](https://osu.ppy.sh/mp/34380710) |
+|         |        NED_Q |     ![](/wiki/shared/flag/CN.gif "China") | 5 : 0 | ![](/wiki/shared/flag/CN.gif "China")     | wjh123         | [record](https://osu.ppy.sh/mp/34384012) |
+|         |    Stink God |     ![](/wiki/shared/flag/CN.gif "China") | 1 : 5 | ![](/wiki/shared/flag/CN.gif "China")     | [Crz]MemoryI   | [record](https://osu.ppy.sh/mp/34385381) |
+| 9. July | [Crz]Liusecy |     ![](/wiki/shared/flag/CN.gif "China") | 5 : 0 | ![](/wiki/shared/flag/CA.gif "Canada")    | Murasame       |                   WBD                    |
+|         |       Neokje |  ![](/wiki/shared/flag/MY.gif "Malaysia") | 5 : 0 | ![](/wiki/shared/flag/AU.gif "Australia") | [Crz]Yukikaze- |                   WBD                    |
+|         |    - Choma - |    ![](/wiki/shared/flag/TW.gif "Taiwan") | 5 : 0 | ![](/wiki/shared/flag/CN.gif "China")     | pikechu        | [record](https://osu.ppy.sh/mp/34404265) |
+|         | [Crz]ScSolAr |     ![](/wiki/shared/flag/CN.gif "China") | 5 : 0 | ![](/wiki/shared/flag/CN.gif "China")     | [Crz]Mix0130   | [record](https://osu.ppy.sh/mp/34407900) |
 
+### Group Stage
 
-### 小組賽
+|         Team A |                                           | Score |                                           | Team B          |  |       Team A |                                           | Score |                                           | Team B          |
+| --------------:| -----------------------------------------:|:-----:|:----------------------------------------- |:--------------- |::| ------------:| -----------------------------------------:|:-----:|:----------------------------------------- |:--------------- |
+|  ***Group A*** |                                           |       |                                           |                 |  |              |                                           |       |                                           |                 |
+|   Pridra Yinda |     ![](/wiki/shared/flag/CN.gif "China") | 0 : 4 | ![](/wiki/shared/flag/MY.gif "Malaysia")  | [Xiiao]Ray      |  | drunkenstein | ![](/wiki/shared/flag/HK.gif "Hong Kong") | 4 : 0 | ![](/wiki/shared/flag/CN.gif "China")     | Pridra Yinda    |
+|       Murasame |    ![](/wiki/shared/flag/CA.gif "Canada") | 4 : 0 | ![](/wiki/shared/flag/CN.gif "China")     | Pridra Yinda    |  |     Murasame |    ![](/wiki/shared/flag/CA.gif "Canada") | 0 : 4 | ![](/wiki/shared/flag/MY.gif "Malaysia")  | [Xiiao]Ray      |
+|   drunkenstein | ![](/wiki/shared/flag/HK.gif "Hong Kong") | 4 : 0 | ![](/wiki/shared/flag/CA.gif "Canada")    | Murasame        |  | drunkenstein | ![](/wiki/shared/flag/HK.gif "Hong Kong") | 4 : 0 | ![](/wiki/shared/flag/MY.gif "Malaysia")  | [Xiiao]Ray      |
+|  ***Group B*** |                                           |       |                                           |                 |  |              |                                           |       |                                           |                 |
+|   [Crz]Liusecy |     ![](/wiki/shared/flag/CN.gif "China") | 2 : 4 | ![](/wiki/shared/flag/CN.gif "China")     | - ZedXD -       |  |      fgdg858 |     ![](/wiki/shared/flag/CN.gif "China") | 4 : 0 | ![](/wiki/shared/flag/MY.gif "Malaysia")  | Chizuru Shinkai |
+|      - ZedXD - |     ![](/wiki/shared/flag/CN.gif "China") | 1 : 4 | ![](/wiki/shared/flag/CN.gif "China")     | fgdg858         |  | [Crz]Liusecy |     ![](/wiki/shared/flag/CN.gif "China") | 1 : 4 | ![](/wiki/shared/flag/CN.gif "China")     | fgdg858         |
+|      - ZedXD - |     ![](/wiki/shared/flag/CN.gif "China") | 4 : 0 | ![](/wiki/shared/flag/MY.gif "Malaysia")  | Chizuru Shinkai |  | [Crz]Liusecy |     ![](/wiki/shared/flag/CN.gif "China") | 0 : 4 | ![](/wiki/shared/flag/MY.gif "Malaysia")  | Chizuru Shinkai |
+|  ***Group C*** |                                           |       |                                           |                 |  |              |                                           |       |                                           |                 |
+|     BDXiaoQian | ![](/wiki/shared/flag/SG.gif "Singapore") | 0 : 4 | ![](/wiki/shared/flag/CN.gif "China")     | Stink God       |  |    zero2snow | ![](/wiki/shared/flag/HK.gif "Hong Kong") | 0 : 0 | ![](/wiki/shared/flag/CN.gif "China")     | Stink God       |
+|      zero2snow | ![](/wiki/shared/flag/HK.gif "Hong Kong") | 0 : 4 | ![](/wiki/shared/flag/CN.gif "China")     | wjh123          |  |    zero2snow | ![](/wiki/shared/flag/HK.gif "Hong Kong") | 0 : 4 | ![](/wiki/shared/flag/SG.gif "Singapore") | BDXiaoQian      |
+|     BDXiaoQian | ![](/wiki/shared/flag/SG.gif "Singapore") | 2 : 4 | ![](/wiki/shared/flag/CN.gif "China")     | wjh123          |  |       wjh123 |     ![](/wiki/shared/flag/CN.gif "China") | 3 : 4 | ![](/wiki/shared/flag/CN.gif "China")     | Stink God       |
+|  ***Group D*** |                                           |       |                                           |                 |  |              |                                           |       |                                           |                 |
+|          NED_Q |     ![](/wiki/shared/flag/CN.gif "China") | 4 : 0 | ![](/wiki/shared/flag/HK.gif "Hong Kong") | Opean           |  |       hly200 |     ![](/wiki/shared/flag/CN.gif "China") | 4 : 0 | ![](/wiki/shared/flag/HK.gif "Hong Kong") | Opean           |
+|          NED_Q |     ![](/wiki/shared/flag/CN.gif "China") | 0 : 4 | ![](/wiki/shared/flag/CN.gif "China")     | [Crz]MemoryI    |  | [Crz]MemoryI |     ![](/wiki/shared/flag/CN.gif "China") | 4 : 0 | ![](/wiki/shared/flag/HK.gif "Hong Kong") | Opean           |
+|         hly200 |     ![](/wiki/shared/flag/CN.gif "China") | 3 : 4 | ![](/wiki/shared/flag/CN.gif "China")     | NED_Q           |  | [Crz]MemoryI |     ![](/wiki/shared/flag/CN.gif "China") | 0 : 4 | ![](/wiki/shared/flag/CN.gif "China")     | hly200          |
+|  ***Group E*** |                                           |       |                                           |                 |  |              |                                           |       |                                           |                 |
+|         Neokje |  ![](/wiki/shared/flag/MY.gif "Malaysia") | 4 : 0 | ![](/wiki/shared/flag/CN.gif "China")     | - Xiaoluoli -   |  |        qiluo |     ![](/wiki/shared/flag/CN.gif "China") | 4 : 1 | ![](/wiki/shared/flag/CN.gif "China")     | spensll         |
+|         Neokje |  ![](/wiki/shared/flag/MY.gif "Malaysia") | 4 : 0 | ![](/wiki/shared/flag/CN.gif "China")     | spensll         |  |        qiluo |     ![](/wiki/shared/flag/CN.gif "China") | 4 : 1 | ![](/wiki/shared/flag/CN.gif "China")     | - Xiaoluoli -   |
+|         Neokje |  ![](/wiki/shared/flag/MY.gif "Malaysia") | 4 : 1 | ![](/wiki/shared/flag/CN.gif "China")     | qiluo           |  |      spensll |     ![](/wiki/shared/flag/CN.gif "China") | 4 : 0 | ![](/wiki/shared/flag/CN.gif "China")     | - Xiaoluoli -   |
+|  ***Group F*** |                                           |       |                                           |                 |  |              |                                           |       |                                           |                 |
+|      [Crz]Riri |     ![](/wiki/shared/flag/CN.gif "China") | 4 : 1 | ![](/wiki/shared/flag/AU.gif "Australia") | [Crz]Yukikaze-  |  |    [Crz]Riri |     ![](/wiki/shared/flag/CN.gif "China") | 4 : 0 | ![](/wiki/shared/flag/CN.gif "China")     | prelude8792916  |
+|       WF Night |     ![](/wiki/shared/flag/CN.gif "China") | 0 : 4 | ![](/wiki/shared/flag/AU.gif "Australia") | [Crz]Yukikaze-  |  |    [Crz]Riri |     ![](/wiki/shared/flag/CN.gif "China") | 4 : 0 | ![](/wiki/shared/flag/CN.gif "China")     | WF Night        |
+| [Crz]Yukikaze- | ![](/wiki/shared/flag/AU.gif "Australia") | 4 : 0 | ![](/wiki/shared/flag/CN.gif "China")     | prelude8792916  |  |     WF Night |     ![](/wiki/shared/flag/CN.gif "China") | 0 : 0 | ![](/wiki/shared/flag/CN.gif "China")     | prelude8792916  |
+|  ***Group G*** |                                           |       |                                           |                 |  |              |                                           |       |                                           |                 |
+|           AnLs | ![](/wiki/shared/flag/HK.gif "Hong Kong") | 0 : 4 | ![](/wiki/shared/flag/TW.gif "Taiwan")    | - Choma -       |  |   Luv Letter |     ![](/wiki/shared/flag/CN.gif "China") | 0 : 4 | ![](/wiki/shared/flag/CN.gif "China")     | [Crz]Mix0130    |
+|   [Crz]Mix0130 |     ![](/wiki/shared/flag/CN.gif "China") | 4 : 0 | ![](/wiki/shared/flag/CN.gif "China")     | AnLs            |  |    - Choma - |    ![](/wiki/shared/flag/TW.gif "Taiwan") | 4 : 0 | ![](/wiki/shared/flag/HK.gif "Hong Kong") | AnLs            |
+|   [Crz]Mix0130 |     ![](/wiki/shared/flag/CN.gif "China") | 0 : 4 | ![](/wiki/shared/flag/TW.gif "Taiwan")    | - Choma -       |  |         AnLs | ![](/wiki/shared/flag/HK.gif "Hong Kong") | 4 : 0 | ![](/wiki/shared/flag/CN.gif "China")     | Luv Letter      |
+|  ***Group H*** |                                           |       |                                           |                 |  |              |                                           |       |                                           |                 |
+|      Banshasan |     ![](/wiki/shared/flag/CN.gif "China") | 0 : 4 | ![](/wiki/shared/flag/CN.gif "China")     | [Crz]ScSolAr    |  |     [M1nzzZ] |     ![](/wiki/shared/flag/CN.gif "China") | 0 : 4 | ![](/wiki/shared/flag/CN.gif "China")     | pikechu         |
+|       [M1nzzZ] |     ![](/wiki/shared/flag/CN.gif "China") | 0 : 4 | ![](/wiki/shared/flag/CN.gif "China")     | Banshasan       |  | [Crz]ScSolAr |     ![](/wiki/shared/flag/CN.gif "China") | 4 : 1 | ![](/wiki/shared/flag/CN.gif "China")     | pikechu         |
+|   [Crz]ScSolAr |     ![](/wiki/shared/flag/CN.gif "China") | 0 : 0 | ![](/wiki/shared/flag/CN.gif "China")     | [M1nzzZ]        |  |      pikechu |     ![](/wiki/shared/flag/CN.gif "China") | 4 : 1 | ![](/wiki/shared/flag/CN.gif "China")     | Banshasan       |
 
-| 藍隊 | | 比分 | | 紅隊 | | 藍隊 | | 比分 | | 紅隊 |
-| ---: | ---: | :--: | :--- | :--- | :--: | ---: | ---: | :--: | :--- | :--- |
-| ***A組*** | | | | | | | | |
-| Pridra Yinda | ![][CN] | 0 : 4 | ![][MY] | [Xiiao]Ray | | drunkenstein | ![][HK] | 4 : 0 | ![][CN] | Pridra Yinda |
-| Murasame | ![][CA] | 4 : 0 | ![][CN] | Pridra Yinda | | Murasame | ![][CA] | 0 : 4 | ![][MY] | [Xiiao]Ray |
-| drunkenstein | ![][HK] | 4 : 0 | ![][CA] | Murasame | | drunkenstein | ![][HK] | 4 : 0 | ![][MY] | [Xiiao]Ray |
-| ***B組*** | | | | | | | | |
-| [Crz]Liusecy | ![][CN] | 2 : 4 | ![][CN] | - ZedXD - | | fgdg858 | ![][CN] | 4 : 0 | ![][MY] | Chizuru Shinkai |
-| - ZedXD - | ![][CN] | 1 : 4 | ![][CN] | fgdg858 | | [Crz]Liusecy | ![][CN] | 1 : 4 | ![][CN] | fgdg858 |
-| - ZedXD - | ![][CN] | 4 : 0 | ![][MY] | Chizuru Shinkai | | [Crz]Liusecy | ![][CN] | 0 : 4 | ![][MY] | Chizuru Shinkai |
-| ***C組*** | | | | | | | | |
-| BDXiaoQian | ![][SG] | 0 : 4 | ![][CN] | Stink God | | zero2snow | ![][HK] | 0 : 0 | ![][CN] | Stink God |
-| zero2snow | ![][HK] | 0 : 4 | ![][CN] | wjh123 | | zero2snow | ![][HK] | 0 : 4 | ![][SG] | BDXiaoQian |
-| BDXiaoQian | ![][SG] | 2 : 4 | ![][CN] | wjh123 | | wjh123 | ![][CN] | 3 : 4 | ![][CN] | Stink God |
-| ***D組*** | | | | | | | | |
-| NED_Q | ![][CN] | 4 : 0 | ![][HK] | Opean | | hly200 | ![][CN] | 4 : 0 | ![][HK] | Opean |
-| NED_Q | ![][CN] | 0 : 4 | ![][CN] | [Crz]MemoryI | | [Crz]MemoryI | ![][CN] | 4 : 0 | ![][HK] | Opean |
-| hly200 | ![][CN] | 3 : 4 | ![][CN] | NED_Q | | [Crz]MemoryI | ![][CN] | 0 : 4 | ![][CN] | hly200 |
-| ***E組*** | | | | | | | | |
-| Neokje | ![][MY] | 4 : 0 | ![][CN] |  - Xiaoluoli - | | qiluo | ![][CN] | 4 : 1 | ![][CN] | spensll |
-| Neokje | ![][MY] | 4 : 0 | ![][CN] | spensll | | qiluo | ![][CN] | 4 : 1 | ![][CN] | - Xiaoluoli - |
-| Neokje | ![][MY] | 4 : 1 | ![][CN] | qiluo | | spensll | ![][CN] | 4 : 0 | ![][CN] | - Xiaoluoli - |
-| ***F組*** | | | | | | | | |
-| [Crz]Riri | ![][CN] | 4 : 1 | ![][AU] | [Crz]Yukikaze- | | [Crz]Riri | ![][CN] | 4 : 0 | ![][CN] | prelude8792916 |
-| WF Night | ![][CN] | 0 : 4 | ![][AU] | [Crz]Yukikaze- | | [Crz]Riri | ![][CN] | 4 : 0 | ![][CN] |  WF Night |
-| [Crz]Yukikaze- | ![][AU] | 4 : 0 | ![][CN] | prelude8792916 | | WF Night | ![][CN] | 0 : 0 | ![][CN] | prelude8792916 |
-| ***G組*** | | | | | | | | |
-| AnLs | ![][HK] | 0 : 4 | ![][TW] | - Choma - | | Luv Letter | ![][CN] | 0 : 4 | ![][CN] | [Crz]Mix0130 |
-| [Crz]Mix0130 | ![][CN] | 4 : 0 | ![][CN] | AnLs | | - Choma - | ![][TW] | 4 : 0 | ![][HK] | AnLs |
-| [Crz]Mix0130 | ![][CN] | 0 : 4 | ![][TW] | - Choma - | | AnLs | ![][HK] | 4 : 0 | ![][CN] | Luv Letter |
-| ***H組*** | | | | | | | | |
-| Banshasan | ![][CN] | 0 : 4 | ![][CN] | [Crz]ScSolAr | | [M1nzzZ] | ![][CN] | 0 : 4 | ![][CN] | pikechu |
-| [M1nzzZ] | ![][CN] | 0 : 4 | ![][CN] | Banshasan | | [Crz]ScSolAr | ![][CN] | 4 : 1 | ![][CN] | pikechu |
-| [Crz]ScSolAr | ![][CN] | 0 : 0 | ![][CN] | [M1nzzZ] | | pikechu | ![][CN] | 4 : 1 | ![][CN] | Banshasan |
+### Qualification Stage
 
-### 資格賽
+|                                           | ID             |   Score   |                                           | ID           |   Score   |                                           | ID              |   Score   |
+| -----------------------------------------:|:-------------- |:---------:| -----------------------------------------:|:------------ |:---------:| -----------------------------------------:|:--------------- |:---------:|
+| ![](/wiki/shared/flag/HK.gif "Hong Kong") | zero2snow      | 3,952,107 | ![](/wiki/shared/flag/HK.gif "Hong Kong") | drunkenstein | 3,849,131 |     ![](/wiki/shared/flag/CN.gif "China") | spensll         | 3,724,897 |
+|  ![](/wiki/shared/flag/MY.gif "Malaysia") | [Xiiao]Ray     | 3,932,611 |     ![](/wiki/shared/flag/CN.gif "China") | Stink God    | 3,843,568 | ![](/wiki/shared/flag/HK.gif "Hong Kong") | Opean           | 3,722,732 |
+|     ![](/wiki/shared/flag/CN.gif "China") | [Crz] Luna     | 3,924,151 |     ![](/wiki/shared/flag/CN.gif "China") | hly200       | 3,812,688 |     ![](/wiki/shared/flag/CN.gif "China") | wjh123          | 3,714,831 |
+|     ![](/wiki/shared/flag/CN.gif "China") | [Crz]MemoryI   | 3,921,461 |     ![](/wiki/shared/flag/CN.gif "China") | qiluo        | 3,799,348 |     ![](/wiki/shared/flag/CN.gif "China") | Pridra Yinda    | 3,708,903 |
+|     ![](/wiki/shared/flag/CN.gif "China") | [Crz]Riri      | 3,917,019 |     ![](/wiki/shared/flag/CN.gif "China") | - ZedXD -    | 3,774,138 |     ![](/wiki/shared/flag/CN.gif "China") | AnLs            | 3,696,360 |
+|  ![](/wiki/shared/flag/MY.gif "Malaysia") | Neokje         | 3,889,365 |     ![](/wiki/shared/flag/CN.gif "China") | WF Night     | 3,769,391 |     ![](/wiki/shared/flag/CN.gif "China") | prelude8792916  | 3,665,105 |
+|  ![](/wiki/shared/flag/MY.gif "Malaysia") | fgdg858        | 3,884,687 |     ![](/wiki/shared/flag/CN.gif "China") | [Crz]Liusecy | 3,762,477 |     ![](/wiki/shared/flag/CN.gif "China") | gzdongsheng     | 3,659,840 |
+|     ![](/wiki/shared/flag/CN.gif "China") | [Crz]ScSolAr   | 3,884,594 | ![](/wiki/shared/flag/SG.gif "Singapore") | BDXiaoQian   | 3,741,087 |     ![](/wiki/shared/flag/CN.gif "China") | NED_Q           | 3,638,679 |
+|     ![](/wiki/shared/flag/CN.gif "China") | [Crz]Mix0130   | 3,881,972 |     ![](/wiki/shared/flag/CN.gif "China") | [M1nzzZ]     | 3,739,376 |     ![](/wiki/shared/flag/CN.gif "China") | - Xiaoluoli -   | 3,600,070 |
+|     ![](/wiki/shared/flag/CN.gif "China") | pikechu        | 3,879,190 |     ![](/wiki/shared/flag/CN.gif "China") | Luv Letter   | 3,737,152 |     ![](/wiki/shared/flag/CN.gif "China") | Banshasan       | 3,385,012 |
+|    ![](/wiki/shared/flag/TW.gif "Taiwan") | - Choma -      | 3,870,458 |    ![](/wiki/shared/flag/CA.gif "Canada") | Murasame     | 3,735,205 |     ![](/wiki/shared/flag/CN.gif "China") | Chizuru Shinkai | 1,686,985 |
+| ![](/wiki/shared/flag/AU.gif "Australia") | [Crz]Yukikaze- | 3,853,597 |                                           |              |           |                                           |                 |           |
 
-| | ID | 分數 | | ID | 分數 | | ID | 分數 |
-| ---: | :--- | :--: | ---: | :--- | :--: | ---: | :--- |:--: |
-| ![][HK] | zero2snow | 3,952,107 | ![][HK] | drunkenstein | 3,849,131 | ![][CN] | spensll | 3,724,897 |
-| ![][MY] | [Xiiao]Ray | 3,932,611 | ![][CN] | Stink God | 3,843,568 | ![][HK] | Opean | 3,722,732 |
-| ![][CN] | [Crz] Luna | 3,924,151 | ![][CN] | hly200 | 3,812,688 | ![][CN] | wjh123 | 3,714,831 |
-| ![][CN] | [Crz]MemoryI | 3,921,461 | ![][CN] | qiluo | 3,799,348 | ![][CN] | Pridra Yinda | 3,708,903 |
-| ![][CN] | [Crz]Riri | 3,917,019 | ![][CN] | - ZedXD - | 3,774,138 | ![][CN] | AnLs | 3,696,360 |
-| ![][MY] | Neokje | 3,889,365 | ![][CN] | WF Night | 3,769,391 | ![][CN] | prelude8792916 | 3,665,105 |
-| ![][MY] | fgdg858 | 3,884,687 | ![][CN] | [Crz]Liusecy | 3,762,477 | ![][CN] | gzdongsheng | 3,659,840 |
-| ![][CN] | [Crz]ScSolAr | 3,884,594 | ![][SG] | BDXiaoQian | 3,741,087 | ![][CN] | NED_Q | 3,638,679 |
-| ![][CN] | [Crz]Mix0130 | 3,881,972 | ![][CN] | [M1nzzZ] | 3,739,376 | ![][CN] | - Xiaoluoli - | 3,600,070 |
-| ![][CN] | pikechu | 3,879,190 | ![][CN] | Luv Letter | 3,737,152 | ![][CN] | Banshasan | 3,385,012 |
-| ![][TW] | - Choma - | 3,870,458 | ![][CA] | Murasame | 3,735,205 | ![][CN] | Chizuru Shinkai | 1,686,985 |
-| ![][AU] | [Crz]Yukikaze- | 3,853,597 | | | | | | |
+### Test match
 
-### 測試賽
+| Saturday, 17. June 2017 |   |   |                         |                                                               |
+| -----------------------:|:-:|:-:|:----------------------- |:-------------------------------------------------------------:|
+|        "The Elder" Team | 5 | 7 | "The Cutting-edge" Team | [Match Record](https://osu.ppy.sh/community/matches/33910571) |
 
-| 2017年6月18日 星期六 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
-| 元老隊 | 5 | 7 | 新銳隊 | [比賽記錄](https://osu.ppy.sh/community/matches/33910571) |
+## Ruleset
 
-## 規則
+### Tournament Rules
 
-### 賽事規則
+1. The **Chinese osu!mania 4K Tournament 2017** (***CMT 4K 2017***) is a one-on-one, osu!mania 4K specified Chinese regional tournament, hosted by CMT team.
+2. The maps for each round will be announced by the map selector in advance on the Sunday before the actual matches take place:  
+    - The Tie-breaker map will only be played in case of a tie. 
+    - All maps are in a FreeMod bracket.
+3. Match schedule will be settled by the Tournament Management.
+4. If no staff or referee is available, the match will be postponed.
+5. Failed player's score do not get added to the team score.
+6. Use of the [Visual Settings](/wiki/Game_Modifiers) options are allowed.
+7. If the beatmap ends in a draw, the game will be nullified.
+8. If player disconnects (In the case of the player is able to finish the map), the disconnected player will have to upload the score (`Shift` + `F12`) and provide the link to match referee instantly.
+9. If a player disconnects (In the case of the player is not able to finish the map):  
+    - disconnets within 30s after the match starts, the match will be reset. 
+    - the player will be recorded as Failed.
+10. Beatmaps cannot be reused in the same match unless the beatmap was nullified.
+11. If not all players attend, the maximum time the match can be postponed is 10 minutes. Absent player(s) will be considered as forfeited.
+12. All players are supposed to keep the match running fluent and without delays. The match will not be reset if the players have (including but not limited to): 
+    - Internet issue.
+    - System notification issue.
+    - Hardware problems.
+13. In Group stage, 'Win by default' will be considered as win by 4:0, +1.0 score difference ratio.
+14. Unexpected incidences are handled by the tournament management.
+15. Any modification of these rules will be announced.
+16. The CMT team reserves the right to use Chinese preferentially.
 
-1. **2017年華人 osu!mania 4K 大賽**（以下均簡寫為**CMT 4K 2017**）為華人區個人比賽，是由CMT團隊舉辦的第二屆華人 osu!mania 4K 大賽。比賽所用地圖均為 osu!mania 4K 專用譜。
-2. 每場比賽的地圖庫將於比賽前一周的周末由地圖庫管理員放出，圖庫內包含若干張 Free-Mod 地圖：  
-     - 其中的 Tie-breaker（決勝）地圖僅用於決勝局比賽。  
-     - 所有地圖均在 Free-mod 池下。
-3. 比賽日程將由組委會討論公布（組委會名單見公告）。
-4. 若工作人員與統計員均不能就位，比賽將會被推遲。
-5. 比賽中如出現 Failed 情況，則視為負手。
-6. 選手可以使用自己的皮膚與視頻設置。
-7. 如果出現平局情況，則該場比賽視作無效。
-8. 當選手掉線時，如果能夠繼續完成比賽，則應當在比賽結束後（使用 `Shift`+`F12`）立刻上傳分數界面截圖並提供網址。
-9. 如果選手因為掉線直接跳出房間界面而未能完成該圖，則按以下方法處理：
-     - 在比賽開始 30 秒內發生的，應予以重賽。  
-     - 否則視作失敗（Failed）。
-10. 除非某張地圖的比賽結果被列為無效，否則任何地圖不能兩次被用於同場比賽。
-11. 如果比賽選手因為特殊原因無法出席，最多允許等待 10 分鐘，十分鐘後做視為棄權。
-12. 選手自行確保比賽遊戲過程中其遊戲與操作系統的流暢性，例如以下情況不能重賽（包括但不限於）：
-      - 網路原因導致的延遲、卡頓現象。
-      - 系統彈出其他應用的通知或視窗。
-      - 硬體故障。
-      - 其他原因。
-13. 小組賽階段某選手棄權時，當場比賽視作 “4:0 +1.0 分差比” 失敗。
-14. 任何列出情況之外的意外將交由組委會討論處理。
-15. 任何規則的修改都將被公示。
-16. 組委會保留公示內容優先使用簡體中文的權利。
-17. 所有公示內容請在音游網查看。
+### Registration Rules
 
-### 報名註冊
+1. Every user interested in joining the tournament signs up individually (Registration link will be released after the registration phrase begins).
+2. Only these players are eligible to sign up: 
+    - Either the registered region is China (Mainland), Hong Kong, Macao or Taiwan, or being capable of speaking Chinese.
+    - No restrictions on time zone. 
+    - Use Chinese as the primary language. 
+    - No requirement on performance points (pp), but rank (above \#4000) is highly recommended.
+    - If player has record of violating the osu! community rules in the last 12 months, we may cancel the application of this player. 
+3. Successfully registered player will receive a confirm email and will be posted on the player list. See [here](https://osu.ppy.sh/forum/t/576970).
+4. Map selectors and tournament managers are not allowed to register.
 
-1. 每位參賽者應當獨立報名（進入報名網站填寫相關資料報名，網站地址將在報名開始時公布）。
-2. 玩家滿足以下條件的可以報名參加 CMT 4K 2017 ：
-     - 玩家註冊地區為中國（包括香港、澳門）或台灣（也可以將國籍在此範圍內作為註冊條件）。
-     - 玩家賽時使用時區無限制。
-     - 玩家使用漢語作為主要語言。
-     - 本次比賽對玩家排名無強制要求，建議 **mania模式** \#**4000** 排名之內的玩家參賽。
-     - 如果參賽者在過去一年內於 osu!社區 或在比賽中有過不良記錄，我們可能會取消其參賽資格。
-3. 報名成功的選手將收到確認郵件，同時也將被加入[公示名單](https://osu.ppy.sh/forum/t/576970)。
-4. 圖池管理和比賽經理不得參賽。
+### Stage Instructions
 
-### 比賽賽程
+1. In the Qualification stage, all players will be divided into groups of 8. The mappool for qualification round has **4** maps and all players will have two chances at each qualifier where the highest of the two runs will be cumulated for players' final score. The highest **32** (may vary with the number of registered players) players will qualify next stage.
+2. In the Group stage, qualified players will be divided into groups of 4.
+3. All the players from each group will face each other.
+4. Rankings of each group are determined by sorting the results of each team's performance in the following priority: 
+    - Most matches won.
+    - Have higher `{(the number of maps won) - (the number of maps defeated)}`.
+    - Most maps won.
+    - Have higher `∑{(total score difference) / (maximum score)}`.
+    - Winner of the rematch.
+5. The top **2** players (may vary with the number of registered players) of each group will move on to the Knock-Out Stages.
+6. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing player gets moved to the Loser bracket.
+7. The stages are split up into the following:
 
-1. 在資格賽階段，全部選手隨機分為8人一組進行在線多人遊戲（Multiplayer），每張圖按照圖池的順序打2遍，並取最高分數。4張圖分數之和就是選手的總成績。
-2. 在小組賽階段，32名選手將按照資格賽的成績分為8組（小組賽名額可能隨報名人數變化）。
-3. 每個小組採用循環積分賽制，兩兩均會比賽。
-4. 小組內每個選手的排名根據以下優先級排序：
-     - 選手贏得更多場次。
-     - 選手有更高的{(贏圖數)-(負圖數)}。
-     - 選手有更高的贏圖數。
-     - 選手有更高的 Σ{(分差)/(該圖分數)}。
-     - 以上皆平手時加賽的勝利者。
-5. 每個小組前**2**名選手將晉級到淘汰賽（人數可能根據實際報名人數變化）。
-6. 接下來的賽事均為雙敗賽制，即勝者進入下一階段而敗者進入敗者組。
-7. 獲勝條件：
-     - 資格賽全體選手打4張圖，總分排名前32名的進入小組賽。
-     - 小組賽為**7**局 **4**勝。
-     - 16強和1/4決賽為**9**局 **5**勝。
-     - 半決賽與決賽第**1**周為**11**局 **6**勝。
-     - 總決賽為**13**局 **7**勝。
-8. 根據賽程安排，這些賽事的編排如下：
+|           Stage | Match ID                |
+| ---------------:|:----------------------- |
+|     Round of 16 | A, B, C, D, E, F, G, H  |
+|  Quarter-finals | I, J, K, L & R, S, T, U |
+|     Semi-finals | M, N & V, W, X, Y, Z,AA |
+| Finals - Week 1 | O & AB, AC, AD          |
+| Finals - Week 2 | P & AE                  |
 
-| 賽事 | 比賽編號 |
-| ---: | :--- |
-| 16強 | A, B, C, D, E, F, G, H |
-| 1/4決賽 | I, J, K, L & R, S, T, U |
-| 半決賽 | M, N & V, W, X, Y, Z,AA |
-| 決賽第**1**周 | O & AB, AC, AD |
-| 決賽第**2**周 | P & AE |  
+1. **Winning condition**: 
+    - In the Qualification stage, the **32** highest players will qualify next stage.
+    - In Group stage, player needs to win **4** maps to win a match. (Best-of-7).
+    - In the Round of 16 and the Quarter-finals, player needs to win **5** maps to win a match. (Best-of-9).
+    - In Semi-finals and Finals: Week 1, you need to win **6** maps to win a match. (Best-of-11).
+    - In Finals: Week 2, you need to win **7** maps to win the match. (Best-of-13).
 
-## 比賽程序說明
+## Match Instructions
 
-### 資格賽
+### Qualification stage
 
-1. 一位記錄員會在賽事開始前**15**分鐘建立一個在線多人遊戲房間（Multiplayer），選手需要在此時集合：
-     - 房間設定為“osu!mania, Head To Head., 勝出條件:‘Score v2’”。房間名稱為”CMT4K2017:(資格賽) vs (資格賽)”。
-     - 房間最多進入8名選手同時進行資格賽的比拼。
-2. 資格賽無暖身圖，請選手在比賽前暖身完畢。
-3. 賽事開始後，不允許比賽選手自行交換樓層位置。
-4. 圖池中的所有地圖將按照裁判所設置的順序進行2輪比賽。
-5. 取每張地圖最高分數，4張圖分數之和就是選手的總成績。
-6. 一旦出現某位選手掉線的情況，如果能夠繼續完成比賽，則應當在比賽結束後（使用 `Shift`+`F12`）立刻上傳分數界面截圖並提供網址，否則這一輪的這張圖按照0分處理。如果選手無法在斷線之後5分鐘之內進入房間，將會開始下一張圖的比賽。
-7. 資格賽結束後比賽結果將在“本頁面”中公布。
+1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period: 
+    - Room settings are osu!mania, Head To Head, Win Condition: 'Score v2'. Room name must be "CMT4K2017: (Qualification) vs (Qualification)".
+    - The maximum amount of player for Qualification stage is 8.
+2. There will be no warm-up maps in Qualification stage, all players are expected to prepare well before the match starts.
+3. Players are not allowed to change slots once the match has started.
+4. All maps(**4**) will be played twice in the order specified by the referee.
+5. 4 highest scores on each qualifier are cumulated for the final score.
+6. If player disconnects (In the case of the player is able to finish the map), the disconnected player will have to upload the score (`Shift` + `F12`) and provide the link to match referee instantly. Otherwise, the disconnected player will get 0 on this map. Disconnected player(s) will be given a **10** minutes grace period after this map is finished to enter their room; if they have not entered by this point, next map will begin.
+7. The results of Qualification stage will be posted under the tab "Match results".
 
-### 小組賽及淘汰賽
+### Group stage
 
-1. 一位記錄員會在賽事開始前**15**分鐘建立一個在線多人遊戲房間（Multiplayer），選手需要在此時集合：
-     - 房間設定為“osu!mania, Head To Head., 勝出條件:‘Score v2’”。房間名稱為“CMT4K2017:(藍色玩家暱稱) vs (紅色玩家暱稱)”。
-     - 以上房間名提到的兩個玩家，第一個必須在藍隊，第二個必須在紅隊。
-     - 小組賽期間如果出現記錄員不足，組委會可能會改變該場比賽方式。
-2. 兩位選手任選兩張熱身圖，但有異議的圖不可使用。所有地圖必須是4K專用地圖。
-3. 每位選手從圖池中選擇**1**個禁手圖（Banned Map），這些禁手圖將在這場比賽中不能被任何選手選用。
-4. 比賽開始後，兩位玩家必須在 \#multiplayer 頻道使用一次`!roll`指令：
-     - 點數較低者先開始選擇禁手圖，然後是另一位選手。
-     - 點數較高者開始選擇比賽圖，然後交替選圖。
-     - 點數相等時，重新開始`!roll`。
-5. 兩名選手交替從圖池中選擇比賽圖：
-     - 出現平局時（雙方均差1分贏得比賽），選手必須使用決勝圖（Tie-breaker）作為下一張比賽地圖。
+1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period: 
+    - Room settings are osu!mania, Head To Head, Win Condition: 'Score v2'. Room name must be "CMT4K2017: (playerBlue) vs (playerRed)".
+    - PlayerBlue and playerRed must be in slot 1, 2, respectively.
+2. Each player in the match will be allowed **1** warm-up map to be played, making for **2** warm-ups. Questioned maps and maps that are not 4K-specific osu!mania maps are not allowed.
+3. Each player must use `!roll` once in \#multiplayer: 
+    - The losing roll picks the first banned map.
+    - The winning roll picks the first map of the match.
+    - Repeat `!roll` if two rolls are equal.
+4. Players pick maps by turns: 
+    - In case of a tie, the tiebreaker map must be played.
 
-## 圖池說明
+## Mappool Instructions
 
-1. 資格賽、小組賽、16強、1/4決賽、半決賽、決賽各有一個圖池：
-     - 決賽第1周與決賽第2周共用同一個圖池。
-2. 圖池地圖數根據賽程變化：
-     - 資格賽共有**4**張圖。
-     - 小組賽圖池共**12**張圖。
-     - 16強與1/4決賽各有**14**張圖。
-     - 半決賽與決賽各有**16**張圖。
-3. 每一個圖池包括一個決勝圖（Tie-breaker）（資格賽除外）。
-4. 所有地圖，包括決勝圖，都使用 Free-mod 進行：
-     - 任何選手都可以自行選擇 Hidden (HD), Flashlight (FL), 或其他Mod。
+1. There will be **1** mappool for the Qualification Stage, **1** mappool for the Group Stage, **1** mappool for Round of 16, **1** mappool for the Quarter-finals, **1** mappool for the Semi-finals and **1** mappool for the Finals: 
+    - Finals Week 1 & Finals Week 2 share the same mappool.
+2. Mappool size varies depending on the stage: 
+    - **4** maps in the Qualification Stage.
+    - **12** maps in the Group Stage.
+    - **14** maps in both Round of 16 and Quarter-finals.
+    - **16** maps in both Semi-finals and Finals.
+3. Except the mappool for Qualification Stage, each mappool has one tiebreaker.
+4. All maps, including the tiebreaker, will be played on Free-Mod condition: 
+    - Every individual player can pick Hidden, Flashlight or Fade-In or no mode at all.
 
-## 日程安排
+## Scheduling Instructions
 
-1. 原則上每個比賽階段占用一個周末。
-2. 所有的比賽均在**UTC +8 時區**的周末進行。
-3. 所有比賽的時間，除另有說明，均使用**UTC +8 時區**。
-4. 小組賽可能同時進行多場。
-5. 日程安排由比賽組委會負責安排與發布，日程將在比賽開始前一周發布。若有選手特殊聲明部分時間無法參加比賽，組委會會盡量根據參賽選手提供的可行時間對比賽時間進行協調，但不能保證可完全協調：
-     - 若選手使用特殊的時區，請提前告知組委會。
-     - 除時區問題以外，選手未能按時參賽的，不論提前聲明與否，仍然依照缺席處理。
-6. 選手棄權的比賽不予重賽。
-
-[CN]: /wiki/shared/flag/CN.gif "中國"
-[UK]: /wiki/shared/flag/GB.gif "英國"
-[TW]: /wiki/shared/flag/TW.gif "臺灣"
-[MY]: /wiki/shared/flag/MY.gif "馬來西亞"
-[AU]: /wiki/shared/flag/AU.gif "澳大利亞"
-[SG]: /wiki/shared/flag/SG.gif "新加坡"
-[HK]: /wiki/shared/flag/HK.gif "香港"
-[CA]: /wiki/shared/flag/CA.gif "加拿大"
+1. In principle, each stage will be held on a single weekend.
+2. All matches will be held on Saturday or Sunday, UTC+8.
+3. Matches in group stage may overlap.
+4. Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the actual stage. If player has conflict with the scheduling, Tournament Management will try to amend the schedule so that it fairly accommodates for all the participant. However, no promises can be guaranteed: 
+    - If player is in any other time zone, please notify the Management in advance.
+    - Apart from time zone reasons, the absent player(s) will be considered as forfeited, regardless of whether they have sent messages to the Management.
+5. Request of rematch from forfeited player(s) will not be accepted.
