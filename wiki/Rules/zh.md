@@ -1,78 +1,73 @@
-规章制度
-============
+# Rules
 
-这些规章制度确保了 osu!社区 能有一个有趣而友好的氛围。
+These rules are the basis from which we help keep the osu! community a fun and welcoming place for everyone.
 
-社区规定
----------------
+## Community Rules
 
-1. **一个玩家同时只能拥有*一个*帐号。** 这个帐号属于你。请勿将你的帐号与他人共享。
-2. **公平竞争。** 不允许使用第三方工具破坏游戏公平性。包括宏脚本，辅助瞄准程序，调速工具等一切有利于你在游戏中操作的工具。
-3. **待人和善。** 骚扰或敌视他人是不受欢迎的行为，请不要互相伤害。
-4. **不要逃避。** 如果你不确定自己是否违反了规定，可能你已经违反了。
-5. **我们是全年龄社区。** 这意味着不能发布 R18/NSFW（Not Safe For Work，不宜在工作期间访问）内容，例如毒品，性。除非它们是为了配合语境，否则绝对不能使用。
-6. **规定中没有指出的，请根据常识做出判断。** 管理员有权利给出他们认为合适的裁决。
+1. **Each player may only have *ONE* account, ever.** The *first* account you make during account registration is your one and only *osu!* account, from the moment of its creation and forevermore. This account is YOU. It is not anyone else - not your brother, your mother, your sister, your friend - it is YOU. Don't share your account with anyone else. You don't get to make a new one if you lose access to it. Keep it safe.
+2. **Play fair.** Using third-party utilities of any kind to get any sort of advantage is not okay. This includes things like macro programs, aim-assist programs, timescale modification, and so on. If a program is doing something to help you play the game that you should be doing yourself, it isn't okay!
+3. **Be good to each other.** Harassment or other antagonism has no place within the osu! community. We're here to click circles, beat drums, catch fruit, and hit up to eighteen keys at once, not to be assholes to each other.
+4. **Don't be a douche.** If at any point you are uncertain as to whether you are breaking this rule, you probably are.
+5. **We are an all-ages community.** This means that 18+/NSFW (not safe for work) content such as drug use or topics of a sexual nature are not welcome here. Exceptions are made where appropriate for this, but generally speaking, keep it clean.
+6. **Where the rules do not prevail, common sense shall.** The administration has explicit discretion to apply their judgment on this as they see fit.
 
-游戏聊天频道规定
-------------------
+## In-Game Chat Rules
 
-1. **尊重聊天频道内的所有玩家，不要刷屏。** 如果你的聊天占据了半个屏幕，别人就不能愉快的聊天了。
-2. **让频道管理员处理聊天内的问题。** 使用`!report`命令，他们收到后会进行处理。
-3. **不要讨论被禁言或限制的玩家。** 他的问题只能由他自己和管理员解决，而不是其他人。
-4. **鼓励公平竞争，不要作弊。** 如果你发现了作弊者，请使用`!report`命令举报，或是在他的个人资料页点击举报。
-5. **语言得体，避免 R18/NSFW 内容。** 公共聊天频道不能发布这些内容，但是允许在私聊中发。
-6. **注意你与他人分享的内容，尤其是可能导致不适的内容。** 分享之前三思而后行。
-7. **确保链接符合法律规定。** 盗版链接，以及“[warez](http://baike.baidu.com/item/WareZ)”相关的内容都不能出现在聊天频道。
-8. **请勿发布第三方聊天工具的链接，包括 Discord，Skype，QQ。** 如果你需要邀请某人加入你的聊天服务器，请在私聊中发。
-9. **在指定了语言的聊天频道，必须使用该语言。** 在没有指定语言的聊天频道，一律使用英文。但是`#lobby`和`#help`允许使用任何语言。*频道管理员在进行工作时可以忽略这条规定。*
+1. **Be respectful and mindful of other users in the channel, and avoid flooding or spamming.** One person taking up half the screen at once is annoying, so avoid doing it wherever possible. Other people are trying to chat too!
+2. **Let the moderators handle issues in the chat.** You can point things out to them with the `!report` command and they'll handle the rest.
+3. **If someone gets timed out, silenced or restricted, leave them be and don't start talking about them.** If someone is restricted, their case involves only them and the game administration - absolutely nobody else!
+4. **Encourage fair play, and don't give attention to cheaters or other toxic users.** These people unfortunately do exist, and giving them attention can encourage them to continue, or provoke others to act as they do. Report them via the chat command `!report` or the buttons on their profile page and move on.
+5. **Keep the chat clean and appropriate for an all-ages community, avoiding NSFW topics where possible.** NSFW stuff really isn't appropriate for an all-ages community. Do what you like in private messages (within reason) but keep the public channels squeaky clean for everyone's sake.
+6. **Be mindful of what you share with others, especially if the content is potentially disturbing or very graphic in nature.** If you have to think twice about whether something is appropriate to link, it probably isn't okay. Avoid things with fast, strobing lights, gore, images of abuse or other graphic material.
+7. **Keep links to relevant and legal websites.** Bootleg streaming websites (officially licensed ones like Animelab and Crunchyroll are OK) and anything related to "warez" or pirated software of any kind aren't okay, and we don't want them in our chat. Advertising Twitch links for other video games is okay, but ONLY in `#videogames`.
+8. **Don't advertise third-party chat servers of any kind, including Discord, Teamspeak or Skype servers/groups.** The osu! chat is about *osu!* foremost and not about sharing links to your personal servers. Do it via PM if you absolutely have to.
+9. **In language-specific channels, you must speak the dominant language (English for #english, Thai for #thai, etc) if you are participating in discussion.** Where the language for a channel is not explicitly stated (or inferred from the channel name, as in Thai for `#thai` and Dutch for `#dutch`), it is always English. The `#lobby` and `#help` channels can be used with any and every language, unlike other channels. *Members of the [moderation staff](/wiki/People/Global_Moderation_Team) do not need to follow this rule when doing their work.*
 
-论坛规定
-----------------
+## Forum-wide rules
 
-1. **只能发布有意思的主题。** 论坛的重点在于讨论，所以确保你的主题值得大家一起讨论。
-2. **发言时注意内容必须全年龄适宜。**
-3. **批评别人时就事论事，请勿进行人身攻击。** 有时候适当的批评能给对方激励，但是人身攻击不是。
-4. **请勿挖坟。** 如果一个主题长时间无人回复，就让它被掩埋吧。
-5. **确保签名和头像符合规范。** 如果有动图，则它们不能包含高速的闪光，尺寸应在500KB以下。
-6. **请勿发布广告，推荐链接等其他令人不满的内容。** 自动播放的音乐、视频也属于这一范畴。
-7. **请勿发布未知风险的应用程序。**
+1. **Post only meaningful, interesting or otherwise engaging content/topics.** Forums are about discussions foremost, so make sure to put the effort in to make it worth everyone's time.
+2. **Keep your posts and replies suitable for people of all-ages.** NSFW content isn't appropriate for an all-ages community, though there's nothing stopping you from discussing these sorts of things in private messages.
+3. **Be productive with your criticism without resorting to personal attacks.** Criticism is a wonderful thing when done properly, but if you're resorting to personal attacks to make your point, you're doing it wrong and you should feel bad.
+4. **Keep threads relevant, and avoid resurrecting older topics if the conversation has died out.** If a topic has been dead for years, it isn't really relevant any more, so just let it fade away. Post a new one, or maybe search and see if someone has answered your question already.
+5. **Keep your signatures and avatars reasonable.** If they're animated, they shouldn't strobe or flash excessively. They should also be of a filesize small enough for users with slower connections to not feel their presence on the page, ideally under half a megabyte (500 kilobytes) where possible.
+6. **Don't post advertisements, referral links or any other annoying or intrusive content.** Things like affiliate and referral links are fun for the person posting them and an annoyance for everybody else, so don't do it. Autoloading or autoplaying content/embeds falls within this rule as well.
+7. **Linking to applications or utilities of uncertain intent is not allowed.** Put simply, if there is any doubt as to the legality of said utilities, they are not welcome to be posted.
 
-谱面讨论帖规定
----------------------------------
+## Beatmap Submission Rules
 
-这些规定适用于谱面和它的讨论帖，它们均是通过游戏内[编辑器](/wiki/editor)的[谱面提交系统](/wiki/BSS)提交的。
+These rules apply strictly to beatmaps submitted via the in-game [Beatmap Submission System](/wiki/Beatmap_Submission_System). These threads/discussions are created via the osu! client when a beatmap is submitted through the [editor](/wiki/editor).
 
-更详细的要求，参考[Ranked指南](/wiki/Ranking_Criteria)。
+A set of more detailed rules for beatmap construction exists, known as the [Ranking Criteria](/wiki/Ranking_Criteria).
 
-1. **确保你拥有谱面内所有内容的使用权。** 包括歌曲、视频、击打声、图片以及其它不是你原创的内容。如果你不确定，我们为你提供了一个库，你可以在[杰出艺术家](https://osu.ppy.sh/beatmaps/artists/)列表中找到这个库，它们可以在 _osu!_ 中免费使用。
-2. **谱面讨论帖内不要脱离主题。** 这些帖子是专门用来讨论谱面内的问题的。如果你有其它不相关的问题，请在合适的板块中提出。
-3. **不要抄袭他人的成果。** 你不应当在未被授权的情况下上传他人的成果。
+1. **Make sure you have permission to use any content involved in your beatmap.** This includes songs, videos, hit sounds, graphics, and any other content that isn't your own creation. If you are unsure of where to find content that is free to use, we have a growing library of tracks available at the [Featured Artist](https://osu.ppy.sh/beatmaps/artists/) listing, all 100% licensed for use in *osu!*.
+2. **Stay on topic in Beatmap discussions.** These threads/discussions are about the beatmap in question, and nothing else. If you have an issue with something not directly pertaining to the beatmap, post it in the appropriate forum.
+3. **Do not plagiarise or attempt to steal the work of others.** Do not also upload or use other people's work without their explicit permission (including, but not limited to, skins and guest difficulties).
 
-Off-Topic 板块规定
----------------
+## Off-Topic Rules
 
-*除非另有说明，这些规定仅适用于 [Off-Topic](https://osu.ppy.sh/community/forums/52) 板块*
+*The rules below apply ONLY to the [Off-Topic](https://osu.ppy.sh/community/forums/52) subforum unless otherwise stated.*
 
-1. **Off-Topic 板块中允许帖子没有一个特定的主题。** 也意味着如果你的帖子被移动到这里，你的帖子肯定有问题。
-2. **请勿让主题太蠢。** 适当装疯卖傻有助于活跃气氛，但是过度装颠可能显得智障。如果你不能区分它们，你已经违反了规定。
-3. **生日帖可以发布在 Off-Topic 板块，其它板块不行** 但是帖子内必须包含至少3张跳舞的动图（二次元限定），否则你的帖子可能被删除。
+1. **No topic in Off-Topic has value.** They are put simply, trash. If your threads keep getting moved to Off-Topic, they are being judged to be unworthy of serious discussion. Take the hint.
+2. **Excessive stupidity is bad.** Being endearingly dumb is fine, and falls into the modus operandi of shitposting. Genuine stupidity is never fine. If you are unable to distinguish the difference, you're already breaking the rule.
+3. **Birthday threads are allowed only in Off-Topic, and nowhere else.** All birthday threads must be accompanied with no less than three (3) images of dancing anime girls or they will be *ruthlessly* thrown under a bus.
 
-当我违反规定时会发生什么？
----------------
+## What happens if I break the rules?
 
-如果你违反了以上规章制度，将受到下列惩罚：（*包括但不限于*）
+If you do find yourself on the wrong end of our community rules, bad things will happen.
 
-* 一段时间内剥夺游戏内聊天的权利（俗称禁言）。
-* 直接移除用户个人资料、谱面内的侵权内容。
-* 剥夺编辑个人信息的权利。
-* 剥夺参加官方比赛的权利。
+These bad things may include (*but are not limited to*):
 
-禁言的时长随着违反次数的增加**自动增长**，管理员也不能控制你被禁言的时间。因此多次违反可能导致你被长期禁言。
+* The removal of your ability to chat in-game for a period of time (known as a silence)
+* The removal of any infringing content from your userpage, profile or uploaded beatmaps
+* The loss of the privilege to edit or alter your userpage or profile details
+* The loss of the privilege to play or qualify in officially hosted tournaments
 
-严重违反规定时的封禁时间最小值通常为48小时或更长，这类行为通常是违规图片以及骚扰其他玩家。
+Silences and other infringements **automatically** increase in duration near-exponentially with each infringement. Moderators do not control the length of time you are silenced for an offense - repeat offenders will find themselves locked out of the game for increasingly longer periods of time.
 
-在多次违反规定后，你的帐号可能被永久限制。
+Certain offenses carry a minimum duration (usually 48 hours or more) if they are particularly severe, though they are almost exclusively reserved for severe infractions, such as sharing graphic content or unrepentant harassment of other users.
 
-受限制的帐号不能在线游戏、提交分数、在线聊天，也不能在社区进行任何操作。因违反社区规定而被限制的用户可以在3个月后向工作人员申诉。
+If after several infringements you continue to break the rules, your account may be permanently and irrevocably restricted.
 
-特别严重违反社区规定，甚至违反国际法的玩家，帐号将被立即停用。
+Restricted accounts can not play online, set scores, chat with other users and are for all intents and purposes 'banned' from interaction with the community. Restriction for community rule violation can only be removed upon appeal to the game staff after 3 months have passed.
+
+Severe offenses that go well beyond the scope of our rules and into the jurisdiction of illegal content as per international common law will result in immediate account termination. This applies nearly exclusively to extremely graphic or otherwise abhorrent offenses, such as the distribution of child pornography or other material of abuse.
