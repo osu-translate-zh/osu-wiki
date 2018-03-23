@@ -1,7 +1,7 @@
 files:
-  - source: /wiki/*/en.md
+  - source: /wiki/**/en.md
     ignore:
-      - /wiki/*/img/
+      - /wiki/**/img/
     translation: /%original_path%/%locale%.md
     languages_mapping:
       locale:
