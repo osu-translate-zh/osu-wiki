@@ -2,6 +2,7 @@ files:
   - source: /wiki/**/en.md
     ignore:
       - /wiki/**/img/
+      - /wiki/Best_Of/
     translation: /%original_path%/%locale%.md
     languages_mapping:
       locale:
