@@ -1,97 +1,78 @@
----
-outdated: true
----
+# Tournaments
 
-锦标赛
-===============
+Section dedicated for Tournaments and/or Competitions. [Forum link here.](https://osu.ppy.sh/forum/55)
 
-本页面展示锦标赛。 [论坛链接](https://osu.ppy.sh/forum/55)
+## Official World Cups
 
-官方世界杯
-----------------------
+Official tournaments hosted by the Tournament Management.
 
-官方锦标赛由锦标赛管理组负责
+### ![](/wiki/shared/mode/osu.png) osu! World Cup
 
-### ![](/wiki/shared/mode/osu.png) osu! 世界杯
+osu! World Cup is a country-based 4v4 Team VS tournament following double-elimination rule. It is an international event and is usually done yearly with the osu!communities around the world working together to make a tournament to create a competitive nature.
 
-osu! 世界杯是国家间的 4v4 组队对抗赛，赛制为单败淘汰制。这是一年一度的世界级的赛事，同时也是社区成员间合作的成果，它给社区带来更多的活力。
+| Name                                              | Start      | End        | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
+| ------------------------------------------------- | ---------- | ---------- | -------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------------- |
+| [osu! World Cup #1](/wiki/Tournaments/OWC/1)      | 2011-01-31 | 2011-04-08 | ![](/wiki/shared/flag/TW.gif) Taiwan               | ![](/wiki/shared/flag/NL.gif) Netherlands            | ![](/wiki/shared/flag/KR.gif) South Korea            |
+| [osu! World Cup #2](/wiki/Tournaments/OWC/2)      | 2011-10-28 | 2012-03-24 | ![](/wiki/shared/flag/KR.gif) South Korea          | ![](/wiki/shared/flag/JP.gif) Japan                  | ![](/wiki/shared/flag/BR.gif) Brazil                 |
+| [osu! World Cup #3](/wiki/Tournaments/OWC/3)      | 2012-10-25 | 2013-01-20 | ![](/wiki/shared/flag/KR.gif) South Korea          | ![](/wiki/shared/flag/JP.gif) Japan                  | ![](/wiki/shared/flag/TW.gif) Taiwan                 |
+| [osu! World Cup 2013](/wiki/Tournaments/OWC/2013) | 2013-10-15 | 2013-12-08 | ![](/wiki/shared/flag/KR.gif) South Korea          | ![](/wiki/shared/flag/TW.gif) Taiwan                 | ![](/wiki/shared/flag/PL.gif) Poland                 |
+| [osu! World Cup 2014](/wiki/Tournaments/OWC/2014) | 2014-10-02 | 2014-12-14 | ![](/wiki/shared/flag/JP.gif) Japan                | ![](/wiki/shared/flag/PL.gif) Poland                 | ![](/wiki/shared/flag/DE.gif) Germany                |
+| [osu! World Cup 2015](/wiki/Tournaments/OWC/2015) | 2015-10-01 | 2015-12-13 | ![](/wiki/shared/flag/US.gif) USA                  | ![](/wiki/shared/flag/CN.gif) China                  | ![](/wiki/shared/flag/PL.gif) Poland                 |
+| [osu! World Cup 2016](/wiki/Tournaments/OWC/2016) | 2016-10-02 | 2016-12-18 | ![](/wiki/shared/flag/US.gif) USA                  | ![](/wiki/shared/flag/CN.gif) China                  | ![](/wiki/shared/flag/KR.gif) South Korea            |
+| [osu! World Cup 2017](/wiki/Tournaments/OWC/2017) | 2017-10-13 | 2017-12-17 | ![](/wiki/shared/flag/PL.gif) Poland               | ![](/wiki/shared/flag/US.gif) USA                    | ![](/wiki/shared/flag/GB.gif) United Kingdom         |
 
-| 名称                                  | 开始时间      | 结束时间        | ![金冠](/wiki/shared/GCrown.png "冠军") | ![银冠](/wiki/shared/SCrown.png "亚军") | ![铜冠](/wiki/shared/BCrown.png "季军") |
-|---------------------------------------|------------|------------|----------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
-| [osu! 世界杯 #1](/wiki/Tournaments/OWC/1)     | 31/01/2011 | 08/04/2011 | ![][flag_TW] 台湾                    | ![][flag_NL] 荷兰                 | ![][flag_KR] 韩国                 |
-| [osu! 世界杯 #2](/wiki/Tournaments/OWC/2)     | 28/10/2011 | 24/03/2012 | ![][flag_KR] 韩国               | ![][flag_JP] 日本                       | ![][flag_BR] 巴西                      |
-| [osu! 世界杯 #3](/wiki/Tournaments/OWC/3)     | 25/10/2012 | 20/01/2013 | ![][flag_KR] 韩国               | ![][flag_JP] 日本                       | ![][flag_TW] 台湾                      |
-| [osu! 世界杯 2013](/wiki/Tournaments/OWC/2013) | 15/10/2013 | 08/12/2013 | ![][flag_KR] 韩国               | ![][flag_TW] 台湾                      | ![][flag_PL] 波兰                      |
-| [osu! 世界杯 2014](/wiki/Tournaments/OWC/2014) | 02/10/2014 | 14/12/2014 | ![][flag_JP] 日本                     | ![][flag_PL] 波兰                      | ![][flag_DE] 德国                     |
-| [osu! 世界杯 2015](/wiki/Tournaments/OWC/2015) | 01/10/2015 | 13/12/2015 | ![][flag_US] 美国                       | ![][flag_CN] 中国                       | ![][flag_PL] 波兰                      |
+### ![](/wiki/shared/mode/taiko.png) Taiko World Cup
 
-### ![](/wiki/shared/mode/taiko.png) 太鼓世界杯
+| Name                                               | Start      | End        | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
+| -------------------------------------------------- | ---------- | ---------- | -------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------------- |
+| [Taiko World Cup 2011](/wiki/Tournaments/TWC/2011) | 2011-03-12 | 2011-04-29 | ![](/wiki/shared/flag/TW.gif) Taiwan               | ![](/wiki/shared/flag/JP.gif) Japan                  | ![](/wiki/shared/flag/CN.gif) China                  |
+| [Taiko World Cup 2012](/wiki/Tournaments/TWC/2012) | 2012-02-03 | 2012-04-01 | ![](/wiki/shared/flag/JP.gif) Japan A              | ![](/wiki/shared/flag/HK.gif) Hong Kong A            | ![](/wiki/shared/flag/JP.gif) Japan B                |
+| Taiko World Cup \#3                              | 2012-09-22 | 2013-03-24 | ![](/wiki/shared/flag/TW.gif) Taiwan A             | ![](/wiki/shared/flag/HK.gif) Hong Kong A            | ![](/wiki/shared/flag/JP.gif) Japan A                |
+| [Taiko World Cup 2014](/wiki/Tournaments/TWC/2014) | 2014-01-16 | 2014-03-09 | ![](/wiki/shared/flag/JP.gif) Japan                | ![](/wiki/shared/flag/HK.gif) Hong Kong              | ![](/wiki/shared/flag/FR.gif) France                 |
+| [Taiko World Cup 2015](/wiki/Tournaments/TWC/2015) | 2015-01-12 | 2015-03-15 | ![](/wiki/shared/flag/JP.gif) Japan                | ![](/wiki/shared/flag/TW.gif) Taiwan                 | ![](/wiki/shared/flag/FR.gif) France                 |
+| [Taiko World Cup 2016](/wiki/Tournaments/TWC/2016) | 2016-02-09 | 2016-04-24 | ![](/wiki/shared/flag/JP.gif) Japan                | ![](/wiki/shared/flag/TW.gif) Taiwan                 | ![](/wiki/shared/flag/CA.gif) Canada                 |
+| [Taiko World Cup 2017](/wiki/Tournaments/TWC/2017) | 2017-02-07 | 2017-04-16 | ![](/wiki/shared/flag/JP.gif) Japan                | ![](/wiki/shared/flag/TW.gif) Taiwan                 | ![](/wiki/shared/flag/HK.gif) Hong Kong              |
 
-| 名称                                  | 开始时间      | 结束时间        | ![金冠](/wiki/shared/GCrown.png "冠军") | ![银冠](/wiki/shared/SCrown.png "亚军") | ![铜冠](/wiki/shared/BCrown.png "季军") |
-|----------------------------------------|------------|------------|----------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
-| [太鼓世界杯 2011](/wiki/Tournaments/TWC/2011) | 12/03/2011 | 29/04/2011 | ![][flag_TW] 台湾                    | ![][flag_JP] 日本                       | ![][flag_CN] 中国                       |
-| [太鼓世界杯 2012](/wiki/Tournaments/TWC/2012) | 03/02/2012 | 01/04/2012 | ![][flag_JP] 日本 A 队                  | ![][flag_HK] 香港 A 队                | ![][flag_JP] 日本 B 队                    |
-| Taiko World Cup \#3                    | 22/09/2012 | 24/03/2013 | ![][flag_TW] 台湾 A 队                 | ![][flag_HK] 香港 A 队                | ![][flag_JP] 日本 A 队                    |
-| [太鼓世界杯 2014](/wiki/Tournaments/TWC/2014) | 16/01/2014 | 09/03/2014 | ![][flag_JP] 日本                     | ![][flag_HK] 香港                   | ![][flag_FR] 法国                      |
-| [太鼓世界杯 2015](/wiki/Tournaments/TWC/2015) | 12/01/2015 | 15/03/2015 | ![][flag_JP] 日本                     | ![][flag_TW] 台湾                      | ![][flag_FR] 法国                      |
-| [太鼓世界杯 2016](/wiki/Tournaments/TWC/2016) | 09/02/2016 | 24/04/2016 | ![][flag_JP] 日本                     | ![][flag_TW] 台湾                      | ![][flag_CA] 加拿大                      |
+### ![](/wiki/shared/mode/catch.png) Catch the Beat World Cup
 
-### ![](/wiki/shared/mode/catch.png) Catch the Beat 世界杯
+| Name                                                        | Start      | End        | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
+| ----------------------------------------------------------- | ---------- | ---------- | -------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------------- |
+| Catch the beat World Cup 2012                               | 2011-11-05 | 2012-05-02 | ![](/wiki/shared/flag/CN.gif) China                | ![](/wiki/shared/flag/TW.gif) Taiwan                 | ![](/wiki/shared/flag/CL.gif) Chile                  |
+| Catch the beat World Cup 2013                               | 2013-01-15 | 2013-03-10 | ![](/wiki/shared/flag/CL.gif) Chile                | ![](/wiki/shared/flag/TW.gif) Taiwan                 | ![](/wiki/shared/flag/AR.gif) Argentinia/Colombia    |
+| [Catch the Beat World Cup 2014](/wiki/Tournaments/CWC/2014) | 2014-04-11 | 2014-06-15 | ![](/wiki/shared/flag/KR.gif) South Korea          | ![](/wiki/shared/flag/DE.gif) Germany                | ![](/wiki/shared/flag/SE.gif) Sweden                 |
+| [Catch the Beat World Cup 2015](/wiki/Tournaments/CWC/2015) | 2015-04-02 | 2015-06-14 | ![](/wiki/shared/flag/KR.gif) South Korea          | ![](/wiki/shared/flag/CN.gif) China                  | ![](/wiki/shared/flag/DE.gif) Germany                |
+| [Catch the Beat World Cup 2016](/wiki/Tournaments/CWC/2016) | 2016-04-12 | 2016-06-26 | ![](/wiki/shared/flag/CN.gif) China                | ![](/wiki/shared/flag/ID.gif) Indonesia              | ![](/wiki/shared/flag/DE.gif) Germany                |
+| [Catch the Beat World Cup 2017](/wiki/Tournaments/CWC/2017) | 2017-05-03 | 2017-07-09 | ![](/wiki/shared/flag/KR.gif) South Korea          | ![](/wiki/shared/flag/CN.gif) China                  | ![](/wiki/shared/flag/ID.gif) Indonesia              |
 
-| 名称                                  | 开始时间      | 结束时间        | ![金冠](/wiki/shared/GCrown.png "冠军") | ![银冠](/wiki/shared/SCrown.png "亚军") | ![铜冠](/wiki/shared/BCrown.png "季军") |
-|-------------------------------------------------|------------|------------|----------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
-| [Catch the beat 世界杯 2012](/wiki/Tournaments/CWC/2012) | 05/11/2011 | 02/05/2012 | ![][flag_CN] 中国                     | ![][flag_TW] 台湾                      | ![][flag_CL] 智利                       |
-| [Catch the beat 世界杯 2013](/wiki/Tournaments/CWC/2013) | 15/01/2013 | 10/03/2013 | ![][flag_CL] 智利                     | ![][flag_TW] 台湾                      | ![][flag_AR] 阿根廷         |
-| [Catch the Beat 世界杯 2014](/wiki/Tournaments/CWC/2014) | 11/04/2014 | 15/06/2014 | ![][flag_KR] 韩国               | ![][flag_DE] 德国                     | ![][flag_SE] 瑞典                      |
-| [Catch the Beat 世界杯 2015](/wiki/Tournaments/CWC/2015) | 02/04/2015 | 14/06/2015 | ![][flag_KR] 韩国               | ![][flag_CN] 中国                       | ![][flag_DE] 德国                     |
+### ![](/wiki/shared/mode/mania.png) osu!mania World Cup
 
-### ![](/wiki/shared/mode/mania.png) osu!mania 世界杯
+| Name                                                         | Start      | End        | Key Count | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
+| ------------------------------------------------------------ | ---------- | ---------- | --------- | -------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------------- |
+| [osu!mania World Cup 2014](/wiki/Tournaments/MWC/2014)       | 2014-07-01 | 2014-09-14 | 4K        | ![](/wiki/shared/flag/KR.gif) South Korea          | ![](/wiki/shared/flag/PH.gif) Philippines            | ![](/wiki/shared/flag/MY.gif) Malaysia               |
+| [osu!mania World Cup 2014](/wiki/Tournaments/MWC/2014)       | 2014-07-01 | 2014-09-14 | 7K        | ![](/wiki/shared/flag/KR.gif) South Korea          | ![](/wiki/shared/flag/TH.gif) Thailand               | ![](/wiki/shared/flag/MY.gif) Malaysia               |
+| [osu!mania 4K World Cup 2015](/wiki/Tournaments/MWC/2015)    | 2015-07-13 | 2015-09-27 | 4K        | ![](/wiki/shared/flag/US.gif) USA                  | ![](/wiki/shared/flag/JP.gif) Japan                  | ![](/wiki/shared/flag/GB.gif) UK                     |
+| [osu!mania 7K World Cup 2016](/wiki/Tournaments/MWC/2016/7K) | 2015-12-01 | 2016-02-14 | 7K        | ![](/wiki/shared/flag/CN.gif) China                | ![](/wiki/shared/flag/KR.gif) South Korea            | ![](/wiki/shared/flag/MY.gif) Malaysia               |
+| [osu!mania 4K World Cup 2016](/wiki/Tournaments/MWC/2016/4K) | 2016-06-28 | 2016-09-11 | 4K        | ![](/wiki/shared/flag/KR.gif) South Korea          | ![](/wiki/shared/flag/BR.gif) Brazil                 | ![](/wiki/shared/flag/US.gif) USA                    |
+| [osu!mania 7K World Cup 2017](/wiki/Tournaments/MWC/2017/7K) | 2016-12-12 | 2017-02-12 | 7K        | ![](/wiki/shared/flag/KR.gif) South Korea          | ![](/wiki/shared/flag/CN.gif) China                  | ![](/wiki/shared/flag/ID.gif) Indonesia              |
+| [osu!mania 4K World Cup 2017](/wiki/Tournaments/MWC/2017/4K) | 2017-07-10 | 2017-09-17 | 4K        | ![](/wiki/shared/flag/KR.gif) South Korea          | ![](/wiki/shared/flag/US.gif) USA                    | ![](/wiki/shared/flag/BR.gif) Brazil                 |
 
-| 名称                                             | 开始时间      | 结束时间        | 模式 | ![金冠](/wiki/shared/GCrown.png "冠军") | ![银冠](/wiki/shared/SCrown.png "亚军") | ![铜冠](/wiki/shared/BCrown.png "季军") |
-|--------------------------------------------------|------------|------------|------|----------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
-| [osu!mania 世界杯 2014](/wiki/Tournaments/MWC/2014)       | 01/07/2014 | 14/09/2014 | 4K   | ![][flag_KR] 韩国               | ![][flag_PH] 菲律宾                 | ![][flag_MY] 马来西亚                    |
-| [osu!mania 世界杯 2014](/wiki/Tournaments/MWC/2014)       | 01/07/2014 | 14/09/2014 | 7K   | ![][flag_KR] 韩国               | ![][flag_TH] 泰国                    | ![][flag_MY] 马来西亚                    |
-| [osu!mania 4K 世界杯 2015](/wiki/Tournaments/MWC/2015)    | 13/07/2015 | 27/09/2015 | 4K   | ![][flag_US] 美国                       | ![][flag_JP] 日本                       | ![][flag_GB] 英国                          |
-| [osu!mania 7K 世界杯 2016](/wiki/Tournaments/MWC/2016/7K) | 01/12/2015 | 14/02/2016 | 7K   | ![][flag_CN] 中国                     | ![][flag_KR] 韩国                 | ![][flag_MY] 马来西亚                    |
+## Community
 
-Community
-----------
-
-非官方的锦标赛由社区成员自发举办。
+Unofficial tournaments/competitions hosted by the communities.
 
 ### ![](/wiki/shared/mode/osu.png) Rapid Monthly osu! Tournament Invitationals
 
-| 名称                                  | 开始时间      | 结束时间        | ![金冠](/wiki/shared/GCrown.png "冠军") | ![银冠](/wiki/shared/SCrown.png "亚军") | ![铜冠](/wiki/shared/BCrown.png "季军") |
-|--------------------------------------------------|------------|------------|----------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
-| [RMoT #2](/wiki/Tournaments/RMoT_Invitational/2) | 06/05/2017 | 14/05/2017 | [xdd1](https://osu.ppy.sh/u/7292597)               | [-Rawn](https://osu.ppy.sh/u/6600592)                | [Senpaii Henttai](https://osu.ppy.sh/u/7093651)      |
+| Name                                             | Start      | End        | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
+| ------------------------------------------------ | ---------- | ---------- | -------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------------- |
+| [RMoT #2](/wiki/Tournaments/RMoT_Invitational/2) | 2017-05-06 | 2017-05-14 | [MagBlood](https://osu.ppy.sh/users/6178640)       | [bsurma](https://osu.ppy.sh/users/509575)            | [MaIson](https://osu.ppy.sh/users/6047395)           |
 
-### ![](/wiki/shared/mode/mania.png) 华人 osu!mania 4K 大赛
-| 名称                                  | 开始时间      | 结束时间        | ![金冠](/wiki/shared/GCrown.png "冠军") | ![银冠](/wiki/shared/SCrown.png "亚军") | ![铜冠](/wiki/shared/BCrown.png "季军") |
-|--------------------------------------------------|------------|------------|----------------------------------------------------|---------------------------------------------------------|-------------------------------------------------------|
-| [2017 华人 osu!mania 4K 大赛](/wiki/Tournaments/CMT_4K/2017) | 24/06/2017 | 06/07/2017 |  |  |  |
+### ![](/wiki/shared/mode/mania.png) Chinese osu!mania 4K Tournament
 
-参见
----------
+| Year                                                                  | Start      | End        | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
+| --------------------------------------------------------------------- | ---------- | ---------- | -------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------------- |
+| [Chinese osu!mania 4K Tournament 2017](/wiki/Tournaments/CMT_4K/2017) | 2017-06-24 | 2017-08-06 | - Choma -                                          | [\[Crz\]MemoryI](https://osu.ppy.sh/users/8179131) | [\[Crz\]ScSolAr](https://osu.ppy.sh/users/1591215) |
 
--   [参与 osu! 锦标赛的国家](/wiki/Tournaments/Countries_that_participated_in_osu!_tournaments)
--   [osu!tourney](/wiki/osu!tourney) (Client used for tournament streaming)
+## See also
 
-[flag_AR]: /wiki/shared/flag/AR.gif
-[flag_BR]: /wiki/shared/flag/BR.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_SE]: /wiki/shared/flag/SE.gif
-[flag_TH]: /wiki/shared/flag/TH.gif
-[flag_TW]: /wiki/shared/flag/TW.gif
-[flag_US]: /wiki/shared/flag/US.gif
+- [List of countries that participated in osu! tournaments](/wiki/Tournaments/Countries_that_participated_in_osu!_tournaments)
+- [osu!tourney](/wiki/osu!tourney) (Client used for tournament streaming)
