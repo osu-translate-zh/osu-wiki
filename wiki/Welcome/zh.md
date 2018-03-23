@@ -1,38 +1,40 @@
-# 欢迎
+# Welcome
 
-欢迎来到 osu! ， 一款由 peppy 开发的有着以下四个模式的音乐游戏： osu!standard ——戳泡泡、 osu!taiko ——打太鼓、 osu!catch ——接水果、 osu!mania ——敲键盘。
+Welcome to *osu!*, a free-to-win rhythm game developed by peppy with four game modes: osu!standard, a circle clicking simulator; osu!taiko, a drumming emulator; osu!catch, a fruit salad catcher; osu!mania, a key smashing mania.
 
-## 可能感兴趣的内容
+## Common points of interest
 
-- [注册](/wiki/Registration)
-- [安装](/wiki/Installation)
-- [规章制度](/wiki/Rules)
-- [常见问题](/wiki/FAQ)
-- 游戏模式
+- [Registration](/wiki/Registration)
+- [Installation](/wiki/Installation)
+- [Rules](/wiki/Rules)
+- [FAQ](/wiki/FAQ)
+- Game Modes 
   - ![osu!standard icon](/wiki/shared/mode/osu.png) [osu!standard](/wiki/osu!standard/#getting-started)
   - ![osu!taiko icon](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/osu!taiko/#getting-started)
   - ![osu!catch icon](/wiki/shared/mode/catch.png) [osu!catch](/wiki/osu!catch/#getting-started)
   - ![osu!mania icon](/wiki/shared/mode/mania.png) [osu!mania](/wiki/osu!mania/#getting-started)
-- [多人游戏](/wiki/Multi/#getting-started)
+- [Multi](/wiki/Multi/#getting-started)
 
-## 本月推荐文章
+## Article of the month
 
-[点此查看](/wiki/Welcome?locale=en#article-of-the-month)
+*See also: [Ranking Criteria](/wiki/Ranking_Criteria).*
 
-## 作图
+Ranking Criteria is a set of rules and guidelines set by the QAT to ensure that every player can expect similar game play throughout every beatmap.
 
-_参考： [作图](/wiki/Beatmapping/#开始)。_
+## Beatmapping
 
-作图是艺术家们创造一张谱面的必经之路。通常包含以下步骤：选歌、调整节拍、放置游戏元素、测试。可选项：添加视频，添加[故事板](/wiki/storyboarding/#开始) ， 添加[自定义皮肤](/wiki/skinning/#开始) 。这些步骤可以由艺术家独自完成，也可以与他人合作完成，由此衍生出了 _故事板作者（storyboarders）_ 、 _皮肤制作者（skinners）_ 和 _客串作者（guest creators）_ 等职业，取决于他们在作图中扮演的角色。
+*See also: [Beatmapping](/wiki/Beatmapping/#getting-started).*
 
-## 改图
+Beatmapping is the process of a creator creating a beatmap. This process includes: selecting music, timing and mapping the beatmap, and testing the beatmap. It might also include: adding a video, adding a [storyboard](/wiki/storyboarding/#getting-started), and/or adding a [custom skin](/wiki/skinning/#getting-started). All of those can be done by the creator alone or with other users, sometimes referred to as *storyboarders*, *skinners*, and/or *guest creators*, depending on what they do.
 
-_参考：[改图](/wiki/Modding/#开始)。_
+## Modding
 
-改图指玩家们复查（Review）处于 Pending 或者 WIP/help 状态的谱面。这些玩家在控制谱面质量方面扮演了很重要的角色，因为艺术家可以根据玩家们的意见解决谱面中的问题。
+*See also: [Modding](/wiki/Modding/#getting-started).*
 
-## osu!wiki —— 如何贡献力量
+Modding is the process of users reviewing (or commonly called "modding") a creator's beatmap in the pending (or work in progress/help) stage. Modding plays a big role in quality control because this allows creators to fix issues with their beatmap.
 
-从2016年8月26日起， osu!wiki 迁移至 Github 仓库，因此我们的工作流也更新了。所有的贡献都在 [osu-wiki 的 Github 仓库](https://github.com/ppy/osu-wiki) 内进行,任何的改动都必须被复查并得到赞同（Approved）才能被写入 osu!wiki 。
+## osu!wiki - How you can help!
 
-通过查看 [osu!wiki 贡献指南](/wiki/owcg)，你将详细了解如何帮助 osu!wiki 变得更好。
+Since 26. August 2016, the osu!wiki has moved to a GitHub repository. After this change, the workflow has drastically changed. All contributions now go through the [osu-wiki GitHub repository](https://github.com/ppy/osu-wiki) and are reviewed before being approved and merged to the osu!wiki.
+
+To get started, see the [osu!wiki Contribution Guide](/wiki/owcg).
