@@ -1,20 +1,20 @@
-Beatmap Editor
-======================
+# Beatmap Editor
 
-![osu!的谱面编辑器 (Windows 系统)](Compose/Compose.png "osu!的谱面编辑器 (Windows 系统)")
+The **beatmap editor** is *osu!'s* in-game graphical interface for creating [beatmaps](/wiki/Beatmaps). It is separated into four parts:
 
-**谱面编辑器**是Osu!的游戏中的图形界面，用于创建[谱面](/wiki/Beatmaps)。它被分为4种模式：
+- <Compose>: The place where a majority of beatmapping happens.
+- <Design>: The editor for where Storyboards are made; however, most mappers will only use the "Background Image/Video" button here.
+- <Timing>: The second place of where all new beatmaps begin. This controls the BPM (Beats Per Minute) and other hitsounds stuff.
+- [Song Setup](Song_Setup): The first place of where all new beatmaps begin. This is sets the values regarding the title, artist, version name, difficulty, combo colours, and more.
 
--   [Compose](/wiki/Beatmap_Editor/Compose): 这是其中[打击物件放置和编辑的部分](/wiki/Hit_Objects)。大部分所花费的时间会在这里完成。
--   [Design](/wiki/Beatmap_Editor/Design): 这就是故事板设计，多数作图者只会在这里使用“背景图片/视频”按钮。
--   [Timing](/wiki/Beatmap_Editor/Timing): 这是设置乐曲的BPM和Offset。这个窗口还控制点击音效。
--   [Song setup](/wiki/Beatmap_Editor/Song_Setup): 这是关于地图的各种选项进行设置。这包括颜色和难度设置。
+Other components of the beatmap editor includes:
 
-Related articles
-----------------
-
--   [作图](/wiki/Beatmapping)
--   [音符时值](/wiki/Beatmap_Editor/Beat_Snap_Divisor)
--   [间距锁定](/wiki/Beatmap_Editor/Distance_Snap)
--   [自定义音效](/wiki/Beatmap_Editor_Guides/Custom_Sample_Overrides)
--   [Kiai 时间](/wiki/Beatmap_Editor/Kiai_Time)
+- <AiMod>: The first "modder" that all beatmappers can use.
+- [Beat Snap Divisor](Beat_Snap_Divisor): The thing on the timeline that helps you make a beatmap, time-wise.
+- [Distance Snap](Distance_Snap): The thing that affects how close or far hit objects are placed.
+- [Kiai Time](Kiai_Time): Notes about the star fountains and flashy lights during a certain section of a beatmap.
+- <Menu>: An explanation about the menu buttons at the top of the beatmap editor.
+- [SB Load](SB_Load): A number used to tell how demending a storyboard is. Any number past 5x is bad for ancient machines.
+- <Slider>: A basic explanation of how sliders work in *osu!*
+- <Timelines>: The top portion of the beatmap editor that displays the placed hit objects, breaks, and more.
+- <Timing>: A guide on properly setting up the timing of a new beatmap.
