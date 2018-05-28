@@ -45,7 +45,7 @@
 | ![玩家正在编辑谱面](Chat_Console-Editing.png "玩家正在编辑谱面")                | 红色 - 该玩家正在编辑他本地的谱面。                                                                               |
 | ![玩家正在测试谱面](Chat_Console-Testing.png "玩家正在测试谱面")                | 紫色 - 玩家正在测试他自己的谱面。                                              |
 | ![玩家正在提交谱面](Chat_Console-Submitting.png "玩家正在提交谱面")       | 蓝绿色 - 正在提交（或上传 / 更新）他们所制作的谱面。                         |
-| ![玩家正在更改谱面](Chat_Console-Modding.png "玩家正在更改谱面")                | 绿色 - 正在更改别人的谱面。                                                             |
+| ![玩家正在更改谱面](Chat_Console-Modding.png "玩家正在更改谱面")                | 绿色 - 正在观摩别人的谱面，提出修改建议。                                                             |
 | ![玩家正在多人房间中](Chat_Console-Multiplayer.png "玩家正在多人房间中")                        | 棕色 - 玩家在多人游戏房间中，但未开始游戏。                                                               |
 | ![玩家正在多人游戏](Chat_Console-Multiplaying.png "玩家正在多人游戏") | 黄色 - 玩家正在进行多人游戏。                                                                    |
 | ![玩家离开了电脑](Chat_Console-Afk.png "玩家离开了电脑")                                                | 黑色 - 玩家目前不活跃或者离开了电脑 （ AFK ）。                                                                  |
@@ -61,8 +61,8 @@
 2.  `查看个人资料`：在浏览器中打开该玩家的个人资料页面。
 3.  `开始聊天`：打开一个和该玩家私聊的窗口。
 4.  `邀请玩家至房间`：（ 仅在多人游戏房间中可用 ）将该玩家邀请到你的房间。
-5.  `加为 / 删除好友`：添加该好友到你的好友列表，或者将其从中删除。
-6.  `举报玩家`：举报玩家不正当的行为。如无其他说明，请勿使用！你可以由于该玩家的一些行为而在游戏中举报，但在论坛中亦可如此。
+5.  `添加 / 删除好友`：添加该好友到你的好友列表，或者将其从中删除。
+6.  `举报玩家`：举报玩家不正当的行为。也可以在论坛中举报玩家。
 7.  `屏蔽玩家`：该玩家的所有聊天记录都将不再显示在你的聊天窗口中。
 8.  `关闭`：关闭当前屏幕。
 
@@ -74,7 +74,7 @@
 |------------------|------------------------------------------------------------------------------------------------|--------------------|----------------------------------------------------------------------------------|
 | `/addfriend [玩家]`   | 将 `[玩家]` 添加到你的好友列表。      | `/addfriend Amigo` | You are now friends with Amigo. *你和 Amigo 现在是好友了。*  |
 | `/delfriend [玩家]`   | 将 `[玩家]` 从好友列表中移除。 | `/delfriend Amigo` | You are no longer friends with Amigo. *你和 Amigo 已不再是好友。* |
-| `/away [消息]` | 设置离开消息（将回复至私信你的玩家）。 | `/away I am John Smith.` | `You have been marked as being away: I am John Smith.` 当 Amigo 在与 John 聊天的窗口中输入 `/msg John Where are you~?` BanchoBot 将回答： `I am John Smith`.|
+| `/away [消息]` | 设置离开消息（将回复至私信你的玩家）。将消息留空以取消离开状态。 | `/away I am John Smith.` | `You have been marked as being away: I am John Smith.` 当 Amigo 在与 John 聊天的窗口中输入 `/msg John Where are you~?` BanchoBot 将回答： `I am John Smith`.|
 | `/bb` | 给 Bancho 发送消息。如： rank `[number]` | `/bb rank 1` | [15/11/12] Stats for Uan: Score: 47,323,299,680 (#1) Plays: 176293 (lv102) Accuracy: 98.95% |
 | `/chat [玩家]` | 打开与该玩家的聊天窗口。 | `/chat Amigo` | （与 Amigo 聊天的窗口打开） | 
 | `/clear` | 清除当前聊天窗口的全部内容。 | `/clear` | （ 当前窗口下的所有内容均被清除 ） | 
@@ -84,7 +84,7 @@
 | `/unignore [玩家]` | 取消屏蔽在此次登录时所屏蔽的玩家。 | `/unignore Amigo` | You may now hear Amigo. （ 你的聊天窗口将重新显示 Amigo 所发的消息 ） | 
 | `/me [动作]` | 以第三人称发送消息。 | `/me is at home` | * John is at home | 
 | `/msg [玩家] [消息文字]` | 给 `[玩家]` 发送私信。 | `/msg Amigo I am sick at home.` | （ 在 Amigo 的聊天窗口中 ） John: I am sick at home. | 
-|`/np`| 发送你当前所听的 / 所玩的歌曲。| `/np`| （ 游戏时 ） * John is playing [Peter Lambert - osu! tutorial\[Gameplay Basics\]](https://osu.ppy.sh/b/22538) [Game Modes](/wiki/FAQ#alternative-game-modes) \~[Relax/Autopilot](/wiki/Game_Modifiers#special-mods)\~ +[Difficulty increasing mod](/wiki/Game_Modifiers#difficulty-increasing-mods) -[Difficulty decreasing mod](/wiki/Game_Modifiers#difficulty-reduction-mods)/[SpunOut](/wiki/Game_Modifiers#spun-out) [xK](/wiki/Game_Modifiers#xk) （不做任何事情时，取决于玩家卡片显示的状态 ） * John is listening to [Peter Lambert - osu! tutorial](https://osu.ppy.sh/b/22538) （ 旁观或使用 Auto 机器人时 ） * John is watching [Peter Lambert - osu! tutorial\[Gameplay basics\]](https://osu.ppy.sh/b/22538) [Game Modes](/wiki/FAQ#alternative-game-modes) \~[Relax/Autopilot](/wiki/Game_Modifiers#special-mods)\~ +[Difficulty increasing mod](/wiki/Game_Modifiers#difficulty-increasing-mods) -[Difficulty decreasing mod](/wiki/Game_Modifiers#difficulty-reduction-mods)/[SpunOut](/wiki/Game_Modifiers#spun-out) [xK](/wiki/Game_Modifiers#xk) [Autoplay](/wiki/Game_Modifiers#auto)|
+|`/np`| 发送你正在听的 / 玩的歌曲。| `/np`| （ 游戏时 ） * John is playing [Peter Lambert - osu! tutorial\[Gameplay Basics\]](https://osu.ppy.sh/b/22538) [Game Modes](/wiki/FAQ#alternative-game-modes) \~[Relax/Autopilot](/wiki/Game_Modifiers#special-mods)\~ +[Difficulty increasing mod](/wiki/Game_Modifiers#difficulty-increasing-mods) -[Difficulty decreasing mod](/wiki/Game_Modifiers#difficulty-reduction-mods)/[SpunOut](/wiki/Game_Modifiers#spun-out) [xK](/wiki/Game_Modifiers#xk) （不做任何事情时，取决于玩家卡片显示的状态 ） * John is listening to [Peter Lambert - osu! tutorial](https://osu.ppy.sh/b/22538) （ 旁观或使用 Auto 机器人时 ） * John is watching [Peter Lambert - osu! tutorial\[Gameplay basics\]](https://osu.ppy.sh/b/22538) [Game Modes](/wiki/FAQ#alternative-game-modes) \~[Relax/Autopilot](/wiki/Game_Modifiers#special-mods)\~ +[Difficulty increasing mod](/wiki/Game_Modifiers#difficulty-increasing-mods) -[Difficulty decreasing mod](/wiki/Game_Modifiers#difficulty-reduction-mods)/[SpunOut](/wiki/Game_Modifiers#spun-out) [xK](/wiki/Game_Modifiers#xk) [Autoplay](/wiki/Game_Modifiers#auto)|
 | `/reply` or `/r` | 回复最后一个发送的私信。 | `/r Do you know any good doctor?` | （ 在 Amigo 的聊天窗口中 ） [Previous comments] John: I am sick at home. Amigo: Really? John: Do you know any good doctor? | 
 | `/savelog` | 将当前窗口中的聊天记录存储为文件。 | `/savelog` | （ 在 osu! 目录下将创建一个名为 Chat 的文件夹，里面包含在该聊天窗口下的所有聊天记录 ） | 
 | `/watch [玩家]` | 开始旁观 `[玩家]`。 | `/watch Amigo` | * Started spectating Amigo. （ 当 Amigo 玩你也拥有的谱面时，经过一段时间的缓冲之后你将可以旁观。Amigo 的屏幕左边也会出现你的名字。） | 
