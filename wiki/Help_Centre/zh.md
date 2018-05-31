@@ -242,7 +242,7 @@
 
 #### 允许程序通过 AVG 防火墙
 
-请参考 AVG [官方的详细指导](https://support.avg.com/SupportArticleView？urlName=Allow-application-in-AVG-Firewall)。
+请参考 AVG [官方的详细指导](https://support.avg.com/SupportArticleView?urlName=Allow-application-in-AVG-Firewall)。
 
 #### 在卡巴斯基安全中心允许程序
 
@@ -250,7 +250,7 @@
 
 #### 在允许程序迈克菲中允许程序
 
-请参考迈克菲[官方的详细指导](https://service.mcafee.com/webcenter/portal/cp/home/articleview？articleId=TS100813)。
+请参考迈克菲[官方的详细指导](https://service.mcafee.com/webcenter/portal/cp/home/articleview?articleId=TS100813)。
 
 #### 我已经将 osu! 添加到防火墙列表中但仍然无法连接服务器！
 
@@ -512,15 +512,15 @@ osu! 通常可以自动更新，但有时也会出现错误。
 
 **想要将指定用户的帖子隐藏，用 UCP 将他们加入您的 Foes 列表即可。**
 
-1. 访问 [UCP 中的 Foes 列表](https://osu.ppy.sh/forum/ucp.php？i=zebra&mode=foes)，将他们的用户名添加到列表中。
+1. 访问 [UCP 中的 Foes 列表](https://osu.ppy.sh/forum/ucp.php?i=zebra&mode=foes)，将他们的用户名添加到列表中。
 2. 点击提交。
 3. 完成！这些用户的大部分帖子将会被隐藏——就像它们不存在一样。请注意，其它用户提到他们的帖子时仍然可见。
 
 #### 屏蔽论坛中发送给您的私信
 
-**屏蔽发送给您的所有私信，[在 UCP 中设置您的过滤规则](https://osu.ppy.sh/forum/ucp.php？i=pm&mode=options)。**
+**屏蔽发送给您的所有私信，[在 UCP 中设置您的过滤规则](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=options)。**
 
-1. 在 [UCP](https://osu.ppy.sh/forum/ucp.php？i=pm&mode=options) 中设置私信过滤规则。
+1. 在 [UCP](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=options) 中设置私信过滤规则。
 2. 在页面的顶部，找到名为 `Add new Rule` 的一栏。
 3. 点击第一个下拉菜单（默认值是 `Subjcet`），将它修改为 `Sender` ，然后点击 Next 。
 4. 再次点击第一个下拉菜单，将它的值从 `is like` 改为 `is`（列表中的第三个选项），然后点击 Next 。
@@ -586,7 +586,7 @@ osu! 通常可以自动更新，但有时也会出现错误。
 
 但您曾经上传的成绩仍然还在——只需要重新下载您过去玩过的谱面，您的成绩会再次显示。
 
-小技巧——如果您是 osu!supporter，您可以在 osu!direct 面板中使用 `Ranked(Played)` 来过滤[谱面列表](https://osu.ppy.sh/p/beatmaplist？m=-1&r=7&g=0&la=0&ra=)，找您到曾经玩过并留有成绩的谱面。
+小技巧——如果您是 osu!supporter，您可以在 osu!direct 面板中使用 `Ranked(Played)` 来过滤[谱面列表](https://osu.ppy.sh/p/beatmaplist?m=-1&r=7&g=0&la=0&ra=)，找您到曾经玩过并留有成绩的谱面。
 
 ### 您处于正确的游戏模式中么？
 
@@ -767,7 +767,7 @@ osu! 会自动保存您的所有成绩在 osu! 安装目录的 `/Data/r` 文件�
 **如果游戏安装程序在安装中出现错误，您可以试试以下办法：**
 
 - 清理您的电脑——用杀毒软件扫描电脑，清理注册表。CCleaner 是一个不错的清理软件。可以扫描您的电脑文件和注册表。如果您的电脑上残留有之前安装的 osu! 的注册项，安装程序可能会出现错误。
-- 试着重新安装 .NET 3.5 框架。[您可以在这里找到](https://web.archive.org/web/20160317051200/http://www.microsoft.com/en-au/download/details.aspx？id=21)。
+- 试着重新安装 .NET 3.5 框架。[您可以在这里找到](https://web.archive.org/web/20160317051200/http://www.microsoft.com/en-au/download/details.aspx?id=21)。
 
 ### 我的电脑是 64 位的，无法正常安装 osu!
 
