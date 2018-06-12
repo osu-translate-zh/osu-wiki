@@ -18,7 +18,7 @@
 格式
 ----
 
-由于长度可变，字节偏移不包含在此表中。 （原文：Byte offsets are not included in this table due to variable length values. ）
+由于长度可变，字节偏移不包含在此表中。（原文：Byte offsets are not included in this table due to variable length values. ）
 
 | 数据类型 | 描述 |
 | --------- | ----------- |
@@ -56,7 +56,7 @@
 Mods
 ----
 
-可见于 [osu! API](https://github.com/peppy/osu-api/wiki#mods).
+可见于 [osu! API](https://github.com/peppy/osu-api/wiki#mods)。
 
 | Mod            | 值 (BitOffset) | 注释                               |
 |----------------|----------------|------------------------------------|

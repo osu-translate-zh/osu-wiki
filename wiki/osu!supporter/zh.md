@@ -64,7 +64,7 @@ outdated: true
 ### 有效时间
 
 ![supporter 用户与非 supporter 用户的对比](O!s_Duration.jpg "supporter 用户与非 supporter 用户的对比")
- 交易完成后，你的个人资料的近期活动将会显示“{某玩家}已成为 osu!supporter - 感谢你的慷慨解囊！”（第一次成为 osu!supporter 时）或 “{某玩家} 再次选择捐赠 osu! - 感谢你的慷慨解囊！”（你以前曾是 osu!supporter 时）。如果你为自己购买了 osu!supporter，则可以在你的个人资料图片下方看到 osu!supporter 徽章。想知道 osu!supporter *何时*到期，请转到 [osu!supporter 页面](https://osu.ppy.sh/p/support)。
+ 交易完成后，你的个人资料的近期活动将会显示“{某玩家}已成为 osu!supporter - 感谢你的慷慨解囊！”（第一次成为 osu!supporter 时）或 “{某玩家} 再次选择捐赠 osu! - 感谢你的慷慨解囊！”（你以前曾是 osu!supporter 时）。如果你为自己购买了 osu!supporter，则可以在你的个人资料图片下方看到 osu!supporter 徽章。想知道 osu!supporter *何时* 到期，请转到 [osu!supporter 页面](https://osu.ppy.sh/p/support)。
 
 ![成为 osu!supporter 后收到的邮件](Osu!support_mail-gifted.png "成为 osu!supporter 后收到的邮件")
  哦，你还会收到 osu! 的“感谢”信！就像上面那样。

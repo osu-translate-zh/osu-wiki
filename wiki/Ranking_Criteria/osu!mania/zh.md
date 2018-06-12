@@ -1,7 +1,5 @@
 osu!mania Ranking Criteria
-==================================
-=======
-==========================
+========
 
 _父页面：[Ranking Criteria](/wiki/Ranking_Criteria)_
 
@@ -27,9 +25,9 @@ _父页面：[Ranking Criteria](/wiki/Ranking_Criteria)_
 -   **任何一个键位都不能从头空到尾。**
 -   **不允许有同时按下六个键的情况。**
 
-考虑到大多数 USB 键盘并不支持七键无冲，这一规则能使玩家更好的享受游戏乐趣。 *Hold 的结尾是例外，因为它的开头早在之前就出现了。*
+考虑到大多数 USB 键盘并不支持七键无冲，这一规则能使玩家更好的享受游戏乐趣。*Hold 的结尾是例外，因为它的开头早在之前就出现了。*
 
--   **同一键位不能有相互重叠的两个音符， 同一键位的两个音符之间必须有一定的间隔。**
+-   **同一键位不能有相互重叠的两个音符，同一键位的两个音符之间必须有一定的间隔。**
 
 例子:-
 
@@ -47,19 +45,19 @@ _父页面：[Ranking Criteria](/wiki/Ranking_Criteria)_
 -   **每一个谱面集必须有至少两个难度，而且其中之一必须为 Easy 或 Normal。马拉松除外。**
 -   **谱面集中最高难度的键位数目应高于相对其较低的难度的键位数目**。只有一种键位数目的谱面集无需参考此条目。
 
-例子:- (分别假设 7K 和 4K 为较高和较低的键位数目)
+例子：- (分别假设 7K 和 4K 为较高和较低的键位数目)
 
-4K Easy + 7K Insane: 可以
+4K Easy + 7K Insane：可以
 
-7K Easy + 4K Insane: **不可以**
+7K Easy + 4K Insane：**不可以**
 
-4K Easy + 4K Hard + 7K Insane: 可以
+4K Easy + 4K Hard + 7K Insane：可以
 
-7K Easy + 7K Hard + 4K Insane: **不可以**
+7K Easy + 7K Hard + 4K Insane：**不可以**
 
-4K Easy + 4K Insane + 7K Easy + 7K Insane: 可以
+4K Easy + 4K Insane + 7K Easy + 7K Insane：可以
 
-7K Easy + 7K Normal + 7K Hard + 7K Insane: 可以
+7K Easy + 7K Normal + 7K Hard + 7K Insane：可以
 
 ### 时间测定
 
@@ -69,7 +67,7 @@ _父页面：[Ranking Criteria](/wiki/Ranking_Criteria)_
 
 #### 单指连打
 
-这表示的是同一键位连续出现若干音符。它大概是这样的:-
+这表示的是同一键位连续出现若干音符。它大概是这样的：-
 
     |----|
     |o---|
@@ -90,16 +88,16 @@ _父页面：[Ranking Criteria](/wiki/Ranking_Criteria)_
 指南
 ------
 
-大多数的图应遵循指南（guidelines）。但在某些特殊的情况下指南是可以打破的, 在打破指南前, 问问你自己这样做是否合情理，是否能让一个谱面变的更有趣。如果你对这两个问题的回答是“yes”，那么这么做是可以的。
+大多数的图应遵循指南（guidelines）。但在某些特殊的情况下指南是可以打破的，在打破指南前，问问你自己这样做是否合情理，是否能让一个谱面变的更有趣。如果你对这两个问题的回答是“yes”，那么这么做是可以的。
 
 -    **HP drain**（血量）建议在 **7** 或者更高，这样可以与 IIDX 保持一致。
 -    **OD**（整体难度）建议：
 
-面条很少的难度 (Beatmania IIDX style): **9-10**
+面条很少的难度 (Beatmania IIDX style)：**9-10**
 
-面条大概占一半的难度: **7-8**
+面条大概占一半的难度：**7-8**
 
-面条海 (O2Mania Insane 难度): **5-6**
+面条海 (O2Mania Insane 难度)：**5-6**
 
 -    **不是必要的话请不要使用 break time**，比如完全静音段或者你跟的乐器放空的段落。
 -    **你应该在谱面集中包含至少两种键位数的不同谱面**，建议做一些适合更多玩家的谱面。
@@ -133,4 +131,4 @@ xK 参照
 | 18K        | E5 - Dancing Super Station (Double).                                     |
 | 20K        |                                                                          |
 
-未包含：Keyboardmania (Light+, Real) \[24K\] and (Double) \[48K\].
+未包含：Keyboardmania (Light+, Real) \[24K\] and (Double) \[48K\]。

@@ -26,7 +26,7 @@ Support Team 主要负责:
 | [Marcin](https://osu.ppy.sh/u/722665) | 波兰语 |
 | [MillhioreF](https://osu.ppy.sh/u/941094) | |
 | [Nathanael](https://osu.ppy.sh/u/2295078) | 菲律宾语 |
-| [Saten](https://osu.ppy.sh/u/444506) | 瑞典语, 西班牙语 |
+| [Saten](https://osu.ppy.sh/u/444506) | 瑞典语，西班牙语 |
 | [smoogipooo](https://osu.ppy.sh/u/1040328) | |
 | [TheVileOne](https://osu.ppy.sh/u/278862) | |
 | [Trosk-](https://osu.ppy.sh/u/3469385) | 西班牙语 |
