@@ -16,8 +16,8 @@ osu! 特有的文件格式
 
 | 文件格式                                | 用途                                                                                             |
 |---------------------------------------------|--------------------------------------------------------------------------------------------------|
-| [.osu][Osu Link]    | 参见[Compose](/wiki/Beatmap_Editor/Compose), [Timing](/wiki/Beatmap_Editor/Timing), [Song Setup](/wiki/Beatmap_Editor/Song_Setup) |
-| [.osb][Osb Link]    | 参见[Design](/wiki/Beatmap_Editor/Design)                                                                           |
+| [.osu][Osu Link]    | 参见 [Compose](/wiki/Beatmap_Editor/Compose), [Timing](/wiki/Beatmap_Editor/Timing), [Song Setup](/wiki/Beatmap_Editor/Song_Setup) |
+| [.osb][Osb Link]    | 参见 [Design](/wiki/Beatmap_Editor/Design)                                                                           |
 
 ### 回放
 
@@ -78,8 +78,8 @@ osu! 特有的文件格式
 
 4.  如果你想创建 .osk 格式文件：
     - 首先，确保你的皮肤文件夹里有所有你想要打包生成的文件，如果你正使用这个皮肤，你可以通过点击 "打开皮肤文件夹" 来确认
-    - 然后点击 "Options" 菜单下的 "选择皮肤"。
-    - 在皮肤选择栏中，选择你想要导出的皮肤并单击 "导出 .osk"。
+    - 然后点击 "Options" 菜单下的 "选择皮肤"
+    - 在皮肤选择栏中，选择你想要导出的皮肤并单击 "导出 .osk"
     - 生成的 .osk 文件会被放置在 osu! 文件夹下的 "Exports" 文件夹里
 
 [Osz Link]: /wiki/osu!_File_Formats/Osz_(file_format)

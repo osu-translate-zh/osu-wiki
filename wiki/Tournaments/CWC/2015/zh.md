@@ -420,7 +420,7 @@ Sunday, 10\. May 2015
 
 ### 比赛规则
 
-1.  osu! Catch the Beat World 是**基于国家/地区之间的**3v3比赛。
+1.  osu! Catch the Beat World 是 **基于国家/地区之间的** 3v3比赛。
 2.  每场比赛的比赛用图将会在比赛日之前的一个星期日公布。比赛中只能选择公布出来的图。
     -   有一张图是专门用于决胜局。这张图只会在决胜局出现。
     -   同样会有 [Hidden](/wiki/Game_Modifiers)、[HardRock](/wiki/Game_Modifiers)、[DoubleTime的分类比赛图](/wiki/Game_Modifiers)。
@@ -441,7 +441,7 @@ Sunday, 10\. May 2015
 
 ### 比赛注册
 
-1.  有兴趣加入国家队的选手们请**自己单独报名**。
+1.  有兴趣加入国家队的选手们请 **自己单独报名**。
     1.  赛事管理人员会为每个国家建立一张预选选手名单。
     2.  赛事管理人员会从名单里抽选一人作为临时的国家队队长。
     3.  被选中的临时队长可以从预选名单中挑选正式参赛的队员。
@@ -451,7 +451,7 @@ Sunday, 10\. May 2015
     2.  预选选手有 Catch the Beat 世界排名高于 \#5000 的最低资格要求。
     3.  预选选手的另一资格要求是在过去12个月之内没有违反过任何 osu! [规则](/wiki/Rules)。
 
-3.  想报名的玩家请用「CWC Registration」作为标题, 向 [Loctav](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) 发出私信。
+3.  想报名的玩家请用「CWC Registration」作为标题，向 [Loctav](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) 发出私信。
     1.  在注册成功的时候，你会收到一个确认信息，确认你的报名已经在审理中。
 
 4.  成功注册的队伍将会在注册阶段结束之后公布出来。
@@ -520,7 +520,7 @@ Sunday, 10\. May 2015
 4.  每个图池里都有一张决胜 (tiebreaker) 图。
 5.  NoMod图组是在无mod的情况下进行比赛的。
 6.  在Hidden、HardRock和DoubleTime模式里，玩家必须打开相应的mod
-    1.  选手可以在HardRock或DoubleTime图组中另外加选Hidden mod.
+    1.  选手可以在HardRock或DoubleTime图组中另外加选Hidden mod。
 
 7.  决胜图 (tiebreaker) 可以使用任意mod进行比赛。
     1.  在玩决胜图时，玩家可以开 [HardRock](/wiki/Game_Modifiers)、[Hidden](/wiki/Game_Modifiers) 或者两个一起开。
