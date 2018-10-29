@@ -30,7 +30,7 @@
 
 如果你处于受限状态，请用上述方式，而不要创建一个新的账号解决这个问题。拥有多个账号（ 开小号 ）来躲避管理会造成更多的麻烦。
 
-#### 我的账号被封（banned）/ 被禁用（disabled）/ 永久受限（permanently restricted）！
+#### 我的账号被封禁（banned）/ 被禁用（disabled）/ 永久受限（permanently restricted）！
 
 **通常，账号被确认为同一用户的多个账号（小号）时，会被禁用。**
 
