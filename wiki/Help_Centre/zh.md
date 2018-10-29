@@ -263,7 +263,7 @@ osu! 通常可以自动更新，但有时也会出现错误。
 - [Microsoft 网页核心字体](http://web.nickshanks.com/fonts/microsoft-core-web-fonts) （ 包含 Arial ，Times New Roman ，Trebuchet MS 和 Verdana ）
 - [Tahoma](http://www.boldfonts.com/fonts/Tahoma/)
 - [Windows Live Essentials](http://explore.live.com/windows-live-essentials?os=other) （ Segoe UI ）
-- [Powerpoint 2007 Viewer](http://www.microsoft.com/downloads/en/details.aspx?FamilyID=048dc840-14e1-467d-8dca-19d2a8fd7485&displaylang=en&pf=true) （ 这里包含着大多数 ClearType 字体 —— Calibri ，Consolas ，Corbel ... 你的系统和 osu! 基本上不需要这些字体，但这紫萼字体是非常棒的！赶快下载试试吧！）
+- [Powerpoint 2007 Viewer](http://www.microsoft.com/downloads/en/details.aspx?FamilyID=048dc840-14e1-467d-8dca-19d2a8fd7485&displaylang=en&pf=true) （ 这里包含着大多数 ClearType 字体 —— Calibri ，Consolas ，Corbel ... 你的系统和 osu! 基本上不需要这些字体，但这些字体都很棒！赶快下载试试吧！）
 - [Microsoft 正黑体 / Microsoft 正黑體](http://www.microsoft.com/download/en/details.aspx?DisplayLang=en&id=12072) （ 正体中文界面字体 ）
 
 [这里](http://answers.microsoft.com/en-us/windows/forum/windows_vista-windows_programs/font-tahoma-does-not-support-style-regular/80ad7a97-230f-41d4-9101-107a0bfa986a)有一些的具体建议和找回字体的其他方法。
