@@ -14,7 +14,7 @@
 
 如果超过 24 小时，你还没有收到你的 supporter 身份，请发邮件给 [support@ppy.sh](mailto:support@ppy.sh) 告知我们你的问题。
 
-请在邮件中附上你在支付过程中产生的订单（ paypal 订单交易号，Xsolla 订单等 ）。这可以帮助我们追踪和调查你的订单。
+请在邮件中附上你在支付过程中产生的订单信息（PayPal 或 Xsolla 的订单号等）。这可以帮助我们追踪和调查你的订单。
 
 ### 受限（ Restricted ）状态
 
