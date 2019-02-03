@@ -1,3 +1,6 @@
+---
+legal: true
+---
 # osu! Privacy Policy
 
 Last Updated 25th May 2018. [View history here](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Privacy/en.md)
@@ -74,7 +77,7 @@ We may share your personal data with third parties in very specific cases:
 - To fulfil your store orders
 - To process payments via payment processing providers like Paypal and Xsolla
 - To process your customer service tickets (we use [Enchant](https://enchant.com))
-- In order to improve our service, via error logging (we use ([Sentry](https://sentry.io))
+- In order to improve our service, via error logging (we use [Sentry](https://sentry.io))
 
 ## Your rights and control
 
