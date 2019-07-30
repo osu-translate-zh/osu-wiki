@@ -23,10 +23,10 @@ With that out of the way, let's get on to this week's picks! For this round, [St
 
 ### Navigation
 
-[osu!](#osu)  
-[osu!taiko](#osutaiko)  
-[osu!catch](#osucatch)  
-[osu!mania](#osumania)
+- [osu!](#osu)
+- [osu!taiko](#osutaiko)
+- [osu!catch](#osucatch)
+- [osu!mania](#osumania)
 
 ## <a name="osu" id="osu"></a>osu!
 
@@ -282,6 +282,6 @@ So good luck with it, and as always, have fun!
 
 ---
 
-From everyone on the Project Loved team, we hope you enjoy this week's selection, and look forward to the next! The winning maps will hit the [beatmap listing](https://osu.ppy.sh/beatmapsets?s=8) sometime during the weekend and will be announced via the [osugame twitter](https://twitter.com/osugame).
+From everyone on the Project Loved team, we hope you enjoy this week's selection, and look forward to the next! The winning maps will hit the [beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) sometime during the weekend and will be announced via the [osugame twitter](https://twitter.com/osugame).
 
 —Project Loved

@@ -5,6 +5,7 @@ tags:
 - all pages
 - all articles
 ---
+
 # Sitemap
 
 -   [About](/wiki/About)
@@ -101,7 +102,7 @@ tags:
     -   [Starting a Beatmap Project](/wiki/Guides/Starting_a_Beatmap_Project)
     -   [Tablet Purchase](/wiki/Guides/Tablet_Purchase)
     -   [Tips and Tricks on Skill Improvement](/wiki/Guides/Tips_and_Tricks_on_Skill_Improvement)
-    -   [Videos From Youtube](/wiki/Guides/Videos_From_Youtube)
+    -   [Videos From YouTube](/wiki/Guides/Videos_From_Youtube)
 -   [History of osu!](/wiki/History_of_osu!)
     -   [2007](/wiki/History_of_osu!/2007)
     -   [2008](/wiki/History_of_osu!/2008)
@@ -262,7 +263,7 @@ tags:
         -   [2016](/wiki/Tournaments/OWC/2016)
         -   [2017](/wiki/Tournaments/OWC/2017)
     -   RMoT Invitational
-        -   [2](/wiki/Tournaments/RMoT_Invitational/2)
+        -   [2](/wiki/Tournaments/RMoTI/2)
     -   TWC
         -   [2011](/wiki/Tournaments/TWC/2011)
         -   [2014](/wiki/Tournaments/TWC/2014)

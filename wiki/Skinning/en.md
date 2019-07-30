@@ -1,6 +1,6 @@
 # Skinning
 
-Skinning is one of the key features of osu! It enables players to derive from the original skinning elements to create their own! Skins can vary from being for-fun, themed, PRO, or be nigh impossible to play with.
+Skinning is one of the key features of osu!. It enables players to derive from the original skinning elements to create their own! Skins can vary from being for-fun, themed, PRO, or be nigh impossible to play with.
 
 ## Skinning sets
 
@@ -27,6 +27,6 @@ The list of skinning elements is split up into these categories:
 
 - [skin.ini](/wiki/skin.ini)
 - [Skinning History](/wiki/Skinning/History) - a list of old skinning elements
-- [Compendium](/wiki/Skinning/Compendium) - a list of completed skins
+- [Compendium](/community/forums/topics/686664) - a list of completed skins
 - [Skinning FAQ](/wiki/Skinning/FAQ)
 - [Guides and Important Threads](/wiki/Skinning/Guides_and_Important_Threads)
