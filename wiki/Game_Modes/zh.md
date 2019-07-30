@@ -7,8 +7,8 @@
 [External Ports wikilink]: ./External_Ports "External Ports"
 
 <!-- external -->
-[ouendan wikipedia]: https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Wikipedia entry for Osu! Tatakae! Ouendan"
-[Taiko no Tatsujin wikipedia]: https://en.wikipedia.org/wiki/Taiko_no_Tatsujin "Wikipedia entry for Taiko no Tatsujin"
+[押忍！战斗！应援团 维基百科]: https://zh.wikipedia.org/wiki/%E6%8A%BC%E5%BF%8D%EF%BC%81%E6%88%B0%E9%AC%A5%EF%BC%81%E6%87%89%E6%8F%B4%E5%9C%98 "押忍！战斗！应援团的维基百科页面"
+[太鼓达人 维基百科]: https://zh.wikipedia.org/wiki/%E5%A4%AA%E9%BC%93%E4%B9%8B%E9%81%94%E4%BA%BA%E7%B3%BB%E5%88%97 "太鼓达人的维基百科页面"
 
 <!-- shared image -->
 [osu! icon link]: /wiki/shared/mode/osu.png "osu! icon"
@@ -16,29 +16,29 @@
 [osu!catch icon link]: /wiki/shared/mode/catch.png "osu!catch icon"
 [osu!mania icon link]: /wiki/shared/mode/mania.png "osu!mania icon"
 
-# Game Modes
+# 游戏模式
 
-## Official game modes
+## 官方游戏模式
 
-Here are the available game modes in osu!:-
+以下是 osu! 中所有游戏模式：
 
-- ![osu! icon][osu! icon link] _[osu!standard/osu!][osu! wikilink]_:
-  Based on _[Osu! Tatakae! Ouendan][ouendan wikipedia]_.
-  Tap, slide, and spin to the beat.
-- ![osu!taiko icon][osu!taiko icon link] _[osu!taiko][osu!taiko wikilink]_:
-  Based on _[Taiko no Tatsujin][Taiko no Tatsujin wikipedia]_.
-  Drum, and roll the taiko drumroll to the beat.
-- ![osu!catch icon][osu!catch icon link] _[osu!catch][osu!catch wikilink]_:
-  Collect falling fruits by moving the catcher with a plate.
-  Keep dancing and do not miss the step of the beat.
-- ![osu!mania icon][osu!mania icon link] _[osu!mania][osu!mania wikilink]_:
-  Based on conveyor-type rhythm games, chiefly introduced and implemented by **woc2006**.
-  Make the notes play a melody of the beat.
+- ![osu! icon][osu! icon link] _[osu!standard/osu!][osu! wikilink]_：
+  玩法源于 _[押忍！战斗！应援团][押忍！战斗！应援团 维基百科]_。
+  跟着节奏点击，滑动，旋转。
+- ![osu!taiko icon][osu!taiko icon link] _[osu!taiko][osu!taiko wikilink]_：
+  玩法源于 _[太鼓达人][太鼓达人 维基百科]_。
+  跟着节奏敲击太鼓。
+- ![osu!catch icon][osu!catch icon link] _[osu!catch][osu!catch wikilink]_：
+  移动角色，用盘子接住下落的水果。
+  保持移动，不要错过任何节拍。
+- ![osu!mania icon][osu!mania icon link] _[osu!mania][osu!mania wikilink]_：
+  玩法源于传送带式的节奏游戏，由 **woc2006** 引入并实现。
+  让音符奏出节拍的旋律。
 
-For a general explanation of the game modes above, see [FAQ][FAQ wikilink].
+有关上述游戏模式的一般说明，请参阅 [FAQ][FAQ wikilink]。
 
-## External ports
+## 社区项目
 
-Playable ports of osu! game modes.
+与 osu! 有关的社区项目。
 
-[Click here to visit the External Ports page][External Ports wikilink]
+[点击这里访问社区项目页面][External Ports wikilink]
