@@ -1,6 +1,6 @@
 <!-- wiki -->
-[Game_Modes wikilink]: ../ "Game Modes"
-[Play_Styles#osu!catch wikilink]: /wiki/Play_Styles/ "more info can be found on Play Styles under osu!catch"
+[Game_Modes wikilink]: ../ "游戏模式页面"
+[Play_Styles#osu!catch wikilink]: /wiki/Play_Styles/ "更多信息可以在玩法风格页面下的 osu!catch 一节找到"
 [Score#osu!catchSV wikilink]: /wiki/Score/#osu-catch "more info can be found on Score under osu!catch Scoring Values"
 [Options#Keyboard wikilink]: /wiki/Options/ "more info can be found on Options under Keyboard"
 [Skinning#osu!catch wikilink]: /wiki/Skinning/osu!catch/ "osu!catch Skinning"
@@ -15,11 +15,11 @@
 [ouendan wikipedia]: https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Wikipedia entry for Osu! Tatakae! Ouendan"
 
 <!-- image -->
-[osu!catch logo]: /wiki/shared/CtB_logo.jpg "Catch the Beat logo in Special Mode"
+[osu!catch logo]: /wiki/shared/CtB_logo.jpg "特殊模式下的 Catch the Beat 图标"
 
 <!-- shared image -->
-[osu!catch icon link]: /wiki/shared/mode/catch.png "osu!catch icon"
-[osu!catch Playfield]: /wiki/shared/Catch_Playfield_27.jpg "osu!catch playfield difference based on CS"
+[osu!catch icon link]: /wiki/shared/mode/catch.png "osu!catch 图标"
+[osu!catch Playfield]: /wiki/shared/Catch_Playfield_27.jpg "osu!catch 游戏场大小的差异"
 [Fruits image]: /wiki/shared/Catch_fruits.jpg "osu!catch fruits"
 [Fruit trails image]: /wiki/shared/Catch_trails.jpg "osu!catch fruit trails"
 [Bananas image]: /wiki/shared/Catch_bananas.jpg "osu!catch bananas"
@@ -38,55 +38,55 @@
 
 ![Gameplay of osu!catch][osu!catch Interface image]
 
-osu!catch, formerly known as _Catch the Beat_ or _CtB_, is a game mode that requires the player to control a character(catcher) who catches falling fruit in tune to the beat.
+osu!catch, 以前叫做 _Catch the Beat_ 或 _CtB_。这个游戏模式需要玩家控制游戏中的角色（接果人），让它能及时接住循节奏从上面掉下来的水果。 
 
-## ![osu!catch icon][osu!catch icon link] Gameplay
+## ![osu!catch icon][osu!catch icon link] 游玩
 
-### Song Selection
+### 谱面选择界面
 
-To access the osu!catch game mode, press `Ctrl`+`3` at the same time.
+要进入 osu!catch 模式，请同时按下 `Ctrl` + `3` 。
 
-Alternatively, click on the `Mode` button and select `osu!catch`.
+或者，点击左下角的 `Mode` 然后选择 `osu!catch`.
 
-### Gameplay Basics
+### 游玩基础
 
-#### Playfield
+#### 游戏场
 
-![osu!catch playfield difference between CS2 and CS7][osu!catch Playfield]
+![osu!catch 游戏场大小在 CS2 与 CS7 之间的差异][osu!catch Playfield]
 
-_Left is CS2 playfield and right is CS7 playfield_
+_图中左边是 CS 为 2 时的游戏场大小，右边是 CS 值为 7 时的游戏场大小。_
 
-The zoom size of the playfield is based on CS (Circle Size) settings, with lower CS means much more zoomed in and smaller space, while higher CS means much more zoomed out and larger movement space.
+游戏场的缩放大小取决于谱面设定的 CS（即缩圈大小）值。CS 值越低，游戏场的缩放程度就越大，角色的移动空间就会越窄。反之亦然，CS 值越高就意味着游戏场缩放程度更小、角色的移动空间越宽。
 
-The catcher can move from left to right, with the fruits falling from top to bottom.
-The catcher cannot move pass the left and right walls of the playfield.
+接果人可以在屏幕底部左右移动，水果要从屏幕顶部逐渐掉落。
+但是接果人不能从屏幕右侧穿越到屏幕左侧。
 
-All fruits will stay at the plate until its combo ends, which the fruits will bounce out of the plate.
-Timing and where it falls on the plate does not matter; either a full score for successful catch or miss.
+所有接到的水果在当前的连击中断前都会一直盛在盘内。连击中断后，盘内的水果就会弹出盘外。
+接水果的时机和掉在盘中的位置不会造成影响，两种情况下都可以判定为满分或 Miss 。
 
-#### Fruits
+#### 水果
 
-![Fruits][Fruits image]
+![水果][Fruits image]
 
-_Fruits are the hit circles of osu!catch, and it rains down from top of the screen_
+_水果就是 osu!catch 里的打击圆圈，它们要从屏幕顶部逐渐落下。_
 
-To catch these fruits, make sure it falls to the plate and not over the plate.
-Collected fruits will always give 300 points each, increment combo by 1, and treated as 300 in result screen.
+要接到这些水果，确保水果是正中水果盘，而不是掉在盘边上或者掉在盘外。
+每接到一个水果就会计 300 分并将连击数 +1 ，判定为结算界面中的 300 。
 
-#### Fruit trails
+#### 水果轨迹
 
-![Fruit trails][Fruit trails image]
+![水果轨迹][Fruit trails image]
 
-_Fruit trails are the sliders of osu!catch_
+_水果轨迹就是 osu!catch 中的滑条。_
 
-A typical fruit trail will contains two fruits (start and end), droplets (slider path), juice drop (slider ticks), and more fruits for each reverse arrow points along with a reversed slider path.
-Droplet gives 10 points each and treated as 50 in result screen.
-Juice drop gives 30 points each, increment combo by 1, and treated as 100 in result screen.
+普遍情况下水果轨迹包含两个水果（处于轨迹起始和结束）、水滴（滑条路径）、果汁液滴（滑条白点）。如果有反向路径，就会有更多水果来充当滑条的反向箭头，水果轨迹就会按照相反方向掉落。
+接到水滴会记 10 分，判定为结算页中的 50 。
+接到果汁液滴会计 30 分并将连击数加 1，判定为结算页的 100 。
 
-Missing the juice drop will break the combo (as it is a slider tick), but missing the droplet will not break the combo.
-However, missed droplets will not be shown in the local result screen, but will be shown in the website's leaderboard as _Miss Droplet_, which notably affects accuracy (missed out the droplet, which is a 50) and score (10 points for each droplet missed).
+如果 Miss 了水果液滴就会重置连击数（因为它相当于滑条白点），而水滴就不会。
+然而 Miss 的水滴并不会显示在游戏的结算页中，但会显示在谱面页面的排行榜的 _Miss Droplet_ 上。很明显，它还会影响你的准确度（每 Miss 一个就相当于少一个判定）和总分数（每 Miss 一个就会少计 10 分）。
 
-#### Bananas
+#### 香蕉
 
 ![Bananas][Bananas image]
 
