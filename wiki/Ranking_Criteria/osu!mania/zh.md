@@ -43,6 +43,7 @@
 - **Stream（连打）**： 连续不断的且处于相同间隔的物件，如果不重复出现则为 minijack 。
 - **Trill**： 两个或两个以上的物件在两列间不间断交替出现。
 
+
 更多梗术语请参考 [osu!mania 作图指南](https://osu.ppy.sh/help/wiki/Guides/osu!mania_Mapping_Guide)。
 由 [Kim_GodSSI](https://osu.ppy.sh/users/2218047) 制作的[梗速查表](https://i.ppy.sh/e7ceb44562f4564affa4b964e19259f9d0e3cfa1/68747470733a2f2f7075752e73682f434831454c2f376666393062383835612e706e67)也有助于你理解这些梗的定义。
 
@@ -199,3 +200,4 @@ Bracket 梗应当保守使用。
 
 - **避免不合理的难度差异。**  难度应代表歌曲的强度。
 - **长距滑条变速应在 0.60x 到 1.10x 之间。**
+

@@ -1,6 +1,6 @@
 # 常见问题
 
-*主页面: [osu! wiki 贡献指南](/wiki/owcg).*
+*主页面：[osu! wiki 贡献指南](/wiki/owcg).*
 
 ## 什么叫做有意义的提交信息（commit messages）？
 
@@ -12,7 +12,7 @@
 
 ---
 
-为了解决这个问题（同时适用于桌面客户端和网页）:
+为了解决这个问题（同时适用于桌面客户端和网页）：
 
 1. 打开你的 osu-wiki 仓库主页。
 2. 创建一个新的分支并为它命名。
@@ -50,11 +50,11 @@
 2. 点击 `Sign in with GitHub`，如果已经登录就跳过这一步。
 3. 点击 `Authorize upriver`，如果已经授权就跳过这一步。
 4. 像下面这样选择：
-   - into: *选择你自己的 `osu-wiki` 仓库*
-   - branch: `master`
-   - from: `ppy/osu-wiki`
-   - branch: `master`
-   - force?: 勾选
+   - into：*选择你自己的 `osu-wiki` 仓库*
+   - branch：`master`
+   - from：`ppy/osu-wiki`
+   - branch：`master`
+   - force?：勾选
 5. 点击 `Pull`。
 6. 点击 `Close`。
 7. （现在你可以关闭 Upriver）。

@@ -16,7 +16,7 @@
 
 ## 被戳掉的泡（Popped Bubble） ![Bubble pop icon](/wiki/shared/icon/bubble-pop.gif "Bubble pop icon")
 
-更新已经泡了的谱面，这个记号就会取代泡泡记号，这意味着在这个谱面需要再回到泡泡状态，或者不是给你泡的[BN对你的谱面存在异议的可能也会用这个记号取代泡泡记号](/wiki/People/Beatmap_Nomination_Group)。 有些BAT在修图的时候用这个记号标记以避免其他[BN也刚好在看这图](/wiki/People/Beatmap_Nomination_Group)，这时候很大可能你的谱面会在修正[BN的意见后审核通过并上架](/wiki/People/Beatmap_Nomination_Group)。
+更新已经泡了的谱面，这个记号就会取代泡泡记号，这意味着在这个谱面需要再回到泡泡状态，或者不是给你泡的[BN对你的谱面存在异议的可能也会用这个记号取代泡泡记号](/wiki/People/Beatmap_Nomination_Group)。有些BAT在修图的时候用这个记号标记以避免其他[BN也刚好在看这图](/wiki/People/Beatmap_Nomination_Group)，这时候很大可能你的谱面会在修正[BN的意见后审核通过并上架](/wiki/People/Beatmap_Nomination_Group)。
 
 ## 审核通过（Ranked） ![Heart icon](/wiki/shared/icon/heart.gif "Heart icon")
 

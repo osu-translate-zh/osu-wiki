@@ -86,7 +86,7 @@ _父页面： [Ranking criteria](/wiki/Ranking_Criteria)_
 
 ### 转盘组
 
-除了 spinner-osu.png 和 spinner-rpm.png，所有皮肤元素与游戏有关。如果使用了「基本转盘样式（basic spinner style）」的元素，你**不应该**再使用「新皮肤样式（new spinner style）」的元素。
+除了 spinner-osu.png 和 spinner-rpm.png，所有皮肤元素与游戏有关。如果使用了「基本转盘样式（basic spinner style）」的元素，你 **不应该** 再使用「新皮肤样式（new spinner style）」的元素。
 
 因为在同时有两种皮肤元素时，基本转盘样式的元素的优先级会比新皮肤样式的元素高。新皮肤元素只会在自定义皮肤没有使用基本转盘样式，同时支持皮肤版本 2 或更高，或者谱面强制默认皮肤时使用。
 
