@@ -1,5 +1,5 @@
 <!-- wiki -->
-[Game_Modes wikilink]: ../ "Game Modes"
+[Game_Modes wikilink]: ../ "游戏模式"
 [osu! wikilink]: /wiki/Game_Modes/osu! "osu!"
 [osu!taiko wikilink]: /wiki/Game_Modes/osu!taiko/ "osu!taiko"
 [Play_Styles#osu!mania wikilink]: /wiki/Play_Styles/#osu-mania "more info can be found on Play Styles under osu!mania"
@@ -16,170 +16,169 @@
 
 <!-- osu!mania specific -->
 [osu!mania logo]: ./img/Mania_logo.png "osu!mania logo in Special Mode"
-[osu!mania SC image]: ./img/Mania_SC.jpg "Speed Change value is located at the top-right"
-[osu!mania SCDiff image]: ./img/Mania_SCDifference.png "A difference Speed Change can make depending on beatmap's density"
-[set fixed scaling image]: ./img/Mania_Scale.png "Activate Fixed scaling by disabling `Scale osu!mania scroll speed with BPM` at the Options sidebar"
+[osu!mania SC image]: ./img/Mania_SC.jpg "速度值位于右上方"
+[osu!mania SCDiff image]: ./img/Mania_SCDifference.png "调整速度可以根据谱面密度"
+[设置通配]: ./img/Mania_Scale.png "在选项栏禁用此项来开启通配`按BPM调整 osu!mania 下落速度`"
 
 <!-- shared image -->
-[osu!mania icon link]: /wiki/shared/mode/mania.png "osu!mania icon"
-[osu!mania playfield image]:  /wiki/shared/Mania_playfield.jpg "osu!mania playfield"
-[osu!mania notes image]: /wiki/shared/Mania_notes.jpg "osu!mania notes"
-[osu!mania holdnotes image]: /wiki/shared/Mania_holdnotes.jpg "osu!mania hold notes"
-[osu!mania Interface image]: /wiki/shared/Interface_mania.jpg "osu!mania Interface"
-[osu!mania key layout image]: /wiki/shared/Mania_key_layouts.jpg "osu!mania key layout"
-[osu!mania key layout2 image]: /wiki/shared/Mania_key_layouts2.jpg "osu!mania key layout (Co-Op)"
-[osu!mania editor image]: /wiki/shared/Editor_Mania.png "osu!mania-specific Editor"
-[osu!mania SSD image]: /wiki/shared/Song_Setup_Difficulty_Mania.jpg "osu!mania-specific Difficulty setup"
-[Options keyboard image]: /wiki/shared/Options_keyboard.jpg "Options Input icon, Keyboard section"
+[osu!mania icon link]: /wiki/shared/mode/mania.png "osu!mania 图标"
+[osu!mania 游戏区]:  /wiki/shared/Mania_playfield.jpg "osu!mania 游戏区"
+[osu!mania 音符]: /wiki/shared/Mania_notes.jpg "osu!mania 音符"
+[osu!mania 长压音符]: /wiki/shared/Mania_holdnotes.jpg "osu!mania 长压音符"
+[osu!mania 界面]: /wiki/shared/Interface_mania.jpg "osu!mania 界面"
+[osu!mania 按键输入]: /wiki/shared/Mania_key_layouts.jpg "osu!mania 按键输入"
+[osu!mania 按键输入2]: /wiki/shared/Mania_key_layouts2.jpg "osu!mania 按键输入（Co-Op）"
+[osu!mania 专用编辑器]: /wiki/shared/Editor_Mania.png "osu!mania 专用编辑器"
+[osu!mania SSD image]: /wiki/shared/Song_Setup_Difficulty_Mania.jpg "osu!mania 专用难度设置"
+[设置键位]: /wiki/shared/Options_keyboard.jpg "设置键盘键位"
 
 <!-- Title -->
 
 # osu!mania
 
-**[Click to return to Game Modes page][Game_Modes wikilink]**
+**[单击返回游戏模式页][Game_Modes wikilink]**
 
 <!-- Uncomment the below and delete this comment if ScoreV2 is official and the whole page must be revised to fit ScoreV2 system behaviour -->
 <!-- **[Click here to visit the older version of osu!mania using deprecated ScoreV1 system](./v1 "osu!mania v1")** -->
 
-![Gameplay of osu!mania][osu!mania Interface image]
+![osu!mania玩法][osu!mania 界面]
 
-The mode has been widely used in almost all of the major rhythm games.
-It require good hand and/or leg coordination where the notes (with their quantity depending on BPM and difficulty) move on a conveyer.
-The player will have to press the correct key for that specific note in time.
-Though the game mode was originally made as an imitation of the _Beatmania_ style of playing, osu!mania allows changing the number of keys or vertically flipping the orientation of the playfield (this means that it can be made to look more like _Guitar Hero_ \[5 keys\] or _Dance Dance Revolution_ \[4 keys\] and so on).
+这个模式在几乎所有的节奏游戏中都得到了广泛的应用。
+音符（其数量取决于BPM和困难）移动在轨道上需要良好的手和/或腿协调。
+玩家必须在特定的时间内按下正确的键。
+虽然这个游戏模式最初是模仿狂热节拍风格的玩法，但是osu!mania允许改变键数或垂直翻转轨道运动的方向（这意味着它可以看起来更像吉他英雄【5键】或热舞革命【4键】等。
 
-It is somewhat similar to [osu!taiko][osu!taiko wikilink], but with more buttons notes moving vertically rather than moving horizontally.
+这有点类似于[osu!taiko][osu!taiko wikilink]， 但它有更多的按钮音符垂直移动而不是水平移动。
 
-## ![osu!mania icon][osu!mania icon link] Gameplay explanation
+## ![osu!mania 图标][osu!mania icon link] 游戏说明
 
-### Song Selection
+### 选择歌曲
 
-To access the osu!mania game mode, press `Ctrl`+`4` at the same time.
+按下`Ctrl`+`4`即可选择【osu!mania】模式。
 
-Alternatively, click on the `Mode` button and select `osu!mania`.
+或者点击`模式`按钮并选择`osu!mania`。
 
-#### Keys and Judgement
+#### 按键和判定
 
-In the song selection screen, the number next to the _K_ shows how many keys will be used for the play.
-The beatmap will be played with looser judgement if "↓" symbol was appended at the end of _K_.
+在歌曲选择页面，旁边的_K_ 数字表示有多少个键可玩。
+如果在_K_后面有"↓"符号，意味着它比一般情况下的判定时机宽松。
 
-For example, _4K↓_ means that it will be played with four(4) keys with a looser judgement timing than usual.
+比如，_4K↓_ 表示它比一般情况下的4K判定时机宽松。
 
-Do note that the judgement of a beatmap is determined automatically.
+请注意，谱面的判定是自动确定的。
 
-#### osu!specific beatmaps and conversion from osu! beatmap difference
+#### osu!专谱与由osu!谱面转换的转谱之间的差异
 
-When converting a non-specific beatmap, the default key range would be around 4 to 7 keys.
+当选择转谱时，默认的按键范围为4k-7k。
 
-With the [xK][xK wikilink] game modifier, the player can manually set the number of keys from 1 to a total of 9 keys with a score multiplier reduction.
-However, the game modifier will not work with osu!mania-specific beatmaps.
+使用[xK][xK wikilink] 游戏MOD，玩家可以手动设置1-9K按键数，并且分数乘数减少
+然而游戏MOD不能修改osu!mania专谱的按键数
 
-With the [Co-Op][Co-Op wikilink] game modifier, the stage will be split in two, use Co-Op's control scheme, and will allows the player to play from 2 to a total of 18 keys with a score multiplier reduction.
-Do note that while the preset number of keys will not be doubled on osu!mania-specific beatmaps, it will split the stage in two (left stage priority if odd-numbered), use Co-Op's control scheme, and no score multiplier reduction.
+使用[Co-Op][Co-Op wikilink]游戏MOD，这将使面板分成两个来进行合作控制，并允许玩家玩2-18K同时得分乘数减少
+请注意，专谱的预置键数不会被翻倍，而是拆分两个部分（如果按键数是奇数则左面板优先，比如7K将拆分成4+3），使用Co-Op的情况下没有得分乘数还原。
 
-#### Speed Change
+#### 速度的调整
 
-![Speed Change value is located at the top-right][osu!mania SC image]
+![速度值位于右上方][osu!mania SC image]
 
-_The upper-right corner displays the scroll speed.
-The image shows the difference between the BPM scaling and fixed scroll speeds respectively._
+_右上角显示下落速度。
+该图像显示了BPM比例倍速（适配速度）和固定倍速（通配速度）之间的区别。_
 
-**Scrolling speed of the beat notes** can be changed by pressing `Ctrl` (or `Shift`) with `+` (faster) / `-` (slower).
+**音符的滚动速度**可以通过`Ctrl`（或`Shift`）和`+`(加速)/`-`(减速)命令来改变。
 
-The lowest limit is 1 and the highest limit is 40.
+最低是1，最高是40。
 
-##### BPM scaling and Fixed scroll speed.
+##### BPM比例倍速（适配速度）和固定倍速（通配速度）。
 
-![A difference Speed Change can make depending on beatmap's density][osu!mania SCDiff image]
+![调整速度可以根据谱面密度][osu!mania SCDiff image]
 
-_A difference Speed Change can make depending on beatmap's density, BPM, and scaling system used (image above use Speed Change value of  1)_
+_速度的调整可以根据谱面的密度、BPM和缩放系统来使用(上图使用的速度值为1)_
 
-**BPM scaling** is the current default old scaling system which scale the scroll speed relative to the current BPM played.
-There will be a difference in scroll speed when playing a 100BPM (scrolls slower) and 200BPM (scrolls faster) beatmap with the same scaling speed.
+**BPM 适配** 是当前默认的倍速系统，它相对于谱面的BPM进行倍速调整。
+使用相同的适配倍速时，100BPM（更慢）与200BPM（更快）的下落速度是不同的
 
-![Activate Fixed scaling by disabling `Scale osu!mania scroll speed with BPM`][set fixed scaling image]
+![禁用此项来开启通配`按BPM调整 osu!mania 下落速度`][设置通配]
 
-_Activate Fixed scaling by disabling `Scale osu!mania scroll speed with BPM`_
+_禁用此项来开启通配`按BPM调整 osu!mania 下落速度`_
 
-**Fixed** scroll speed is the new system that enforce a constant scroll speed along with the current BPM speed.
-[A very simple introduction post by Blazier in 29 October 2014 (2014-10-29) about the fixed scaling](https://osu.ppy.sh/forum/t/254145).
+**通配** 是一种新的系统，它将对当前BPM强制使用固定速度。
+[在2014年10月29日，Blazier对固定速度做了一个非常简单的介绍](https://osu.ppy.sh/forum/t/254145).
 
-Do note that both scaling system will still be affected by speed up/down by BPM changes, with the changes ranging from drastic (usually for BPM scaling to higher BPM with speedy notes; very low BPM for fixed scaling with condensed notes) to minor (usually fixed scaling on most BPM spectrum) depending on Speed Change settings used.
+请注意，这两种倍速系统仍然会受到BPM变速/速度的影响, 范围由强（通常是BPM过度到一个更高的BPM和更快的音符；更低的BPM用于固定音符密度）到弱（通常用于固定大多数BPM范围）
 
-### Gameplay
+### 游戏玩法
 
-#### Playfield
+#### 游戏区
 
-![osu!mania playfield][osu!mania playfield image]
+![osu!mania 游戏区][osu!mania 游戏区]
 
-_In-game playfield interface of osu!mania_
+_在osu!mania的游戏区界面_
 
-By default, the flow of the notes falls from top to bottom of the conveyor (the starting arrow will show where notes will flow to), with the key control at the bottom and the judgement line above the key control.
-To change the flow of the playfield from bottom-to-top instead, it can be changed in the `Options` sidebar; click on `osu!mania layout` button to set osu!mania keys settings and enable `Vertically flip playfield (DDR style)` for this key setting manually.
+默认情况下，音符是从轨道的上下开始滚动（开始箭头显示音符的运动方向），通过底部的按键和按键面板上面的判定线来控制。可以在`Options`里更改成自下而上的方向；点击`输入`区的`osu!mania键位排列`，开启`上下颠倒（DDR风格）`。
 
-Health bar is located at the right side of the conveyor belt.
-Please note that health drain is disabled in osu!mania, so only the hit objects will affect the health bar.
-Combo will not break when playing the keys on empty judgement line.
+血量槽位于轨道面板的右侧。
+请注意，在osu!mania中血量自动流失是禁用的，所以只有命中音符才会影响血量槽。
+连击不会在无音符时被空判定打断。
 
-**Scrolling speed of the beat notes** can be changed by pressing `Ctrl` (or `Shift`) with `+` (faster) / `-` (slower) or just `F3` (faster) / `F4` (slower).
+**音符的滚动速度**可以用`Ctrl`（或`Shift`）和`+` (加速) / `-` (减速)或者只按`F3`(更快)/`F4`(更慢)。
 
-#### Notes
+#### 音符
 
-![osu!mania's notes][osu!mania notes image]
+![osu!mania的音符][osu!mania 音符]
 
-_A typical play with consecutive and simultaneous notes_
+_有连续音符与多压音符的经典玩法_
 
-Notes are the hit circles of osu!mania.
-The falling notes must be tapped on the judgement line, with correct key corresponding to each of the note it falls to.
-More keys corresponding to the falling notes must be tapped simultaneously if the notes fall simultaneously.
+音符是osu!mania的打击圈。
+落下的音符必须在判定线上敲击，对于每一个音符都要与正确的按键相对应。
+当同时落下多个音符时，必须同时敲击与音符相对应的键。
 
-A score burst will be given when tapped a correct key corresponding to the note in the judgement line.
+当按下正确的键在判定区时，会得到一个判定得分图。
 
-#### Hold notes
+#### 长压音符（面条）
 
-![osu!mania's hold notes][osu!mania holdnotes image]
+![osu!mania的长压音符][osu!mania 长压音符]
 
-_A typical play with some hold notes_
+_有长压音符（面条）的经典玩法_
 
-Hold notes are the sliders and spinners of osu!mania.
-When the hold note reaches the judgement line, tap the starting note in time with correct key, hold, and release it at the ending note of the hold note.
+面条相当于osu!mania的滑条和转盘。
+当面条到达判定线时，用正确的键按住面条头，并在面条尾准确松开。
 
-Health bar regeneration occurs slowly while holding the hold note(s).
-Depending on the song and mapping quirks, it is possible that other notes or hold notes to appear while holding the previous hold note(s).
+血槽会在按住面条时缓慢上升。
+在一些怪异谱面中，会出现音符重叠到已经按住的面条里面的情况。
 
-## Play Styles
+## 游戏方式
 
-**[Refer to Play Styles page under osu!mania.][Play_Styles#osu!mania wikilink]**
+**[参考osu!mania下的游戏方式][Play_Styles#osu!mania wikilink]**
 
-## Controls
+## 控制
 
-![Options keyboard section][Options keyboard image]
+![设置键位][设置键位]
 
-_[Refer to Options-&gt;Input under Keyboard section, specifically the `osu!mania layout` button to adjust the key settings][Options#Keyboard wikilink]_
+_[参考 Options→输入 下的键盘设置, 特别是`osu!mania 键位排列` 按钮来调整按键设置][Options#Keyboard wikilink]_
 
-Do note that the controls information provided below refers to the _old_ key settings used in Options where the keys are mapped relatively and applied to all key settings.
+请注意，以下提供的预置信息是指默认用于将按键映射到所有按键的设置。
 
-The new key settings require the player to manually set it using the `osu!mania layout` button provided above for _every_ key layout (unmapped key layouts will use the default key settings instead).
+新的键位需要玩家手动设置，使用`osu!mania 键位排列`按钮
 
-The current default key settings is based on _Symmetrical_ style.
+当前默认的按键设置是基于_对称_风格。
 
-### Normal
+### 一般
 
-![Default Key layouts of osu!mania (Options-&gt;Input)][osu!mania key layout image]
+![osu!mania的默认按键（Options→输入）][osu!mania 按键输入]
 
-There _used to be_ two different binding-styles, _Symmetrical_ and _Left to Right_:-
+_过去_有两种不同的布局风格, _对称_和_从左到右_
 
-- _Symmetrical_ style mimics the button placement of _DJMAX_, in which the center key is `Spacebar` to simulate a feeling of stepping the pedal similar to the arcade version.
-  Centre key matches the middle column (odd numbered keys only) and the other column matches the keys in its corresponding place.
-- _Left to Right_ style mimics the button placement of _Beatmania IIDX_, where the first column matches to the _key1_, then the second column matches the _key2_ and so on.
-  - However, the option to pick had been removed and the current style is based on "Symmetrical" style.
-    For legacy reason, "Left to Right" style is kept here.
+- _对称_风格是模仿_DJMAX_的按键位置，中心控制键是模拟踩踏板类街机音游的感觉。
+  中心键匹配轨道中心（仅限奇数键），其他轨道匹配其对应的键。
+- _从左到右_风格模仿_Beatmania IIDX_的按键位置，第一列轨道匹配_key1_，然后第二列轨道匹配_key2_，以此类推。
+  - 不管怎样，设置选项已被删除，目前的风格是基于“对称”风格。
+    出于遗产的原因，“从左到右”的风格保存在这里。
 
-_Symmetrical_ key binding (For _DJMAX_ style)
-- For _left_ hand buttons — (K1)`A`, (K2)`S`, (K3)`D`, (K4)`F`
-- For _right_ hand buttons — (K6)`J`, (K7)`K`, (K8)`L`, (K9)`;`.
-- _Center_ button — (K5)`Spacebar`. \[odd numbered keys only\]
-- The _Special_ button — `leftShift` \[Using special style\] and `leftCtrl` \[Alternate binding\].
+_对称_按键布局（_DJMAX_风格）
+- _左手_键位 — (K1)`A`, (K2)`S`, (K3)`D`, (K4)`F`
+- _右手_键位 — (K6)`J`, (K7)`K`, (K8)`L`, (K9)`;`。
+- _中心_键位 — (K5)`Spacebar`，【仅限奇数键】
+- _特殊_键位 — `leftShift`【使用特殊风格】和`leftCtrl`【切换绑定】。
 
 Key | L | C | R
 :---:|:---|:---:|---:
@@ -197,11 +196,11 @@ Key | L | C | R
 8K(R)|K2, K3, K4|K5|K6, K7, K8, **S1**
 9K|K1, K2, K3, K4|K5|K6, K7, K8, K9
 
-_Left to Right_ key binding (For _Beatmania IIDX_ style)
-- From down to up then down to up again: (K1)`Z`, (K2)`S`, (K3)`X`, (K4)`D`, (K5)`C`, (K6)`F`, (K7)`V`, (K8)`G`, (K9)`B` \[K9 is not used\]
-- The _Special_ button — `leftShift` and `leftCtrl`.
+_从左到右_按键布局（_Beatmania IIDX_风格）
+- 从下到上再从下到上：(K1)`Z`, (K2)`S`, (K3)`X`, (K4)`D`, (K5)`C`, (K6)`F`, (K7)`V`, (K8)`G`, (K9)`B` 【K9未被使用】
+- _特殊_键位 — `leftShift`和`leftCtrl`。
 
-Key | Bindings
+键数 | 布局
 :---:|:---
 4K|K1, K2, -, K4, K5
 5K|K1, K2, K3, K4, K5
@@ -211,23 +210,23 @@ Key | Bindings
 8K(L)|**S1**, K1, K2, K3, K4, K5, K6, K7
 8K(R)|K1, K2, K3, K4, K5, K6, K7, **S1**
 
-- Note: Please refer to the picture based on style used.
+- 注释：请参考图片使用的风格。
 
-### Co-Op
+### Co-Op合作
 
-![Default Key layouts of osu!mania (Co-Op)][osu!mania key layout2 image]
+![osu!mania的默认按键（Co-Op）][osu!mania 按键输入2]
 
-The **[05 March 2015 (2015-03-05) update](http://osu.ppy.sh/p/changelog?v=b20150305)** gave osu!mania a new mod called [Co-Op][Co-Op wikilink].
-With this mod enabled, a second different set of keys will be given along with the primary set of keys as above.
+**[2015年3月5日（2015-03-05）更新](http://osu.ppy.sh/p/changelog?v=b20150305)**给osu!mania添加了一个新MOD——合作[Co-Op][Co-Op wikilink].
+开启这个MOD后，将添加一个含有一套不同音符的新面板。
 
-_Symmetrical_ key binding for second set.
+_对称_布局的第二套方案
 
-- For _left_ hand buttons — (B1)`Q`, (B2)`W`, (B3)`E`, (B4)`R`
-- For _right_ hand buttons — (B6)`U`, (B7)`I`, (B8)`O`, (B9)`P`.
-- _Center_ button — (B5)`rightAlt`. \[odd numbered keys only\]
-- _Special_ button - (X1)`rightShift` \[Using special style\] or `rightCtrl` \[Alternate binding\].
+- _左手_键位 — (B1)`Q`, (B2)`W`, (B3)`E`, (B4)`R`
+- _右手_键位 — (B6)`U`, (B7)`I`, (B8)`O`, (B9)`P`。
+- _中心_键位 — (B5)`rightAlt`。【仅限奇数键】
+- _特殊_键位 - (X1)`rightShift` 【使用特殊风格】或`rightCtrl`【切换绑定】。
 
-**Table below is based on xK mod used in conjunction with Co-Op mod.**
+**下表是基于XK MOD配合Co-Op MOD。**
 
 Key | PL | PC | PR | SL | SC | SR
 :---:|:---|:---:|---:|:---|:---:|---:
@@ -245,9 +244,9 @@ Key | PL | PC | PR | SL | SC | SR
 8K(R) Co-op|K2, K3, K4|K5|K6, K7, K8, **S1**|**X1**, B2, B3, B4|B5|B6, B7, B8
 9K Co-op|K1, K2, K3, K4|K5|K6, K7, K8, K9|B1, B2, B3, B4|B5|B6, B7, B8, B9
 
-**Table below only applies to osu!mania-specific beatmaps.
-Only odd-numbered xK specifics are mentioned.
-Refer to first table for even number xK specific (For 4K specific, refer to 2K Co-op and so on).**
+**下表只适用于osu!mania专谱。
+只描述奇数xK的详情。
+指的是第一个表中偶数xK那部分(对于具体的4K参考2K Co-op，等等)。**
 
 Key | PL | PC | PR | SL | SC | SR
 :---:|:---|:---:|---:|:---|:---:|---:
@@ -256,67 +255,67 @@ Key | PL | PC | PR | SL | SC | SR
 7K|K3, K4|-|K6, K7|B4|B5|B6
 9K|K3, K4|-|K6, K7|B3, B4|B5|B6, B7
 
-## Scoring
+## 评分
 
-_[Scoring Values can be found in Score under osu!mania Scoring Values section][Score#osu!maniaSV wikilink]_
+_[得分值可以在osu!mania得分值部分找到][Score#osu!maniaSV wikilink]_
 
-Scoring section details all the intricacies of scoring, including mathematical formula.
+计分部分详述了包括数学公式的所有得分的复杂性。
 
-### Grades
+### 得分评级
 
-Grade| Condition
+评级| 条件
 :---:|:---
-SS   | 100% Accuracy (only MAX and/or 300).
-S    | Over 95% Accuracy (an 'S' rank is possible even with several misses, like in _osu!catch_).
-A    | Over 90% Accuracy.
-B    | Over 80% Accuracy.
-C    | Over 70% Accuracy.
-D    | Anything else.
+SS   | 100% 准度 (只有 MAX 和/或 300).
+S    | 超过 95% 准度（一个'S'评级甚至可能有几次失误，比如 _osu!catch_）。
+A    | 超过 90% 准度。
+B    | 超过 80% 准度。
+C    | 超过 70% 准度。
+D    | 其他任何情况。
 
-It is possible to obtain SSH or SH ranks (silver S or SS) with [Hidden][Hidden wikilink]/[Fade In][Fade In wikilink] or [Flashlight][Flashlight wikilink] mod.
+可以用过开启[Hidden][Hidden wikilink]/[Fade In][Fade In wikilink] 或者[Flashlight][Flashlight wikilink] MOD来获得SSH or SH 评级（银色 S 或 SS）。
 
-### Accuracy
+### 准确度
 
-Accuracy is calculated similarly to [osu!standard][osu! wikilink] in this mode.
+这个模式的准度计算类似于[osu!standard][osu! wikilink]。
 
-In other words: `Accuracy = Total points of hits / (Total number of hits * 300)`
+换句话说：`准确度 = 命中总分数 / （命中总数）`
 
-Term | Formula
+术语 | 公式
 :---:|:---
-**Total points of hits** | (Number of 50s * 50 + Number of 100s * 100 + Number of 200s * 200 + Number of 300s * 300 + Number of rainbow 300s * 300)
-**Total number of hits** | (Number of misses + Number of 50s + Number of 100s + Number of 200s + Number of 300s + Number of rainbow 300s)
+**命中总分数** | （50数 * 50 + 100数 * 100 + 200数 * 200 + 300数 * 300 + 彩300数 * 300）
+**命中总数** | （miss数 + 50数 + 100数 + 200数 + 300数 + 彩300数）
 
-Note that MAX (or rainbow 300) and 300 are both worth the maximum for calculating accuracy, despite a MAX being worth more in terms of score than a 300.
+请注意，MAX（彩300）和300都是计算判定的最大值，尽管在得分方面彩300的值大于300。
 
-### Score
+### 得分
 
-Each beatmap has the same maximum total score of 1 million (1,000,000).
+每谱面都具有相同的总得分，最高为100万（1000000）。
 
-The score is given in two parts, base score and bonus score, each contributing 50% of total score.
+得分分为两个部分——基础得分和加成得分，每种得分占总分的50%。
 
-- Base score is based on hit judgement.
-  - A rainbow 300 is worth a bit more than 300.
-- Bonus score is based on hit judgement and a floating bonus multiplier.
-  - The multiplier increases with a rainbow 300 or 300, while it decreases with a 200 or below.
-  - The better judgement, the more multiplier increase/less punishment.
-    - There's an upper limit for the multiplier.
+- 基础得分是基于命中判定。
+  - 彩300的值比300多一点。
+- 加成分数是基于命中判定和浮动加成乘数。
+  - 加成由彩虹300或300增加，由200或以下减少。
+  - 判定越好，加成越大/惩罚越少。
+    - 加成有一个上限。
 
-The score given by each note is calculated with the following formula:-
+每个音符的分数用下面的公式计算：-
 
 ```
-Score = BaseScore + BonusScore
+得分 = 基础得分 + 加成得分
 
-BaseScore = (MaxScore * ModMultiplier * 0.5 / TotalNotes) * (HitValue / 320)
+基础得分 = (最大分数 * MOD加成  * 0.5 / 总音符数) * (命中值 / 320)
 
-BonusScore = (MaxScore * ModMultiplier * 0.5 / TotalNotes) * (HitBonusValue * Sqrt(Bonus) / 320)
-Bonus = Bonus before this hit + HitBonus - HitPunishment / ModDivider
-Bonus is limited to [0, 100], initially 100.
+加成得分 = (最大分数 * MOD加成  * 0.5 / 总音符数） * （命中加成值 * 平方根（加成） / 320)
+加成 = 命中前的加分 + 命中加分 - 命中惩罚 / MOD规则
+加分限制在[0, 100]，开始于100。
 
-MaxScore = 1 000 000
-ModMultiplier = The score multiplier of the selected mods (difficulty reduction and/or nK)
-ModDivider = The punishment divider of the selected mods (difficulty increase)
+最大分数 = 1000000
+MOD乘数 = 被选中的MODS的得分加成 （难度降低和/或nK）
+MOD规则 = 被选中的MODS的惩罚规则 (难度增加)
 
-Judgement  HitValue  HitBonusValue  HitBonus  HitPunishment
+  判定     命中值   命中加成值      命中加分     命中惩罚
    MAX       320          32            2
    300       300          32            1
    200       200          16                        8
@@ -324,7 +323,7 @@ Judgement  HitValue  HitBonusValue  HitBonus  HitPunishment
     50        50           4                       44
   Miss         0           0                        ∞
 
-       Mod  ModMultiplier  ModDivider
+       MOD    MOD加成       MOD规则
       Easy       0.5
     NoFail       0.5
   HalfTime       0.5
@@ -336,100 +335,100 @@ DoubleTime                     1.1
 Flashlight                    1.06
 ```
 
-### Hit objects judgement
+### 命中的判定
 
-**Notes**
+**音符**
 
-- MAX (rainbow 300), 300, 200, 100 or 50 from a note depending on timing of hit.
-- A Miss given when missing a note or hit it way too early.
+- 一个音符的MAX (rainbow 300), 300, 200, 100 或 50 取决于击中的时机。
+- 当错过一个音符或是按下过早时会出现一个MISS。
 
-**Hold notes**
+**面条**
 
-- The judgement for hold notes depends on both starting hold and ending release points.
-- Keep holding till end of note, with initial and final with perfect timing: MAX
-- Keep holding till end of note, without releasing the note: 200
-- Do a _NG_ and not recover the hold note: Miss
-- Do a _NG_ and even hold back the note: 50
+- 面条的判定取决于开头长压和结尾释放。
+- 保持长压到面条结尾，在首尾都完美命中：MAX（彩300）。
+- 长压到最后没有释放音符：200
+- 出现_NG_并且没有重新按住音符：Miss
+- 出现_NG_并且按迟面条：50
 
-NG: _Not Good_, a term in _StepMania/DDR_, which happens when the hold note was released during hold timing.
+NG: _非Good_，在_StepMania/DDR_术语中，它表示面条按中状态时中途松开。即断面。
 
-### Score/Combo Multiplier
+### 分数/连击 加成
 
-**The following each add a point to the score/combo multiplier:-**
+**下面每一步为分数加上一个乘数:-**
 
-- Completing the note with correct key.
-- Holding the hold note with correct key.
+- 按下对应音符的正确的键。
+- 用正确的键按住面条。
 
-**The following will reset the score multiplier to zero:-**
+**下面将把分数乘数重置为零:-**
 
-- Not completing the note.
-- Releasing the hold note during the hold period.
+- 未完成音符
+- 按住面条中途释放
 
-**The following will not increase or reset the score multiplier:-**
+**以下不会增加或重置分数乘数:-**
 
-- Releasing the hold note on the ending note of the hold.
+- 在面条尾释放
 
-## Health bar
+## 血量槽
 
-The system used to calculate health gain is complicated so it will not be explained in detail.
-It all revolves around the HP difficulty setting which can only be set by the mapper itself.
+血量计算系统是很复制的，这里不会详细解释。
+这依据HP难度设置，只能由谱面本身设置。
 
-**The following will result in health recovery:-**
+**以下会使血量恢复:-**
 
-- Getting Rainbow 300, 300, or 200.
-- Holding the hold note with correct key.
+- 打出彩300，300，200。
+- 正确按住面条。
 
-**The following will result in health loss:-**
+**以下会使血量下降:-**
 
-- Getting 50 or Miss.
+- 打出50或Miss。
 
-**The following will reserve health in the health bar:-**
+**以下将保持血量在血量槽内:-**
 
-- None.
+- 无。
 
-## Skinning
+## 皮肤
 
-**[Refer to Skinning page of osu!mania for full information.][Skinning#osu!mania wikilink]**
+**[参考osu!mania皮肤的全部信息][Skinning#osu!mania wikilink]**
 
-## Beatmapping
+## 作图
 
-### osu!mania-specific Editor
+### osu!mania 专用编辑器
 
-![The osu!mania editor][osu!mania editor image]
+![osu!mania 专用编辑器][osu!mania 专用编辑器]
 
-_The osu!mania-specific editor_
+_osu!mania 专用编辑器_
 
-To access osu!mania-specific editor, change the beatmap to osu!mania-specific in Song Setup under Advanced tab.
-Do note that the beatmap will be locked to osu!mania only when the settings was changed from _All_ to _osu!mania_.
+访问 osu!mania 专用编辑器改变Advanced选项卡下的歌曲设置为 osu!mania 模式。
+请注意，只有将 _All_ 更改为 _osu!mania_ 时谱面才会锁定为 osu!mania。
 
-![Changing the key counts][osu!mania SSD image]
+![更改按键数][osu!mania SSD image]
 
-_Changing the enforced key count_
+_更改强制按键数_
 
-To change the enforce key count, go to Song Setup under Difficulty tab and adjust the _Key Count_.
-Enable the `Co-op mode` button to force _Co-Op_ game modifier when played, with doubled _Key Count_ to map on.
+在Song Setup下设置下难度标签并调整_Key数_以更改强制按键数。
+开启`Co-op 模式`强制游戏变成双倍_Key数_。
 
-## Trivia
+## 碎碎念
 
-### Gameplay
+### 玩法
 
-- If the key count is the same after using the xK or Co-Op modifier, no score reduction will be given.
-  - For example, for a 4K beatmap, using 2K and Co-Op modifier will not incur any score reduction.
-  - Respectively, for a 5K beatmap, using 5K modifier will also not incur any score reduction.
-  - Using xK or Co-Op modifier on osu!mania-specific beatmap will not incur any score reduction, too.
-- Mascot for osu!mania is [Maria][Mascots#Maria wikilink].
-- When played by [Auto][Auto wikilink], the player name will be _osu!topus_.
+- 当Key数和开启的xK或者Co-Op MOD后的Key数相同时，将不给予减分。
+  - 例如，一个4K谱面，使用2K+Co-Op后不会导致任何减分。
+  - 同理，对于5K谱面使用5K MOD时也不会减分。
+  - 在osu!mania中使用xK 或者 Co-Op MOD也将不会导致任何减分。
+- osu!mania的吉祥物是[Maria][Mascots#Maria wikilink]。
+- 当使用[Auto][Auto wikilink]游戏时，玩家的名字将变成_osu!topus_。
 
-### History
+### 历史
 
-![osu!mania logo in the Special Modes][osu!mania logo]
+![特殊模式中的osu!mania logo][osu!mania logo]
 
-_osu!mania logo in the deprecated Special Modes_
+_ 在弃置的特殊模式中的osu!mania logo_
 
-- osu!mania was released on [**08 October 2012 (2012-10-08)**, chiefly implemented by **woc2006**](http://osu.ppy.sh/forum/p/1825880).
-- The old osu!mania editor _used_ to require the beatmapper to place hit circles/sliders onto a osu! playfield, where it will then be transcribed onto the stage as proper notes based on position placed and hit objects used.
-- The first osu!mania-only beatmapset to be officially ranked is [fripSide - only my railgun (TV Size) (DJPop)](https://osu.ppy.sh/s/63089 "fripSide - only my railgun (TV Size) (DJPop)").
+- osu!mania 发布于 [**2012年10月08日(2012-10-08)**，主要由**woc2006**实现](http://osu.ppy.sh/forum/p/1825880).
+- 旧osu!mania 编辑器 _曾_要求谱面在osu!游戏页面放置打击圈/滑条，然后根据位置和打击对象用适当的音符将其转换到适当位置。
+- 第一张被正式ranked的osu!mania专谱谱面的是[fripSide - only my railgun (TV Size) (DJPop)](https://osu.ppy.sh/s/63089 "fripSide - only my railgun (TV Size) (DJPop)").
 
-## References
+## 查询标记
 
-- [Announcement post](http://osu.ppy.sh/forum/p/1825880)
+- [公告栏](http://osu.ppy.sh/forum/p/1825880)
