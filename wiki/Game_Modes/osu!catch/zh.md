@@ -12,7 +12,7 @@
 [osu! wikilink]: /wiki/Game_Modes/osu!/ "osu!"
 
 <!-- external -->
-[ouendan wikipedia]: https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "维基百科中的「押忍！战斗！应援团」页面"
+[ouendan wikipedia]: https://zh.wikipedia.org/wiki/%E6%8A%BC%E5%BF%8D%EF%BC%81%E6%88%B0%E9%AC%A5%EF%BC%81%E6%87%89%E6%8F%B4%E5%9C%98 "维基百科中的「押忍！战斗！应援团」页面"
 
 <!-- image -->
 [osu!catch logo]: /wiki/shared/CtB_logo.jpg "特殊模式下的 Catch the Beat 图标"
