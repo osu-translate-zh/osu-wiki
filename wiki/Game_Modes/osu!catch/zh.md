@@ -1,281 +1,278 @@
 <!-- wiki -->
-[Game_Modes wikilink]: ../ "Game Modes"
-[Play_Styles#osu!catch wikilink]: /wiki/Play_Styles/ "more info can be found on Play Styles under osu!catch"
-[Score#osu!catchSV wikilink]: /wiki/Score/#osu-catch "more info can be found on Score under osu!catch Scoring Values"
-[Options#Keyboard wikilink]: /wiki/Options/ "more info can be found on Options under Keyboard"
-[Skinning#osu!catch wikilink]: /wiki/Skinning/osu!catch/ "osu!catch Skinning"
-[Mascots#Yuzu wikilink]: /wiki/Mascots/#yuzu "more info can be found on Mascots under Yuzu"
-[Auto wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Auto"
-[Hidden wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Hidden"
-[Flashlight wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Flashlight"
-[Relax wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Relax"
+[Game_Modes wikilink]: ../ "游戏模式页面"
+[Play_Styles#osu!catch wikilink]: /wiki/Play_Styles/ "更多信息可以在玩法风格页面下的 osu!catch 一节找到"
+[Score#osu!catchSV wikilink]: /wiki/Score/#osu-catch "评分部分的介绍可以在 Score 文章的 osu!catch 得分值部分找到"
+[Options#Keyboard wikilink]: /wiki/Options/ "更多信息可以在设置中的键盘部分找到"
+[Skinning#osu!catch wikilink]: /wiki/Skinning/osu!catch/ "osu!catch 皮肤制作"
+[Mascots#Yuzu wikilink]: /wiki/Mascots/#yuzu "更多信息可以在吉祥物页面（英文）里的 Yuzu 部分找到"
+[Auto wikilink]: /wiki/Game_Modifiers "更多信息可以在游戏 Mod 页面里的 Auto 部分找到"
+[Hidden wikilink]: /wiki/Game_Modifiers "更多信息可以在游戏 Mod 页面里的 Hidden 部分找到"
+[Flashlight wikilink]: /wiki/Game_Modifiers "更多信息可以在游戏 Mod 页面里的 FlashLight 部分找到"
+[Relax wikilink]: /wiki/Game_Modifiers "更多信息可以在游戏 Mod 页面里的 Relax 部分找到"
 [osu! wikilink]: /wiki/Game_Modes/osu!/ "osu!"
 
 <!-- external -->
-[ouendan wikipedia]: https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Wikipedia entry for Osu! Tatakae! Ouendan"
+[ouendan wikipedia]: https://zh.wikipedia.org/wiki/%E6%8A%BC%E5%BF%8D%EF%BC%81%E6%88%B0%E9%AC%A5%EF%BC%81%E6%87%89%E6%8F%B4%E5%9C%98 "维基百科中的「押忍！战斗！应援团」页面"
 
 <!-- image -->
-[osu!catch logo]: /wiki/shared/CtB_logo.jpg "Catch the Beat logo in Special Mode"
+[osu!catch logo]: /wiki/shared/CtB_logo.jpg "特殊模式下的 Catch the Beat 图标"
 
 <!-- shared image -->
-[osu!catch icon link]: /wiki/shared/mode/catch.png "osu!catch icon"
-[osu!catch Playfield]: /wiki/shared/Catch_Playfield_27.jpg "osu!catch playfield difference based on CS"
-[Fruits image]: /wiki/shared/Catch_fruits.jpg "osu!catch fruits"
-[Fruit trails image]: /wiki/shared/Catch_trails.jpg "osu!catch fruit trails"
-[Bananas image]: /wiki/shared/Catch_bananas.jpg "osu!catch bananas"
-[Hyperfruit image]: /wiki/shared/Catch_hyperfruits.jpg "osu!catch hyperfruits"
-[osu!catch Interface image]: /wiki/shared/Interface_ctb.jpg "osu!catch Interface"
-[Options keyboard image]: /wiki/shared/Options_keyboard.jpg "Options Input icon, Keyboard section"
+[osu!catch icon link]: /wiki/shared/mode/catch.png "osu!catch 图标"
+[osu!catch Playfield]: /wiki/shared/Catch_Playfield_27.jpg "osu!catch 游戏区域大小的差异"
+[Fruits image]: /wiki/shared/Catch_fruits.jpg "osu!catch 中的水果"
+[Fruit trails image]: /wiki/shared/Catch_trails.jpg "osu!catch 中的水果轨迹"
+[Bananas image]: /wiki/shared/Catch_bananas.jpg "osu!catch 中的香蕉雨"
+[Hyperfruit image]: /wiki/shared/Catch_hyperfruits.jpg "osu!catch 中的超级水果"
+[osu!catch Interface image]: /wiki/shared/Interface_ctb.jpg "osu!catch 的界面"
+[Options keyboard image]: /wiki/shared/Options_keyboard.jpg "设置中的输入图标，键盘一节"
 
 <!-- Title -->
 
 # osu!catch
 
-**[Click to return to Game Modes page][Game_Modes wikilink]**
+**[点击返回到「游戏模式」页面][Game_Modes wikilink]**
 
 <!-- Uncomment the below and delete this comment if ScoreV2 is official and the whole page must be revised to fit ScoreV2 system behaviour -->
 <!-- **[Click here to visit the older version of osu!catch using deprecated ScoreV1 system](./v1 "osu!catch v1")** -->
 
 ![Gameplay of osu!catch][osu!catch Interface image]
 
-osu!catch, formerly known as _Catch the Beat_ or _CtB_, is a game mode that requires the player to control a character(catcher) who catches falling fruit in tune to the beat.
+osu!catch, 以前叫做 _Catch the Beat_ 或 _CtB_。这个游戏模式需要玩家控制游戏中的角色（接果人），让它能及时接住循节奏从上面掉下来的水果。 
 
-## ![osu!catch icon][osu!catch icon link] Gameplay
+## ![osu!catch icon][osu!catch icon link] 游玩
 
-### Song Selection
+### 谱面选择界面
 
-To access the osu!catch game mode, press `Ctrl`+`3` at the same time.
+要进入 osu!catch 模式，请同时按下 `Ctrl` + `3` 。
 
-Alternatively, click on the `Mode` button and select `osu!catch`.
+或者，点击左下角的 `Mode` 然后选择 `osu!catch`.
 
-### Gameplay Basics
+### 游玩基础
 
-#### Playfield
+#### 游戏区域
 
-![osu!catch playfield difference between CS2 and CS7][osu!catch Playfield]
+![osu!catch 游戏区域大小在 CS2 与 CS7 之间的差异][osu!catch Playfield]
 
-_Left is CS2 playfield and right is CS7 playfield_
+_图中左边是 CS 为 2 时的游戏区域大小，右边是 CS 值为 7 时的游戏区域大小。_
 
-The zoom size of the playfield is based on CS (Circle Size) settings, with lower CS means much more zoomed in and smaller space, while higher CS means much more zoomed out and larger movement space.
+游戏区域的缩放大小取决于谱面设定的 CS（即缩圈大小）值。CS 值越低，游戏区域的缩放程度就越大，角色的移动空间就会越窄。反之亦然，CS 值越高就意味着游戏区域缩放程度更小、角色的移动空间越宽。
 
-The catcher can move from left to right, with the fruits falling from top to bottom.
-The catcher cannot move pass the left and right walls of the playfield.
+接果人可以在屏幕底部左右移动，水果要从屏幕顶部逐渐掉落。
+但是接果人不能从屏幕一侧穿越到屏幕另一侧。
 
-All fruits will stay at the plate until its combo ends, which the fruits will bounce out of the plate.
-Timing and where it falls on the plate does not matter; either a full score for successful catch or miss.
+所有接到的水果在当前的连击中断前都会一直盛在盘内。连击中断后，盘内的水果就会弹出盘外。
+接水果的时机和掉在盘中的位置不会造成影响，两种情况下都可以判定为满分或 Miss 。
 
-#### Fruits
+#### 水果（Fruits）
 
-![Fruits][Fruits image]
+![水果][Fruits image]
 
-_Fruits are the hit circles of osu!catch, and it rains down from top of the screen_
+_水果就是 osu!catch 里的打击圆圈，它们从屏幕顶部逐渐落下。_
 
-To catch these fruits, make sure it falls to the plate and not over the plate.
-Collected fruits will always give 300 points each, increment combo by 1, and treated as 300 in result screen.
+要接到这些水果，确保水果正中水果盘，而不是掉在盘边上或者掉在盘外。
+每接到一个水果就会计 300 分并将连击数 +1 ，判定为结算界面中的 300 。
 
-#### Fruit trails
+#### 水果轨迹（ Fruit Trails ）
 
-![Fruit trails][Fruit trails image]
+![水果轨迹][Fruit trails image]
 
-_Fruit trails are the sliders of osu!catch_
+_水果轨迹就是 osu!catch 中的滑条。_
 
-A typical fruit trail will contains two fruits (start and end), droplets (slider path), juice drop (slider ticks), and more fruits for each reverse arrow points along with a reversed slider path.
-Droplet gives 10 points each and treated as 50 in result screen.
-Juice drop gives 30 points each, increment combo by 1, and treated as 100 in result screen.
+普遍情况下水果轨迹包含两个水果（处于轨迹起始和结束）、水滴（ Droplets -- 滑条路径）、果汁液滴（Juice Drops -- 滑条白点）。如果有反向路径，就会有更多水果来充当滑条的反向箭头；水果轨迹就会按照相反方向掉落。
+接到水滴会记 10 分，判定为结算页中的 50 。
+接到果汁液滴会计 30 分并将连击数加 1，判定为结算页的 100 。
 
-Missing the juice drop will break the combo (as it is a slider tick), but missing the droplet will not break the combo.
-However, missed droplets will not be shown in the local result screen, but will be shown in the website's leaderboard as _Miss Droplet_, which notably affects accuracy (missed out the droplet, which is a 50) and score (10 points for each droplet missed).
+如果 Miss 了水果液滴（Juice Drops）就会重置连击数（因为它相当于滑条白点），而水滴（Droplets）就不会。
+然而 Miss 的水滴（Droplets）尽管不会显示在游戏的结算页中，但会显示在谱面页面的排行榜的 _Miss Droplet_ 上。很明显，它还会影响你的准确度（每 Miss 一个就相当于少一个 50 判定）和总分数（每 Miss 一个就会少计 10 分）。
 
-#### Bananas
+#### 香蕉雨（Bananas）
 
-![Bananas][Bananas image]
+![香蕉雨][Bananas image]
 
-_Bananas serves as spinners in osu!catch._
+_香蕉雨就是 osu!catch 中的转盘。_
 
-Here, large bananas will rain down and shrink down to catch size as it falls down to the plate (or not).
-Each collected bananas will give a static score of 1,100 regardless of mod and combo multiplier.
+此时香蕉们会像下雨一样掉落，并随着掉落逐渐缩小到盘子大小。
+每接到一个香蕉就会加 1,100 分，Mod 和分数倍化器不影响该分数。  
+它并不会减少血条，因此你可以忽略这场~~可以白嫖的~~香蕉雨。
+但收集香蕉可以增加额外的分数，并且可以帮你恢复血条。
+值得注意的是，[Auto][Auto wikilink] Mod 可以超越极限将香蕉全部收集，无任何遗漏。
 
-The bananas can be ignored with no health penalty.
-However, it can cost the extra points and health recovery from collecting the bananas.
-Notably, [Auto][Auto wikilink] mod will go above and beyond to catch _all_ of the bananas without fail.
+#### 超级水果
 
-#### Hyperfruits
+![超级水果和接果人接到前一个超级水果后激活的冲刺效果][Hyperfruit image]
 
-![Hyperfruits, and catcher hyperdashing from collecting previous hyperfruit][Hyperfruit image]
+_左图：接果人接到超级水果之前；右图：接果人冲刺到水果前并留下残影_
 
-_Left: Before collecting the hyperfruit. Right: Catcher hyperdash to the next fruit and leaving an afterimage._
+超级水果非常特殊，它可以帮助接果人在时间跨度非常严苛、平常的移动速度无法接到的情况下接到接下来的水果。
+超级水果有一个特征，它的周围有一圈明显的红色。
 
-Hyperfruits are special fruits that will appear to help the catcher to catch the next fruit when normal dash is considered impossible to catch it in a strict timespan allocated.
-All hyperfruits have a signature red colour surrounding the hyperfruit itself by default.
+接到超级水果后，接果人的移动速度就会升级为 _冲刺速度_ （仅仅够接到下一个水果），颜色变成红色，并且还会在接到水果的地方留下暂时的红色残影，到接到（或者错失）下一个水果之后，接果人就会恢复正常。
 
-Collecting the hyperfruit will make the catcher's dash upgraded to _hyperdash_ (just fast enough to catch the next fruit), glows red, and leaves a temporary red _afterimage_ at the collection point, until the next one fruit was caught or dropped, which the catcher will then be back to normal.
+## 玩法风格
 
-## Play Styles
+**[参考《玩法风格》文章的 osu!catch 一节。][Play_Styles#osu!catch wikilink]**
 
-**[Refer to Play Styles page under osu!catch.][Play_Styles#osu!catch wikilink]**
+## 控制
 
-## Controls
+![设置中的键盘选项][Options keyboard image]
 
-![Options keyboard section][Options keyboard image]
+_[转到 设置 - 输入选项 中的 键盘设置，点击 “更改按键绑定” 按钮来更改相应的按键。][Options#Keyboard wikilink]_
 
-_[Refer to Options-&gt;Input under Keyboard section, specifically the Change keyboard bindings button to adjust the key settings][Options#Keyboard wikilink]_
+### 控制接果人
 
-### Catcher control
+- 默认情况下，按左方向键 `<-` 和右方向键 `->` 移动接果人。
+- 按住 `左 Shift`（或者 D ）和方向键可以让接果人以更快的 2 倍速度 _冲_ 到指定方向（此时接果人会变得更加明亮）。 
+  - 你也可以按住鼠标左键来激活它。
 
-- By default, the left `<-`(L) and right `->`(R) arrow keys to move the catcher.
-- Press and hold the `leftShift`(D) key with one of the arrow keys will make the catcher _dash_ in that direction at x2.0 speed (indicated with a **bright glow** from the catcher).
-  - Alternatively, press and hold the Left Click(D) button on the mouse to trigger the dash.
+普通模式下游戏中的光标不会控制接果人左右移动。
+但如果激活了 [Relax][Relax wikilink] Mod ，你就可以用光标来控制接果人了。
+不过此时你的成绩不会被上传，因为这种控制方法让 osu!catch 的唯一挑战变得毫无意义（固定的移动速度和接果盘的控制方式）。
 
-The placement of in-game cursor does not matter when playing normally.
-If [Relax][Relax wikilink] mod was enabled, the control of the catcher will be the in-game cursor instead.
-However, the play unrankable when Relax mod was enabled (as it defeats the only challenge of osu!catch; fixed catcher speed and catcher plate control).
+## 评分
 
-## Scoring
+_[评分部分的介绍可以在 Score 文章的 osu!catch 得分值部分查阅][Score#osu!catchSV wikilink]_
 
-_[Scoring Values can be found in Score under osu!catch Scoring Values section][Score#osu!catchSV wikilink]_
+评分一节详细介绍了评分系统的所有细节，包括数学公式。
 
-Scoring section details all the intricacies of scoring, including mathematical formula.
+### 等级
 
-### Grades
-
-Grade| Condition
+等级 | 条件
 :---:|:---
-SS | 100.00% Accuracy
-S  | 98.01% to 99.99% Accuracy (an 'S' rank is possible even with several misses, like in _osu!mania_).
-A  | 94.01% to 98.00% Accuracy
-B  | 90.01% to 94.00% Accuracy
-C  | 85.01% to 90.00% Accuracy
-D  | Any other accuracy under 85.00%.
+SS | 100.00% 准确度
+S  | 98.01% 到 99.99% 准确度（像 _osu!mania_ 一样，即使有几个 Miss 还是可以达到 S 等级）
+A  | 94.01% 到 98.00% 准确度
+B  | 90.01% 到 94.00% 准确度
+C  | 85.01% 到 90.00% 准确度
+D  | 85.00% 及以下准确度
 
-A silver S or SS can be obtained by using the _[Hidden][Hidden wikilink]_ and/or _[Flashlight][Flashlight wikilink]_ mod.
+你可以使用 _[Hidden][Hidden wikilink]_ 和 / 或 _[Flashlight][Flashlight wikilink]_ Mod 来获得银 S / SS 。
 
-### Accuracy
+### 准确度判定
 
-Accuracy is defined by how much caught over how much missed, excluding spinner's bananas.
+准确度由接到的水果的多少决定。香蕉雨不会影响准确度。
+换句话说：`准确度 = 接到的水果总数 / 总水果数`
 
-In other words: `Accuracy = Total numbers of fruits caught / Total number of fruits`
-
-Term | Formula
+名称 | 公式
 :---:|:---
-**Total numbers of fruits caught** | Droplets + Drops + Fruits
-**Total numbers of fruits**        | Misses + Miss droplets + Droplets + Drops + Fruits
+**接到的水果总数** | 水滴数 + 果汁液滴（Juice Drops）数 + 水果数
+**总水果数**        | Miss 的水果数 + Miss 的水滴（Droplets）数 + 水滴数 + 果汁液滴（Juice Drops）数 + 水果数
 
-**Exception:-**
+**例外情况：**
 
-- Note that bananas (or spinner fruit) are considered to be bonus or extra points obtainable and does not count towards accuracy.
+- 注意，香蕉（或者叫做转盘水果）作为可获得的额外奖励，并不会影响你的准确度。
+还有一点，如果使用 osu!API 计算准确度，水滴（ Droplets ）的判定计数会被计算在 **`count50`** 一项中；Miss 的水滴数会被计在 **`countkatu`** 一项。
 
-Note that if using the API to calculate the accuracy, number of droplets is under **count50** and number of miss droplets is under **countkatu**.
+### 分数
 
-### Score
+分数计算规则和 [osu!standard][osu! wikilink] 中的分数倍化规则是一样的
+但是和 osu!standard 不一样的是，水果的得分会不同于 osu!standard 。
 
-Scoring for osu!catch follows the same multiplier as in [osu!standard][osu! wikilink].
-However, the fruit that adds up the score is different from osu!standard.
+- 普通水果的得分是 300 乘以分数倍化系数。
+- 水果液滴（ Juice drops，滑条白点）计 100 分，不使用分数倍化器计算。
+- 最小的液滴（ Droplet，滑条路径 ）计 10 分，不使用分数倍化器计算。
+- 每个香蕉（即转盘的水果）得 1,100 分，Mod 和分数倍化器同样不影响计分。
 
-- A regular sized fruit gives a score of 300 times the multiplier.
-- A large juice drop (slider tick) gives a score of 100.
-- The smallest drop (also called "droplet", or slider trail/path) gives a score of 10.
-- Each collected bananas (collected during spinner duration) will give a static score of 1,100 regardless of mod and combo multiplier.
+osu!catch 中，连击不会因为 Miss 了水滴（ Droplets，在谱面分数排行榜被计为 _Miss Droplet_ ）而被打断，但通过接住水滴可以获得更高的精确度和分数。
 
-Combo will not be lost for missing droplets (considered as _Miss Droplet_ in server leaderboard) in this mode but a drop of Accuracy and score gain from it.
+`分数 = 打击分数 + (打击分数 * ((连击系数 * 难度系数 * Mod 系数) / 25))`
 
-`Score = Hit Value + [Hit Value * ((Combo multiplier * Difficulty multiplier * Mod multiplier) / 25)]`
+|     名称     |                        含义                         |
+|:------------:|:----------------------------------------------------|
+| **判定分数** | 打击圈的判定（50，100或300），滑条白点和转盘奖励分  |
+| **连击系数** | (这个音符前的连击数 - 1）或者 0；取两者中更高的一个 |
+| **难度系数** | 谱面的难度 (见下一节)                               |
+| **Mod 系数** | 所选 Mod 的系数                                     |
 
-Term | Meaning
-:---:|:---
-**Hit Value**             | The hit circle judgement (50, 100 or 300), any slider ticks, and spinner's bonus
-**Combo multiplier**      | (Combo before this hit - 1) or 0; whichever is higher
-**Difficulty multiplier** | The difficulty setting for the beatmap
-**Mod multiplier**        | The multiplier of the selected mods
+**注意：** osu!standard 和 osu!catch 的分数计算方法有一些差别：
 
-**Note:** There is a difference between osu!standard and osu!catch's scoring methods:-
+- 完成的转盘不会计 300 分，也不会增加连击计数。
+- 反向箭头处的水果会像接到普通的水果一样计分。
+  - 注意，反向箭头在 osu!standard 只计 30 分。
 
-- 300s and a combo increment are not given to a finished spinner
-- reverse slider ticks are counted as a full score of a hit
-  - note that in osu!standard, a reverse tick only gives 30 points
+### 打击物件的判定
 
-### Hit objects judgement
+**除香蕉外的所有物件**
 
-**All except bananas**
+- 接到水果等，得满分。
+- Miss ，得零分。
 
-- Full score when collected.
-- Miss when failed.
+**香蕉**
 
-**Bananas**
+- 每接到一个香蕉就会得 1,100 分（分值固定）。
+- 如果 Miss 了香蕉，不会影响任何判定。
 
-- Constant score of 1,100 per banana collected.
-- Nothing happens for missed bananas.
+### 分数 / 连击倍化器
 
-### Score/Combo Multiplier
+**以下情况可以使分数 / 连击倍化器的系数增加：**
 
-**The following each add a point to the score/combo multiplier:-**
+- 收集到水果。
+- 收集到果汁液滴（ Juice drops ）。
 
-- Collecting the fruits.
-- Collecting the juice drops.
+**以下情况可以使分数 / 连击倍化器的系数重置为零：**
 
-**The following will reset the score multiplier to zero:-**
+- Miss 了任何一个水果。
+- Miss 了任何一个果汁液滴（ Juice Drops ）。
 
-- Missed the fruits.
-- Missed the juice drops.
+**以下情况不会影响分数 / 连击倍化器：**
 
-**The following will not increase or reset the score multiplier:-**
+- 收集到小水滴（ Droplets ）。
+- 收集到香蕉。
 
-- Collecting the droplets.
-- Collecting the bananas.
+## 血条
 
-## Health bar
+用于计算血量增减的系统是复杂的，因此将不会详细详细解释。
+这一切都围绕着 HP 难度设置展开，只能由作图者自己设定。
 
-The system used to calculate health drain and health gain is complicated so it will not be explained in detail.
-It all revolves around the HP difficulty setting which can only be set by the mapper itself.
+**以下情况会恢复一点血量：**
 
-**The following will result in health recovery:-**
+- 收集到任何水果、果汁液滴（ Juice Drops ）、香蕉。
 
-- Collecting any fruits, juice drops, or bananas.
+**以下情况可以导致血量减少：**
 
-**The following will result in health loss:-**
+- 血量会随时间自然减少。
+- 不收集任何水果和果汁液滴（ Juice Drops ）。
 
-- Constant life drain.
-- Not collecting any fruits or juice drops.
+**以下情况不会导致血量增加或减少：**
 
-**The following will reserve health in the health bar:-**
+- 休息时段。
 
-- Break time.
+## 皮肤
 
-## Skinning
+**[更多信息请参考皮肤页面下的 osu!catch 一节。][Skinning#osu!catch wikilink]**
 
-**[Refer to Skinning page of osu!catch for full information.][Skinning#osu!catch wikilink]**
+## 作图
 
-## Beatmapping
+### osu!standard 的转谱
 
-### osu!standard conversion notes
+- 打击物件的水平坐标决定水果（滑条水果、水滴、果汁液滴）的位置。
+- 打击物件的现身取决于使该物件消失的时间设定。
+- 水果轨迹通过的速度和 osu!standard 上滑条球移动的速度一致。
+- 转盘可以生成香蕉雨。
 
-- Horizontal-axis placement determines the falling point of the fruits(hit circle) or fruit trails(slider).
-- The appearance is based on the timing set to clear it, as usual.
-- Speed of fruit trail is similar to slider ball speed.
-- Spinner creates a banana rain.
+**注意：** 超级水果由游戏自动生成。
 
-**Note:** Hyperfruits are automatically generated.
+## 杂项
 
-## Trivia
+### 游戏
 
-### Gameplay
+- [Auto][Auto wikilink] Mod _总会_ 收集全部的香蕉。
+- 如果分数计使用的是 `打击偏差` 模式，osu!catch 将一直使用 `色块模式`。
+- 在休息时段，玩家可以任意地移动游戏角色。
+- 和 osu!taiko 模式中的 pippidon 相似，接果人也有一个 Miss 动画。
+- 第一版的接果人是一个 Q 版的一本木龍太（ Ryuuta Ippongi ，来自 [应援团系列][ouendan wikipedia]）。在 2014 年以前它一直是默认的接水果角色，之后它被现在的接水果角色 [吉祥物 Yuzu][Mascots#Yuzu wikilink] 替代。
+- 如果使用了 [Auto][Auto wikilink] Mod，玩家的名字就会变成 _salad!_（~~水果~~沙拉）。
 
-- [Auto][Auto wikilink] will _always_ collect all the bananas.
-- If `Hit-error` was enabled, it will always use `Colour`.
-- The catcher can be moved around during any break.
-- The catcher has a Miss animation, much like osu!taiko pippidon's Miss animation.
-- The first default catcher was a chibified version of Ryuuta Ippongi (from [ouendan series][ouendan wikipedia]) until 2014, which was replaced by current catcher and mascot, [Yuzu][Mascots#Yuzu wikilink].
-- When played by [Auto][Auto wikilink], the player name will be _salad!_.
+### 游戏的历史
 
-### History
+[第一个 osu!catch 谱面的链接]:https://osu.ppy.sh/s/13676 "Yousei Teikoku - Dare so Ka no Gekka (TV Size) (NatsumeRin)，带有由 Uran 制作的 osu!catch 谱面"
 
-[first catch link]:https://osu.ppy.sh/s/13676 "Yousei Teikoku - Dare so Ka no Gekka (TV Size) (NatsumeRin), with the osu!catch beatmap guest mapped by Uran"
+![特别模式的 osu!catch 图标][osu!catch logo]
 
-![osu!catch logo in the Special Modes][osu!catch logo]
+_已废弃的特别模式下的 osu!catch (Catch the Beat) 图标_
 
-_osu!catch (Catch the Beat) logo in deprecated Special Mode_
-
-- Until 10 April 2012 (2012-04-10), osu!catch maps could not be ranked or be included in ranked maps.
-  However, this has now changed, and mappers may now make osu!catch-specific difficulties, provided they follow the guidelines.
-  These guidelines are very much a work in progress, but as more osu!catch maps are ranked and feedback is given from their players, the guidelines will evolve to be as thorough and comprehensive as the osu!standard guidelines.
-- The first ranked beatmapset which contains at least one osu!catch-specific beatmap is [Yousei Teikoku - Dare so Ka no Gekka (TV Size) (NatsumeRin), with the osu!catch beatmap guest mapped by Uran][first catch link]
-- The first ranked osu!catch-only beatmapset is [Rita - Hajimari no Toki (Deif)](https://osu.ppy.sh/s/91485 "Rita - Hajimari no Toki (Deif)")
+- 在 2012 年 4 月 10 日前，osu!catch 谱面不能被 Ranked 或出现在 Ranked 的谱面集中。
+  现在情况已经完全改变 ，只要玩家遵守作图规范，就可以针对 osu!catch 的难度进行作图。
+  尽管现在 osu!catch 的作图规范还在完善当中，但随着更多 Ranked 的 osu!catch 谱面出现，以及玩家对其所给予的反馈，osu!catch 的作图规范会慢慢向 osu!standard 靠拢，更加全面和广泛。
+- 第一个包含至少一个 osu!catch 的谱面是 [Yousei Teikoku - Dare so Ka no Gekka (TV Size) (NatsumeRin)，带有 Uran 制作的 osu!catch 谱面][第一个 osu!catch 谱面的链接]
+- 第一个仅包含 osu!catch 谱面的谱面集是 [Rita - Hajimari no Toki (Deif)](https://osu.ppy.sh/s/91485 "Rita - Hajimari no Toki (Deif)") 。
