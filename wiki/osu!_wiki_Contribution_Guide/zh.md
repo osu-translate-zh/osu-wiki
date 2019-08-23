@@ -1,50 +1,54 @@
----
-outdated: true
----
-
 # osu! wiki 贡献指南
 
-感谢你有兴趣让 osu! wiki 变得更好！现在，为 osu! wiki 作贡献，需要花费更多地时间和精力。这篇快速指南假设你是没有使用过 GitHub 和了解过 osu! wiki 贡献工作流的新人。如果你已经有使用 GitHub 的经验，你可以跳过这个指南，遵循一般的特性-分支（feature-branch）工作流来为仓库添加新的内容。
+感谢你有兴趣让 osu! wiki 变得更好！这篇快速指南是为没有使用过 GitHub 和了解过 osu! wiki 贡献工作流的新人。如果你已经有使用 GitHub 的经验，你可以跳过这个指南，遵循一般的特性-分支（feature-branch）工作流来为仓库添加新的内容。
 
-如果你对某些内容感到困惑，需要帮助，欢迎在 [osu!dev Discord 频道](https://discord.gg/ppy)中询问我们。
+如果你对某些内容感到困惑，需要帮助，欢迎在 [osu!dev Discord](https://discord.gg/ppy)(`#osu-wiki`频道)中询问我们。
 
 ## 开始
 
 ### 注册
 
-1\. 如果你没有 GitHub 账号，请[注册](https://github.com/join)一个。
+1. 如果你没有 GitHub 账号，请[注册](https://github.com/join)一个。
 
-2\. [登录](https://github.com/login)你的账号。
+2. [登录](https://github.com/login)你的账号。
 
-3\. 下一步：[服务端的仓库克隆](#服务端的仓库克隆)。
+3. 下一步：[服务端的仓库克隆](#服务端的仓库克隆)。
 
 ### 服务端的仓库克隆
 
-1\. 进入 [`osu-wiki` 仓库](https://github.com/ppy/osu-wiki)。
+1. 进入 [`osu-wiki` 仓库](https://github.com/ppy/osu-wiki)。
 
-2\. 点击 `Fork`。
+2. 点击 `Fork`。
 
 ![](img/fork.jpg)
 
-3\. 再次点击 `Fork`，进入你自己的仓库。
+3. 再次点击 `Fork`，进入你自己的仓库。
 
-4\. 看到如下图所示的内容，意味你已经克隆了 `ppy/osu-wiki` 仓库，并且处在你自己的仓库中。
+4. 看到如下图所示的内容，意味你已经克隆了 `ppy/osu-wiki` 仓库，并且处在你自己的仓库中。
 
 ![](img/forked.jpg)
 
-3\. 下一步：[同步你的仓库](#同步你的仓库)。
+3. 下一步：[同步你的仓库](#同步你的仓库)。
 
 ### 同步你的仓库
 
-1\. 在 `osu-wiki` 仓库中完成一些工作。
+1.到你的对应`osu-wiki`的仓库。
 
-2\. 当你添加、修改了文件以后，会有提示告诉当前分支"behind"（落后），"ahead"（超前）或者 "even"（同步）于 `ppy:master`。如果提示说 `This branch is {n} commits behind ppy:master`（当前分支落后于 ppy:master 分支 n 个提交），意味着你的分支已经过时了。
+2. 替换一个文件时，会有提示告诉当前分支"behind"（落后），"ahead"（超前）或者 "even"（同步）于 `ppy:master`。如果提示说这个分支是"behind"（落后）或是"ahead and behind"(超前且落后)于分支n个提交，意味着你的分支已经过时了。<!--本段不能准确翻译，附英文原版 2. Above the files, there is some text to tell you if your branch is either "behind", "ahead", or "even" with `ppy:master`. If it says that the branch is either "behind" or "ahead and behind" with any amount of behind-commits, your branch is outdated.-->
 
-3\. 这不是个大问题。只是你无法修改已经被修改的文件，这意味你的仓库落后于最新的提交。
+![](img/fork-even.jpg "OK \(没有新的提交 没有过时\)")
 
-4\. 为了解决这个问题，请看[常见问题——我的分支过期了！](/wiki/owcg/Common_Issues/#我的分支过期了！)。
+![](img/fork-ahead.jpg "OK \(这些是你的提交\)")
 
-5\. 当你完成了第 4 步，请转到 [在线编辑或本地编辑](#在线编辑或本地编辑)。
+![](img/fork-behind.jpg "Potentially bad \(你的分支已经过时\)")
+
+![](img/fork-ahead-behind.jpg "Potentially bad \(你的分支过时于你的提交\)")
+
+3. 这不是个大问题。只是你无法修改已经被修改的文件，这意味你的仓库落后于最新的提交。
+
+4. 为了解决这个问题，请看[常见问题——我的分支过期了！](/wiki/owcg/Common_Issues/#我的分支过期了！)。
+
+5. 当你完成了第 4 步，请转到 [在线编辑或本地编辑](#在线编辑或本地编辑)。
 
 ## 在线编辑或本地编辑
 
@@ -53,7 +57,7 @@ outdated: true
 - [GitHub 网页](/wiki/owcg/GitHub_Web_Interface) - 在线编辑；适合单篇文章的编辑
 - [GitHub Desktop](/wiki/owcg/GitHub_Desktop) - 本地编辑；这适合于单篇或者多篇文章的编辑（包括上传，删除，移动图片和文件）
 
-*提示：你在以上两种编辑方式中任选一种。*同时，也有一些第三方软件可以做类似于 GitHub 网页和Desktop所做的事情。
+*提示：你可以在以上两种编辑方式中任选一种。*同时，也有一些第三方软件可以做类似于 GitHub 网页和Desktop所做的事情。
 
 **当你阅读完成 *GitHub 网页* 或 *GitHub Desktop*，你可以继续阅读下一章节。**
 
@@ -61,43 +65,43 @@ outdated: true
 
 ### 开一个 Pull Request
 
-1\. 进入 [`ppy/osu-wiki` 仓库](https://github.com/ppy/osu-wiki)。
+1. 进入 [`ppy/osu-wiki` 仓库](https://github.com/ppy/osu-wiki)。
 
-2\. 你可能会看到以下的黄色横幅（banner）。
+2. 你可能会看到以下的黄色横幅（banner）。
 
 ![](img/github-recent.jpg)
 
-3\. 如果你看到了这个横幅，点击 `Compare & pull request` 按钮（跳到第8步）。如果没有，点击 `New pull request` 按钮（继续第4步）。
+3. 如果你看到了这个横幅，点击 `Compare & pull request` 按钮（跳到第8步）。如果没有，点击 `New pull request` 按钮（继续第4步）。
 
-4\. 在下一个页面，如果你看到两个如下图所示的按钮，点击 `compare across forks`。
+4. 在下一个页面，如果你看到两个如下图所示的按钮，点击 `compare across forks`。
 
 ![](img/compare-across-forks-no.jpg "No good.")
 
-![](img/compare-across-forks-yes.jpg "This is what you want to see.")
-
-5\. 点击 `head fork` 下拉菜单，选择有你的用户名的那一项（一般为第二项）。
+5. 点击 `head fork` 下拉菜单，选择有你的用户名的那一项（一般为第二项）。
 
 ![](img/head-fork.jpg)
 
-6\. 点击 `compare` 下拉菜单，选择你已经创建的那个分支，分支一般按字母排序。
+6. 点击 `compare` 下拉菜单，选择你已经创建的那个分支，分支一般按字母排序。
 
 ![](img/compare-branch.jpg)
 
-7\. 点击 `Create pull request`。
+7. 点击 `Create pull request`。
 
-8\. 输入英文的标题。一般标题命名方式是用方框括起来的两位语言代号，加上文章的标题。比如 `[FR] BBCode` 意味着 BBCode 这篇文章的法语翻译。
+8. 用英文简洁明了地输入标题，告诉其他人你干了什么。
 
-9\. 填写描述框中所需要的信息，你可以删除没有使用的部分。
+  如果这是翻译文本，在题目前加上用方框括起来的两位语言代号，题目只能是你正在翻译的文章的题目。比如 `[FR] BBCode` 意味着 BBCode 这篇文章的法语翻译。
 
-10\. 完成后，点击 `Create pull request`。
+9. 在描述框中填上更改的总结。你应当注意任何和你的Pull Request相关的信息，比如它的完成统计，和任何你想让审阅方知道的事。你也可以让你的Pull Reques通过写"resolves #1"或"closes #1"的方式自动关闭合并的争议，等等的操作可以在[Closing issues using keywords](https://help.github.com/articles/closing-issues-using-keywords/)中查询<!--本段不能准确翻译，附英文原版 9. Fill in the description box with a summary of your changes. You should mention any information relevant to your pull request, such as its completion status and anything you want reviewers to know. You can also make your pull request automatically close issues upon merge by writing "resolves #1" or "closes #1", etc. in the description (see [Closing issues using keywords](https://help.github.com/articles/closing-issues-using-keywords/) on GitHub Help).-->
 
-![](img/new-pull-request.jpg "Perfect")
+10. 完成后，点击 `Create pull request`。
 
-11\. 下一步： [审阅（reviews）](#审阅) 与 [合并（merging）](#合并) 。
+![](img/new-pull-request.png)
+
+11. 下一步： [审阅（reviews）](#审阅) 与 [合并（merging）](#合并) 。
 
 ### 审阅
 
-当你创建了 Pull Request 后，其他 osu! wiki 贡献者可能会审阅你的修改，帮助寻找一些你没有注意到的错误。 **你需要及时修正这些错误，** 否则你的 Pull Request 可能会被标记为“关闭”！如果你想要别人审阅你的 Pull Request，你可以在 [osu!dev Discord 频道](https://discord.gg/ppy)中寻求其他人的帮助，或者在 GitHub 的评论中说明。
+当你创建了 Pull Request 后，其他 osu! wiki 贡献者可能会审阅你的修改，帮助寻找一些你没有注意到的错误。 **你需要及时修正这些错误，** 否则你的 Pull Request 可能会被标记为“关闭”！如果你想要别人审阅你的 Pull Request，你可以在 [osu!dev Discord](https://discord.gg/ppy)(`#osu-wiki`频道)中寻求其他人的帮助，或者在 GitHub 的评论中说明。
 
 注：对于中文文章，你可以通过 `@osu-translate-zh` 来寻求 osu!中文翻译组织 的审阅。
 
