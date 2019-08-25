@@ -91,7 +91,7 @@
 
   如果这是翻译文本，在题目前加上用方框括起来的两位语言代号，题目只能是你正在翻译的文章的题目。比如 `[FR] BBCode` 意味着 BBCode 这篇文章的法语翻译。
 
-9. 在描述框中填上更改的总结。你应当注意任何和你的Pull Request相关的信息，比如它的完成统计，和任何你想让审阅方知道的事。你也可以让你的Pull Reques通过写"resolves #1"或"closes #1"的方式自动关闭合并的争议，等等的操作可以在[Closing issues using keywords](https://help.github.com/articles/closing-issues-using-keywords/)中查询<!--本段不能准确翻译，附英文原版 9. Fill in the description box with a summary of your changes. You should mention any information relevant to your pull request, such as its completion status and anything you want reviewers to know. You can also make your pull request automatically close issues upon merge by writing "resolves #1" or "closes #1", etc. in the description (see [Closing issues using keywords](https://help.github.com/articles/closing-issues-using-keywords/) on GitHub Help).-->
+9. 在描述框里面填写简要概括你所做工作的文字。尽可能填写与你 Pull Request 最切合的内容，比如这项工作的完成情况，和任何你想让审阅方知道的事。在里面填写 "resolves #1" 或 "closes #1" 还可以让 Pull Request 合并时自动关闭相应的 issue；更多的操作可以在 [Closing issues using keywords](https://help.github.com/articles/closing-issues-using-keywords/) 中查询。
 
 10. 完成后，点击 `Create pull request`。
 
