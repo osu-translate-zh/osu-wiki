@@ -32,7 +32,7 @@
 
 ### 同步你的仓库
 
-1.到你的对应`osu-wiki`的仓库。
+1. 到你的对应 `osu-wiki` 的仓库。
 
 2. 替换一个文件时，会有提示告诉当前分支"behind"（落后），"ahead"（超前）或者 "even"（同步）于 `ppy:master`。如果提示说这个分支是"behind"（落后）或是"ahead and behind"(超前且落后)于分支n个提交，意味着你的分支已经过时了。<!--本段不能准确翻译，附英文原版 2. Above the files, there is some text to tell you if your branch is either "behind", "ahead", or "even" with `ppy:master`. If it says that the branch is either "behind" or "ahead and behind" with any amount of behind-commits, your branch is outdated.-->
 
