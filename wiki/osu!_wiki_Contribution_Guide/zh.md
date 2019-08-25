@@ -2,7 +2,7 @@
 
 感谢你有兴趣让 osu! wiki 变得更好！这篇快速指南是为没有使用过 GitHub 和了解过 osu! wiki 贡献工作流的新人。如果你已经有使用 GitHub 的经验，你可以跳过这个指南，遵循一般的特性-分支（feature-branch）工作流来为仓库添加新的内容。
 
-如果你对某些内容感到困惑，需要帮助，欢迎在 [osu!dev Discord](https://discord.gg/ppy)(`#osu-wiki`频道)中询问我们。
+如果你对某些内容感到困惑，需要帮助，欢迎在 [osu!dev Discord](https://discord.gg/ppy)(`#osu-wiki`频道) 中询问我们。
 
 ## 开始
 
