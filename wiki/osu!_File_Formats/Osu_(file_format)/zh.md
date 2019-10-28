@@ -29,7 +29,7 @@ AudioFilename (String) 描述了音频文件相对于当前文件夹的位置。
 
 `AudioFilename: 03 artcore JINJA.mp3`
 
-AudioLeadIn (Integer, 毫秒) 在音乐开始播放前的时间。对即刻播放的音乐很有用。
+AudioLeadIn (Integer, 毫秒) 在音乐开始播放前添加的空白时间。可以给即刻播放的音乐一个准备时间。
 
 `AudioLeadIn: 2000`
 
