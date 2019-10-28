@@ -45,7 +45,7 @@ SampleSet (String) 决定使用哪组打击音效。
 
 `SampleSet: Soft`
 
-StackLeniency (Decimal) is how often closely placed hit objects will be stacked together.<!--NT-->
+StackLeniency (Decimal) 决定在时间上有多相近的两个坐标相同的物件会被判定为重叠。
 
 `StackLeniency: 0.7`
 
