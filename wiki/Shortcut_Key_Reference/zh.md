@@ -60,7 +60,6 @@ outdated: true
 
 注意：特殊模式如[Perfect或](/wiki/Game_Modifiers)[Nightcore需要多点击一次来选择](/wiki/Game_Modifiers)。
 
-![osu!模式列表（依次序绑定键盘）](Soloplay8.png "osu!模式列表（依次序绑定键盘）")
 
 -   **Q**：[Easy](/wiki/Game_Modifiers)
 -   **W**：[No Fail](/wiki/Game_Modifiers)
@@ -95,7 +94,6 @@ outdated: true
 
 #### 一般
 
-![How it would look like when you press H (Help) key](Edit_Help.jpg "How it would look like when you press H <Help> key")
 
 -   **H**：帮助（包括下列所有快捷键）
 
