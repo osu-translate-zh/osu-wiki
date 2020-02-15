@@ -10,7 +10,7 @@ We're back with another installment of the [Project Loved](https://osu.ppy.sh/co
 
 Welcome to the second [Project Loved](https://osu.ppy.sh/community/forums/120) showcase of March 2018! Continuing in the spirit of the last round of voting, this week we've featured a variety of maps, from wacky to weird to straight-up awesome. There are even some beginner-friendly candidates, which should be a welcome change for those of you who asked!
 
-For those unfamiliar with Project Loved, we hold bi-weekly votings for maps that are nominated to enter to the [Loved category](https://osu.ppy.sh/beatmapsets?s=8). Until the 1st of April, you'll be able to vote for or against adding each of the following maps to the Loved category. If the map receives at least 75% approval, leaderboards will added to it by early next week! To visit a map's poll, click on the map's image.
+For those unfamiliar with Project Loved, we hold bi-weekly votings for maps that are nominated to enter to the [Loved category](https://osu.ppy.sh/beatmapsets?s=loved). Until the 1st of April, you'll be able to vote for or against adding each of the following maps to the Loved category. If the map receives at least 75% approval, leaderboards will added to it by early next week! To visit a map's poll, click on the map's image.
 
 Below, you'll find headers to help you navigate through the news post. There are also videos showing off each modes' maps, provided by the [to the beat!](https://www.youtube.com/channel/UCIFsWU-grp6UgGgMm57FiGQ) YouTube channel.
 
@@ -18,10 +18,10 @@ This week has some awesome picks, so let's jump right in!
 
 ### Navigation
 
-[osu!](#osu)  
-[osu!taiko](#osutaiko)  
-[osu!catch](#osucatch)  
-[osu!mania](#osumania)
+- [osu!](#osu)
+- [osu!taiko](#osutaiko)
+- [osu!catch](#osucatch)
+- [osu!mania](#osumania)
 
 ## <a name="osu" id="osu"></a>osu!
 
@@ -65,7 +65,7 @@ Standing at 400+ favorites, [PantyDev](https://osu.ppy.sh/users/5420543)'s [Say 
 
 *written by [Toy](https://osu.ppy.sh/users/2757689)*
 
-At this point in time, it's likely safe to say that everyone who has played osu! has heard of the [original ranked FREEDOM DiVE map](https://osu.ppy.sh/beatmapsets/39804). Maybe lesser known is [Pikastar](https://osu.ppy.sh/users/412787)'s [rendition](https://osu.ppy.sh/beatmapsets/147210) of the timeless classic from 2014. A full 8-diff set ranging from 1.12\* to 7.77\*, anyone who loves the song but can't quite play the original will have something for them here. 170+ favorites and counting, this map has made its home in the songs folders for top players and new players alike. 
+At this point in time, it's likely safe to say that everyone who has played osu! has heard of the [original ranked FREEDOM DiVE map](https://osu.ppy.sh/beatmapsets/39804). Maybe lesser known is [Pikastar](https://osu.ppy.sh/users/412787)'s [rendition](https://osu.ppy.sh/beatmapsets/147210) of the timeless classic from 2014. A full 8-diff set ranging from 1.12\* to 7.77\*, anyone who loves the song but can't quite play the original will have something for them here. 170+ favorites and counting, this map has made its home in the songs folders for top players and new players alike.
 
 [![](/wiki/shared/news/2018-03-28-project-loved-week-of-march-25th/osu/the-king-of-lions.jpg)](https://osu.ppy.sh/community/forums/topics/721041)
 
@@ -227,7 +227,7 @@ Our last map in the list is a map by already classic mapper [CircusGalop](https:
 
 ---
 
-From everyone on the Project Loved team, we hope you enjoy this week's selection, and look forward to the next! The winning maps will hit the [beatmap listing](https://osu.ppy.sh/beatmapsets?s=8) sometime next week and will be announced via the [osugame twitter](https://twitter.com/osugame).
+From everyone on the Project Loved team, we hope you enjoy this week's selection, and look forward to the next! The winning maps will hit the [beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) sometime next week and will be announced via the [osugame twitter](https://twitter.com/osugame).
 
 If you have any suggestions for maps to be added to the Loved category, please submit them using the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform)!
 

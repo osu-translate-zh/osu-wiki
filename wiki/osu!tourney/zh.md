@@ -112,15 +112,15 @@ _基于玩家所在的格子，他们被分配到对应的窗口位置_
 
 底部控制面板描述：
 
-- `Sync music`: 如果音乐处于不同步的状态，您可以试图单击此按钮，osu!tourney 将尝试将音乐重新和击打音效同步。
-- `Toggle annotation`: 激活/取消激活自定义信息的显示，这将影响队伍得分计算。
-- `Panic`: 出现问题时请试图单击此按钮，例如：一个窗口没有观察到用户或窗口崩溃，这将重新初始化所有窗口。
-- `Exit`: 关闭 osu!tourney。
+- `Sync music`：如果音乐处于不同步的状态，您可以试图单击此按钮，osu!tourney 将尝试将音乐重新和击打音效同步。
+- `Toggle annotation`：激活/取消激活自定义信息的显示，这将影响队伍得分计算。
+- `Panic`：出现问题时请试图单击此按钮，例如：一个窗口没有观察到用户或窗口崩溃，这将重新初始化所有窗口。
+- `Exit`：关闭 osu!tourney。
 
 底部控制面板文本框描述：
 
-- `Annotation text`: 自定义信息的文本。
-- `Best Of`: 每个队伍需要赢得的谱面数量。
+- `Annotation text`：自定义信息的文本。
+- `Best Of`：每个队伍需要赢得的谱面数量。
 
 ## 多人房间创建和处理
 
@@ -205,7 +205,7 @@ osu!tourney 支持使用皮肤进行自定义修改，您可以设计并应用�
 ![osu!tourney 使用队伍图标。左边的图标文件名为 Team 1.png，右边的图标文件名为 Team 2.png](Skinning/Osutourneyicons.png "osu!tourney 使用队伍图标。左边的图标文件名为 Team 1.png，右边的图标文件名为 Team 2.png")
 
 您可以在皮肤文件夹创建您的团队图标(国家图标或玩家头像)。
-这些图标必须放置在该路径：`/osu!/Skins/User/tournament/icons`.
+这些图标必须放置在该路径：`/osu!/Skins/User/tournament/icons`。
 
 所有图标必须与队伍名称完全相同。
 如果您的房间叫 `Test Tourney: (Team 1) vs (Team 2)`，则您的图标必须命名为 `Team 1 和 Team 2`。
@@ -233,7 +233,7 @@ osu!tourney 支持使用皮肤进行自定义修改，您可以设计并应用�
 关闭任何 **副显示器** ！
 osu!tourney 只能在主显示器内运行。尝试关闭任何可用的副显示器，确保主显示器的分辨率大于客户端的分辨率 (默认：1280x720)。
 
-确保您 **没有使用管理员权限** 运行 osu! (除非 osu! 请求以管理员身份运行).
+确保您 **没有使用管理员权限** 运行 osu! (除非 osu! 请求以管理员身份运行)。
 确保您的 osu! 更新到最新的测试版！
 
 ### osu!tourney 无法打开，出现错误提示后就关闭了！
@@ -275,7 +275,7 @@ osu!tourney 只能在主显示器内运行。尝试关闭任何可用的副显�
 
 ### 如何直播我的比赛？
 
-要开始直播, 我们推荐使用 [Open Broadcaster Software](https://obsproject.com/)，但您也可以使用您喜欢的直播软件。
+要开始直播，我们推荐使用 [Open Broadcaster Software](https://obsproject.com/)，但您也可以使用您喜欢的直播软件。
 osu!tourney 顶部的分辨率可以修改，默认是 `1280x720`，请确保您的显示器分辨率大于此值。有关如何更改分辨率的信息，请阅读 **设置** 部分。
 不要忘记裁剪移除黑色控制面板！
 

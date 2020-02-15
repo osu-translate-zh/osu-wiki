@@ -1,9 +1,8 @@
-皮肤组列表
-=============
+# 皮肤组列表
 
 _父页面： [Ranking criteria](/wiki/Ranking_Criteria)_
 
-以下表格包含所有在皮肤草案中的出现的皮肤元素组，这些内容由 [UBKRC-Project](https://osu.ppy.sh/forum/t/480331) 起草，由 Ephemeral 命名。
+以下表格包含所有在皮肤草案中的出现的皮肤元素组，这些内容由 [UBKRC-Project](https://osu.ppy.sh/community/forums/topics/480331) 起草，由 Ephemeral 命名。
 
 ## osu!
 
@@ -33,7 +32,7 @@ _父页面： [Ranking criteria](/wiki/Ranking_Criteria)_
 |   hit300k(-n).png |                    应该与所有其他打击闪光有明显的区别                    | 必须 |         -          |
 |      lighting.png |                                    -                                     | 可选 |         -          |
 |    particle50.png |      应该与其他 Particles 一起使用；只会在包含自定义打击闪光时生效       | 可选 |       7x7px        |
-|   particle100.ong |      应该与其他 Particles 一起使用；只会在包含自定义打击闪光时生效       | 可选 |       7x7px        |
+|   particle100.png |      应该与其他 Particles 一起使用；只会在包含自定义打击闪光时生效       | 可选 |       7x7px        |
 |   particle300.png |      应该与其他 Particles 一起使用；只会在包含自定义打击闪光时生效       | 可选 |       7x7px        |
 | sliderpoint10.png | 应该与 sliderpoint30.png 一起使用；只会在自定义皮肤支持皮肤版本 1 时生效 | 可选 |         -          |
 | sliderpoint30.png | 应该与 sliderpoint10.png 一起使用；只会在自定义皮肤支持皮肤版本 1 时生效 | 可选 |         -          |
@@ -87,7 +86,7 @@ _父页面： [Ranking criteria](/wiki/Ranking_Criteria)_
 
 ### 转盘组
 
-除了 spinner-osu.png 和 spinner-rpm.png，所有皮肤元素与游戏有关。如果使用了「基本转盘样式（basic spinner style）」的元素，你**不应该**再使用「新皮肤样式（new spinner style）」的元素。
+除了 spinner-osu.png 和 spinner-rpm.png，所有皮肤元素与游戏有关。如果使用了「基本转盘样式（basic spinner style）」的元素，你 **不应该** 再使用「新皮肤样式（new spinner style）」的元素。
 
 因为在同时有两种皮肤元素时，基本转盘样式的元素的优先级会比新皮肤样式的元素高。新皮肤元素只会在自定义皮肤没有使用基本转盘样式，同时支持皮肤版本 2 或更高，或者谱面强制默认皮肤时使用。
 
@@ -115,7 +114,6 @@ _父页面： [Ranking criteria](/wiki/Ranking_Criteria)_
 
 |                        文件名 |                       注释                       | 要求 |              标准皮肤的推荐尺寸              |
 |------------------------------:|:------------------------------------------------:|:----:|:--------------------------------------------:|
-|            approachcircle.png | 应该在不包含 osu! 难度的谱面包中使用（共享图像） | 必须 |                  126x126px                   |
 |            taikobigcircle.png |                        -                         | 必须 |                  118x118px                   |
 | taikobigcircleoverlay(-n).png |                        -                         | 必须 |                  118x118px                   |
 |            taikohitcircle.png |                        -                         | 必须 |                  118x118px                   |
@@ -163,6 +161,8 @@ _父页面： [Ranking criteria](/wiki/Ranking_Criteria)_
 |  fruit-grapes-overlay.png |                                        -                                         | 必须 |     128x128px      |
 |          fruit-orange.png |                                        -                                         | 必须 |     128x128px      |
 |  fruit-orange-overlay.png |                                        -                                         | 必须 |     128x128px      |
+|            fruit-pear.png |                                        -                                         | 必须 |     128x128px      |
+|    fruit-pear-overlay.png |                                        -                                         | 必须 |     128x128px      |
 |         fruit-bananas.png |                           应该与其他水果的设计有所不同                           | 必须 |     128x128px      |
 | fruit-bananas-overlay.png |                           应该与其他水果的设计有所不同                           | 必须 |     128x128px      |
 |            fruit-drop.png |                                        -                                         | 必须 |      82x103px      |
@@ -260,7 +260,6 @@ Catchers 应该居中，宽度为 302px。
 |   comboburst-mania(-n).png |      应该朝向右边，显示在右边时会自动反转      | 可选 |     最高：768px     |
 |         comboburst(-n).png |      应该朝向右边，显示在右边时会自动反转      | 可选 |     最高：768px     |
 | menu-button-background.png |                 在排行榜上使用                 | 可选 | 最小分辨率 690x85px |
-|               menu-osu.png |           只在观察者的暂停屏幕上使用           | 可选 |          -          |
 |          multi-skipped.png |          多人模式：跳过开头的玩家显示          | 可选 |          -          |
 |          play-skip(-n).png |                       -                        | 可选 |          -          |
 |          play-unranked.png |                       -                        | 可选 |          -          |

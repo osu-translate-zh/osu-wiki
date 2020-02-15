@@ -1,14 +1,12 @@
-Objects
-==========
+# Objects
 
 ![SB object/sprite call](SBS_Sprite.jpg "SB object/sprite call")
 
-*For Objects in [osu!](/wiki/Game_Modes/osu!) and [Beatmapping](/wiki/Beatmapping), see [Hit Objects](/wiki/Hit_Objects).*
+*For objects in [osu!standard](/wiki/Game_Modes/osu!) and [Beatmapping](/wiki/Beatmapping), see: [Hit Objects](/wiki/Hit_Objects)*
 
 In [Storyboarding](/wiki/Storyboards), **Objects** are sprites or animations that appear on the screen and make up the storyboard. Instances of SB-specific audio can also be considered to be objects; however, for clarity, they have [their own section of this guide](/wiki/Storyboard_Scripting/Audio).
 
-Object Definition
------------------
+## Object Definition
 
 To call an instance of a sprite (a still image) or an animation, use a single line in the `[Events]` section of an .osb or .osu file.
 
@@ -19,20 +17,21 @@ To call an instance of a sprite (a still image) or an animation, use a single li
 Where:
 
 -   **(layer)** is the **[layer](/wiki/Storyboard_Scripting/General_Rules) the object appears on.** Valid values are:
-    -   Background
-    -   Fail
-    -   Pass
-    -   Foreground
+    -   0 - Background
+    -   1 - Fail
+    -   2 - Pass
+    -   3 - Foreground
 -   **(origin)** is where on the **image should osu! consider that image's origin (coordinate) to be.** This affects the (x) and (y) values, as well as several other command-specific behaviors. For example, choosing (origin) = TopLeft will let the (x),(y) values determine, where the top left corner of the image itself should be on the screen. Valid values are (note the spelling "Centre" not "Center"):
-    -   TopLeft
-    -   TopCentre
-    -   TopRight
-    -   CentreLeft
-    -   Centre
-    -   CentreRight
-    -   BottomLeft
-    -   BottomCentre
-    -   BottomRight
+    -   0 - TopLeft
+    -   1 - Centre
+    -   2 - CentreLeft
+    -   3 - TopRight
+    -   4 - BottomCentre
+    -   5 - TopCentre
+    -   6 - Custom (same effect as TopLeft, but should not be used)
+    -   7 - CentreRight
+    -   8 - BottomLeft
+    -   9 - BottomRight
 -   **(filepath)** is, in laymans terms, the **filename of the image you want.** But it's not always quite that simple:
     -   If you have a subfolder inside your Song Folder, you need to include that, as well.
         -   Example: "backgrounds/sky.jpg" if you have a subfolder called "backgrounds" with an image called "sky.jpg" in it. Start listing directories only from the Song Folder, where the .osu or .osb file is (i.e., a relative filepath). It should not have something like "C:" anywhere in it.
@@ -56,8 +55,7 @@ Where:
 
 Take note that *there is no indication of when the object should appear*. That is entirely up to [the commands themselves](/wiki/Storyboard_Scripting/Commands). The order of the object declarations in the .osu or .osb file only affects what overlaps what; it has no bearing on when the object appears (although it's conventional to keep the declarations ordered based on when they appear anyway).
 
-Examples
---------
+## Examples
 
 | Basic image | Moving image |
 | ----------- | ------------ |

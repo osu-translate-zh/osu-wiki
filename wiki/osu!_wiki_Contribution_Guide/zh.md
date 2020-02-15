@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # osu! wiki 贡献指南
 
 感谢你有兴趣让 osu! wiki 变得更好！现在，为 osu! wiki 作贡献，需要花费更多地时间和精力。这篇快速指南假设你是没有使用过 GitHub 和了解过 osu! wiki 贡献工作流的新人。如果你已经有使用 GitHub 的经验，你可以跳过这个指南，遵循一般的特性-分支（feature-branch）工作流来为仓库添加新的内容。
@@ -18,7 +22,7 @@
 
 1\. 进入 [`osu-wiki` 仓库](https://github.com/ppy/osu-wiki)。
 
-2\. 点击 `Fork`.
+2\. 点击 `Fork`。
 
 ![](img/fork.jpg)
 
@@ -28,13 +32,13 @@
 
 ![](img/forked.jpg)
 
-3\. 下一步：[同步你的仓库](#同步你的仓库).
+3\. 下一步：[同步你的仓库](#同步你的仓库)。
 
 ### 同步你的仓库
 
 1\. 在 `osu-wiki` 仓库中完成一些工作。
 
-2\. 当你添加、修改了文件以后，会有提示告诉当前分支"behind"（落后）, "ahead"（超前）或者 "even"（同步）于 `ppy:master`。如果提示说 `This branch is {n} commits behind ppy:master`（当前分支落后于 ppy:master 分支 n 个提交），意味着你的分支已经过时了。
+2\. 当你添加、修改了文件以后，会有提示告诉当前分支"behind"（落后），"ahead"（超前）或者 "even"（同步）于 `ppy:master`。如果提示说 `This branch is {n} commits behind ppy:master`（当前分支落后于 ppy:master 分支 n 个提交），意味着你的分支已经过时了。
 
 3\. 这不是个大问题。只是你无法修改已经被修改的文件，这意味你的仓库落后于最新的提交。
 
@@ -57,7 +61,7 @@
 
 ### 开一个 Pull Request
 
-1\. 进入 [`ppy/osu-wiki` 仓库](https://github.com/ppy/osu-wiki).
+1\. 进入 [`ppy/osu-wiki` 仓库](https://github.com/ppy/osu-wiki)。
 
 2\. 你可能会看到以下的黄色横幅（banner）。
 
@@ -79,7 +83,7 @@
 
 ![](img/compare-branch.jpg)
 
-7\. 点击 `Create pull request`.
+7\. 点击 `Create pull request`。
 
 8\. 输入英文的标题。一般标题命名方式是用方框括起来的两位语言代号，加上文章的标题。比如 `[FR] BBCode` 意味着 BBCode 这篇文章的法语翻译。
 

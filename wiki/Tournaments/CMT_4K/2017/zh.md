@@ -1,5 +1,4 @@
-2017年华人 osu!mania 4K 大赛
-=============================
+# 2017年华人 osu!mania 4K 大赛
 
 ![CMT 4K 2017](pic.png)
 
@@ -98,7 +97,7 @@ TB:
 
 ### 四分之一决赛
 
-[**点此下载全部**](https://1drv.ms/users/s!AuGED5b9f0uloUjg8WuPP1a5m3Gx)  
+[**点此下载全部**](https://1drv.ms/users/s!AuGED5b9f0uloUjg8WuPP1a5m3Gx)  
 - [DJ Genki feat. yukacco - Candy Star \[Noodle Star\]](https://osu.ppy.sh/beatmaps/1243769)
 - [Nauts - Second Run (Core Mix)  \[4K LN\]](https://osu.ppy.sh/beatmaps/1258021)
 - [Camellia - Singularity  \[Artificial Mind\]](https://osu.ppy.sh/beatmaps/1073952)
@@ -343,7 +342,7 @@ TB:
      - 玩家使用汉语作为主要语言。
      - 本次比赛对玩家排名无强制要求，建议 **mania模式** \#**4000** 排名之内的玩家参赛。
      - 如果参赛者在过去一年内于 osu!社区 或在比赛中有过不良记录，我们可能会取消其参赛资格。
-3. 报名成功的选手将收到确认邮件，同时也将被加入[公示名单](https://osu.ppy.sh/forum/t/576970)。
+3. 报名成功的选手将收到确认邮件，同时也将被加入[公示名单](https://osu.ppy.sh/community/forums/topics/576970)。
 4. 图池管理和比赛经理不得参赛。
 
 ### 比赛赛程
@@ -420,8 +419,8 @@ TB:
 ## 日程安排
 
 1. 原则上每个比赛阶段占用一个周末。
-2. 所有的比赛均在**UTC +8 时区**的周末进行。
-3. 所有比赛的时间，除另有说明，均使用**UTC +8 时区**。
+2. 所有的比赛均在 **UTC +8 时区** 的周末进行。
+3. 所有比赛的时间，除另有说明，均使用 **UTC +8 时区**。
 4. 小组赛可能同时进行多场。
 5. 日程安排由比赛组委会负责安排与发布，日程将在比赛开始前一周发布。若有选手特殊声明部分时间无法参加比赛，组委会会尽量根据参赛选手提供的可行时间对比赛时间进行协调，但不能保证可完全协调：
      - 若选手使用特殊的时区，请提前告知组委会。

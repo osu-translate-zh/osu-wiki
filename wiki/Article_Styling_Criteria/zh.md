@@ -46,7 +46,7 @@ _相关文章：[文章风格规范——新闻篇](/wiki/ASC/News)_
 
 ### 索引页
 
-所有文件夹 **必须** 至少包含一篇文章,即使它是一个 _索引页_ 。
+所有文件夹 **必须** 至少包含一篇文章，即使它是一个 _索引页_ 。
 
 索引页 **必须且只能** 链接到它的子文件夹，并且应该简短介绍它所链接到的文章。
 
@@ -174,7 +174,7 @@ Markdown 中的转义字符是反斜杠（`\`）。若要使用反斜杠，应�
 
 ##### 重定向
 
-为了简便， osu!wiki 提供了一套重定向系统。
+为了简便，osu!wiki 提供了一套重定向系统。
 
 所有的重定向对可以在 [`redirect.yaml`](https://github.com/ppy/osu-wiki/blob/master/wiki/redirect.yaml) 中找到，左边的是重定向缩写，右边的是它在 `/wiki/` 文件夹下所对应的文件夹。
 
@@ -199,16 +199,16 @@ Markdown 中的转义字符是反斜杠（`\`）。若要使用反斜杠，应�
 
 
 错误做法:  
-`[osuplayer111](https://osu.ppy.sh/u/osuplayer111)`  
-`[Agent Spin Here](https://osu.ppy.sh/u/Agent_Spin_Here)`
+`[osuplayer111](https://osu.ppy.sh/users/osuplayer111)`  
+`[Agent Spin Here](https://osu.ppy.sh/users/Agent_Spin_Here)`
 
 正确做法:  
-`[osuplayer111](https://osu.ppy.sh/u/33599 "Andrea")`  
-`[Agent Spin Here](https://osu.ppy.sh/u/41481 "Mashley")`
+`[osuplayer111](https://osu.ppy.sh/users/33599 "Andrea")`  
+`[Agent Spin Here](https://osu.ppy.sh/users/41481 "Mashley")`
 
 最佳做法:  
-`[Andrea](https://osu.ppy.sh/u/33599 "Andrea")`  
-`[Mashley](https://osu.ppy.sh/u/41481 "Mashley")`
+`[Andrea](https://osu.ppy.sh/users/33599 "Andrea")`  
+`[Mashley](https://osu.ppy.sh/users/41481 "Mashley")`
 
 也就是说，无论何时，都应该使用用户当前的用户名。
 
@@ -228,7 +228,7 @@ Markdown 中的转义字符是反斜杠（`\`）。若要使用反斜杠，应�
 {艺术家} - {标题} ({谱面作者}) [{难度名称}]
 ```
 
-此时请确保链接指向了对应的难度，链接格式应该为： `https://osu.ppy.sh/b/{谱面 ID}` 。
+此时请确保链接指向了对应的难度，链接格式应该为： `https://osu.ppy.sh/beatmaps/{谱面 ID}` 。
 
 ##### 谱面集
 
@@ -238,7 +238,7 @@ Markdown 中的转义字符是反斜杠（`\`）。若要使用反斜杠，应�
 {艺术家} - {标题} ({谱面作者})
 ```
 
-此时链接格式应该为： `https://osu.ppy.sh/s/{谱面集 ID}` 。
+此时链接格式应该为： `https://osu.ppy.sh/beatmapsets/{谱面集 ID}` 。
 
 ### 图片
 
@@ -300,7 +300,7 @@ _参见: [文章风格规范——图片篇](/wiki/Article_Styling_Criteria/Imag
 
 #### 中文标点
 
-不同的人对标点符号的喜好可能不一样，但是在 osu!wiki 的中文文章中应该使用 **简体中文** 标点（一般情况下此时输入法显示为半月、中文句号）,下面是常用中文标点表（不同的输入法可能略有不同，以该表为准）:
+不同的人对标点符号的喜好可能不一样，但是在 osu!wiki 的中文文章中应该使用 **简体中文** 标点（一般情况下此时输入法显示为半月、中文句号），下面是常用中文标点表（不同的输入法可能略有不同，以该表为准）:
 
 | 标点符号 | 名称 |
 |:---:|:---:|
@@ -338,7 +338,7 @@ _参见: [文章风格规范——图片篇](/wiki/Article_Styling_Criteria/Imag
 
 在一个句子中枚举词语时，使用顿号分隔。
 
-- _osu!_ 的游戏模式有: osu!standard 、 osu!taiko 、 osu!catch 和 osu!mania 。
+- osu! 的游戏模式有: osu!standard 、 osu!taiko 、 osu!catch 和 osu!mania 。
 
 #### 英文标点
 
@@ -367,4 +367,3 @@ _参见: [文章风格规范——图片篇](/wiki/Article_Styling_Criteria/Imag
 | For example: | 例如： |
 | Examples: | 例如： |
 | See also: | 参见：/ 另见： |
-

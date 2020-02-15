@@ -30,12 +30,12 @@
 <!-- external -->
 [ouendan wikipedia]: https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Page Wikipedia pour Osu! Tatakae! Ouendan"
 [Taiko no Tatsujin wikipedia]: https://en.wikipedia.org/wiki/Taiko_no_Tatsujin "Page Wikipedia pour Taiko no Tatsujin"
-[Skin Compendium link]: https://osu.ppy.sh/forum/t/180864 "Skin Compendium par deadbeat"
+[Skin Compendium link]: https://osu.ppy.sh/community/forums/topics/180864 "Skin Compendium par deadbeat"
 [Beatmaplist link]: https://osu.ppy.sh/p/beatmaplist "Liste des beatmaps officielles"
-[osu!tutorial basic]: https://osu.ppy.sh/s/3756 "osu!tutorial par peppy"
-[osu!tutorial rank]: https://osu.ppy.sh/s/19928 "osu!tutorial ranked par Sushi"
+[osu!tutorial basic]: https://osu.ppy.sh/beatmapsets/3756 "osu!tutorial par peppy"
+[osu!tutorial rank]: https://osu.ppy.sh/beatmapsets/19928 "osu!tutorial ranked par Sushi"
 [sort beatmaplist difficulty]: https://osu.ppy.sh/?p=beatmaplist&s=3 "Liste des beatmaps triées par difficulté croissante"
-[Taiko by LuigiHann link]: https://osu.ppy.sh/forum/t/41319 "Skin Taiko version 6.0 par LuigiHann"
+[Taiko by LuigiHann link]: https://osu.ppy.sh/community/forums/topics/41319 "Skin Taiko version 6.0 par LuigiHann"
 
 <!-- image -->
 [Profile_Mode_Buttons image]: ./Profile_mode_buttons.gif "Boutons des modes de jeu sur la page de profil"
@@ -102,7 +102,7 @@ Différents styles de jeu peuvent être trouvés sur la page des [styles de jeu]
 Il y a quelques musiques qui vont pousser la souris et le joueur à leurs limites, mais toutes les beatmaps (classées ou approuvées) ont été testées et (la plupart) sont passables en utilisant seulement la souris.
 
 #### Bases du gameplay
-_Tutoriel: [(Accompagne osu! PC) Tutoriel original][osu!tutorial basic], [version classée de la beatmaps][osu!tutorial rank]_
+_Tutoriel: [(Accompagne osu! PC) Tutoriel original][osu!tutorial basic], [version classée de la beatmaps][osu!tutorial rank]_
 
 Le gameplay met l'accent sur:
 
@@ -184,7 +184,7 @@ Les contrôles par défaut d'osu! sont:
 
 Souris|Clavier|Tablette/Écran Tactile
 ---|---|---|
-Clic gauche(M1) / Clic droit(M2)|`Z`(K1) / `X`(K2)|Touché de l'écran(M1)
+Clic gauche(M1) / Clic droit(M2)|`Z`(K1) / `X`(K2)|Touché de l'écran(M1)
 
 Les hit objects sur osu! acceptent n'importe quelle entrée de l'appareil, tant que chaque hit object est tapé à temps.
 
@@ -205,7 +205,7 @@ Les spinners iront à la vitesse du mod [Spun Out][Spun Out wikilink].
 _Image montrant la boîte à outils Mode dans la Sélection des Musiques (Solo)_
 
 Cliquez sur le bouton `Mode` pour **ouvrir une liste des modes de jeu disponibles sur osu!**.
-Cliquez sur le mode de jeu voulu. _osu!_ changera donc de mode de jeu, les leaderboards se mettront également à jour.
+Cliquez sur le mode de jeu voulu. osu! changera donc de mode de jeu, les leaderboards se mettront également à jour.
 Autrement, appuyez sur `Ctrl` puis `1` (![icône d'osu!][osu! icon link] _[osu!standard][osu! wikilink])_ / `2` ( ![icône d'osu!taiko][osu!taiko icon link] _[osu!taiko][osu!taiko wikilink]_) / `3` (![icône d'osu!catch][osu!catch icon link] _[osu!catch][osu!catch wikilink]_) / `4` (![icône d'osu!mania][osu!mania icon link] _[osu!mania][osu!mania wikilink]_) sur votre clavier pour facilement changer de mode de jeu.
 
 ### Qu'est-ce qu'osu!taiko?
@@ -217,7 +217,7 @@ _Interface en jeu d'osu!taiko_
 
 _[Taiko no Tatsujin][Taiko no Tatsujin wikipedia]_ est un jeu de rythme de tambour taiko fait par _Namco_ (maintenant Namco Bandai).
 Le jeu implique la simulation d'un tambour de taiko au rythme de la musique.
-Dans _osu!_, les beatmaps peuvent être jouées avec le même style que celui de _Taiko no Tatsujin_ en passant par le mode de jeu osu!taiko.
+Dans osu!, les beatmaps peuvent être jouées avec le même style que celui de _Taiko no Tatsujin_ en passant par le mode de jeu osu!taiko.
 
 #### Explication basiques
 ##### Champs de jeu
@@ -295,8 +295,8 @@ Les contrôles par défaut pour osu!taiko sont:
 
 Type | Souris | Clavier | TaTaCon
 ---|---|---|---
-Rouge | Click gauche (L) | `X`(G) / `C`(D) | Surface plate du tambour
-Bleu | Click droit (L) | `Z`(G) / `V`(D) | Bords du tambour
+Rouge | Click gauche (L) | `X`(G) / `C`(D) | Surface plate du tambour
+Bleu | Click droit (L) | `Z`(G) / `V`(D) | Bords du tambour
 
 La position du curseur n'est pas utilisée.
 
@@ -311,7 +311,7 @@ _Explication complète: [osu!catch][osu!catch wikilink]_
 
 _Interface en-jeu d'osu!catch_
 
-osu!catch (anciennement connu sous le nom de _Catch the Beat_) est le deuxième mode de jeu ajouté à _osu!_, après osu!taiko.
+osu!catch (anciennement connu sous le nom de _Catch the Beat_) est le deuxième mode de jeu ajouté à osu!, après osu!taiko.
 
 Au lieu de taper des cercles en rythme, il faut déplacer un attrapeur afin d'intercepter les fruits tombant du haut de l'écran.
 
@@ -389,7 +389,7 @@ _Explication complète: [osu!mania][osu!mania wikilink]_
 
 _Interface en-jeu d'osu!mania_
 
-osu!mania est le troisième mode de jeu ajouté à _osu!_, après osu!taiko et osu!catch.
+osu!mania est le troisième mode de jeu ajouté à osu!, après osu!taiko et osu!catch.
 
 Ce mode est très utilisé dans la plupart des jeux de rythme majeurs.
 Il demande une bonne coordination main et/ou jambes comme les notes (et leur quantité, calculée avec le BPM et la difficulté) se déplacent sur un tapis-roulant.
@@ -540,7 +540,7 @@ D    | Tout le reste.
 ## Points de Performance
 _Explication complète: [Performance Points][Performance Points wikilink]_
 
-Les points de performance(pp) est une métrique de classement visant à être plus pertinente par rapport au contexte d'un jeu continuel tel qu'_osu!_.
+Les points de performance(pp) est une métrique de classement visant à être plus pertinente par rapport au contexte d'un jeu continuel tel qu'osu!.
 Elle vise à mettre en valeur les compétences du joueur plutôt que le temps joué.
 Les points de performance sont énormément basés sur la difficulté de la map, déterminé par un algorithme unique à chaque mode de jeu.
 Basé sur la difficulté seule, chaque score se verra attribué un classement et un valeur de pp.
@@ -565,17 +565,17 @@ N'oubliez juste pas de vous connecter avec un _compte osu!_ auparavant pour pouv
 **Non**, car, à l'instar des vidéos, c'est un élément de gameplay (au même titre que les hit objects), et ne peut donc pas être désactivé.
 
 #### les maps sont trop difficiles ! Où trouver des maps plus faciles ?
-Pour _osu!_, **Pokebis** a compilé des beatmaps pour débutants.
-Ce peut être trouvé ici: <https://osu.ppy.sh/forum/t/5456>
+Pour osu!, **Pokebis** a compilé des beatmaps pour débutants.
+Ce peut être trouvé ici: <https://osu.ppy.sh/community/forums/topics/5456>
 
 Pour osu!taiko, **OnosakiHito** a compilé des beatmaps pour apprendre osu!taiko.
-Ce peut être trouvé ici: <https://osu.ppy.sh/forum/t/175867>
+Ce peut être trouvé ici: <https://osu.ppy.sh/community/forums/topics/175867>
 
 Pour osu!catch, **Kingkevin30** a compilé un super liste de maps osu!catch ainsi que des explications basiques sur osu!catch.
-Ce peut être trouvé ici: <https://osu.ppy.sh/forum/t/131067>
+Ce peut être trouvé ici: <https://osu.ppy.sh/community/forums/topics/131067>
 
 Pour osu!mania, **Entozer** a compilé une liste basée sur la difficulté de chaque map, avec **Drace** fournissant des conseils avancés pour les débutants d'osu!mania.
-Ces deux listes peuvent être trouvées ici: <https://osu.ppy.sh/forum/t/147552> (guide de beatmaps d'**Entozer**), et <https://osu.ppy.sh/forum/t/146615> (guide de perfectionnement de **Drace**)
+Ces deux listes peuvent être trouvées ici: <https://osu.ppy.sh/community/forums/topics/147552> (guide de beatmaps d'**Entozer**), et <https://osu.ppy.sh/community/forums/topics/146615> (guide de perfectionnement de **Drace**)
 
 Aussi, [la version classée du osu! tutorial][osu!tutorial rank] est un bon excercice pour certains design de mapping.
 C'est une excellent map à la fois pour les débutants ainsi que pour les joueurs avancés.
@@ -583,7 +583,7 @@ C'est une excellent map à la fois pour les débutants ainsi que pour les joueur
 Autrement, la barre de recherche du site a une option pour [ranger les beatmaps par difficulté][sort beatmaplist difficulty].
 Les maps les plus faciles seront tout en haut de la liste.
 
-Enfin, **Rivenation** a fait un projet [avancé de recherche de beatmaps](https://osu.ppy.sh/forum/t/380485 "osu!search - Advanced beatmap searching par Rivenation") nommé [osu!search](http://osusearch.com/ "osu!search") qui, en plus de proposer les options du site web officiel, permet de définir des prérequis.
+Enfin, **Rivenation** a fait un projet [avancé de recherche de beatmaps](https://osu.ppy.sh/community/forums/topics/380485 "osu!search - Advanced beatmap searching par Rivenation") nommé [osu!search](http://osusearch.com/ "osu!search") qui, en plus de proposer les options du site web officiel, permet de définir des prérequis.
 Cette barre de recherche non officielle peut être trouvée ici: <http://osusearch.com/>.
 
 #### Que fait le niveau sur ma page de profil ?
@@ -595,7 +595,7 @@ Le niveau est basé sur le score total accumulé en ligne, peut importe si la ma
 [La formule ici][Score#Level wikilink].
 
 #### Pourquoi mes statistiques en-jeu sont différentes ?
-N'oubliez pas qu'_osu!_ a quatre modes de jeu, vous regardez probablement le mauvais.
+N'oubliez pas qu'osu! a quatre modes de jeu, vous regardez probablement le mauvais.
 
 ![Profile_Mode_Buttons][Profile_Mode_Buttons image]
 
@@ -621,13 +621,13 @@ Comme ce n'est pas un écran de replay standard, utilisez `Esc` pour retourner �
 Réessayer la partie est impossible dans cet état.
 C'est actuellement possible uniquement en solo lors de l'écran de game over.
 **ce replay ne sera pas sauvegardé ni exporté.**
-Pour enregistrer un replay de partie ratée, vous devrez utiliser un logiciel tierce puisqu'_osu!_ ne possède pas de moyen d'exporter un replay de partie ratée.
+Pour enregistrer un replay de partie ratée, vous devrez utiliser un logiciel tierce puisqu'osu! ne possède pas de moyen d'exporter un replay de partie ratée.
 
 #### Est-ce qu'osu! a des raccourcis clavier ?
 _Liste complète: [Shortcut Key Reference][Shortcut Key Reference wikilink]_
 
-Appuyer sur la touche `Insert` (pour la configuration par défaut) cachera, mettra en pause (si en partie) et rendra _osu!_ muet dans la barre latérale de _Windows_.
-Trouvez le _osu!logo_ dans la barre  latérale _Windows_, et cliquez dessus pour retourner dans _osu!_, dans l'état dans lequel vous l'avez laissé.
+Appuyer sur la touche `Insert` (pour la configuration par défaut) cachera, mettra en pause (si en partie) et rendra osu! muet dans la barre latérale de _Windows_.
+Trouvez le _osu!logo_ dans la barre  latérale _Windows_, et cliquez dessus pour retourner dans osu!, dans l'état dans lequel vous l'avez laissé.
 Elle est appelée la **Boss key**, et peut être modifiée dans `Configurer les touches` (dans `Options`, sous la section _Clavier_), localisée à la fin de la section _Universal_.
 
 Un autre raccourci intéressant est `Alt`+`Enter`.
@@ -635,16 +635,16 @@ Il permet d'activer/désactiver le mode plein écran `Options`, mais ne fonction
 
 #### Que devrais-je sauvegarder avant d'installer osu! sur un nouvel appareil ?
 Tout le dossier `osu!`, ce qui inclut les fichiers cachés.
-Après avoir lancé `osu!install.exe` et complété l'installation d'_osu!_, copiez la sauvegarde du dossier `osu!` et mettez-la dans le nouveau dossier `osu!`.
+Après avoir lancé `osu!install.exe` et complété l'installation d'osu!, copiez la sauvegarde du dossier `osu!` et mettez-la dans le nouveau dossier `osu!`.
 Si l'on vous demande de fusionner des `.dll` ou des `.exe`, ignorez-les.
 Fusionnez tout le reste, ce qui inclut les`.cfg` et `.db`.
 
 #### Puis-je utiliser osu! sur un téléphone ?
 _iste complète: [Game Modes under External Ports section][Game Modes#External Ports wikilink]_
 
-Le _osu!_ actuel ne supporte pas les téléphones.
+Le osu! actuel ne supporte pas les téléphones.
 
-Cependant, il y a des portages non officiels d'_osu!_ et un jeu officiel sur iOS qui utilise ses propres classements.
+Cependant, il y a des portages non officiels d'osu! et un jeu officiel sur iOS qui utilise ses propres classements.
 
 Les plus notables sont:
 
@@ -699,7 +699,7 @@ Ce bouton ne fonctionne que si un dossier nommé `taiko` (la casse ne compte pas
 Lorsqu'activé, il utilisera les élémentes de skin du dossier `taiko`, peut importe le skin taiko actuellement utilisé.
 Si le dossier `taiko` n'est pas trouvé, ou désactivé, il utilisera les éléments de skin par défaut.
 
-**Acienne note:** le dossier `taiko` contenait le skin _[Taiko by LuiginHann][Taiko by LuigiHann link]_, qui pouvait être téléchargé depuis le désormais inutilisé `osume.exe` (un updater _osu!_ quand _osu!_ devait être mis à jour) sous l'onglet Skin.
+**Acienne note:** le dossier `taiko` contenait le skin _[Taiko by LuiginHann][Taiko by LuigiHann link]_, qui pouvait être téléchargé depuis le désormais inutilisé `osume.exe` (un updater osu! quand osu! devait être mis à jour) sous l'onglet Skin.
 Comme le bouton ne vérifie pas que le contenu correspond au skin de _LuigiHann_, il a été utilisé par la communauté comme dossier de skin global.
 
 ### Beatmapping
@@ -710,9 +710,9 @@ _Pour map non-classée seulement._
 
 Veuillez suivre ces étapes:
 
-1. Quittez l'éditeur (ou fermez _osu!_) pour s'assurer que les changements ont été sauvegardés
+1. Quittez l'éditeur (ou fermez osu!) pour s'assurer que les changements ont été sauvegardés
 2. Vérifiez le nom du dossier de la beatmap
-   - S'il commence avec des nombres, supprimez-les. Sinon, _osu!_ prendra cela comme un BeatmapSetID
+   - S'il commence avec des nombres, supprimez-les. Sinon, osu! prendra cela comme un BeatmapSetID
 3. Assurez-vous que le `.mp3` ne commence pas avec des nombres. Éditez le nom dans le fichier `.osu` si c'est le cas.
 4. Ouvrez tous les fichiers `.osu` avec un éditeur de texte (_Notepad_ fonctionnera)
    - Définissez votre nom comme celui du créateur (et remplacez-le dans le nom du fichier aussi)
@@ -722,10 +722,10 @@ Veuillez suivre ces étapes:
 ## Crédits
 - FAQ web de peppy (`/p/faq/` sur laquelle cette page est basée; supprimée)
 - Peter Lambert - osu! tutorial ([Original tutorial][osu!tutorial basic], [Ranked beatmap ver.][osu!tutorial rank])
-- Pokebis's Beginner's Training [\[1\]](https://osu.ppy.sh/forum/t/5456 "Beginner Training by Pokebis")
-- OnosakiHito's TBT Project [Training Manual For Taiko Beginner v2] [\[2\]](https://osu.ppy.sh/forum/t/175867 "TBT Project \[Training Manual For Taiko Beginner v2\] by OnosakiHito")
-- Kingkevin30's CBT Project [\[3\]](https://osu.ppy.sh/forum/t/131067 "CBT Project by Kingkevin30")
-- Entozer's osu!mania maps, sorted by difficulty  [\[4\]](https://osu.ppy.sh/forum/t/147552 "osu!mania maps, sorted by difficulty by Entozer")
-- Drace's \[GUIDE\] How to improve in osu!mania [\[5\]](https://osu.ppy.sh/forum/t/147552 "\[GUIDE\] How to improve in osu!mania by Drace")
-- Rivenation's osu!search - Advanced beatmap searching [\[6\]](https://osu.ppy.sh/forum/t/380485 "osu!search - Advanced beatmap searching by Rivenation")
+- Pokebis's Beginner's Training [\[1\]](https://osu.ppy.sh/community/forums/topics/5456 "Beginner Training by Pokebis")
+- OnosakiHito's TBT Project [Training Manual For Taiko Beginner v2] [\[2\]](https://osu.ppy.sh/community/forums/topics/175867 "TBT Project \[Training Manual For Taiko Beginner v2\] by OnosakiHito")
+- Kingkevin30's CBT Project [\[3\]](https://osu.ppy.sh/community/forums/topics/131067 "CBT Project by Kingkevin30")
+- Entozer's osu!mania maps, sorted by difficulty  [\[4\]](https://osu.ppy.sh/community/forums/topics/147552 "osu!mania maps, sorted by difficulty by Entozer")
+- Drace's \[GUIDE\] How to improve in osu!mania [\[5\]](https://osu.ppy.sh/community/forums/topics/147552 "\[GUIDE\] How to improve in osu!mania by Drace")
+- Rivenation's osu!search - Advanced beatmap searching [\[6\]](https://osu.ppy.sh/community/forums/topics/380485 "osu!search - Advanced beatmap searching by Rivenation")
 - Wikipedia [\[7\]][ouendan wikipedia], [\[8\]][Taiko no Tatsujin wikipedia]

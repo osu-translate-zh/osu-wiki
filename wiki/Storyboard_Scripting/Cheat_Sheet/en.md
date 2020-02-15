@@ -1,10 +1,8 @@
-Cheat Sheet
-============
+# Cheat Sheet
 
-Original Post: [*[Official Specifications] Storyboarding by Scripting* by: Echo](https://osu.ppy.sh/forum/t/1869)
+Original Post: [*[Official Specifications] Storyboarding by Scripting* by: Echo](https://osu.ppy.sh/community/forums/topics/1869)
 
-Storyboarding by Scripting
---------------------------
+## Storyboarding by Scripting
 
 In the .osu file, under [Events]: *Note: underscores can be replaced with spaces.*
 
@@ -16,9 +14,9 @@ Static Sprite:
 
 ```
 Sprite,"layer","origin","filepath",x,y
-_event, easing, starttime, endtime, [params]
-_event, [...]
-_event, [...]
+_event, easing, starttime, endtime, [params]
+_event, [...]
+_event, [...]
 ```
 
 Animation:
@@ -26,8 +24,8 @@ Animation:
 ```
 Animation,"layer","origin","filepath",x,y,frameCount,frameDelay,looptype
 _event,easing,starttime,endtime,[params]
-_event, [...]
-_event, [...]
+_event, [...]
+_event, [...]
 ```
 
 **For animations, specify a filename like "sliderball.png", and name your files "sliderball0.png" to "sliderball9.png" for a 10 frame animation.**
@@ -41,24 +39,25 @@ Z-order (back to front) is determined by the order the files appear in the .osu 
 
 **layer**:
 
--   Background
--   Fail
--   Pass
--   Foreground
+-   0 - Background
+-   1 - Fail
+-   2 - Pass
+-   3 - Foreground
 
 *Note: Background and Foreground are always visible.*
 
 **origin**:
 
--   TopLeft
--   TopCentre
--   TopRight
--   CentreLeft
--   Centre
--   CentreRight
--   BottomLeft
--   BottomCentre
--   BottomRight
+-   0 - TopLeft
+-   1 - Centre
+-   2 - CentreLeft
+-   3 - TopRight
+-   4 - BottomCentre
+-   5 - TopCentre
+-   6 - Custom (same effect as TopLeft, but should not be used)
+-   7 - CentreRight
+-   8 - BottomLeft
+-   9 - BottomRight
 
 All Rotations and Size changes (Including Vector Scaling) are affected by origin.
 
@@ -146,8 +145,8 @@ would create events:
 
 ```
 _event,easing,starttime,endtime,val1,val2
-_event,easing,starttime + duration,endtime + duration,val2,val3
-_event,easing,starttime + 2duration,endtime + 2duration,val3,val4
+_event,easing,starttime + duration,endtime + duration,val2,val3
+_event,easing,starttime + 2duration,endtime + 2duration,val3,val4
 ```
 
 etc.
@@ -176,8 +175,8 @@ becomes
 
 ```
 _L,starttime,loopcount
-__event, [...]
-__event, [...]
+__event, [...]
+__event, [...]
 ```
 
 **starttime**: the time of the first loop's start. **loopcount**: number of times to repeat the loop.
@@ -186,8 +185,8 @@ Note that events inside a loop should be timed with a \[b\]zero-base\[/b\]. This
 
 ```
 _L,starttime,loopcount
-__event, [...]
-__event, [...]
+__event, [...]
+__event, [...]
 ```
 
 ***Trigger Loops***:
@@ -196,8 +195,8 @@ Trigger loops can be used to trigger animations based on play-time events. Altho
 
 ```
 _T,triggerName,start,end
-__event, [...]
-__event, [...]
+__event, [...]
+__event, [...]
 ```
 
 **start**: When the trigger is valid **end** : When the trigger stops being valid

@@ -1,5 +1,8 @@
-SB オブジェクト/スプライト
-========================
+---
+outdated: true
+---
+
+# SB オブジェクト/スプライト
 
 ![SB object/sprite call](SBS_Sprite.jpg "SB object/sprite call")
 
@@ -7,8 +10,7 @@ SB オブジェクト/スプライト
 
 [SBでの](/wiki/Storyboards)**Objects** はSBを構成する動かすことができる画像、アニメーションのことを指します。 またSBとして追加するオーディオデータもオブジェクトに含められると考えられます。しかしここではわかりやすくするために[別のガイドを設けています](/wiki/Storyboard_Scripting/Audio)。
 
-オブジェクトの定義
-------------------
+## オブジェクトの定義
 
 .osbか.osuの`[Events]` のセクションに1行で記述することで、静止画やアニメーションを呼び出すことができます。
 
@@ -19,20 +21,20 @@ SB オブジェクト/スプライト
 Where:
 
 -   **(layer)** は**オブジェクトが表示される[レイヤーを示します](/wiki/Storyboard_Scripting/General_Rules)。** 有効な値は以下のとおりです:
-    -   Background
-    -   Fail
-    -   Pass
-    -   Foreground
+    -   0 - Background
+    -   1 - Fail
+    -   2 - Pass
+    -   3 - Foreground
 -   **(origin)** は**osu!内で原点となる場所を指定する項目です。**これは(x)と(y)座標だけに留まらず、他のエフェクトの動作すらも変化させます。 有効な値は以下のとおりです (注:綴りは"Centre"であって"Center"ではありません):
-    -   TopLeft
-    -   TopCentre
-    -   TopRight
-    -   CentreLeft
-    -   Centre
-    -   CentreRight
-    -   BottomLeft
-    -   BottomCentre
-    -   BottomRight
+    -   0 - TopLeft
+    -   1 - Centre
+    -   2 - CentreLeft
+    -   3 - TopRight
+    -   4 - BottomCentre
+    -   5 - TopCentre
+    -   7 - CentreRight
+    -   8 - BottomLeft
+    -   9 - BottomRight
 -   **(filepath)** は専門用語で、**あなたが利用したい画像のファイルの名前を入れる場所です。** しかし事は単純ではない場合もあります:
     -   もしあなたのソングフォルダーにサブフォルダがあれば、それも合わせて適切に記述する必要があります。
         -   例: もし"BG"という名前のサブフォルダに"sky.jpg"という画像があるならば"backgrounds\\sky.jpg"(注:wikiの仕様上特定文字が使えないので補足、日本語環境下では\\の代わりに￥を半角で使用してください)と入力しなければいけません。常にSongsフォルダの.osuや.osbがある個別のフォルダ内のデータだけを自動的に対象として取ります。"C:"のようなコードはどこにも入れるべきではありません。
@@ -55,8 +57,7 @@ Where:
 
 *オブジェクトが表示された時の指示はではない*ということには留意してください。それらは完全に[コマンドに依存します](/wiki/Storyboard_Scripting/Commands)。.osuもしくは.osbにきジュスされたオブジェクトの順番だけが重なりの状態を変化させることができます。*
 
-具体例
-------
+## 具体例
 
 | 基本画像 | 変化する画像 |
 | ----------- | ------------ |

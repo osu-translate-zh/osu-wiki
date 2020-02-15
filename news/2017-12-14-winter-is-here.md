@@ -22,7 +22,7 @@ This track will be a fixture on the main-menu to accompany the Winter seasonal b
 
 ----
 
-And that's not all! 
+And that's not all!
 
 To accompany the brand new tune, we're delighted to announce the results of the Winter 2017 Fanart Contest - featuring perhaps the most intense race for first place of any contest that we've ever held thus far.
 
@@ -74,7 +74,7 @@ Warming things up a little, [Fye](https://osu.ppy.sh/users/2362951)'s toasty dep
 
 [![](/wiki/shared/news/2017-12-14-winter-is-here/sylux6.jpg)](https://assets.ppy.sh/media/winter-2017/osu!%20Winter%20Fanart%202017%20-%20Sylux6.jpg)
 
-Enjoying a display of festive lights, [Sylux6](https://osu.ppy.sh/users/2607507)'s scintillating piece of pippi and Mocha lit up the hearts of **3,866** voters. Official _osu!_ Mocha-styled beanies, anyone?
+Enjoying a display of festive lights, [Sylux6](https://osu.ppy.sh/users/2607507)'s scintillating piece of pippi and Mocha lit up the hearts of **3,866** voters. Official osu! Mocha-styled beanies, anyone?
 
 [![](/wiki/shared/news/2017-12-14-winter-is-here/raynel.jpg)](https://assets.ppy.sh/media/winter-2017/osu!%20Winter%20Fanart%202017%20-%20Raynel.jpg)
 
@@ -114,7 +114,7 @@ Seriously, thank you!
 
 From us here on the _osu!team_, we wish you all a happy holidays and all the best for the New Year coming up soon.
 
-Remember to take time from clicking circles to cherish what's truly important during the festive season - namely family and friends. 
+Remember to take time from clicking circles to cherish what's truly important during the festive season - namely family and friends.
 
 Enjoy the tunes and gorgeous art!
 

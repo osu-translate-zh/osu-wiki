@@ -8,7 +8,7 @@ Intimidated by Mocha's explosive popularity, Yuzu is putting out a call for intr
 
 [![](https://assets.ppy.sh/contests/49/header.jpg)](https://osu.ppy.sh/community/contests/49)
 
-osu!catch might be one of our smaller gamemodes, but Yuzu isn't content to let Mocha reign in the limelight forever. 
+osu!catch might be one of our smaller gamemodes, but Yuzu isn't content to let Mocha reign in the limelight forever.
 
 It's time for a refresh, and we're trusting it to our amazingly talented community artists to make it happen!
 
@@ -18,7 +18,7 @@ There's a few things to keep in mind, however. This contest is about giving Yuzu
 
 [![](https://osu.ppy.sh/help/wiki/Mascots/Yuzu_Profile.png)](https://osu.ppy.sh/wiki/Mascots/Gallery#yuzu)
 
-Yuzu is the _osu!catch_ mascot. He's most commonly seen in the base game skin, holding up the catcher. 
+Yuzu is the _osu!catch_ mascot. He's most commonly seen in the base game skin, holding up the catcher.
 
 The official colour for osu!catch is **blue**, and thus Yuzu's primary colour should be blue in your character design as well.
 
@@ -28,7 +28,7 @@ Yuzu is male, and a teenager. **While we're all about new looks, he needs to sta
 
 ## Any special features?
 
-The main theme we are aiming for with the _osu!_ mascots is **coloured bangs**. 
+The main theme we are aiming for with the osu! mascots is **coloured bangs**.
 
 This should be the centrepiece of your character design in some way - Yuzu's bangs should be unique and recognizable compared to pippi and Mocha.
 
@@ -36,7 +36,7 @@ This should be the centrepiece of your character design in some way - Yuzu's ban
 
 Yuzu should always be recognizable as Yuzu regardless of what form he's in or what he's wearing, even if he's wearing nothing at all. A flashy outfit is good, but a flashier character is even better.
 
-Yuzu is also moving around a lot, perhaps the most of all the _osu!_ mascots. **Giving him features that portray motion would be an excellent idea.** Characters with long hair often have no difficulty expressing emotion. Characters with short hair usually use props or an element of their costume to achieve the same thing.
+Yuzu is also moving around a lot, perhaps the most of all the osu! mascots. **Giving him features that portray motion would be an excellent idea.** Characters with long hair often have no difficulty expressing emotion. Characters with short hair usually use props or an element of their costume to achieve the same thing.
 
 ## What's this about props?
 
@@ -50,7 +50,7 @@ Tattoos **are not okay**, though. Yuzu isn't into those.
 
 Yuzu doesn't really have a personality at the moment. No cohesive backstory has been made, and his current look doesn't really give much of a hint as to what that can be.
 
-**Design Yuzu's new look with an emotion design in mind.** Imagine a brief backstory and try to visualise Yuzu's emotions and interactions as they'd show in your illustrations. 
+**Design Yuzu's new look with an emotion design in mind.** Imagine a brief backstory and try to visualise Yuzu's emotions and interactions as they'd show in your illustrations.
 
 Breathe some life into his character.
 
@@ -62,7 +62,7 @@ Perhaps a floating plate, a cat holding a net, or some nifty gadget that helps e
 
 --------
 
-This is a little different from our previous _osu!_ mascot design contest, where we asked for a full redesign instead of a refresh. To clarify, Yuzu's going to remain Yuzu, but he's going to look a lot better after this is all done.
+This is a little different from our previous osu! mascot design contest, where we asked for a full redesign instead of a refresh. To clarify, Yuzu's going to remain Yuzu, but he's going to look a lot better after this is all done.
 
 Interested in giving this a shot? [Head on over to the contest page](https://osu.ppy.sh/community/contests/49) and submit your take on Yuzu's new look.
 

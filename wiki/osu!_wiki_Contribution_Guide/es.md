@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Guía de Contribución de la osu! wiki
 
 ¡Gracias por tu interés en hacer la osu! wiki mejor! En estos momentos, contribuir a la osu! wiki necesitará más tiempo y un poco más de esfuerzo para hacer que tus cambios realmente se apliquen. Esta guía de inicio rápido está destinada a los recién llegados que nunca han trabajado con GitHub ni con el flujo de trabajo de contribuciones de la osu! wiki. Si ya tienes experiencia usando GitHub, puedes omitir esta guía y seguir el flujo de trabajo normal de feature-branch para actualizaciones de contenido en este repositorio.
@@ -101,6 +105,6 @@ Tienes dos opciones:
 
 Una vez que hayas creado tu "pull request", otros editores de la osu! wiki pueden revisar tus cambios para ayudarte a localizar algunos errores que puedes haber pasado por alto. **Necesitarás mantenerte al día con las revisiones,** de otra manera ¡Tu "pull request" puede ser marcada para su cierre! Si necesitas que alguien revise tu "pull request", puedes preguntar a otros editores de la osu! wiki en el [chat de osu!dev en Discord](https://discord.gg/ppy) o en los comentarios de GitHub.
 
-### Unión 
+### Unión
 
 Para que tus cambios aparezcan en la osu! wiki, tu "pull request" necesita ser "unida". Una vez que tu "pull request" haya sido revisada y aprovada, puedes usar la sección de comentarios en GitHub para preguntar a alguien que la una, o haz una pregunta en el [chat de osu!dev en Discord](https://discord.gg/ppy). Una vez que haya sido unida, tus cambios tardarán hasta cinco horas en aparecer en la osu! wiki.

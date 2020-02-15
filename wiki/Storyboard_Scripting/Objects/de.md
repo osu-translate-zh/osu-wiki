@@ -1,12 +1,14 @@
-Storyboard Scripting - Objekte
-=================================
+---
+outdated: true
+---
+
+# Storyboard Scripting - Objekte
 
 ![Aufruf von Objekten/Sprites im SB](SBS_Sprite.jpg "Aufruf von Objekten/Sprites im SB")
 
  Beim [Storyboarding](/wiki/Storyboards) sind die **Objekte** Sprites oder Animationen, die auf dem Bildschirm erscheinen und zu einem Storyboarb wird. Instanzen zu SB-spezifischen Audioeffekten können genauso als Objekte bezeichnet werden; wie auch immer, zur Klarstellung gibt es [hier](/wiki/Storyboard_Scripting/Audio) noch einen eigenen Artikel dazu.  |
 
-Definition von Objekten
------------------------
+## Definition von Objekten
 
 Um eine Instanz von einem Sprite (immernoch ein Bild) oder eine Animation aufzurufen, benutzen Sie dazu maximal eine Zeile im `[Events]` in der .osb Datei oder .osu Datei zu deklarieren.
 
@@ -15,21 +17,21 @@ Um eine Instanz von einem Sprite (immernoch ein Bild) oder eine Animation aufzur
 | Sprite,(layer),(origin),"(filepath)",(x),(y) | Animation,(layer),(origin),"(filepath)",(x),(y),(frameCount),(frameDelay),(looptype) |
 
 -   **(layer)** (eng. für Ebene) ist die **[Ebene](/wiki/Storyboard_Scripting/General_Rules) auf denen Objekte erscheinen.** Erlaubte Werte sind:
-    -   Background
-    -   Fail
-    -   Pass
-    -   Foreground
+    -   0 - Background
+    -   1 - Fail
+    -   2 - Pass
+    -   3 - Foreground
 
 -   **(origin)** (eng. für Entstehungspunkt) ist der Ort an dem das Objekt in osu! mit Hilf von Koordinaten zu erscheinen hat. Dies geschieht mit (x) und (y) Werten, genauso wie bei anderen befehls-spezifischen Verhalten. Gültige Werte sind:
-    -   TopLeft (oben links)
-    -   TopCentre (oben mittig)
-    -   TopRight (oben rechts)
-    -   CentreLeft (links mittig)
-    -   Centre (in der Mitte)
-    -   CentreRight (rechts mittig)
-    -   BottomLeft (unten links)
-    -   BottomCentre (unten mittig)
-    -   BottomRight (unten rechts)
+    -   0 - TopLeft (oben links)
+    -   1 - Centre (in der Mitte)
+    -   2 - CentreLeft (links mittig)
+    -   3 - TopRight (oben rechts)
+    -   4 - BottomCentre (unten mittig)
+    -   5 - TopCentre (oben mittig)
+    -   7 - CentreRight (rechts mittig)
+    -   8 - BottomLeft (unten links)
+    -   9 - BottomRight (unten rechts)
 
 -   **(filepath)** (eng. für Dateipfad) ist **der Name der Datei, den Sie aufrufen wollen.** Es ist aber nicht ganz so einfach:
     -   Wenn Sie Unterordner im Songordner verwenden, müssen Sie den Pfad miteinbeziehen.
@@ -57,8 +59,7 @@ Um eine Instanz von einem Sprite (immernoch ein Bild) oder eine Animation aufzur
 
 Beachten Sie, dass *es keinen Hinweis darauf gibt, wann das Objekt angezeigt wird*. Das kommt ganz auf [die Befehle selbst](/wiki/Storyboard_Scripting/Commands) an. Die Reihenfolge der Objektdeklarationen in der Datei .osu oder .osb betrifft nur das, was sich überlappt; es hat keinen Einfluss darauf, wann das Objekt angezeigt wird (auch ist es üblich die Deklarationen in einer Reihenfolge, in der sie erscheinen sollen, zu halten).
 
-Beispiele
----------
+## Beispiele
 
 | Grundbilder | Bewegende Bilder |
 | ----------- | ------------ |
