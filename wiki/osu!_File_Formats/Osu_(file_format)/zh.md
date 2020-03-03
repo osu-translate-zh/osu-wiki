@@ -202,7 +202,7 @@ In osu!mania mode, *CircleSize* is the number of columns.<!--NT-->
                                         X = 标准点
                 p r e e m p t           ↓
  ├───────────────────────┬──────────────┤
- 0%      淡入            100% 完全不透明
+ 0%      fade_in            100% 完全不透明
 ```
 
 圆圈开始淡入时间为提前标准点`preempt`ms：
